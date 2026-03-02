@@ -52,7 +52,7 @@ ${Object.entries(COUNTRY_NAMES).map(([code, name]) => `${code}: ${name}`).join('
           "cat": "conflict",
           "title": "ニュース見出し（40〜60文字）",
           "src": "情報源名",
-          "time": "30分前"
+          "publishedAt": "2026-03-02T07:30:00Z"
         }
       ]
     }
@@ -76,25 +76,29 @@ ${Object.entries(COUNTRY_NAMES).map(([code, name]) => `${code}: ${name}`).join('
       "cat": "conflict",
       "text": "注目ニューステキスト（30〜50文字）",
       "country": "国名",
-      "time": "30分前"
+      "src": "情報源名",
+      "publishedAt": "2026-03-02T07:30:00Z"
     },
     {
       "cat": "political",
       "text": "注目ニューステキスト2",
       "country": "国名",
-      "time": "1時間前"
+      "src": "情報源名",
+      "publishedAt": "2026-03-02T06:00:00Z"
     },
     {
       "cat": "tension",
       "text": "注目ニューステキスト3",
       "country": "国名",
-      "time": "2時間前"
+      "src": "情報源名",
+      "publishedAt": "2026-03-02T05:00:00Z"
     },
     {
       "cat": "economic",
       "text": "注目ニューステキスト4",
       "country": "国名",
-      "time": "3時間前"
+      "src": "情報源名",
+      "publishedAt": "2026-03-02T04:00:00Z"
     }
   ]
 }
@@ -109,7 +113,7 @@ ${Object.entries(COUNTRY_NAMES).map(([code, name]) => `${code}: ${name}`).join('
 7. tickerはちょうど12件の速報テキスト（世界の主要ニュースを幅広く）
 8. hotはちょうど4件の注目ニュース（異なるカテゴリを含める）
 9. 情報源名は実在するメディア名を使用（Reuters, BBC, CNN, AP, 日経, 読売, WSJ, FT, Guardian 等）
-10. timeは「30分前」「1時間前」「2時間前」「3時間前」「5時間前」「8時間前」「1日前」「2日前」「3日前」「1週間前」のいずれか
+10. publishedAtはISO 8601形式（例: "2026-03-02T07:30:00Z"）で指定する。現在時刻から最大1週間前までの範囲で、記事の性質に合わせたリアルなタイムスタンプを生成すること
 11. 実際のニュースに基づく内容にすること。完全な捏造は避けること
 12. 27カ国すべてについてデータを含めること（欠落させないこと）`;
 
@@ -149,7 +153,7 @@ function validate(data) {
       return false;
     }
     for (const art of entry.articles) {
-      if (!art.cat || !art.title || !art.src || !art.time) {
+      if (!art.cat || !art.title || !art.src || (!art.publishedAt && !art.time)) {
         console.error(`Validation: invalid article structure for country ${code}`);
         return false;
       }
@@ -166,7 +170,7 @@ function validate(data) {
     return false;
   }
   for (const h of data.hot) {
-    if (!h.cat || !h.text || !h.country || !h.time) {
+    if (!h.cat || !h.text || !h.country || !h.src || (!h.publishedAt && !h.time)) {
       console.error('Validation: invalid hot story structure');
       return false;
     }

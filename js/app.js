@@ -14,6 +14,18 @@ const CAT_LABEL = {
   economic:  '経済ニュース',
 };
 
+function timeAgo(val) {
+  if (!val) return '';
+  const d = new Date(val);
+  if (isNaN(d.getTime())) return val;
+  const diff = Math.floor((Date.now() - d.getTime()) / 1000);
+  if (diff < 60)    return `${diff}秒前`;
+  if (diff < 3600)  return `${Math.floor(diff / 60)}分前`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}時間前`;
+  if (diff < 86400 * 7) return `${Math.floor(diff / 86400)}日前`;
+  return `${Math.floor(diff / 86400 / 7)}週間前`;
+}
+
 // key = ISO 3166-1 numeric
 const FALLBACK_NEWS = {
   // ── CONFLICT ──────────────────────────────
@@ -549,7 +561,7 @@ function openPanel(info) {
       <div class="art-title">${a.title}</div>
       <div class="art-meta">
         <span class="art-src">${a.src}</span>
-        <span>${a.time}</span>
+        <span>${timeAgo(a.publishedAt || a.time)}</span>
       </div>
     </div>
   `).join('');
@@ -569,12 +581,20 @@ document.getElementById('panel-close').addEventListener('click', () => {
 function buildHotStories() {
   const catClass = { conflict:'', tension:'ten', political:'pol', economic:'eco' };
   document.getElementById('hot-stories').innerHTML = HOT.map(h => `
-    <div class="hs-card ${catClass[h.cat] || ''}">
+    <div class="hs-card ${catClass[h.cat] || ''}" data-country="${h.country}" style="cursor:pointer">
       <div class="hs-tag" style="color:${colMap[h.cat]}">${CAT_LABEL[h.cat]}</div>
       <div class="hs-title">${h.text}</div>
-      <div class="hs-meta">${h.country} · ${h.time}</div>
+      <div class="hs-meta">${h.country}${h.src ? ` · ${h.src}` : ''} · ${timeAgo(h.publishedAt || h.time)}</div>
     </div>
   `).join('');
+
+  document.querySelectorAll('.hs-card[data-country]').forEach(card => {
+    card.addEventListener('click', () => {
+      const name = card.dataset.country;
+      const entry = Object.values(NEWS).find(e => e.name === name);
+      if (entry) openPanel(entry);
+    });
+  });
 }
 
 /* ── ticker ── */
