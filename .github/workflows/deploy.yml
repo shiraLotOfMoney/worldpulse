@@ -3,12 +3,19 @@ name: Deploy to Netlify
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows: ["Update News Data"]
+    types: [completed]
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
+
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Deploy to Netlify
         run: |

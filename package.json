@@ -1,0 +1,8 @@
+{
+  "name": "worldpulse",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.43.0"
+  }
+}

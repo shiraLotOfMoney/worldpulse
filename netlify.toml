@@ -15,3 +15,9 @@
   for = "/js/*.js"
   [headers.values]
     Content-Type = "application/javascript; charset=UTF-8"
+
+[[headers]]
+  for = "/data/*.json"
+  [headers.values]
+    Content-Type = "application/json; charset=UTF-8"
+    Cache-Control = "public, max-age=3600"

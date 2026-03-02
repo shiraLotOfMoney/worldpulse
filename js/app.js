@@ -15,7 +15,7 @@ const CAT_LABEL = {
 };
 
 // key = ISO 3166-1 numeric
-const NEWS = {
+const FALLBACK_NEWS = {
   // ── CONFLICT ──────────────────────────────
   804: {
     name:'ウクライナ', cat:'conflict', intensity:1.0, pulse:true,
@@ -293,7 +293,7 @@ const NEWS = {
 /* ════════════════════════════════════════════════════
    TICKER
 ═══════════════════════════════════════════════════════ */
-const TICKER = [
+const FALLBACK_TICKER = [
   'ロシア、ウクライナ東部への砲撃を継続。民間人に犠牲者',
   'G7外相会議がウクライナへの継続的支援を確認',
   '北朝鮮がICBM発射実験。日本のEEZ外に落下',
@@ -311,13 +311,30 @@ const TICKER = [
 /* ════════════════════════════════════════════════════
    HOT STORIES
 ═══════════════════════════════════════════════════════ */
-const HOT = [
+const FALLBACK_HOT = [
   { cat:'conflict',  text:'キーウへのドローン攻撃が連夜続く。防空網が応戦',              country:'ウクライナ', time:'30分前' },
   { cat:'political', text:'米国が主要貿易国に追加関税を発動。各国が報復措置を検討',      country:'アメリカ',   time:'1時間前' },
   { cat:'conflict',  text:'ガザ停戦交渉が再開。人質解放と引き換えの一時停戦を協議',    country:'イスラエル', time:'2時間前' },
   { cat:'economic',  text:'日銀が追加利上げを実施。17年ぶりの水準に',                  country:'日本',       time:'3時間前' },
 ];
 
+let NEWS   = FALLBACK_NEWS;
+let TICKER = FALLBACK_TICKER;
+let HOT    = FALLBACK_HOT;
+
+async function loadNewsData() {
+  try {
+    const res = await fetch('data/news.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    if (data.news)   NEWS   = data.news;
+    if (data.ticker) TICKER = data.ticker;
+    if (data.hot)    HOT    = data.hot;
+    console.log('[WorldPulse] news loaded:', data.updatedAt || 'unknown');
+  } catch (e) {
+    console.warn('[WorldPulse] fallback data in use:', e.message);
+  }
+}
 
 /* ════════════════════════════════════════════════════
    MAP
@@ -568,6 +585,22 @@ function buildTicker() {
 }
 
 /* ── boot ── */
-buildMap();
-buildHotStories();
-buildTicker();
+function updateStatBar() {
+  const entries = Object.values(NEWS);
+  const conflictCount = entries.filter(e => e.cat === 'conflict').length;
+  const tensionCount  = entries.filter(e => e.cat === 'tension').length;
+  const vals = document.querySelectorAll('.stat-val');
+  if (vals[0]) vals[0].textContent = conflictCount;
+  if (vals[1]) vals[1].textContent = tensionCount;
+  if (vals[2]) vals[2].textContent = entries.length;
+}
+
+async function boot() {
+  await loadNewsData();
+  buildMap();
+  buildHotStories();
+  buildTicker();
+  updateStatBar();
+}
+
+boot();
