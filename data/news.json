@@ -5,52 +5,50 @@
       "cat": "tension",
       "intensity": 0.75,
       "tags": [
-        "タリバン",
-        "人道危機",
-        "女性の権利"
+        "人権問題",
+        "経済危機"
       ],
-      "summary": "タリバン政権下で女性への抑圧が強まり、国際的な人道支援の削減が深刻な食糧不足を招いている。周辺国との国境紛争も散発的に発生し、情勢は極めて不安定である。",
+      "summary": "タリバン政権による女性の権利制限が続く中、国際的な孤立と深刻な食糧不足が深刻化。人道支援の不足が市民生活を圧迫している。",
       "articles": [
         {
           "cat": "tension",
-          "title": "アフガニスタンで深刻な食糧不足、国際支援の削減が直撃",
+          "title": "タリバン、女性の教育制限をさらに強化 国連が強い懸念を表明",
           "src": "BBC",
-          "url": "https://www.bbc.com/news/world-asia-68451234",
-          "publishedAt": "2026-03-01T10:00:00Z"
+          "url": "https://www.bbc.com/news/world-asia-68423521",
+          "publishedAt": "2026-03-02T04:15:00Z"
         },
         {
-          "cat": "political",
-          "title": "タリバン、女性の教育制限をさらに強化する新令を布告",
+          "cat": "economic",
+          "title": "アフガニスタン経済、外資途絶で困窮 飢餓人口が過去最大規模に",
           "src": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/taliban-tightens-restrictions-2026-03-02/",
-          "publishedAt": "2026-03-02T05:30:00Z"
+          "url": "https://www.reuters.com/world/asia-pacific/afghanistan-humanitarian-crisis-deepens-2026-03-01/",
+          "publishedAt": "2026-03-01T12:00:00Z"
         }
       ]
     },
     "32": {
       "name": "アルゼンチン",
       "cat": "economic",
-      "intensity": 0.8,
+      "intensity": 0.82,
       "tags": [
-        "ミレイ大統領",
         "インフレ",
-        "経済改革"
+        "ミレイ政権"
       ],
-      "summary": "ミレイ政権の急進的な経済改革によりインフレ率は鈍化の兆しを見せるが、国民の生活苦は限界に達している。労働組合による大規模なストライキが各地で続いている。",
+      "summary": "ミレイ大統領の急進的な経済改革によりインフレ率は鈍化傾向にあるが、景気後退と貧困率の上昇が社会不安を招いている。",
       "articles": [
         {
           "cat": "economic",
-          "title": "アルゼンチン、インフレ率が1桁台に低下も消費は冷え込み",
-          "src": "WSJ",
-          "url": "https://www.wsj.com/articles/argentina-inflation-slows-milei-2026-03-01",
-          "publishedAt": "2026-03-01T14:00:00Z"
+          "title": "アルゼンチン、財政黒字を維持も消費は激減 経済改革の正念場",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/americas/argentina-milei-economic-reforms-2026-03-02/",
+          "publishedAt": "2026-03-02T10:30:00Z"
         },
         {
           "cat": "political",
-          "title": "ブエノスアイレスで大規模デモ、緊縮財政に抗議の声",
+          "title": "ミレイ大統領、議会との対立深まる 労働組合は大規模デモを計画",
           "src": "AP",
-          "url": "https://apnews.com/article/argentina-protests-milei-2026-03-02",
-          "publishedAt": "2026-03-02T08:15:00Z"
+          "url": "https://apnews.com/article/argentina-milei-protests-economy-2026-03-01",
+          "publishedAt": "2026-03-01T21:00:00Z"
         }
       ]
     },
@@ -59,25 +57,24 @@
       "cat": "political",
       "intensity": 0.65,
       "tags": [
-        "ルラ大統領",
-        "環境保護",
+        "環境政策",
         "G20"
       ],
-      "summary": "ルラ政権はアマゾンの森林保護を推進し国際的な評価を得る一方、国内の農業ロビー団体との対立が激化。次期選挙を見据えた政治的駆け引きが活発化している。",
+      "summary": "ルラ政権はアマゾン保護と国際協力の枠組みを強化。経済成長の維持と環境保護の両立が主要な政治課題となっている。",
       "articles": [
         {
           "cat": "political",
-          "title": "ブラジル、アマゾン森林破壊が過去最低水準を記録",
-          "src": "Guardian",
-          "url": "https://www.theguardian.com/world/2026/mar/01/brazil-amazon-deforestation-low",
-          "publishedAt": "2026-03-01T22:00:00Z"
+          "title": "ブラジル、気候変動対策で国際基金と合意 アマゾン保護に新資金",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/americas/brazil-lula-amazon-climate-2026-03-02/",
+          "publishedAt": "2026-03-02T08:00:00Z"
         },
         {
           "cat": "economic",
-          "title": "米国の対ブラジル追加関税、農産物輸出に暗い影",
-          "src": "Reuters",
-          "url": "https://www.reuters.com/business/brazil-us-tariffs-impact-2026-03-02/",
-          "publishedAt": "2026-03-02T06:45:00Z"
+          "title": "ブラジル中央銀行、金利据え置きを決定 インフレ抑制を優先",
+          "src": "WSJ",
+          "url": "https://www.wsj.com/articles/brazil-central-bank-rates-2026-02-28",
+          "publishedAt": "2026-02-28T15:45:00Z"
         }
       ]
     },
@@ -87,271 +84,260 @@
       "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "軍事クーデター",
-        "抵抗勢力",
-        "恩赦"
+        "内戦",
+        "国軍抵抗勢力"
       ],
-      "summary": "軍事政権は抵抗勢力への攻勢を強める一方、3月2日の農民の日に合わせて7,000人以上の囚人を恩赦。内戦は膠着状態にあり、人道状況は悪化の一途を辿っている。",
+      "summary": "少数民族武装勢力と抵抗勢力が全土で攻勢を強め、国軍の支配地域が縮小。戦闘の激化で国内避難民が急増している。",
       "articles": [
         {
-          "cat": "political",
-          "title": "ミャンマー軍政、テロ支援者ら7300人の囚人に恩赦を付与",
-          "src": "Straits Times",
-          "url": "https://www.straitstimes.com/asia/se-asia/myanmar-grants-amnesty-to-over-7000-prisoners-2026-03-02",
-          "publishedAt": "2026-03-02T04:30:00Z"
+          "cat": "conflict",
+          "title": "ミャンマー反政府勢力、北部の重要拠点を制圧 国軍は空爆で応戦",
+          "src": "BBC",
+          "url": "https://www.bbc.com/news/world-asia-68452147",
+          "publishedAt": "2026-03-02T11:20:00Z"
         },
         {
           "cat": "conflict",
-          "title": "ミャンマー北部で戦闘激化、中国国境付近で数千人が避難",
+          "title": "ミャンマー内戦、避難民が300万人を突破 国際社会の支援届かず",
           "src": "AP",
-          "url": "https://apnews.com/article/myanmar-civil-war-clashes-2026-03-01",
-          "publishedAt": "2026-03-01T13:20:00Z"
+          "url": "https://apnews.com/article/myanmar-civil-war-displacement-2026-03-01",
+          "publishedAt": "2026-03-01T14:00:00Z"
         }
       ]
     },
     "156": {
       "name": "中国",
       "cat": "economic",
-      "intensity": 0.8,
+      "intensity": 0.78,
       "tags": [
-        "全人代",
-        "GDP目標",
-        "ハイテク"
+        "不動産危機",
+        "米中対立"
       ],
-      "summary": "3月5日開幕の全国人民代表大会（全人代）に向け、2026年の成長目標を4.5〜5.0%に設定する見通し。不動産不況とデフレ脱却が急務となっている。",
+      "summary": "不動産市場の低迷が続く中、政府は大規模な景気刺激策を導入。ハイテク分野での対米輸出規制への対応が焦点となっている。",
       "articles": [
         {
           "cat": "economic",
-          "title": "中国、全人代で4.5-5.0%の成長目標設定か。構造改革を重視",
-          "src": "Investing.com",
-          "url": "https://www.investing.com/news/economy/china-npc-growth-target-2026-03-01",
-          "publishedAt": "2026-03-01T09:00:00Z"
+          "title": "中国政府、追加の財政出動を検討 不動産セクターの救済を加速",
+          "src": "日経",
+          "url": "https://www.nikkei.com/article/DGXZQOGM021000/",
+          "publishedAt": "2026-03-02T09:00:00Z"
         },
         {
           "cat": "political",
-          "title": "中国、第15次5カ年計画を発表。技術自立と消費拡大が柱",
+          "title": "中国、米国の半導体規制に抗議 独自の供給網構築を強調",
           "src": "Reuters",
-          "url": "https://www.reuters.com/world/china/china-unveils-new-five-year-plan-2026-03-02/",
-          "publishedAt": "2026-03-02T02:00:00Z"
+          "url": "https://www.reuters.com/technology/china-us-chips-tensions-2026-03-01/",
+          "publishedAt": "2026-03-01T18:30:00Z"
         }
       ]
     },
     "180": {
       "name": "コンゴ民主共和国",
       "cat": "conflict",
-      "intensity": 0.85,
+      "intensity": 0.92,
       "pulse": true,
       "tags": [
         "M23",
-        "東部紛争",
-        "資源争奪"
+        "資源紛争"
       ],
-      "summary": "東部で活動する武装勢力M23と政府軍の衝突が激化し、数十万人が避難。鉱物資源の利権を巡る周辺国の関与が疑われ、地域全体の緊張が高まっている。",
+      "summary": "東部で反政府勢力M23の活動が活発化し、民間人の犠牲者が増加。資源利権を巡る周辺国との緊張も高まっている。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "コンゴ東部でM23が主要都市を包囲、人道危機が深刻化",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/3/1/drc-conflict-m23-advances",
-          "publishedAt": "2026-03-01T15:45:00Z"
+          "title": "コンゴ東部で激しい戦闘、数千人が避難 M23がゴマ近郊に進軍",
+          "src": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/mar/02/drc-conflict-m23-goma",
+          "publishedAt": "2026-03-02T06:45:00Z"
         },
         {
           "cat": "tension",
-          "title": "国連、コンゴ東部での武装勢力による虐殺を強く非難",
-          "src": "UN News",
-          "url": null,
-          "publishedAt": "2026-03-02T07:10:00Z"
+          "title": "ルワンダとコンゴ、国境付近での緊張高まる 相互非難が激化",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/africa/drc-rwanda-tensions-2026-03-01/",
+          "publishedAt": "2026-03-01T10:15:00Z"
         }
       ]
     },
     "250": {
       "name": "フランス",
       "cat": "political",
-      "intensity": 0.7,
+      "intensity": 0.72,
       "tags": [
-        "内政混迷",
-        "抗議デモ",
-        "EU外交"
+        "マクロン政権",
+        "予算案"
       ],
-      "summary": "議会の分断による政治的な膠着状態が続き、社会保障改革を巡る抗議デモが再燃。マクロン大統領は中東情勢への対応で欧州の主導権確保を模索している。",
+      "summary": "財政再建を巡る予算案審議で議会が紛糾。マクロン政権の支持率が低下する中、極右勢力が勢いを増している。",
       "articles": [
         {
           "cat": "political",
-          "title": "フランス各地で年金改革への抗議デモ、数万人が参加",
-          "src": "Le Monde",
-          "url": null,
-          "publishedAt": "2026-03-01T18:30:00Z"
+          "title": "フランス政府、不信任案の危機を回避 緊縮予算への反発根強く",
+          "src": "BBC",
+          "url": "https://www.bbc.com/news/world-europe-68489210",
+          "publishedAt": "2026-03-02T13:20:00Z"
         },
         {
-          "cat": "tension",
-          "title": "フランス、イラン情勢を受け空母シャルル・ド・ゴールを派遣",
+          "cat": "political",
+          "title": "マクロン大統領、欧州の防衛協力強化を提唱 独仏関係の修復急ぐ",
           "src": "Reuters",
-          "url": "https://www.reuters.com/world/europe/france-deploys-carrier-mideast-2026-03-02/",
-          "publishedAt": "2026-03-02T11:20:00Z"
+          "url": "https://www.reuters.com/world/europe/macron-europe-defense-2026-03-01/",
+          "publishedAt": "2026-03-01T16:00:00Z"
         }
       ]
     },
     "276": {
       "name": "ドイツ",
       "cat": "economic",
-      "intensity": 0.75,
+      "intensity": 0.7,
       "tags": [
-        "経済停滞",
-        "エネルギー問題",
+        "製造業停滞",
         "連立政権"
       ],
-      "summary": "製造業の不振とエネルギーコストの高騰により経済成長が停滞。ショルツ政権は支持率低下に直面し、極右政党の台頭が政治的リスクとなっている。",
+      "summary": "エネルギーコストの高騰と中国市場の需要減により製造業が苦境。連立与党内の対立が経済対策の遅れを招いている。",
       "articles": [
         {
           "cat": "economic",
-          "title": "ドイツ製造業景況感、2月も改善せず。輸出不振が足かせ",
+          "title": "ドイツ製造業景況感、予想を上回る悪化 構造改革求める声高まる",
           "src": "FT",
-          "url": "https://www.ft.com/content/germany-economy-stagnation-2026-03-01",
-          "publishedAt": "2026-03-01T07:00:00Z"
+          "url": "https://www.ft.com/content/germany-economy-manufacturing-2026-03-02",
+          "publishedAt": "2026-03-02T07:15:00Z"
         },
         {
           "cat": "political",
-          "title": "ドイツ、国防費の大幅増額を閣議決定。ロシア脅威に対応",
-          "src": "DW",
-          "url": null,
-          "publishedAt": "2026-03-02T09:40:00Z"
+          "title": "ショルツ首相、ウクライナへの長距離ミサイル供与を改めて否定",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/europe/germany-scholz-ukraine-missiles-2026-03-01/",
+          "publishedAt": "2026-03-01T19:45:00Z"
         }
       ]
     },
     "356": {
       "name": "インド",
       "cat": "economic",
-      "intensity": 0.8,
+      "intensity": 0.75,
       "tags": [
-        "高成長",
-        "サプライチェーン",
-        "イスラエル提携"
+        "GDP成長",
+        "サプライチェーン"
       ],
-      "summary": "主要国の中で高い成長率を維持。モディ政権は製造業の誘致を加速させ、イスラエルとの防衛・技術提携を強化して地域のプレゼンスを高めている。",
+      "summary": "高い経済成長率を維持し、グローバル企業の生産拠点移転が加速。一方で、農民デモなどの国内の格差問題も表面化している。",
       "articles": [
         {
           "cat": "economic",
-          "title": "インドGDP、2025年度は7.2%成長。内需が堅調に推移",
+          "title": "インド、10-12月期GDP成長率8.2% 投資拡大が牽引",
           "src": "日経",
-          "url": "https://www.nikkei.com/article/DGXZQOGM01ABC2026/",
-          "publishedAt": "2026-03-01T23:00:00Z"
+          "url": "https://www.nikkei.com/article/DGXZQOGS020100/",
+          "publishedAt": "2026-03-02T05:30:00Z"
         },
         {
-          "cat": "tension",
-          "title": "インド、中東紛争による原油高を警戒。備蓄放出も検討",
-          "src": "Economic Times",
-          "url": null,
-          "publishedAt": "2026-03-02T12:15:00Z"
+          "cat": "political",
+          "title": "インド農民、最低価格保証を求め首都進撃を再開 政府と交渉決裂",
+          "src": "AP",
+          "url": "https://apnews.com/article/india-farmers-protest-delhi-2026-03-01",
+          "publishedAt": "2026-03-01T08:00:00Z"
         }
       ]
     },
     "364": {
       "name": "イラン",
-      "cat": "conflict",
-      "intensity": 1,
-      "pulse": true,
+      "cat": "tension",
+      "intensity": 0.85,
       "tags": [
-        "米イスラエル攻撃",
-        "ホルムズ海峡",
-        "報復攻撃"
+        "核開発",
+        "中東情勢"
       ],
-      "summary": "米イスラエル連合軍による大規模な空爆を受け、重要施設が被災。イランはホルムズ海峡の封鎖を警告し、周辺の米軍基地へミサイルによる報復を開始した。",
+      "summary": "核濃縮活動の進展を巡り欧米との緊張が最高潮に。中東各地の親イラン武装組織への支援を巡り、イスラエルとの対立が激化。",
       "articles": [
         {
-          "cat": "conflict",
-          "title": "米イスラエルがイランを共同攻撃、テヘラン近郊で爆発音",
-          "src": "CNN",
-          "url": "https://edition.cnn.com/2026/03/01/middleeast/us-israel-iran-strikes/",
-          "publishedAt": "2026-03-01T21:45:00Z"
+          "cat": "tension",
+          "title": "IAEA、イランの核濃縮活動に警告 監視体制の不備を指摘",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-nuclear-iaea-report-2026-03-02/",
+          "publishedAt": "2026-03-02T12:00:00Z"
         },
         {
-          "cat": "conflict",
-          "title": "イラン、ホルムズ海峡での商船拿捕を示唆。原油高騰を誘発",
-          "src": "Arab News",
-          "url": "https://www.arabnews.jp/article/middle-east/article_142345/",
-          "publishedAt": "2026-03-02T13:00:00Z"
+          "cat": "tension",
+          "title": "イラン、米国の制裁強化に反発 「あらゆる手段で対抗」と声明",
+          "src": "CNN",
+          "url": "https://www.cnn.com/2026/03/01/middleeast/iran-us-sanctions-response/",
+          "publishedAt": "2026-03-01T22:30:00Z"
         }
       ]
     },
     "376": {
       "name": "イスラエル",
       "cat": "conflict",
-      "intensity": 1,
+      "intensity": 0.98,
       "pulse": true,
       "tags": [
-        "対イラン攻撃",
-        "ヘズボラ衝突",
-        "ガザ休戦破棄"
+        "ガザ紛争",
+        "人質交渉"
       ],
-      "summary": "イランへの直接攻撃に踏み切り、中東全域での戦火が拡大。北部のヘズボラ、南部のハマスとの戦闘も激化しており、国内全域に警戒態勢が敷かれている。",
+      "summary": "ガザ地区での戦闘が継続し、人道状況が悪化。イスラエル国内では人質解放を求めるデモと、政権への批判が激化している。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "イスラエル軍、レバノン南部のヘズボラ拠点を集中爆撃",
-          "src": "Times of Israel",
-          "url": "https://www.timesofisrael.com/idf-strikes-hezbollah-lebanon-2026-03-02",
-          "publishedAt": "2026-03-02T05:20:00Z"
+          "title": "イスラエル軍、ガザ南部で地上作戦を拡大 ハマス拠点を攻撃",
+          "src": "AP",
+          "url": "https://apnews.com/article/israel-hamas-war-gaza-latest-2026-03-02",
+          "publishedAt": "2026-03-02T14:45:00Z"
         },
         {
-          "cat": "conflict",
-          "title": "ネタニヤフ首相「イランの脅威を根絶するまで攻撃継続」",
-          "src": "AP",
-          "url": "https://apnews.com/article/israel-iran-war-netanyahu-2026-03-01",
-          "publishedAt": "2026-03-01T19:10:00Z"
+          "cat": "political",
+          "title": "エルサレムで大規模デモ、ネタニヤフ首相の退陣と人質解放を要求",
+          "src": "BBC",
+          "url": "https://www.bbc.com/news/world-middle-east-68461234",
+          "publishedAt": "2026-03-02T09:15:00Z"
         }
       ]
     },
     "392": {
       "name": "日本",
-      "cat": "economic",
-      "intensity": 0.7,
+      "cat": "political",
+      "intensity": 0.6,
       "tags": [
-        "日銀",
-        "金利据え置き",
-        "中東ショック"
+        "政治資金",
+        "金融政策"
       ],
-      "summary": "日銀の氷見野副総裁は中東情勢の緊迫化を受け、3月の追加利上げに慎重な姿勢を示した。円安と原油高の再燃が日本経済の新たなリスクとなっている。",
+      "summary": "政治資金規正法の再改正を巡る議論が大詰め。日銀の追加利上げのタイミングを巡り、市場の注目が集まっている。",
       "articles": [
         {
-          "cat": "economic",
-          "title": "日銀・氷見野副総裁、3月利上げを否定。中東情勢を注視",
-          "src": "読売新聞",
-          "url": "https://www.yomiuri.co.jp/economy/20260302-OYT1T50123/",
-          "publishedAt": "2026-03-02T03:30:00Z"
+          "cat": "political",
+          "title": "与野党、政治資金規正法改正で合意へ 透明性向上に一定の前進",
+          "src": "読売",
+          "url": "https://www.yomiuri.co.jp/politics/20260302-OYT1T50100/",
+          "publishedAt": "2026-03-02T11:00:00Z"
         },
         {
-          "cat": "political",
-          "title": "高市首相、中東の邦人保護に万全期すよう指示",
+          "cat": "economic",
+          "title": "円相場、1ドル148円台で推移 日銀総裁の発言を受け乱高下",
           "src": "日経",
-          "url": null,
-          "publishedAt": "2026-03-02T10:00:00Z"
+          "url": "https://www.nikkei.com/article/DGXZQOUB020200/",
+          "publishedAt": "2026-03-02T08:30:00Z"
         }
       ]
     },
     "408": {
       "name": "北朝鮮",
       "cat": "tension",
-      "intensity": 0.85,
+      "intensity": 0.88,
       "tags": [
         "ミサイル発射",
-        "ロシア協力",
-        "核開発"
+        "ロシア協力"
       ],
-      "summary": "ロシアへの弾薬供給を継続する見返りに軍事技術協力を受けているとされ、新型ミサイルの発射実験を強行。米韓の合同演習に強く反発している。",
+      "summary": "新型ミサイルの発射実験を繰り返し、韓国を「主敵」と定義して緊張を煽る。ロシアへの軍事支援を強化し、見返りに技術を獲得。",
       "articles": [
         {
           "cat": "tension",
-          "title": "北朝鮮、日本海に向け短距離弾道ミサイル数発を発射",
-          "src": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/north-korea-missile-launch-2026-03-01/",
-          "publishedAt": "2026-03-01T23:50:00Z"
+          "title": "北朝鮮、日本海に向け短距離弾道ミサイル数発を発射 挑発継続",
+          "src": "読売",
+          "url": "https://www.yomiuri.co.jp/world/20260302-OYT1T50080/",
+          "publishedAt": "2026-03-02T01:10:00Z"
         },
         {
           "cat": "political",
-          "title": "北朝鮮、ロシアへ3万個以上のコンテナ武器を発送か",
-          "src": "Yonhap",
-          "url": null,
-          "publishedAt": "2026-03-02T01:15:00Z"
+          "title": "金正恩氏、ロシア高官と会談 軍事・経済協力の深化を確認",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/north-korea-russia-cooperation-2026-03-01/",
+          "publishedAt": "2026-03-01T15:20:00Z"
         }
       ]
     },
@@ -360,25 +346,24 @@
       "cat": "political",
       "intensity": 0.7,
       "tags": [
-        "少子化対策",
-        "対北防衛",
-        "半導体戦略"
+        "日米韓協力",
+        "少子化対策"
       ],
-      "summary": "深刻な少子高齢化への対応が国政の最優先課題。一方で北朝鮮の挑発に対し、米日との防衛協力を深化させ、核の傘の実行性を高める方針を堅持している。",
+      "summary": "北朝鮮の脅威に対し日米との安全保障協力を深化。国内では深刻な少子高齢化への抜本的対策が急務となっている。",
       "articles": [
         {
           "cat": "political",
-          "title": "韓国政府、出生率0.6割れを受け「国家非常事態」を継続",
-          "src": "Chosun Ilbo",
-          "url": null,
-          "publishedAt": "2026-03-02T04:45:00Z"
+          "title": "韓国大統領、三一節演説で対北抑止力を強調 日韓関係の改善訴え",
+          "src": "AP",
+          "url": "https://apnews.com/article/south-korea-independence-anniversary-speech-2026-03-01",
+          "publishedAt": "2026-03-01T06:00:00Z"
         },
         {
           "cat": "economic",
-          "title": "韓国半導体大手、米国の対中輸出規制強化の影響を精査",
+          "title": "韓国、半導体輸出が回復基調 AI需要で大手2社の利益急増",
           "src": "Reuters",
-          "url": "https://www.reuters.com/technology/skorea-chips-us-curbs-2026-03-01/",
-          "publishedAt": "2026-03-01T11:20:00Z"
+          "url": "https://www.reuters.com/technology/skorea-chips-export-growth-2026-03-02/",
+          "publishedAt": "2026-03-02T04:45:00Z"
         }
       ]
     },
@@ -388,51 +373,49 @@
       "intensity": 0.8,
       "tags": [
         "通貨危機",
-        "インフレ",
         "治安悪化"
       ],
-      "summary": "通貨ナイラの暴落によるハイパーインフレが国民生活を直撃。北部での武装勢力による誘拐事件も頻発しており、経済と治安の両面で危機に直面している。",
+      "summary": "通貨ナイラの暴落による猛烈なインフレで市民の生活が困窮。北部の拉致事件など治安悪化も経済回復の重荷となっている。",
       "articles": [
         {
           "cat": "economic",
-          "title": "ナイジェリア、インフレ率が35%を突破。食糧危機が深刻化",
-          "src": "Premium Times",
-          "url": null,
-          "publishedAt": "2026-03-01T16:00:00Z"
+          "title": "ナイジェリア、物価高騰で抗議デモ拡大 通貨価値は過去最低水準",
+          "src": "BBC",
+          "url": "https://www.bbc.com/news/world-africa-68412345",
+          "publishedAt": "2026-03-02T09:30:00Z"
         },
         {
           "cat": "tension",
-          "title": "ナイジェリア北部で生徒ら100人以上が武装集団に拉致される",
-          "src": "BBC",
-          "url": "https://www.bbc.com/news/world-africa-68456789",
-          "publishedAt": "2026-03-02T09:30:00Z"
+          "title": "ナイジェリア北部で武装集団が村を襲撃 住民数十人が拉致される",
+          "src": "AP",
+          "url": "https://apnews.com/article/nigeria-kidnapping-violence-2026-03-01",
+          "publishedAt": "2026-03-01T17:15:00Z"
         }
       ]
     },
     "586": {
       "name": "パキスタン",
-      "cat": "tension",
-      "intensity": 0.8,
+      "cat": "political",
+      "intensity": 0.82,
       "tags": [
-        "政治不安定",
-        "IMF支援",
-        "テロ活動"
+        "連立政権",
+        "IMF支援"
       ],
-      "summary": "深刻な外貨不足からIMFの追加支援を模索中。政治的混乱が続く中、アフガニスタン国境付近での武装勢力TTPによる攻撃が急増し、情勢は緊迫している。",
+      "summary": "総選挙後の連立政権が発足したが、政治的不安定が続く。IMFの追加支援を受けるための厳しい経済改革が求められている。",
       "articles": [
         {
           "cat": "economic",
-          "title": "パキスタン、IMFと新たな融資枠組みで合意。増税が条件",
-          "src": "Dawn",
-          "url": null,
-          "publishedAt": "2026-03-01T20:15:00Z"
+          "title": "パキスタン、IMFと追加融資で交渉開始 増税と補助金カットが条件",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/pakistan-imf-bailout-talks-2026-03-02/",
+          "publishedAt": "2026-03-02T08:20:00Z"
         },
         {
-          "cat": "tension",
-          "title": "パキスタン軍、テロリスト掃討作戦で兵士4人が死亡",
-          "src": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/pakistan-military-operation-2026-03-02/",
-          "publishedAt": "2026-03-02T11:40:00Z"
+          "cat": "political",
+          "title": "パキスタン野党、選挙不正を訴え全国で抗議活動 政局の混迷続く",
+          "src": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/mar/01/pakistan-protests-election-fraud",
+          "publishedAt": "2026-03-01T13:40:00Z"
         }
       ]
     },
@@ -443,270 +426,260 @@
       "pulse": true,
       "tags": [
         "ウクライナ侵攻",
-        "戦時経済",
-        "和平交渉"
+        "戦時経済"
       ],
-      "summary": "ウクライナ東部での消耗戦を継続。プーチン大統領は米国の仲介による和平交渉に含みを持たせるが、領土割譲を譲らない強硬姿勢を崩していない。",
+      "summary": "ウクライナ東部で攻勢を維持。軍需生産の拡大で経済を支えるが、労働力不足とインフレが長期的なリスクとなっている。",
       "articles": [
         {
-          "cat": "political",
-          "title": "クレムリン「交渉には応じるが自国の利益のみを信じる」",
+          "cat": "conflict",
+          "title": "ロシア軍、ドネツク州の重要集落を掌握と発表 戦闘が激化",
           "src": "Reuters",
-          "url": "https://www.reuters.com/world/europe/kremlin-trusts-only-itself-talks-2026-03-02/",
-          "publishedAt": "2026-03-02T02:55:00Z"
+          "url": "https://www.reuters.com/world/europe/russia-ukraine-war-donetsk-advance-2026-03-02/",
+          "publishedAt": "2026-03-02T13:00:00Z"
         },
         {
-          "cat": "conflict",
-          "title": "ロシア軍、ドネツク州で新たな集落を占領。攻勢を強化",
-          "src": "ISW",
-          "url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-2-2026",
-          "publishedAt": "2026-03-02T10:00:00Z"
+          "cat": "economic",
+          "title": "ロシア、2026年予算の軍事費を増額 制裁下の経済運営に自信",
+          "src": "WSJ",
+          "url": "https://www.wsj.com/articles/russia-war-economy-budget-2026-03-01",
+          "publishedAt": "2026-03-01T11:30:00Z"
         }
       ]
     },
     "682": {
       "name": "サウジアラビア",
       "cat": "economic",
-      "intensity": 0.7,
+      "intensity": 0.65,
       "tags": [
-        "ビジョン2030",
-        "原油市場",
-        "中東仲裁"
+        "脱石油",
+        "投資拡大"
       ],
-      "summary": "原油価格の上昇により財政状況が改善する一方、地域の戦火拡大によるサプライチェーンへの影響を懸念。中東の安定化に向けた外交的仲裁を継続している。",
+      "summary": "「ビジョン2030」に向けた巨大プロジェクトへの投資を継続。石油価格の安定を図りつつ、非石油部門の成長を急いでいる。",
       "articles": [
         {
           "cat": "economic",
-          "title": "サウジアラムコ、中東緊張を受け生産体制の警戒レベル引き上げ",
-          "src": "Bloomberg",
-          "url": null,
-          "publishedAt": "2026-03-02T08:00:00Z"
+          "title": "サウジアラビア、AI分野に400億ドル投資へ 経済多角化を加速",
+          "src": "FT",
+          "url": "https://www.ft.com/content/saudi-arabia-ai-investment-2026-03-02",
+          "publishedAt": "2026-03-02T06:10:00Z"
         },
         {
           "cat": "political",
-          "title": "サウジ外相、米イラン衝突の即時停止を呼びかけ",
-          "src": "Arab News",
-          "url": "https://www.arabnews.com/node/2456789",
-          "publishedAt": "2026-03-02T12:30:00Z"
+          "title": "サウジ外相、ガザ停戦に向けた仲裁を継続 「二国家解決」を強調",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/saudi-diplomacy-gaza-peace-2026-03-01/",
+          "publishedAt": "2026-03-01T14:45:00Z"
         }
       ]
     },
     "706": {
       "name": "ソマリア",
-      "cat": "conflict",
+      "cat": "tension",
       "intensity": 0.85,
-      "pulse": true,
       "tags": [
-        "アル・シャバブ",
-        "海賊再燃",
-        "内戦"
+        "アルシャバーブ",
+        "領土問題"
       ],
-      "summary": "イスラム過激派アル・シャバブによるテロが首都モガディシオで頻発。エチオピアとの領土問題を巡る緊張も加わり、国家の再建が阻害されている。",
+      "summary": "イスラム過激派アルシャバーブとの戦闘が続く。エチオピアとソマリランドの港湾利用合意を巡る外交的緊張も継続している。",
       "articles": [
         {
-          "cat": "conflict",
-          "title": "モガディシオの検問所で爆弾テロ、少なくとも12人が死亡",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/3/1/somalia-bomb-blast-mogadishu",
-          "publishedAt": "2026-03-01T14:30:00Z"
+          "cat": "tension",
+          "title": "ソマリア軍、中部でアルシャバーブの拠点を破壊 掃討作戦を強化",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/africa/somalia-military-al-shabaab-2026-03-02/",
+          "publishedAt": "2026-03-02T05:50:00Z"
         },
         {
           "cat": "tension",
-          "title": "ソマリア沖で商船が再び海賊に襲撃される。国際部隊が警戒",
-          "src": "Reuters",
-          "url": null,
-          "publishedAt": "2026-03-02T05:50:00Z"
+          "title": "ソマリア大統領、エチオピアとの対話を拒否 「主権侵害」と非難",
+          "src": "BBC",
+          "url": "https://www.bbc.com/news/world-africa-68434567",
+          "publishedAt": "2026-03-01T09:20:00Z"
         }
       ]
     },
     "729": {
       "name": "スーダン",
       "cat": "conflict",
-      "intensity": 0.95,
+      "intensity": 0.96,
       "pulse": true,
       "tags": [
         "内戦",
-        "ジェノサイド",
         "飢餓"
       ],
-      "summary": "軍（SAF）と準軍事組織（RSF）の戦闘が3年目に突入。民間人の犠牲者が急増し、世界最悪規模の飢餓と難民危機が発生している。国際社会の関与は限定的である。",
+      "summary": "正規軍と準軍事組織RSFの戦闘が激化し、世界最悪の人道危機に。全土で飢餓が広がり、停戦の兆しは見えていない。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "国連「スーダンでの民間人殺害、2025年に倍増」。人道支援を要請",
-          "src": "Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/02/27/world/sudan-war-civilian-death-toll/",
-          "publishedAt": "2026-03-01T08:00:00Z"
+          "title": "スーダン・エルファシルで激戦 民間人の死傷者が急増",
+          "src": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/mar/02/sudan-civil-war-el-fasher-fighting",
+          "publishedAt": "2026-03-02T10:00:00Z"
         },
         {
-          "cat": "conflict",
-          "title": "スーダン軍、ハルツーム周辺でRSFを追い込み。激戦続く",
-          "src": "CFR",
-          "url": "https://www.cfr.org/global-conflict-tracker/conflict/civil-war-sudan",
-          "publishedAt": "2026-03-02T11:00:00Z"
+          "cat": "tension",
+          "title": "国連、スーダンの飢餓状況に「壊滅的」と警告 支援物資が遮断",
+          "src": "AP",
+          "url": "https://apnews.com/article/sudan-famine-un-warning-2026-03-01",
+          "publishedAt": "2026-03-01T15:30:00Z"
         }
       ]
     },
     "760": {
       "name": "シリア",
-      "cat": "political",
-      "intensity": 0.75,
+      "cat": "conflict",
+      "intensity": 0.88,
+      "pulse": true,
       "tags": [
-        "政権交代",
-        "復興支援",
-        "地域安定"
+        "空爆",
+        "内戦継続"
       ],
-      "summary": "長年のアサド政権崩壊後、暫定政府による国家再建が始まった。周辺国との関係改善が進む一方、国内に残る武装勢力の武装解除が大きな課題となっている。",
+      "summary": "北西部での政府軍と反体制派の交戦に加え、イスラエルによる親イラン組織拠点への空爆が頻発し、情勢が不安定化。",
       "articles": [
         {
-          "cat": "political",
-          "title": "シリア暫定政府、初の総選挙実施に向けたロードマップを発表",
-          "src": "Guardian",
-          "url": null,
-          "publishedAt": "2026-03-01T17:45:00Z"
+          "cat": "conflict",
+          "title": "シリア首都近郊にイスラエルが空爆 武器輸送ルートを標的か",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/syria-israel-strikes-damascus-2026-03-02/",
+          "publishedAt": "2026-03-02T03:40:00Z"
         },
         {
-          "cat": "economic",
-          "title": "欧米諸国、シリアへの経済制裁を一部解除。人道復興を優先",
-          "src": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/syria-sanctions-easing-2026-03-02/",
-          "publishedAt": "2026-03-02T09:15:00Z"
+          "cat": "tension",
+          "title": "シリア北部の避難民キャンプで食糧不足深刻化 冬の寒さが追い打ち",
+          "src": "AP",
+          "url": "https://apnews.com/article/syria-humanitarian-crisis-idlib-2026-03-01",
+          "publishedAt": "2026-03-01T12:00:00Z"
         }
       ]
     },
     "792": {
       "name": "トルコ",
       "cat": "economic",
-      "intensity": 0.8,
+      "intensity": 0.78,
       "tags": [
         "インフレ抑制",
-        "外交仲裁",
-        "リラ安"
+        "外交仲裁"
       ],
-      "summary": "依然として高いインフレ率に対処するため、中央銀行は高金利政策を維持。中東紛争においては、米イラン間の仲裁役としての役割を強めている。",
+      "summary": "中央銀行による高金利政策が続くが、物価高騰の収束には時間がかかっている。外交ではウクライナ・ロシア間の仲裁を継続。",
       "articles": [
         {
           "cat": "economic",
-          "title": "トルコ、2月のインフレ率が予想を上回る。利上げ継続の公算",
-          "src": "FT",
-          "url": null,
-          "publishedAt": "2026-03-02T07:30:00Z"
+          "title": "トルコ、2月のインフレ率が予想を下回るも依然高水準 政策維持",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/turkey-inflation-data-2026-03-02/",
+          "publishedAt": "2026-03-02T11:45:00Z"
         },
         {
           "cat": "political",
-          "title": "エルドアン大統領、イラン攻撃を非難「地域に破滅をもたらす」",
+          "title": "エルドアン大統領、黒海穀物合意の再開をロシアに働きかけ",
           "src": "AP",
-          "url": "https://apnews.com/article/turkey-iran-conflict-erdogan-2026-03-01",
-          "publishedAt": "2026-03-01T20:40:00Z"
+          "url": "https://apnews.com/article/turkey-erdogan-russia-grain-deal-2026-03-01",
+          "publishedAt": "2026-03-01T18:00:00Z"
         }
       ]
     },
     "804": {
       "name": "ウクライナ",
       "cat": "conflict",
-      "intensity": 0.95,
+      "intensity": 0.98,
       "pulse": true,
       "tags": [
-        "ロシア侵攻",
-        "米軍事支援停止",
-        "ドローン攻撃"
+        "防衛戦",
+        "欧米支援"
       ],
-      "summary": "米国の軍事支援停止により苦境に立たされている。ロシア軍の地上攻勢とドローン攻撃が激化する中、ゼレンスキー大統領は欧州諸国への支援継続を訴えている。",
+      "summary": "東部戦線での激しい消耗戦が続く。欧米からの新型兵器供与を背景に、ロシア軍の補給路を標的とした長距離攻撃を強化。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "ロシア、ウクライナ全土に大規模ドローン攻撃。電力網を標的",
-          "src": "CNN",
-          "url": "https://edition.cnn.com/2026/03/02/europe/ukraine-russia-drone-strikes/",
-          "publishedAt": "2026-03-02T06:15:00Z"
+          "title": "ウクライナ軍、ロシア領内の石油施設をドローン攻撃 燃料供給遮断",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukraine-drone-strikes-russia-oil-2026-03-02/",
+          "publishedAt": "2026-03-02T07:30:00Z"
         },
         {
           "cat": "political",
-          "title": "ゼレンスキー大統領、トランプ政権に支援再開を直接要請",
-          "src": "Reuters",
-          "url": "https://www.reuters.com/world/europe/zelenskiy-trump-call-details-2026-03-01/",
-          "publishedAt": "2026-03-01T22:30:00Z"
+          "title": "ゼレンスキー大統領、弾薬不足を訴えEUに追加支援を要請",
+          "src": "BBC",
+          "url": "https://www.bbc.com/news/world-europe-68472314",
+          "publishedAt": "2026-03-01T20:15:00Z"
         }
       ]
     },
     "826": {
       "name": "イギリス",
       "cat": "political",
-      "intensity": 0.6,
+      "intensity": 0.68,
       "tags": [
-        "スターマー政権",
-        "経済再生",
-        "対EU関係"
+        "労働党政権",
+        "公共サービス"
       ],
-      "summary": "労働党政権は公共サービスの立て直しと経済成長の加速に注力。EUとの実務的な関係改善を進める一方、国内の生活費危機への対応に追われている。",
+      "summary": "労働党政権による公共部門の立て直しが進むが、財政制約により進展は緩やか。欧州連合との関係改善を模索している。",
       "articles": [
         {
-          "cat": "economic",
-          "title": "英政府、新たな産業戦略を発表。クリーンエネルギー投資を重視",
-          "src": "BBC",
-          "url": "https://www.bbc.com/news/business-68478912",
-          "publishedAt": "2026-03-01T11:00:00Z"
+          "cat": "political",
+          "title": "英首相、NHS改革に向けた新長期計画を発表 待ち時間短縮へ",
+          "src": "Guardian",
+          "url": "https://www.theguardian.com/politics/2026/mar/02/starmer-nhs-reform-plan",
+          "publishedAt": "2026-03-02T09:00:00Z"
         },
         {
-          "cat": "political",
-          "title": "英外相、中東紛争激化を受け自国民にイラン・イスラエル退避勧告",
-          "src": "Guardian",
-          "url": "https://www.theguardian.com/politics/2026/mar/02/uk-travel-warning-mideast",
-          "publishedAt": "2026-03-02T10:45:00Z"
+          "cat": "economic",
+          "title": "英国、1月GDPは微増 景気後退の懸念は依然拭えず",
+          "src": "FT",
+          "url": "https://www.ft.com/content/uk-economy-gdp-january-2026",
+          "publishedAt": "2026-03-01T08:30:00Z"
         }
       ]
     },
     "840": {
       "name": "アメリカ",
       "cat": "political",
-      "intensity": 0.85,
+      "intensity": 0.8,
       "tags": [
-        "トランプ政権",
-        "対イラン攻撃",
-        "貿易戦争"
+        "大統領選",
+        "金利政策"
       ],
-      "summary": "トランプ大統領はイランへの軍事攻撃を承認し、中東での関与を拡大。同時にカナダやメキシコ、中国への関税を強化し、世界的な貿易摩擦を誘発している。",
+      "summary": "次期大統領選に向けた予備選が佳境を迎え、政治的分断が深化。FRBの利下げ開始時期を巡り、経済指標に注目が集まる。",
       "articles": [
         {
-          "cat": "conflict",
-          "title": "トランプ大統領、イラン攻撃を正当化「米国の利益を守る断固たる措置」",
-          "src": "WSJ",
-          "url": "https://www.wsj.com/articles/trump-defends-iran-strikes-2026-03-01",
-          "publishedAt": "2026-03-01T23:00:00Z"
+          "cat": "political",
+          "title": "米大統領選予備選「スーパーチューズデー」控え 候補者が舌戦",
+          "src": "CNN",
+          "url": "https://www.cnn.com/2026/03/02/politics/us-election-primaries-latest/",
+          "publishedAt": "2026-03-02T13:30:00Z"
         },
         {
           "cat": "economic",
-          "title": "米、カナダ・メキシコへの25%関税を強行。北米市場が混乱",
-          "src": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-02/us-tariffs-canada-mexico-launch",
-          "publishedAt": "2026-03-02T13:30:00Z"
+          "title": "米雇用統計、予想を上回る堅調さ 利下げ期待が後退か",
+          "src": "WSJ",
+          "url": "https://www.wsj.com/articles/us-jobs-report-economy-2026-03-01",
+          "publishedAt": "2026-03-01T21:45:00Z"
         }
       ]
     },
     "862": {
       "name": "ベネズエラ",
       "cat": "tension",
-      "intensity": 0.75,
+      "intensity": 0.78,
       "tags": [
-        "マドゥロ政権",
-        "制裁再開",
-        "野党弾圧"
+        "選挙不正疑惑",
+        "制裁再開"
       ],
-      "summary": "不正選挙疑惑を受け、米国が石油部門への制裁を再開。マドゥロ大統領は野党勢力への弾圧を強めており、国内の政治的対立が再び激化している。",
+      "summary": "マドゥロ政権の強権姿勢に対し国際的な批判が再燃。野党への弾圧を理由に米国が制裁の一部を再発動し、経済の先行きが不透明。",
       "articles": [
         {
-          "cat": "economic",
-          "title": "米国、ベネズエラ石油会社へのライセンス供与を停止",
+          "cat": "political",
+          "title": "ベネズエラ、野党候補の出馬資格を剥奪 国際社会から非難相次ぐ",
           "src": "Reuters",
-          "url": "https://www.reuters.com/business/energy/us-venezuela-sanctions-2026-03-01/",
-          "publishedAt": "2026-03-01T15:20:00Z"
+          "url": "https://www.reuters.com/world/americas/venezuela-opposition-ban-2026-03-02/",
+          "publishedAt": "2026-03-02T12:15:00Z"
         },
         {
-          "cat": "political",
-          "title": "ベネズエラ野党リーダー、国際社会にさらなる圧力を要請",
+          "cat": "economic",
+          "title": "米国、ベネズエラ産原油への制裁を強化 民主化の遅れを理由に",
           "src": "AP",
-          "url": null,
-          "publishedAt": "2026-03-02T08:50:00Z"
+          "url": "https://apnews.com/article/venezuela-us-sanctions-oil-2026-03-01",
+          "publishedAt": "2026-03-01T23:00:00Z"
         }
       ]
     },
@@ -717,71 +690,70 @@
       "pulse": true,
       "tags": [
         "フーシ派",
-        "紅海攻撃",
-        "米英空爆"
+        "紅海攻撃"
       ],
-      "summary": "フーシ派はイランへの攻撃に抗議し、紅海を航行する船舶への攻撃を拡大。米英軍による報復空爆が続いており、海上交通の要衝が麻痺している。",
+      "summary": "フーシ派による紅海での商船攻撃が続き、米英軍による報復空爆も継続。国際物流への影響と人道危機の深刻化が懸念される。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "フーシ派、米空母を狙いミサイル発射と主張。米軍は否定",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/3/2/yemen-houthis-target-us-carrier",
-          "publishedAt": "2026-03-02T12:00:00Z"
+          "title": "フーシ派、紅海で大型貨物船を攻撃 米軍がドローンを撃墜",
+          "src": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/yemen-houthi-red-sea-attack-2026-03-02/",
+          "publishedAt": "2026-03-02T04:20:00Z"
         },
         {
-          "cat": "conflict",
-          "title": "紅海でタンカーが炎上、フーシ派のドローン攻撃が命中か",
-          "src": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/red-sea-tanker-attack-2026-03-01/",
-          "publishedAt": "2026-03-01T18:40:00Z"
+          "cat": "tension",
+          "title": "イエメン和平交渉、フーシ派の攻勢で停滞 国連特使が警告",
+          "src": "AP",
+          "url": "https://apnews.com/article/yemen-un-peace-talks-stalemate-2026-03-01",
+          "publishedAt": "2026-03-01T16:30:00Z"
         }
       ]
     }
   },
   "ticker": [
-    "米イスラエル軍がイランを共同攻撃、ホルムズ海峡の緊張が極限に。原油価格は一時13%急騰。",
-    "中国の全人代が3月5日開幕へ。2026年の経済成長目標は4.5〜5.0%に設定される見通し。",
-    "日銀・氷見野副総裁、中東情勢の不透明感を理由に3月の追加利上げに慎重な姿勢を表明。",
-    "ロシア・ウクライナ和平交渉が難航。クレムリンは領土 concessions を拒否し、攻勢を継続。",
-    "ミャンマー軍政、農民の日に合わせ7,300人の囚人を恩赦。内戦の沈静化を狙うも戦闘は継続。",
-    "北朝鮮が日本海に向け複数の弾道ミサイルを発射。ロシアへの軍事支援継続を誇示か。",
-    "米トランプ政権、カナダとメキシコへの25%関税を正式導入。北米自由貿易圏に激震。",
-    "スーダン内戦で民間人犠牲者が急増、国連がジェノサイドの警告を発し国際社会の介入を訴え。",
-    "シリア暫定政府が総選挙ロードマップを発表。アサド後の民主化プロセスが本格始動へ。",
-    "ブラジルでアマゾン森林破壊が劇的減少。ルラ大統領の環境政策が成果を上げるも農業界は反発。",
-    "ドイツ製造業の不振が深刻化。2月の景況感指数は予想を下回り、経済停滞が長期化の懸念。",
-    "ナイジェリアで通貨ナイラが史上最安値を更新。食糧インフレが35%を超え国民生活が困窮。"
+    "ウクライナ軍、ロシア領内の製油所をドローンで攻撃。燃料供給に打撃。",
+    "イスラエル軍、ガザ南部ラファへの地上作戦準備を加速。国際社会は懸念。",
+    "米大統領選予備選「スーパーチューズデー」直前、主要候補が接戦を展開。",
+    "中国政府、不動産市場支援のため追加の金融緩和措置を正式発表。",
+    "北朝鮮、日本海に向け短距離弾道ミサイルを発射。今年5回目。",
+    "アルゼンチン、ミレイ政権の経済改革により1月の財政黒字を達成。",
+    "スーダン内戦、エルファシルでの戦闘激化で数千人が新たに避難。",
+    "日銀総裁、追加利上げの可能性に言及。円相場が一時147円台に急伸。",
+    "フランス政府、不信任案を否決。緊縮予算案の成立に目途。",
+    "ナイジェリア、通貨安に伴う食糧暴動を阻止するため軍を配備。",
+    "イラン、IAEAの査察受け入れ拡大を拒否。核合意復帰は絶望的。",
+    "コンゴ民主共和国、東部で反政府勢力M23が主要道路を封鎖。"
   ],
   "hot": [
     {
       "cat": "conflict",
-      "text": "米イスラエルによるイラン攻撃開始、中東全域で戦火拡大の恐れ",
-      "country": "イラン",
-      "src": "CNN",
-      "publishedAt": "2026-03-02T02:00:00Z"
+      "text": "ウクライナ軍、ロシア軍の補給拠点を長距離ミサイルで破壊。戦況に変化か。",
+      "country": "ウクライナ",
+      "src": "Reuters",
+      "publishedAt": "2026-03-02T13:30:00Z"
     },
     {
       "cat": "political",
-      "text": "シリア暫定政権が民主化への工程表発表、アサド後の新体制構築へ",
-      "country": "シリア",
-      "src": "Guardian",
-      "publishedAt": "2026-03-02T09:15:00Z"
+      "text": "米大統領選予備選、トランプ氏が優勢を維持。バイデン氏は支持率低迷に苦慮。",
+      "country": "アメリカ",
+      "src": "CNN",
+      "publishedAt": "2026-03-02T11:00:00Z"
     },
     {
       "cat": "tension",
-      "text": "北朝鮮からロシアへ3万個超のコンテナ武器輸送、戦況に影響か",
-      "country": "北朝鮮",
-      "src": "Reuters",
-      "publishedAt": "2026-03-02T01:15:00Z"
+      "text": "イスラエルとハマスの休戦交渉、エジプトでの協議が難航。人質解放に暗雲。",
+      "country": "イスラエル",
+      "src": "BBC",
+      "publishedAt": "2026-03-02T09:45:00Z"
     },
     {
       "cat": "economic",
-      "text": "トランプ関税発動でカナダ・メキシコ市場が混乱、世界貿易に逆風",
-      "country": "アメリカ",
-      "src": "Bloomberg",
-      "publishedAt": "2026-03-02T13:30:00Z"
+      "text": "中国、景気刺激策への期待から上海株が急騰。不動産株に買いが集まる。",
+      "country": "中国",
+      "src": "日経",
+      "publishedAt": "2026-03-02T08:15:00Z"
     }
   ],
-  "updatedAt": "2026-03-02T14:36:21.570Z"
+  "updatedAt": "2026-03-02T15:31:38.233Z"
 }
