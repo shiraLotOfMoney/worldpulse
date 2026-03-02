@@ -25,7 +25,7 @@ const COUNTRY_NAMES = {
 const COUNTRY_CODES = Object.keys(COUNTRY_NAMES);
 
 // ── Prompt ──
-const prompt = `あなたは国際ニュースの専門アナリストです。現在の世界情勢に基づいて、以下のJSON構造でニュースデータを生成してください。
+const prompt = `あなたは国際ニュースの専門アナリストです。Google検索で最新のニュースを調べて、以下のJSON構造でニュースデータを出力してください。JSONオブジェクトのみを返し、前後に余分なテキストやコードブロック記号（\`\`\`）は含めないこと。
 
 現在の日時: ${new Date().toISOString()}
 
@@ -114,7 +114,7 @@ ${Object.entries(COUNTRY_NAMES).map(([code, name]) => `${code}: ${name}`).join('
 8. hotはちょうど4件の注目ニュース（異なるカテゴリを含める）
 9. 情報源名は実在するメディア名を使用（Reuters, BBC, CNN, AP, 日経, 読売, WSJ, FT, Guardian 等）
 10. publishedAtはISO 8601形式（例: "2026-03-02T07:30:00Z"）で指定する。現在時刻から最大1週間前までの範囲で、記事の性質に合わせたリアルなタイムスタンプを生成すること
-11. 実際のニュースに基づく内容にすること。完全な捏造は避けること
+11. 必ずGoogle検索で最新ニュースを調べて内容に反映すること。検索結果に基づいた実際の報道内容を使用すること
 12. 27カ国すべてについてデータを含めること（欠落させないこと）`;
 
 // ── Validation ──
@@ -188,7 +188,7 @@ async function generateWithRetry(maxRetries = 2) {
         model: MODEL,
         contents: prompt,
         config: {
-          responseMimeType: 'application/json',
+          tools: [{ googleSearch: {} }],
           temperature: 0.7,
         },
       });
@@ -207,9 +207,18 @@ async function generateWithRetry(maxRetries = 2) {
 async function main() {
   const text = await generateWithRetry();
 
+  function extractJSON(raw) {
+    const md = raw.match(/```(?:json)?\s*([\s\S]*?)```/);
+    if (md) return md[1].trim();
+    const start = raw.indexOf('{');
+    const end = raw.lastIndexOf('}');
+    if (start !== -1 && end !== -1) return raw.slice(start, end + 1);
+    return raw;
+  }
+
   let parsed;
   try {
-    parsed = JSON.parse(text);
+    parsed = JSON.parse(extractJSON(text));
   } catch (e) {
     console.error('JSON parse failed:', e.message);
     console.error('Raw response (first 500 chars):', text.substring(0, 500));
