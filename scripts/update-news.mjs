@@ -52,6 +52,7 @@ ${Object.entries(COUNTRY_NAMES).map(([code, name]) => `${code}: ${name}`).join('
           "cat": "conflict",
           "title": "ニュース見出し（40〜60文字）",
           "src": "情報源名",
+          "url": "https://...",
           "publishedAt": "2026-03-02T07:30:00Z"
         }
       ]
@@ -115,6 +116,7 @@ ${Object.entries(COUNTRY_NAMES).map(([code, name]) => `${code}: ${name}`).join('
 9. 情報源名は実在するメディア名を使用（Reuters, BBC, CNN, AP, 日経, 読売, WSJ, FT, Guardian 等）
 10. publishedAtはISO 8601形式（例: "2026-03-02T07:30:00Z"）で指定する。現在時刻から最大1週間前までの範囲で、記事の性質に合わせたリアルなタイムスタンプを生成すること
 11. 必ずGoogle検索で最新ニュースを調べて内容に反映すること。検索結果に基づいた実際の報道内容を使用すること
+13. articlesのurlは検索で見つけた実際の記事URLを記載すること。見つからない場合はnullにすること
 12. 27カ国すべてについてデータを含めること（欠落させないこと）`;
 
 // ── Validation ──

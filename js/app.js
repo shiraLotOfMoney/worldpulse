@@ -558,7 +558,7 @@ function openPanel(info) {
   artEl.innerHTML = info.articles.map(a => `
     <div class="article">
       <div class="art-cat ${a.cat}">${CAT_LABEL[a.cat] || a.cat}</div>
-      <div class="art-title">${a.title}</div>
+      <div class="art-title">${a.url ? `<a href="${a.url}" target="_blank" rel="noopener noreferrer">${a.title}</a>` : a.title}</div>
       <div class="art-meta">
         <span class="art-src">${a.src}</span>
         <span>${timeAgo(a.publishedAt || a.time)}</span>
