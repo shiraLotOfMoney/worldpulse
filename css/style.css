@@ -126,18 +126,19 @@ body::after {
 #hot-stories {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
   display: flex; flex-direction: row;
-  height: 100px;
+  height: 150px;
   background: rgba(3,12,24,0.96);
   border-top: 1px solid var(--border);
 }
 .hs-card {
   flex: 1;
-  border-top: 3px solid var(--conflict);
+  border-top: 4px solid var(--conflict);
   border-right: 1px solid var(--border);
-  padding: 12px 20px;
+  padding: 16px 24px;
   cursor: pointer;
   transition: background 0.2s;
   overflow: hidden;
+  display: flex; flex-direction: column; justify-content: space-between;
 }
 .hs-card:last-child { border-right: none; }
 .hs-card:hover { background: rgba(10,24,40,0.7); }
@@ -148,27 +149,28 @@ body::after {
   font-family: var(--font-mono);
   font-size: 10px; font-weight: 700;
   letter-spacing: 1.5px; text-transform: uppercase;
-  margin-bottom: 5px;
+  margin-bottom: 8px;
   opacity: 0.7;
 }
 .hs-title {
-  font-size: 13px; font-weight: 600; line-height: 1.45;
+  font-size: 15px; font-weight: 600; line-height: 1.5;
   color: var(--txt1);
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  flex: 1;
 }
 .hs-meta {
   font-family: var(--font-mono);
-  font-size: 10px; color: var(--txt2);
-  margin-top: 5px;
+  font-size: 11px; color: var(--txt2);
+  margin-top: 10px;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
 
 /* ─── LEGEND ─── */
 #legend {
-  position: fixed; bottom: 110px; left: 28px; z-index: 200;
+  position: fixed; bottom: 162px; left: 28px; z-index: 200;
   background: rgba(3,12,24,0.85);
   border: 1px solid var(--border);
   padding: 12px 16px;
@@ -335,7 +337,7 @@ body::after {
 
 /* ─── STAT BAR (above ticker) ─── */
 #statbar {
-  position: fixed; bottom: 110px; left: 28px; z-index: 200;
+  position: fixed; bottom: 162px; left: 28px; z-index: 200;
   display: flex; gap: 24px; align-items: center;
   pointer-events: none;
 }
@@ -348,7 +350,7 @@ body::after {
 
 /* ─── ZOOM HINT ─── */
 #zoom-hint {
-  position: fixed; bottom: 110px; right: 28px; z-index: 200;
+  position: fixed; bottom: 162px; right: 28px; z-index: 200;
   font-family: var(--font-mono); font-size: 9px;
   color: var(--txt2); letter-spacing: 1px;
   opacity: 0.5; pointer-events: none;
