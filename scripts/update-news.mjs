@@ -5,7 +5,7 @@ import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'node:fs';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 if (!GEMINI_API_KEY) { console.error('GEMINI_API_KEY is not set'); process.exit(1); }
 
-const MODEL       = process.env.GEMINI_MODEL || 'gemini-2.0-flash';
+const MODEL       = process.env.GEMINI_MODEL || 'gemini-3-flash-preview';
 const ARTICLES_FILE = 'data/articles.json';
 const NEWS_FILE     = 'data/news.json';
 const KEEP_HOURS    = 72;   // 記事を保持する時間
