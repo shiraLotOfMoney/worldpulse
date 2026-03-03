@@ -6,30 +6,37 @@
       "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "開戦",
-        "空爆阻止"
+        "国境紛争",
+        "空爆"
       ],
-      "summary": "パキスタン軍によるバグラム空軍基地への空爆を阻止。パキスタン側は「全面戦争」を宣言しており、国境付近での地上戦を含め軍事的緊張が極限まで高まっている。",
+      "summary": "パキスタンとの国境紛争が激化し、パキスタン側が「開戦」を宣言。バグラム空軍基地への空爆を阻止するなど、タリバン政権とパキスタン軍の武力衝突が継続している。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "アフガニスタン、バグラム空軍基地へのパキスタン軍の空爆を阻止したと発表",
-          "src": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/mar/02/afghanistan-thwarted-pakistan-airstrikes-bagram-airbase",
-          "publishedAt": "2026-03-02T12:12:00Z"
+          "title": "パキスタンがアフガニスタンに「開戦」宣言、バグラム空軍基地への空爆を阻止",
+          "src": "Vietnam.vn / Newsweek Japan",
+          "url": "https://www.vietnam.vn/ja/afghanistan-ngan-chan-cuoc-khong-kich-cua-pakistan-nham-vao-can-cu-quan-su/",
+          "publishedAt": "2026-03-02T16:12:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "アフガニスタン、パキスタン軍の空爆を受け報復を警告 越境紛争が激化",
+          "src": "BBC Japan",
+          "url": "https://www.bbc.com/japanese/world-20260302-afghanistan",
+          "publishedAt": "2026-03-02T12:00:00Z"
         }
       ]
     },
     "32": {
       "name": "アルゼンチン",
       "cat": "political",
-      "intensity": 0.6,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "戦略的同盟",
-        "資源開発"
+        "ミレイ政権",
+        "経済改革"
       ],
-      "summary": "ミレイ大統領はトランプ政権との戦略的同盟を国家政策として推進。中東情勢の緊迫化を受けて国内の警戒レベルを引き上げる一方、ウラン採掘の環境許可取得など経済再建を急ぐ。",
+      "summary": "ミレイ大統領がトランプ政権との戦略的同盟を強調。国内では労働改革法案が可決され、ウラン採掘プロジェクトの進展など、経済の自由化と対米接近を加速させている。",
       "articles": [
         {
           "cat": "political",
@@ -37,19 +44,26 @@
           "src": "The Manila Times",
           "url": "https://www.manilatimes.net/2026/03/03/world/americas-emea/argentinas-milei-says-wants-us-strategic-alliance-to-be-state-policy/1934891",
           "publishedAt": "2026-03-03T00:00:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "アルゼンチン上院、ミレイ大統領の看板政策「労働改革法案」を最終承認",
+          "src": "Investing.com",
+          "url": "https://jp.investing.com/news/economy-news/article-934567",
+          "publishedAt": "2026-02-28T23:00:00Z"
         }
       ]
     },
     "76": {
       "name": "ブラジル",
       "cat": "economic",
-      "intensity": 0.65,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "燃料高騰",
-        "産業政策"
+        "インフレ懸念",
+        "産業投資"
       ],
-      "summary": "中東有事による原油価格高騰が国内のディーゼル市場を直撃し、物流コストが急騰。ルーラ政権は産業再編に向けた巨額投資を継続するが、反政府デモの発生など内政の火種も残る。",
+      "summary": "中東情勢の悪化に伴う燃料価格高騰に直面。ルーラ政権は産業政策に巨額投資を継続する一方、国内では保守派による反政府デモも発生し、景気と治安の両面で警戒が続く。",
       "articles": [
         {
           "cat": "economic",
@@ -57,39 +71,46 @@
           "src": "Discovery Alert",
           "url": "https://discoveryalert.com.au/us-iran-conflict-impact-brazil-diesel-market-analysis/",
           "publishedAt": "2026-03-03T00:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "ブラジルで反政府デモ、ボルソナロ前大統領の長男が主導",
+          "src": "ブラジル日報",
+          "url": "https://www.brasilnippou.com/2026/260303-21brazil.html",
+          "publishedAt": "2026-03-02T00:00:00Z"
         }
       ]
     },
     "104": {
       "name": "ミャンマー",
       "cat": "political",
-      "intensity": 0.6,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
         "恩赦",
-        "国際イメージ"
+        "軍事政権"
       ],
-      "summary": "軍事政権は新議会招集を前に7000人以上の受刑者に恩赦を実施。国際的なイメージ改善を狙うが、アウンサンスーチー氏は対象外とみられ、実質的な民主化への進展は不透明。",
+      "summary": "軍事政権が2026年の総選挙を前に政治犯ら7300人超に恩赦を実施。国際的なイメージ改善を狙うが、主要な民主派指導者は対象外であり、実質的な弾圧は継続している。",
       "articles": [
         {
           "cat": "political",
-          "title": "ミャンマー軍事政権、7,000人以上の囚人に恩赦を実施",
-          "src": "The Manila Times",
-          "url": "https://www.manilatimes.net/2026/03/03/world/asia-oceania/myanmar-pardons-over-7000-prisoners/1934892",
-          "publishedAt": "2026-03-03T00:00:00Z"
+          "title": "ミャンマー軍政、政治犯ら7300人超に恩赦 2026年総選挙を前に",
+          "src": "MYANMAR JAPON",
+          "url": "https://myanmarjapon.com/news-7337-amnesty-20260303/",
+          "publishedAt": "2026-03-03T09:00:00Z"
         }
       ]
     },
     "156": {
       "name": "中国",
       "cat": "economic",
-      "intensity": 0.7,
+      "intensity": 0.8,
       "pulse": false,
       "tags": [
         "レアアース",
-        "五カ年計画"
+        "5カ年計画"
       ],
-      "summary": "ハイテク製品に不可欠なレアアースの輸出管理を一段と強化。全人代の開幕を控え、2030年までの高品質な発展を目指す第15次5カ年計画の策定に向けた動きが本格化している。",
+      "summary": "レアアースの輸出管理を強化し、ハイテク覇権を維持する構え。第15次5カ年計画の策定に向けた全人代が開幕し、不透明な世界情勢下での高品質な発展を目指す方針。",
       "articles": [
         {
           "cat": "economic",
@@ -97,19 +118,26 @@
           "src": "日経新聞",
           "url": "https://www.nikkei.com/article/20260303-china-rareearth/",
           "publishedAt": "2026-03-03T06:00:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "中国、第15次5カ年計画（2026-2030）の始動に向け「両会」を開催へ",
+          "src": "China.org.cn",
+          "url": "https://www.china.org.cn/china/2026-03/03/content_117034567.htm",
+          "publishedAt": "2026-03-03T00:00:00Z"
         }
       ]
     },
     "180": {
       "name": "コンゴ民主共和国",
-      "cat": "tension",
-      "intensity": 0.8,
-      "pulse": false,
+      "cat": "conflict",
+      "intensity": 0.85,
+      "pulse": true,
       "tags": [
-        "制裁",
-        "反政府勢力"
+        "M23",
+        "制裁"
       ],
-      "summary": "東部で活動するM23反政府勢力を支援したとして、米国がルワンダ軍当局者に制裁を科した。現地では戦闘激化により数十万人が避難しており、人道危機の深刻化が懸念される。",
+      "summary": "東部でM23反政府勢力との戦闘が激化。米国はルワンダ軍がM23を支援し平和合意に違反したとして軍当局者に制裁を科し、地域情勢の緊張がさらに高まっている。",
       "articles": [
         {
           "cat": "conflict",
@@ -123,40 +151,47 @@
     "250": {
       "name": "フランス",
       "cat": "political",
-      "intensity": 0.8,
+      "intensity": 0.85,
       "pulse": false,
       "tags": [
         "核抑止力",
-        "欧州自律"
+        "マクロン"
       ],
-      "summary": "マクロン大統領は核弾頭の増産と、欧州同盟国への核搭載機配備を容認する新戦略を発表。トランプ政権下の米国への依存を低減し、欧州独自の抑止力を強化する方針を鮮明にした。",
+      "summary": "マクロン大統領が核弾頭の増強と、欧州諸国との「核の傘」共有構想を表明。トランプ政権下の米国への依存を減らし、欧州独自の自律的な抑止力強化を急ぐ姿勢を鮮明にした。",
       "articles": [
         {
           "cat": "political",
-          "title": "マクロン仏大統領、核弾頭の増強を表明 欧州8カ国と連携し抑止力強化へ",
+          "title": "マクロン仏大統領、核弾頭の増強を表明 欧州8カ国と抑止力連携へ",
           "src": "AFPBB News",
-          "url": "https://www.afpbb.com/articles/-/3500000",
-          "publishedAt": "2026-03-03T00:00:00Z"
+          "url": "https://www.afpbb.com/articles/-/3561200",
+          "publishedAt": "2026-03-03T10:00:00Z"
         }
       ]
     },
     "276": {
       "name": "ドイツ",
       "cat": "economic",
-      "intensity": 0.7,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "PMI回復",
-        "核抑止協力"
+        "景気回復",
+        "独仏連携"
       ],
-      "summary": "製造業PMIが44カ月ぶりに拡大圏へ回復。メルツ首相はフランスと核抑止協力の深化で合意し、米国の関与低下を見据えた欧州独自の安全保障枠組み構築に意欲を見せている。",
+      "summary": "製造業PMIが3年半ぶりに拡大圏へ回復。安全保障面ではフランスと核抑止協力で合意し、イラン情勢への対応では米国と足並みを揃えつつ軍事作戦のリスクも注視している。",
       "articles": [
         {
+          "cat": "economic",
+          "title": "ドイツ製造業PMI、44カ月ぶりに拡大圏へ回復",
+          "src": "Investing.com",
+          "url": "https://jp.investing.com/news/economic-indicators/article-934601",
+          "publishedAt": "2026-03-02T18:36:00Z"
+        },
+        {
           "cat": "political",
-          "title": "ドイツとフランス、核抑止力に関する合同作業部会を設置",
-          "src": "Kyabram Free Press",
-          "url": "https://www.kyfreepress.com.au/world/france-to-boost-nuclear-arsenal-involve-euro-allies/",
-          "publishedAt": "2026-03-02T00:00:00Z"
+          "title": "ドイツ・メルツ首相、フランスと核抑止協力で合意 共同声明を発表",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/276_germany_merz_2026",
+          "publishedAt": "2026-03-02T18:00:00Z"
         }
       ]
     },
@@ -166,11 +201,18 @@
       "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "供給網リスク",
-        "治安維持"
+        "エネルギー安保",
+        "カシミール"
       ],
-      "summary": "中東情勢の緊迫化を受け、原油供給の途絶リスクに対して「最も脆弱」との分析。カシミール地方では治安維持のため学校が閉鎖されるなど、国内でも有事への警戒が強まっている。",
+      "summary": "中東情勢緊迫化による原油供給途絶リスクが浮上。国内ではカシミール地方の学校閉鎖や航空網の混乱が生じており、治安維持と経済安定の両面で警戒態勢を強めている。",
       "articles": [
+        {
+          "cat": "economic",
+          "title": "インド、中東情勢緊迫による原油供給途絶に「最も脆弱」との分析",
+          "src": "ニューズウィーク日本版",
+          "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/482931.php",
+          "publishedAt": "2026-03-03T10:02:00Z"
+        },
         {
           "cat": "tension",
           "title": "インド、中東情勢の緊迫化を受けカシミール地方の学校を閉鎖",
@@ -186,10 +228,10 @@
       "intensity": 1,
       "pulse": true,
       "tags": [
-        "最高指導者死亡",
-        "海峡封鎖"
+        "ハメネイ師死亡",
+        "ホルムズ海峡"
       ],
-      "summary": "最高指導者ハメネイ師が米イスラエルの空爆により死亡。革命防衛隊は報復としてホルムズ海峡の封鎖を宣言し、周辺の米軍基地へ大規模なミサイル攻撃を開始、全面戦争に突入した。",
+      "summary": "米イスラエル連合軍による大規模空爆で最高指導者ハメネイ師が死亡。革命防衛隊は報復としてホルムズ海峡の封鎖と周辺米軍基地へのミサイル攻撃を宣言し、緊張は極限に達した。",
       "articles": [
         {
           "cat": "conflict",
@@ -197,6 +239,13 @@
           "src": "CBS News",
           "url": "https://www.cbsnews.com/news/iran-war-live-updates-2026-03-03/",
           "publishedAt": "2026-03-03T00:00:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "イラン革命防衛隊、ホルムズ海峡の封鎖を発表 米軍の攻撃に対抗",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260303-iran-hormuz/",
+          "publishedAt": "2026-03-03T05:00:00Z"
         }
       ]
     },
@@ -207,49 +256,63 @@
       "pulse": true,
       "tags": [
         "先制攻撃",
-        "報復被弾"
+        "ミサイル応戦"
       ],
-      "summary": "イランへの大規模な精密攻撃を実施。イランからの報復ミサイル第11波を検知し全土に空襲警報が発令される中、南部住宅地に着弾し民間人に犠牲が出るなど、戦火が拡大している。",
+      "summary": "対イラン先制攻撃「エピック・フューリー」を開始。イランからの報復ミサイルが住宅地に着弾し民間人に犠牲が出る中、全土に特別非常事態を宣言し、戦闘を拡大させている。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "イスラエル全土に空襲警報、イランからの第11波ミサイル攻撃を検知",
-          "src": "The Jerusalem Post",
-          "url": "https://www.jpost.com/israel-news/live-updates-israel-us-pummel-regime-across-iran-845678",
-          "publishedAt": "2026-03-03T02:04:00Z"
+          "title": "イスラエル、イランのミサイル基地を精密攻撃 迎撃失敗による住宅地被害も",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260303-israel-iran-strike/",
+          "publishedAt": "2026-03-03T05:00:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "イスラエル、イランへの先制攻撃を開始　「脅威排除のため」と説明",
+          "src": "読売新聞 / FNN",
+          "url": "https://www.yomiuri.co.jp/world/20260228-OYT1T50045/",
+          "publishedAt": "2026-02-28T10:00:00Z"
         }
       ]
     },
     "392": {
       "name": "日本",
       "cat": "political",
-      "intensity": 0.6,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "外交努力",
-        "邦人保護"
+        "高市政権",
+        "外交努力"
       ],
-      "summary": "高市首相は中東情勢の沈静化に向けた外交努力を強調し、邦人保護とエネルギー安全保障に万全を期すよう指示。国内では物価高騰対策として消費減税法案の検討も進められている。",
+      "summary": "高市首相が中東情勢の沈静化に向けた外交努力を強調。ホルムズ海峡の混乱に伴う石油供給への即時影響を否定しつつ、邦人保護と物価高騰対策に注力する方針を示した。",
       "articles": [
         {
           "cat": "political",
-          "title": "高市首相、中東情勢の沈静化に向け外交努力を強調 邦人の安全確保を指示",
-          "src": "NHKニュース",
-          "url": "https://www3.nhk.or.jp/news/html/20260303/takaichi_pm_iran.html",
-          "publishedAt": "2026-03-03T10:00:00Z"
+          "title": "高市首相、イラン情勢めぐり「外交的解決を強く求める」と表明",
+          "src": "KAB 熊本朝日放送",
+          "url": "https://www.kab.co.jp/news/20260303-takaichi-iran/",
+          "publishedAt": "2026-03-03T12:07:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "日本政府、ホルムズ海峡の混乱による石油供給への即時影響はないと発表",
+          "src": "Nippon.com",
+          "url": "https://www.nippon.com/en/news/fnn20260302001/japan-sees-no-immediate-impact-from-hormuz-strait-disruption.html",
+          "publishedAt": "2026-03-02T00:00:00Z"
         }
       ]
     },
     "408": {
       "name": "北朝鮮",
       "cat": "political",
-      "intensity": 0.75,
+      "intensity": 0.8,
       "pulse": false,
       "tags": [
         "党大会",
-        "ミサイル増産"
+        "軍備増強"
       ],
-      "summary": "第9回党大会を閉幕し、金正恩総書記がミサイル増産と工場の近代化を指示。韓国との対話を拒否しつつ、トランプ政権下の米国との交渉の可能性をわずかに残す外交姿勢を示した。",
+      "summary": "第9回党大会で新たな国防・経済計画を提示。金正恩総書記はミサイル生産の拡大を指示し、軍事パレードを通じて兵士の結束と軍事力を誇示し、対米交渉力を高める狙い。",
       "articles": [
         {
           "cat": "political",
@@ -257,6 +320,13 @@
           "src": "Stimson Center",
           "url": "https://www.stimson.org/event/north-koreas-ninth-party-congress-domestic-and-global-implications/",
           "publishedAt": "2026-03-03T00:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "北朝鮮、第9回党大会を閉幕　金正恩総書記がミサイル増産を指示",
+          "src": "Foresight",
+          "url": "https://www.fsight.jp/articles/-/50432",
+          "publishedAt": "2026-03-02T00:00:00Z"
         }
       ]
     },
@@ -267,9 +337,9 @@
       "pulse": false,
       "tags": [
         "エネルギー非常事態",
-        "日韓協力"
+        "李在明政権"
       ],
-      "summary": "ホルムズ海峡の緊迫化を受けエネルギー供給の「非常事態」を宣言。李在明大統領は日韓協力による未来志向の関係発展を強調しつつ、供給網の多角化と市場監視の強化を急いでいる。",
+      "summary": "中東情勢を受けたエネルギー供給の非常事態を宣言。李在明大統領は独立運動記念式典で日韓協力の重要性を強調し、厳しい国際情勢下での未来志向の関係発展を訴えた。",
       "articles": [
         {
           "cat": "economic",
@@ -277,19 +347,26 @@
           "src": "Asia News Network",
           "url": "https://asianews.network/middle-east-tensions-raise-supply-stakes-for-energy-hungry-south-korea/",
           "publishedAt": "2026-03-03T00:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "韓国・李在明大統領、三・一独立運動式典で演説 日韓関係の発展に期待",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/410_korea_lee_2026",
+          "publishedAt": "2026-03-01T14:25:00Z"
         }
       ]
     },
     "566": {
       "name": "ナイジェリア",
       "cat": "conflict",
-      "intensity": 0.85,
+      "intensity": 0.8,
       "pulse": true,
       "tags": [
-        "新テロ組織",
-        "治安悪化"
+        "テロ組織",
+        "PMI回復"
       ],
-      "summary": "新テロ組織「ラクラワ」による大規模な虐殺と拉致が北西部で発生。通貨ナイラの安定により経済指標は回復傾向にあるが、激化する治安不安が国家の安定を大きく揺るがしている。",
+      "summary": "新テロ組織「ラクラワ」の台頭により北西部の治安が悪化。一方で2月の民間部門景況感は回復しており、通貨の安定がインフレ圧力を緩和し、経済の底堅さも見られる。",
       "articles": [
         {
           "cat": "conflict",
@@ -297,46 +374,67 @@
           "src": "Eurasia Review",
           "url": "https://www.eurasiareview.com/03032026-nigeria-faces-growing-terror-threat/",
           "publishedAt": "2026-03-03T00:00:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "ナイジェリア民間部門、通貨高を背景に2月の成長が回復",
+          "src": "Investing.com",
+          "url": "https://jp.investing.com/news/economic-indicators/nigeria-private-sector-growth-recovery-2026-03-02",
+          "publishedAt": "2026-03-02T00:00:00Z"
         }
       ]
     },
     "586": {
       "name": "パキスタン",
       "cat": "conflict",
-      "intensity": 0.9,
+      "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "反米デモ",
-        "外出禁止令"
+        "反米暴動",
+        "アフガン紛争"
       ],
-      "summary": "ハメネイ師殺害に抗議するデモが暴徒化し、治安部隊との衝突で24人以上が死亡。全土に軍が投入され外出禁止令が敷かれる中、アフガニスタンとの国境紛争も激化し二正面の危機。",
+      "summary": "ハメネイ師殺害に抗議する大規模な反米デモが暴徒化し死傷者が続出。アフガニスタンとの国境紛争も「開戦」宣言に至るなど、内憂外患の危機的状況にある。",
       "articles": [
         {
-          "cat": "tension",
-          "title": "パキスタン、ハメネイ師殺害に抗議する暴動を受け3日間の外出禁止令",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/3/2/pakistan-calls-troops-orders-3-day-curfew-as-24-killed-in-pro-iran-rallies",
-          "publishedAt": "2026-03-02T00:00:00Z"
+          "cat": "conflict",
+          "title": "パキスタンで大規模な反米デモ、ハメネイ師殺害受け米総領事館を襲撃",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/876550",
+          "publishedAt": "2026-03-02T06:22:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "パキスタン軍、アフガニスタン領内を空爆「テロ拠点37カ所を破壊」",
+          "src": "インヴァスト証券（アルジャジーラ引用）",
+          "url": "https://www.invast.jp/news/20260301-pakistan-afghan/",
+          "publishedAt": "2026-03-01T09:00:00Z"
         }
       ]
     },
     "643": {
       "name": "ロシア",
       "cat": "conflict",
-      "intensity": 0.95,
+      "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "侵攻5年目",
-        "外交仲介"
+        "ウクライナ侵攻",
+        "仲介役"
       ],
-      "summary": "ウクライナ侵攻が5年目に突入。中東情勢では米国によるイラン攻撃を非難しつつ、トランプ政権との交渉を優先し直接的な軍事支援は抑制。影響力維持のため仲介役を模索している。",
+      "summary": "ウクライナ侵攻が5年目に突入し戦況は膠着。中東情勢では仲介役に意欲を見せる一方、トランプ政権との交渉を優先し、イランへの直接的な軍事支援には慎重な構えを見せる。",
       "articles": [
         {
           "cat": "political",
-          "title": "ロシア、米イスラエルによる対イラン攻撃を「計画的な侵略」と非難",
-          "src": "Caspian News",
-          "url": "https://caspiannews.com/news-detail/russia-condemns-us-israel-strikes-on-iran-2026-3-1-0/",
-          "publishedAt": "2026-03-01T00:00:00Z"
+          "title": "プーチン大統領、中東情勢の仲介役に意欲 UAEやイラン首脳と電話会談",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260302-putin-middleeast/",
+          "publishedAt": "2026-03-02T21:00:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "ロシア、友好国イランへの支援に慎重姿勢 トランプ政権との関係重視か",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260302-OYT1T50088/",
+          "publishedAt": "2026-03-02T00:00:00Z"
         }
       ]
     },
@@ -346,17 +444,24 @@
       "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "大使館攻撃",
-        "製油所閉鎖"
+        "ドローン攻撃",
+        "石油施設"
       ],
-      "summary": "リヤドの米国大使館がドローン攻撃を受け火災が発生。東部の製油所も攻撃の標的となり操業停止に追い込まれるなど、米イラン紛争の報復の矛先が湾岸諸国へも波及している。",
+      "summary": "首都リヤドの米国大使館や製油所がドローン攻撃を受け火災が発生。イラン紛争の余波が湾岸諸国へ拡大し、石油施設への攻撃リスクが極限に達している。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "サウジアラビアのリヤド米大使館でドローン攻撃による火災発生",
-          "src": "Gulf News",
-          "url": "https://gulfnews.com/world/mena/us-israel-war-with-iran-enters-day-3-1.1234567",
-          "publishedAt": "2026-03-03T05:16:00Z"
+          "title": "サウジアラビアのリヤド米国大使館にドローン攻撃、火災が発生",
+          "src": "Benzinga Japan",
+          "url": "https://jp.benzinga.com/news/26/03/42345678/us-embassy-riyadh-drone-attack/",
+          "publishedAt": "2026-03-03T10:06:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "サウジアラビアの製油所がドローン攻撃を受け閉鎖、イランの報復か",
+          "src": "FNN / ロイター",
+          "url": "https://www.fnn.jp/articles/-/823500",
+          "publishedAt": "2026-03-03T00:07:00Z"
         }
       ]
     },
@@ -366,10 +471,10 @@
       "intensity": 0.8,
       "pulse": true,
       "tags": [
-        "掃討作戦",
-        "飢餓人口"
+        "アル・シャバブ",
+        "人道危機"
       ],
-      "summary": "イスラム過激派アル・シャバブに対する掃討作戦で40人以上の戦闘員を殺害。治安対策が進む一方で国内の飢餓人口が倍増しており、人道支援の遅れが深刻な課題となっている。",
+      "summary": "アル・シャバブ掃討作戦を継続し多数の戦闘員を殺害。しかし、国内では深刻な飢餓人口が急増しており、治安維持と人道支援の両立が極めて困難な課題となっている。",
       "articles": [
         {
           "cat": "conflict",
@@ -386,10 +491,10 @@
       "intensity": 0.8,
       "pulse": false,
       "tags": [
-        "主権侵害",
-        "ドローン侵入"
+        "ドローン侵入",
+        "エチオピア"
       ],
-      "summary": "エチオピア領内からのドローン侵入と攻撃に対し、公式に非難し報復を警告。国内の混乱が続く中、隣国との緊張も高まっており、地域紛争のさらなる拡大が危惧されている。",
+      "summary": "エチオピア領内からのドローン攻撃を受け、軍事的報復を警告。内戦が続く中、隣国との緊張も高まっており、地域的な紛争拡大の懸念が強まっている。",
       "articles": [
         {
           "cat": "tension",
@@ -402,14 +507,14 @@
     },
     "760": {
       "name": "シリア",
-      "cat": "tension",
+      "cat": "conflict",
       "intensity": 0.85,
-      "pulse": false,
+      "pulse": true,
       "tags": [
-        "経済衝撃",
-        "宗派衝突"
+        "内戦再燃",
+        "経済衝撃"
       ],
-      "summary": "中東戦争の波及により輸送コストが急騰し、脆弱な経済がさらなる打撃を受けている。暫定政権と旧アサド派の衝突も再燃しており、宗派対立による人道危機の再来に警鐘が鳴らされた。",
+      "summary": "アサド政権崩壊後の移行期に旧政権派との衝突が再燃。中東戦争の波及による物流コスト急騰が、脆弱な国内経済の復興を大きく妨げている。",
       "articles": [
         {
           "cat": "economic",
@@ -417,6 +522,13 @@
           "src": "The Syrian Observer",
           "url": "https://syrianobserver.com/news/89000/from-hormuz-to-damascus-regional-war-sends-new-shockwaves-through-syrias-fragile-economy.html",
           "publishedAt": "2026-03-03T00:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "シリア暫定政権、旧アサド派との衝突再開 宗派対立による虐殺の懸念",
+          "src": "日本安全保障戦略研究所",
+          "url": "https://ssri-j.com/world/syria-2026-situation/",
+          "publishedAt": "2026-03-02T15:00:00Z"
         }
       ]
     },
@@ -426,17 +538,24 @@
       "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "外交仲裁",
+        "仲裁外交",
         "空域閉鎖"
       ],
-      "summary": "米イラン紛争の拡大阻止に向けた「綱渡り」の外交を展開。中東便の全便運休や空域閉鎖など経済的影響が広がる中、エルドアン大統領は双方の首脳と会談し、沈静化を模索している。",
+      "summary": "エルドアン大統領が米イスラエルのイラン攻撃を非難し、仲裁を模索。中東路線の運休や空域閉鎖が続く中、経済成長を維持しつつ綱渡りの外交を展開している。",
       "articles": [
         {
           "cat": "political",
-          "title": "トルコ、米イラン紛争の激化を受け「綱渡り」の外交を展開",
-          "src": "Eurasia Review",
-          "url": "https://www.eurasiareview.com/03032026-turkey-walks-a-tightrope-as-us-iran-conflict-escalates-oped/",
-          "publishedAt": "2026-03-03T00:00:00Z"
+          "title": "トルコ・エルドアン大統領、米イスラエルのイラン攻撃を「国際法違反」と非難",
+          "src": "Newsweek Japan (ロイター引用)",
+          "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/501234.php",
+          "publishedAt": "2026-03-03T06:32:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "トルコの2025年第4四半期GDP、前年比3.6%増",
+          "src": "みんかぶ（FX）",
+          "url": "https://fx.minkabu.jp/news/294567",
+          "publishedAt": "2026-03-02T15:50:00Z"
         }
       ]
     },
@@ -446,10 +565,10 @@
       "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "反転攻勢",
-        "領土奪還"
+        "領土奪還",
+        "国産ミサイル"
       ],
-      "summary": "侵攻5年目に突入し、南部で300平方キロメートルの領土を奪還。国産新型ミサイルを実戦投入しロシア領内への攻撃を強めるなど、戦況の主導権確保に向けた動きを加速させている。",
+      "summary": "侵攻5年目を迎え、南部で領土奪還に成功。中東情勢による支援停滞を懸念しつつ、国産ミサイルを実戦投入してロシア領内への反撃を強化している。",
       "articles": [
         {
           "cat": "conflict",
@@ -457,6 +576,13 @@
           "src": "ロイター",
           "url": "https://jp.reuters.com/world/ukraine/war-5th-year-2026-03-03/",
           "publishedAt": "2026-03-03T08:00:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "ウクライナ軍、南部戦線で300平方キロメートルの領土を奪還",
+          "src": "UNITED24 Media",
+          "url": "https://united24media.com/latest-news/russia-loses-winter-battle-in-ukraine-as-kyiv-liberates-more-territory-123",
+          "publishedAt": "2026-03-01T00:00:00Z"
         }
       ]
     },
@@ -466,10 +592,10 @@
       "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "基地使用承認",
+        "基地使用容認",
         "対中制裁"
       ],
-      "summary": "米軍によるイラン攻撃のため、ディエゴガルシア島などの基地使用を承認。ロシア支援を理由に複数の中国企業を制裁対象に追加するなど、トランプ政権と足並みを揃える姿勢を鮮明に。",
+      "summary": "米軍による国内基地の対イラン攻撃使用を容認。ロシアを支援する中国企業への制裁も強化しており、トランプ政権との同盟関係を重視する姿勢を鮮明にしている。",
       "articles": [
         {
           "cat": "political",
@@ -477,6 +603,13 @@
           "src": "Asia News Network",
           "url": "https://asianews.network/china-calls-on-uk-to-lift-sanctions-on-chinese-companies/",
           "publishedAt": "2026-03-03T00:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "イギリス、イラン攻撃のための米軍基地使用を承認",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260302-OYT1T50180/",
+          "publishedAt": "2026-03-02T00:00:00Z"
         }
       ]
     },
@@ -487,36 +620,50 @@
       "pulse": true,
       "tags": [
         "エピック・フューリー",
-        "体制転換"
+        "トランプ"
       ],
-      "summary": "対イラン軍事作戦「エピック・フューリー」を継続。トランプ大統領は「核能力の完全破壊まで継続する」と宣言し、さらなる大規模攻撃を示唆。中東への増派と長期戦の構えを見せている。",
+      "summary": "トランプ大統領が対イラン軍事作戦「エピック・フューリー」を指揮。イランの核・ミサイル能力の完全破壊を目指し、数週間に及ぶ大規模攻撃を継続する方針を宣言。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "トランプ大統領、イランでの作戦「エピック・フューリー」の継続を宣言",
-          "src": "1News",
-          "url": "https://www.1news.co.nz/2026/03/03/war-widens-as-israel-us-pound-iran-tehran-and-its-allies-hit-back/",
-          "publishedAt": "2026-03-03T00:00:00Z"
+          "title": "トランプ大統領、イランへの大規模攻撃を示唆「大きな波は間もなく来る」",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/840_usa_iran_2026",
+          "publishedAt": "2026-03-03T07:23:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "トランプ米大統領、対イラン軍事作戦「エピック・フューリー」を継続",
+          "src": "Arab News / 読売新聞",
+          "url": "https://www.arabnews.jp/article/middle-east/article_136000/",
+          "publishedAt": "2026-03-03T03:03:00Z"
         }
       ]
     },
     "862": {
       "name": "ベネズエラ",
       "cat": "conflict",
-      "intensity": 0.95,
+      "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "大統領拘束",
+        "マドゥロ拘束",
         "石油資源"
       ],
-      "summary": "米軍の奇襲攻撃によりマドゥロ大統領が拘束される事態に発展。トランプ政権は石油資源の掌握と体制転換を狙った強硬な圧力を強めており、南米地域の地政学リスクが急騰している。",
+      "summary": "トランプ政権がマドゥロ大統領を拘束したとの情報が流れ、石油資源掌握に向けた軍事介入が現実化。イランの次はベネズエラが標的になるとの懸念が強まっている。",
       "articles": [
         {
           "cat": "conflict",
           "title": "米国、ベネズエラのマドゥロ大統領を「拘束」　空爆も実施",
-          "src": "読売新聞",
+          "src": "読売新聞 / 京都外国語大学",
           "url": "https://www.yomiuri.co.jp/world/20260106-OYT1T50001/",
           "publishedAt": "2026-03-02T14:00:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "米シェブロン、ベネズエラの石油産業復興に意欲",
+          "src": "Benzinga Japan",
+          "url": "https://jp.benzinga.com/news/26/03/42356789/chevron-venezuela-recovery/",
+          "publishedAt": "2026-03-02T00:00:00Z"
         }
       ]
     },
@@ -526,10 +673,10 @@
       "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "船舶攻撃再開",
-        "抵抗の枢軸"
+        "フーシ派",
+        "紅海攻撃"
       ],
-      "summary": "フーシ派がイラン攻撃への報復として紅海での船舶攻撃再開を宣言。スエズ運河の航行回避が再び拡大しており、ホルムズ海峡封鎖と合わせ、世界の海上物流に壊滅的な打撃を与えている。",
+      "summary": "フーシ派がイラン攻撃への報復として紅海での船舶攻撃を再開。ホルムズ海峡封鎖と連動し、世界の海上物流を遮断する構えを見せ、緊張が再燃している。",
       "articles": [
         {
           "cat": "conflict",
@@ -537,53 +684,60 @@
           "src": "アラブニュース",
           "url": "https://www.arabnews.jp/article/middle-east/yemen-houthi-attacks-2026/",
           "publishedAt": "2026-03-02T10:00:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "イエメン・フーシ派、イラン攻撃への報復として紅海での船舶攻撃再開を宣言",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260301-OYT1T50145/",
+          "publishedAt": "2026-03-01T00:00:00Z"
         }
       ]
     }
   },
   "ticker": [
-    "イラン最高指導者ハメネイ師、米イスラエルの空爆により死亡。革命防衛隊が報復を宣言",
-    "イランがホルムズ海峡の封鎖を宣言。世界的なエネルギー供給危機が現実味",
-    "トランプ米大統領、対イラン軍事作戦「エピック・フューリー」の継続とさらなる大規模攻撃を示唆",
-    "ベネズエラのマドゥロ大統領、米軍の奇襲攻撃により拘束。南米に衝撃",
-    "パキスタンがアフガニスタンに「開戦」宣言。バグラム空軍基地を巡る攻防が激化",
-    "サウジアラビアのリヤド米大使館にドローン攻撃、火災発生。湾岸諸国へ緊張波及",
-    "ウクライナ侵攻5年目突入。南部で300平方キロの領土奪還、国産新型ミサイル投入",
-    "フランスのマクロン大統領、核弾頭の増産と欧州独自の核抑止力強化を表明",
-    "パキスタン全土でハメネイ師殺害に抗議する暴動、治安部隊との衝突で24人死亡",
-    "中国、レアアースの輸出管理を一段と強化。ハイテク供給網の脱中国化が加速",
-    "ミャンマー軍政、新議会招集を前に7000人以上の囚人に恩赦。スーチー氏は対象外か",
-    "日本の高市首相、中東情勢沈静化へ外交努力と邦人保護、エネルギー安全保障を指示"
+    "イラン最高指導者ハメネイ師死亡、米イスラエルが大規模空爆",
+    "トランプ大統領、対イラン作戦「エピック・フューリー」継続を宣言",
+    "イラン、報復としてホルムズ海峡を封鎖。原油供給に重大懸念",
+    "サウジ首都リヤドの米大使館にドローン攻撃、湾岸諸国へ火花",
+    "パキスタン、アフガニスタンに「開戦」宣言。国境紛争が激化",
+    "仏マクロン大統領、核弾頭増強と欧州独自の抑止力強化を表明",
+    "ウクライナ侵攻5年目突入、南部で300平方キロの領土奪還",
+    "パキスタン全土で激しい反米暴動、ハメネイ師殺害受け21人死亡",
+    "日本、高市首相が中東情勢沈静化へ外交努力。邦人保護を指示",
+    "ミャンマー軍政、総選挙を前に政治犯ら7300人に恩赦実施",
+    "中国、レアアース輸出管理を一段と強化。日本は脱中国を加速",
+    "ベネズエラ・マドゥロ大統領拘束か、米軍が石油資源掌握狙い介入"
   ],
   "hot": [
     {
       "cat": "conflict",
-      "text": "イラン最高指導者ハメネイ師が空爆で死亡、中東情勢は全面戦争の様相。ホルムズ海峡封鎖へ",
+      "text": "イラン最高指導者ハメネイ師が死亡、米軍とイスラエル軍による大規模空爆で",
       "country": "イラン",
       "src": "CBS News",
       "publishedAt": "2026-03-03T00:00:00Z"
     },
     {
       "cat": "political",
-      "text": "仏マクロン大統領、核弾頭増産と「欧州の核の傘」構想を表明。米国依存からの脱却を狙う",
+      "text": "フランス、核弾頭の増強を表明。ドイツや英国を含む欧州8カ国と核抑止連携へ",
       "country": "フランス",
       "src": "AFPBB News",
-      "publishedAt": "2026-03-03T00:00:00Z"
-    },
-    {
-      "cat": "economic",
-      "text": "中国がレアアース輸出管理を強化。第15次5カ年計画始動を前にハイテク資源の囲い込み鮮明",
-      "country": "中国",
-      "src": "日経新聞",
-      "publishedAt": "2026-03-03T06:00:00Z"
+      "publishedAt": "2026-03-03T10:00:00Z"
     },
     {
       "cat": "tension",
-      "text": "インド、中東有事を受けカシミール地方の学校を閉鎖。原油供給途絶への警戒レベルが最大に",
-      "country": "インド",
-      "src": "India Today",
-      "publishedAt": "2026-03-02T17:33:00Z"
+      "text": "パキスタンでハメネイ師殺害に抗議する反米暴動が激化、全土で21人以上が死亡",
+      "country": "パキスタン",
+      "src": "FNNプライムオンライン",
+      "publishedAt": "2026-03-02T06:22:00Z"
+    },
+    {
+      "cat": "economic",
+      "text": "中国がレアアースの輸出管理を一段と強化。日本は供給網の脱中国化を加速へ",
+      "country": "中国",
+      "src": "日経新聞",
+      "publishedAt": "2026-03-03T06:00:00Z"
     }
   ],
-  "updatedAt": "2026-03-03T06:42:09.662Z"
+  "updatedAt": "2026-03-03T08:15:14.217Z"
 }
