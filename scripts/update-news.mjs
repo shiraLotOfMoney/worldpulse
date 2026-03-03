@@ -25,99 +25,67 @@ const COUNTRY_NAMES = {
 const COUNTRY_CODES = Object.keys(COUNTRY_NAMES);
 
 // ── Prompt ──
-const prompt = `あなたは国際ニュースの専門アナリストです。Google検索で最新のニュースを調べて、以下のJSON構造でニュースデータを出力してください。JSONオブジェクトのみを返し、前後に余分なテキストやコードブロック記号（\`\`\`）は含めないこと。
+const now = new Date().toISOString();
+const prompt = `現在日時: ${now}
 
-現在の日時: ${new Date().toISOString()}
+【ミッション】以下の27カ国・地域について、今この瞬間の最新ニュースをGoogle検索で調査し、実際に見つけた記事の情報だけを使ってJSONを出力すること。
 
-以下の27カ国について、最新の実際の国際ニュースに基づいた情報を生成してください。架空のニュースではなく、実際に報道されている内容や直近の情勢を要約してください。
+【ステップ1: 調査】
+次の国・地域それぞれについてGoogle検索を実行し、過去72時間以内に報道された実際のニュース記事を探せ。
+検索クエリの例: "Ukraine war news today", "Israel Gaza latest", "North Korea missile 2026" など、英語・日本語どちらでも使ってよい。
 
-対象国 (ISOコード: 国名):
+調査対象 (ISOコード: 国名):
 ${Object.entries(COUNTRY_NAMES).map(([code, name]) => `${code}: ${name}`).join('\n')}
 
-カテゴリは4種類: "conflict" (紛争・戦争), "tension" (緊張・不安定), "political" (政治ニュース), "economic" (経済ニュース)
-
-出力するJSONの構造:
+【ステップ2: 出力】
+ステップ1で実際に検索して見つけた内容のみを使い、以下のJSON形式で出力せよ。
+検索結果が見つからなかった国は直近の既知情勢で補完してよいが、その場合urlはnullにすること。
+JSONオブジェクトのみを返し、コードブロック記号（\`\`\`）や前後の説明文は一切含めないこと。
 
 {
   "news": {
     "804": {
       "name": "ウクライナ",
       "cat": "conflict",
-      "intensity": 0.0から1.0の数値,
+      "intensity": 0.95,
       "pulse": true,
-      "tags": ["タグ1", "タグ2"],
-      "summary": "50〜80文字の状況要約",
+      "tags": ["紛争", "人道危機"],
+      "summary": "検索で確認した直近の状況を50〜80文字で要約",
       "articles": [
         {
           "cat": "conflict",
-          "title": "ニュース見出し（40〜60文字）",
-          "src": "情報源名",
-          "url": "https://...",
+          "title": "実際の記事見出しを日本語で40〜60文字",
+          "src": "Reuters",
+          "url": "https://実際の記事URL",
           "publishedAt": "2026-03-02T07:30:00Z"
         }
       ]
     }
   },
   "ticker": [
-    "速報テキスト1（30〜50文字）",
-    "速報テキスト2",
-    "速報テキスト3",
-    "速報テキスト4",
-    "速報テキスト5",
-    "速報テキスト6",
-    "速報テキスト7",
-    "速報テキスト8",
-    "速報テキスト9",
-    "速報テキスト10",
-    "速報テキスト11",
-    "速報テキスト12"
+    "検索で確認した速報12件（各30〜50文字）",
+    "速報2", "速報3", "速報4", "速報5", "速報6",
+    "速報7", "速報8", "速報9", "速報10", "速報11", "速報12"
   ],
   "hot": [
-    {
-      "cat": "conflict",
-      "text": "注目ニューステキスト（30〜50文字）",
-      "country": "国名",
-      "src": "情報源名",
-      "publishedAt": "2026-03-02T07:30:00Z"
-    },
-    {
-      "cat": "political",
-      "text": "注目ニューステキスト2",
-      "country": "国名",
-      "src": "情報源名",
-      "publishedAt": "2026-03-02T06:00:00Z"
-    },
-    {
-      "cat": "tension",
-      "text": "注目ニューステキスト3",
-      "country": "国名",
-      "src": "情報源名",
-      "publishedAt": "2026-03-02T05:00:00Z"
-    },
-    {
-      "cat": "economic",
-      "text": "注目ニューステキスト4",
-      "country": "国名",
-      "src": "情報源名",
-      "publishedAt": "2026-03-02T04:00:00Z"
-    }
+    { "cat": "conflict",  "text": "検索で確認した最重要ニュース30〜50文字", "country": "国名", "src": "Reuters",  "publishedAt": "2026-03-02T07:00:00Z" },
+    { "cat": "political", "text": "注目ニュース2",                          "country": "国名", "src": "BBC",      "publishedAt": "2026-03-02T06:00:00Z" },
+    { "cat": "tension",   "text": "注目ニュース3",                          "country": "国名", "src": "AP",       "publishedAt": "2026-03-02T05:00:00Z" },
+    { "cat": "economic",  "text": "注目ニュース4",                          "country": "国名", "src": "FT",       "publishedAt": "2026-03-02T04:00:00Z" }
   ]
 }
 
-ルール:
-1. すべて日本語で記載すること
-2. newsオブジェクトのキーはISO 3166-1 数値コード（文字列）を使うこと
-3. 各国のarticlesは2〜4件
-4. catは "conflict", "tension", "political", "economic" のいずれか
-5. pulseはconflictカテゴリの国のみtrue、それ以外はfalseまたは省略
-6. intensityはconflictが0.7〜1.0、tensionが0.6〜0.85、political/economicが0.5〜0.85
-7. tickerはちょうど12件の速報テキスト（世界の主要ニュースを幅広く）
-8. hotはちょうど4件の注目ニュース（異なるカテゴリを含める）
-9. 情報源名は実在するメディア名を使用（Reuters, BBC, CNN, AP, 日経, 読売, WSJ, FT, Guardian 等）
-10. publishedAtはISO 8601形式（例: "2026-03-02T07:30:00Z"）で指定する。現在時刻から最大1週間前までの範囲で、記事の性質に合わせたリアルなタイムスタンプを生成すること
-11. 必ずGoogle検索で最新ニュースを調べて内容に反映すること。検索結果に基づいた実際の報道内容を使用すること
-13. articlesのurlは検索で見つけた実際の記事URLを記載すること。見つからない場合はnullにすること
-12. 27カ国すべてについてデータを含めること（欠落させないこと）`;
+【出力ルール】
+- すべて日本語で記載（見出し・要約・タグ・速報テキスト）
+- newsのキーはISO 3166-1数値コード（文字列）
+- articles: 各国2〜4件。urlは検索で取得した実際のURL、なければnull
+- publishedAt: ISO 8601形式。検索結果の実際の公開日時を使うこと
+- cat: "conflict" / "tension" / "political" / "economic" のいずれか
+- pulse: conflictのみtrue
+- intensity: conflict=0.7〜1.0 / tension=0.6〜0.85 / political・economic=0.5〜0.85
+- ticker: ちょうど12件
+- hot: ちょうど4件、異なるcatを含める
+- 27カ国すべてを含めること`;
 
 // ── Validation ──
 function validate(data) {
