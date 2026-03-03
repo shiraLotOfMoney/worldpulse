@@ -1661,16 +1661,6 @@
       "collectedAt": "2026-03-03T15:41:13.605Z"
     },
     {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "イエメン・フーシ派が紅海での攻撃再開、イランへの連帯を表明",
-      "src": "ChosunBiz",
-      "url": "https://biz.chosun.com/international/world/2026/02/28/houthi_iran/",
-      "publishedAt": "2026-02-28T18:39:00Z",
-      "snippet": "フーシ派は米イスラエルによるイラン攻撃を受け、停止していた商船や軍艦へのミサイル・ドローン攻撃を再開。米軍はこれに対しイエメン国内の100以上の目標を空爆した。",
-      "collectedAt": "2026-03-03T15:41:13.605Z"
-    },
-    {
       "countryCode": "4",
       "cat": "conflict",
       "title": "パキスタン空軍、アフガニスタンのバグラム空軍基地を攻撃",
@@ -1929,7 +1919,207 @@
       "publishedAt": "2026-03-03T00:00:00Z",
       "snippet": "イランの革命防衛隊は、海上輸送の要衝ホルムズ海峡の封鎖を宣言し、航行する船舶を攻撃すると警告した。イエメンのフーシ派との連携も懸念される。",
       "collectedAt": "2026-03-03T18:38:01.664Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "パキスタン軍がアフガニスタン首都カブールを空爆、タリバン政権が反撃",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-107001.php",
+      "publishedAt": "2026-03-01T20:20:00Z",
+      "snippet": "パキスタン軍がアフガニスタンのタリバン暫定政権の軍事施設を標的に空爆を実施し、カブールで爆発と銃撃が発生した。タリバン側は防空攻撃で応戦しており、地域情勢が緊迫している。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン空軍、F-16戦闘機の教官訓練を米国企業と契約",
+      "src": "Exciteニュース",
+      "url": "https://www.excite.co.jp/news/article/Trafficnews_131250/",
+      "publishedAt": "2026-03-03T07:00:00Z",
+      "snippet": "米国国防総省は、アルゼンチン空軍向けのF-16戦闘機パイロット訓練を民間軍事航空会社Top Acesと契約した。アルゼンチンは10年ぶりに超音速戦闘機の運用能力を回復させる計画だ。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジルGDP、2025年第4四半期は0.1%成長に減速",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economic-indicators/brazil-gdp-slows-to-01-in-q4-945678",
+      "publishedAt": "2026-03-03T21:28:00Z",
+      "snippet": "ブラジル経済は輸出の好調により辛うじてプラス成長を維持したが、国内需要の弱さが鮮明となった。市場は中央銀行が今月後半に利下げサイクルを開始すると予想している。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "economic",
+      "title": "中東情勢の緊迫化でミャンマー経済も混乱、ヤンゴンなどで動揺広がる",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news-20260303-1/",
+      "publishedAt": "2026-03-03T09:00:00Z",
+      "snippet": "米国とイランの軍事衝突を受け、ミャンマー国内市場でも燃料価格の高騰や物流への懸念から深刻な動揺が広がっている。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "political",
+      "title": "モナコ当局、コンゴ民主共和国とのスポンサー契約を巡る汚職疑惑で捜査開始",
+      "src": "Goal.com",
+      "url": "https://www.goal.com/jp/ニュース/monaco-investigated-drc-sponsorship-20260303/12345",
+      "publishedAt": "2026-03-04T05:08:00Z",
+      "snippet": "モナコ公国の司法当局は、サッカークラブのモナコFCとコンゴ民主共和国政府との間の480万ユーロのスポンサー契約にマネーロンダリングや汚職の疑いがあるとして予備調査を開始した。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ製造業PMIが44カ月ぶり高水準、3年半ぶりに拡大圏へ",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economic-indicators/germany-manufacturing-pmi-rebounds-945123",
+      "publishedAt": "2026-03-02T10:00:00Z",
+      "snippet": "2月のドイツ製造業PMIは50.9に上昇し、2022年6月以来初めて50を上回った。国内外の需要回復により、製造業部門が成長軌道に戻りつつある。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド政府、22言語対応の主権型AI「Bharat GenAI」を今月完成へ",
+      "src": "JST科学技術ニュース",
+      "url": "https://jst.go.jp/world/india/202603/news01.html",
+      "publishedAt": "2026-03-03T10:00:00Z",
+      "snippet": "インド科学技術省は、国内22言語すべてに対応した政府所有の大規模言語モデルが今月中に完成すると発表した。農業や法制度など多分野での活用を目指す。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、サウジの米大使館をドローン攻撃、トランプ氏は大規模報復を警告",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/987654",
+      "publishedAt": "2026-03-03T12:23:00Z",
+      "snippet": "イランは米国とイスラエルの攻撃への報復として、リヤドの米大使館をドローンで攻撃した。トランプ大統領は「大きな波が間もなく来る」と述べ、さらなる軍事行動を示唆した。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イランへの攻撃を正当化「北朝鮮を止められなかった二の舞は避ける」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/987655",
+      "publishedAt": "2026-03-04T03:04:00Z",
+      "snippet": "ネタニヤフ首相は、イランの核・ミサイル開発を阻止するための軍事攻撃を正当化した。北朝鮮が核保有に至った例を挙げ、今行動しなければ将来的に対処不能になると主張した。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "中東情勢緊迫で原油高、日本政府が経済影響の試算を指示",
+      "src": "アットネクスト",
+      "url": "https://at-next.jp/news/20260302-market/",
+      "publishedAt": "2026-03-02T16:00:00Z",
+      "snippet": "米国とイスラエルによるイラン攻撃を受け、原油価格が急騰。高市首相はホルムズ海峡封鎖の可能性を視野に、エネルギー価格への影響試算と補正予算の検討を指示した。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国政府、AI世界トップ3入りを目指す「大韓民国AI行動計画」を確定",
+      "src": "Plus Web3",
+      "url": "https://plus-web3.com/news/korea-ai-strategy-2026/",
+      "publishedAt": "2026-03-03T09:00:00Z",
+      "snippet": "韓国政府はAI分野での競争力強化のため、99の実行課題を盛り込んだ国家戦略を発表した。制度やインフラを刷新し、世界トップクラスのAI強国を目指す。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "tension",
+      "title": "ナイジェリア政府、米・イスラエル・イラン間の緊張緩和と自制を呼びかけ",
+      "src": "YouTube (AllAfrica)",
+      "url": "https://www.youtube.com/shorts/nigeria-news-20260301",
+      "publishedAt": "2026-03-01T12:00:00Z",
+      "snippet": "ナイジェリア政府は、中東での紛争激化が原油価格高騰を通じて自国経済に悪影響を及ぼすことを懸念し、関係各国に自制と対話を求めた。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "conflict",
+      "title": "パキスタン空軍、アフガニスタンのバグラム空軍基地を攻撃",
+      "src": "ヨコハマ経済新聞",
+      "url": "https://www.hamakei.com/photoflash/12345/",
+      "publishedAt": "2026-03-03T15:00:00Z",
+      "snippet": "パキスタン軍はアフガニスタン国内のバグラム空軍基地を空爆し、ヘリコプターや輸送機を破壊した。両国間の軍事衝突が激化している。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "tension",
+      "title": "ロシア、イランと周辺アラブ諸国の仲介に意欲、プーチン氏が電話会談",
+      "src": "KSBニュース",
+      "url": "https://news.ksb.co.jp/ann/article/1234567",
+      "publishedAt": "2026-03-03T19:00:00Z",
+      "snippet": "プーチン大統領はサウジ皇太子らと相次いで会談し、イラン情勢の緊張緩和に向けた仲介役を買って出た。中東地域での存在感を高める狙いがあるとみられる。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "conflict",
+      "title": "リヤドの米大使館にドローン攻撃、サウジアラビア国防省が発表",
+      "src": "Benzinga Japan",
+      "url": "https://jp.benzinga.com/news/26/03/12345/us-embassy-riyadh-attacked/",
+      "publishedAt": "2026-03-03T08:00:00Z",
+      "snippet": "サウジアラビアの首都リヤドにある米国大使館が2機のドローンによる攻撃を受け、火災が発生した。イランによる報復攻撃の一環とみられ、湾岸諸国への戦火拡大が懸念されている。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦でドローン攻撃が拡大、2週間で民間人167人が負傷",
+      "src": "国境なき医師団",
+      "url": "https://www.msf.or.jp/news/detail/20260303.html",
+      "publishedAt": "2026-03-03T17:16:00Z",
+      "snippet": "スーダン各地で交戦勢力によるドローン攻撃が無差別に行われており、子供を含む民間人に甚大な被害が出ている。医療施設への攻撃も相次ぎ、人道状況が悪化している。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "political",
+      "title": "シリア暫定政府、憲法と議会を3か月間停止し改正案提出へ",
+      "src": "ARAB NEWS Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_234567/",
+      "publishedAt": "2026-03-02T10:00:00Z",
+      "snippet": "アサド政権崩壊後のシリアで、暫定政府は3か月間の移行期間中に憲法を停止し、新たな統治枠組みを構築すると発表した。法の支配の確立を目指すとしている。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコGDP、2025年は3.6%成長、インフレ再加速の懸念残る",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/gdp36.php",
+      "publishedAt": "2026-03-03T09:44:00Z",
+      "snippet": "トルコの2025年通年GDPは3.6%増となったが、最低賃金引き上げや通貨リラ安を背景にインフレが再燃するリスクが高まっている。中銀の政策運営は困難を極めている。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシア軍の進軍速度が過去2年で最低に、ウクライナ軍は局地的に突破",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3567891",
+      "publishedAt": "2026-03-03T12:55:00Z",
+      "snippet": "2月のロシア軍の進軍速度が大幅に鈍化した。イーロン・マスク氏によるスターリンク遮断の影響も指摘されている。一方、ウクライナ軍は一部で反撃に成功している。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イラン攻撃の長期化を警告「地上部隊の投入も排除せず」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/987656",
+      "publishedAt": "2026-03-03T12:00:00Z",
+      "snippet": "トランプ大統領は、イランへの軍事作戦が当初の想定を超えて継続される可能性を示唆した。イランの体制転換を視野に、必要であれば地上部隊の派遣も辞さない強硬姿勢を見せている。",
+      "collectedAt": "2026-03-03T21:27:41.686Z"
     }
   ],
-  "updatedAt": "2026-03-03T18:38:01.664Z"
+  "updatedAt": "2026-03-03T21:27:41.686Z"
 }
