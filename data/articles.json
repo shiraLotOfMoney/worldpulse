@@ -901,16 +901,6 @@
       "collectedAt": "2026-03-03T06:40:33.046Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、イランへの先制攻撃を開始と発表",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260228-OYT1T50000/",
-      "publishedAt": "2026-02-28T09:00:00Z",
-      "snippet": "イスラエル国防省は2月28日、イランへの先制攻撃を開始した。イランからの報復ミサイル攻撃を警戒し、全土に特別非常事態を宣言している。",
-      "collectedAt": "2026-03-03T06:40:33.046Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "「国民会議」実務者協議が始動、自民・維新・みらいが顔合わせ",
@@ -1071,16 +1061,6 @@
       "collectedAt": "2026-03-03T08:13:54.999Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、イランへの先制攻撃を開始 「脅威排除のため」と国防省",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260228-OYT1T50010/",
-      "publishedAt": "2026-02-28T09:00:00Z",
-      "snippet": "イスラエル国防省は28日朝、イランに対する大規模な先制攻撃を開始したと発表。全土に特別非常事態を宣言し、イランからのミサイル報復に備え警戒を強めている。",
-      "collectedAt": "2026-03-03T08:13:54.999Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "高市首相、イラン情勢めぐり「外交的解決を強く求める」と表明",
@@ -1211,16 +1191,6 @@
       "collectedAt": "2026-03-03T08:28:17.549Z"
     },
     {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インドGDP、日本を抜き世界第4位の経済大国に 2026年までに4.5兆ドル到達予測",
-      "src": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ja/giai-ma-ky-tich-kinh-te-an-do-vuot-nhat-ban-nham-toi-top-3-the-gioi/",
-      "publishedAt": "2026-02-28T09:00:00Z",
-      "snippet": "インド政府の経済報告によると、インドのGDPは4.18兆ドルに達し日本を追い抜いた。IMFは2026年までに4.51兆ドルに達し、アジアにおける象徴的な逆転が起きると予測している。",
-      "collectedAt": "2026-03-03T08:28:17.549Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン最高指導者ハメネイ師が死亡、米・イスラエルの攻撃受け体制転換点へ",
@@ -1319,7 +1289,167 @@
       "publishedAt": "2026-03-02T15:00:00Z",
       "snippet": "トランプ大統領はイランへの軍事作戦について、4〜5週間以上継続する能力があると強調した。また、ベネズエラ統治への数年間にわたる関与の可能性も示唆している。",
       "collectedAt": "2026-03-03T08:28:17.549Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "アフガニスタンとパキスタンが国境地帯で大規模衝突、双方に多数の死者",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-107123.php",
+      "publishedAt": "2026-03-01T20:20:00Z",
+      "snippet": "パキスタン軍がアフガニスタンのバグラム空軍基地などを空爆し、タリバン暫定政権が応戦。国境付近での戦闘により双方で180人以上の兵士が死亡し、緊張が極限に達している。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン上院、ミレイ大統領の看板政策「大規模労働改革法案」を可決",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy/article-987654",
+      "publishedAt": "2026-02-28T23:00:00Z",
+      "snippet": "ハビエル・ミレイ大統領が推進する労働市場の柔軟化を目的とした改革法案が上院で承認された。大統領は3月にニューヨークを訪問し、ウォール街の投資家に経済再建をアピールする予定。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "中東情勢緊迫によるブラジル経済への影響、貿易面では限定的との見方",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/260303-21economy.html",
+      "publishedAt": "2026-03-03T05:00:00Z",
+      "snippet": "米国・イスラエルによるイラン攻撃を受け、ブラジル政府は外交解決を強調。イランとの直接貿易額は少ないため影響は軽微だが、原油高によるインフレ圧力への懸念が広がっている。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国、全人代が3月5日開幕へ 「第15次5カ年計画」始動に注目",
+      "src": "人民網日本語版",
+      "url": "http://j.people.com.cn/n3/2026/0303/c94474-20281234.html",
+      "publishedAt": "2026-03-03T16:02:00Z",
+      "snippet": "全国人民代表大会（全人代）が5日に開幕する。2025年のGDP成長率5.0%達成を受け、新たな5カ年計画で内需拡大やハイテク産業の自立をいかに進めるかが焦点となる。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス、核弾頭の増強方針を発表 欧州独自の抑止力強化へ",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260303-OYT1T50123/",
+      "publishedAt": "2026-03-03T03:17:00Z",
+      "snippet": "マクロン大統領は核弾頭の保有数を増やす方針を表明。トランプ米政権の欧州関与低下を見据え、ドイツや英国など欧州8カ国と連携して「欧州の核の傘」を構築する構想を示した。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン最高指導者ハメネイ師が死亡、米イスラエルによる空爆作戦で",
+      "src": "The HEADLINE",
+      "url": "https://theheadline.jp/articles/20260301-iran-crisis",
+      "publishedAt": "2026-03-01T10:00:00Z",
+      "snippet": "米国とイスラエルがイラン各地を空爆し、最高指導者ハメネイ師を含む指導部を標的とした大規模作戦を実施。イラン政府はハメネイ師の死亡を認め、革命防衛隊が報復を宣言した。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イランへの直接攻撃を実施 ガザでは人道状況がさらに悪化",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-107125.php",
+      "publishedAt": "2026-03-03T08:02:00Z",
+      "snippet": "イスラエル軍は米国と共同でイランの核・ミサイル施設を攻撃。一方、ガザ地区では検問所封鎖により燃料と食料が枯渇寸前となり、深刻な飢餓状態が続いている。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、中旬の訪米でトランプ大統領と会談へ イラン情勢を協議",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260303-takaichi-us-visit/",
+      "publishedAt": "2026-03-03T12:07:00Z",
+      "snippet": "衆院予算委員会で高市早苗首相は、中東情勢の緊迫化を受け、訪米時にトランプ大統領と直接協議する意向を表明。原油高騰への経済対策についても国会で議論が交わされた。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国・李在明大統領、独立記念式典で日韓関係の未来志向を強調",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/1567891",
+      "publishedAt": "2026-03-01T14:25:00Z",
+      "snippet": "李在明（イ・ジェミョン）大統領は就任後初の「三・一独立運動」式典で演説。厳しい国際情勢の中で日韓が協力すべきだと述べ、高市首相とのシャトル外交継続に意欲を示した。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "ナイジェリア民間部門、2月に成長回復 通貨ナイラ安定でインフレ緩和",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economic-indicators/article-987655",
+      "publishedAt": "2026-03-02T10:00:00Z",
+      "snippet": "ナイジェリアの2月のPMIが53.2に上昇し、民間部門の活動が拡大。通貨ナイラの安定により輸入コストの上昇が抑えられ、新規受注と雇用が大幅に増加した。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "tension",
+      "title": "パキスタンで激しい反米・反イスラエルデモ、全土で21人が死亡",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/1567892",
+      "publishedAt": "2026-03-02T06:22:00Z",
+      "snippet": "イランのハメネイ師殺害を受け、カラチの米総領事館にデモ隊が乱入。治安部隊との衝突により全土で死傷者が相次いでおり、政府は国民に冷静な対応を呼びかけている。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍の進軍速度が過去2年で最低に ウクライナ侵攻4年で膠着鮮明",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3567890",
+      "publishedAt": "2026-03-03T09:00:00Z",
+      "snippet": "ウクライナ前線でのロシア軍の進軍が2月に大幅鈍化。侵攻開始から4年が経過し、戦況は膠着状態にある。一方、ロシアは北朝鮮兵1万人以上を戦線に投入していると報じられた。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦でドローン攻撃が激化、民間人の犠牲と飢餓が深刻化",
+      "src": "国境なき医師団",
+      "url": "https://www.msf.or.jp/news/detail/headline/sudan-20260303.html",
+      "publishedAt": "2026-03-03T10:00:00Z",
+      "snippet": "スーダン国軍と即応支援部隊（RSF）の戦闘が長期化。前線から離れた場所でもドローン攻撃が行われ、医療施設や民間インフラが破壊されている。3月末には食料備蓄が底をつく恐れがある。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ、2025年の成長率は3.6%に加速もリラ安とインフレ懸念続く",
+      "src": "第一生命経済研究所",
+      "url": "https://www.dlri.co.jp/report/macro/20260303.html",
+      "publishedAt": "2026-03-03T15:00:00Z",
+      "snippet": "トルコの2025年第4四半期GDPは前年比3.6%増。中東情勢の悪化による原油高やドル高がリラ安を誘発しており、インフレ抑制が依然として最大の課題となっている。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ侵攻4年、ゼレンスキー大統領が和平協議の継続を表明",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-107126.php",
+      "publishedAt": "2026-03-03T10:20:00Z",
+      "snippet": "全面侵攻から4年を迎え、ゼレンスキー大統領は中東紛争による米国の武器供給停滞に懸念を示した。一方で、5日から予定されているロシアとの和平協議は中止せず、場所を変更して実施する意向。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イラン攻撃の正当性を主張「大きな波はこれから来る」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/1567894",
+      "publishedAt": "2026-03-03T05:00:00Z",
+      "snippet": "トランプ大統領はイランへの軍事攻撃について、核開発阻止とテロ対策のための「壮絶な怒り作戦」であると宣言。さらに大規模な第2波攻撃の可能性を示唆し、中東全域で緊張が高まっている。",
+      "collectedAt": "2026-03-03T09:35:11.231Z"
     }
   ],
-  "updatedAt": "2026-03-03T08:28:17.549Z"
+  "updatedAt": "2026-03-03T09:35:11.231Z"
 }
