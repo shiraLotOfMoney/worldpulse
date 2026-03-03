@@ -580,7 +580,10 @@ function buildHotStories() {
     <div class="hs-card ${catClass[h.cat] || ''}" data-country="${h.country}" style="cursor:pointer">
       <div class="hs-tag" style="color:${colMap[h.cat]}">${CAT_LABEL[h.cat]}</div>
       <div class="hs-title">${h.text}</div>
-      <div class="hs-meta">${h.country}${h.src ? ` · ${h.src}` : ''} · ${timeAgo(h.publishedAt || h.time)}</div>
+      <div class="hs-meta">
+        <span class="hs-meta-left">${h.country}${h.src ? ` · ${h.src}` : ''} · ${timeAgo(h.publishedAt || h.time)}</span>
+        <span class="hs-arrow">→</span>
+      </div>
     </div>
   `).join('');
 

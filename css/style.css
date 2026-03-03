@@ -125,23 +125,30 @@ body::after {
 /* ─── HOT STORIES (bottom strip) ─── */
 #hot-stories {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
-  display: flex; flex-direction: row;
-  height: 150px;
-  background: rgba(3,12,24,0.96);
+  display: flex; flex-direction: row; gap: 10px;
+  height: 160px;
+  padding: 12px 16px;
+  background: rgba(2,9,20,0.98);
   border-top: 1px solid var(--border);
 }
 .hs-card {
   flex: 1;
-  border-top: 4px solid var(--conflict);
-  border-right: 1px solid var(--border);
-  padding: 16px 24px;
+  background: rgba(255,255,255,0.035);
+  border: 1px solid rgba(255,255,255,0.09);
+  border-top: 3px solid var(--conflict);
+  border-radius: 6px;
+  padding: 14px 18px;
   cursor: pointer;
-  transition: background 0.2s;
+  transition: transform 0.22s ease, background 0.22s, box-shadow 0.22s;
   overflow: hidden;
-  display: flex; flex-direction: column; justify-content: space-between;
+  display: flex; flex-direction: column;
+  position: relative;
 }
-.hs-card:last-child { border-right: none; }
-.hs-card:hover { background: rgba(10,24,40,0.7); }
+.hs-card:hover {
+  transform: translateY(-4px);
+  background: rgba(255,255,255,0.07);
+  box-shadow: 0 10px 32px rgba(0,0,0,0.5);
+}
 .hs-card.pol { border-top-color: var(--political); }
 .hs-card.eco { border-top-color: var(--economic); }
 .hs-card.ten { border-top-color: var(--tension); }
@@ -150,7 +157,7 @@ body::after {
   font-size: 10px; font-weight: 700;
   letter-spacing: 1.5px; text-transform: uppercase;
   margin-bottom: 8px;
-  opacity: 0.7;
+  opacity: 0.65;
 }
 .hs-title {
   font-size: 15px; font-weight: 600; line-height: 1.5;
@@ -165,12 +172,25 @@ body::after {
   font-family: var(--font-mono);
   font-size: 11px; color: var(--txt2);
   margin-top: 10px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.hs-meta-left {
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.hs-arrow {
+  font-size: 14px; color: var(--txt2);
+  opacity: 0;
+  transition: opacity 0.2s, transform 0.2s;
+  flex-shrink: 0; margin-left: 8px;
+}
+.hs-card:hover .hs-arrow {
+  opacity: 1;
+  transform: translateX(3px);
 }
 
 /* ─── LEGEND ─── */
 #legend {
-  position: fixed; bottom: 162px; left: 28px; z-index: 200;
+  position: fixed; bottom: 172px; left: 28px; z-index: 200;
   background: rgba(3,12,24,0.85);
   border: 1px solid var(--border);
   padding: 12px 16px;
@@ -337,7 +357,7 @@ body::after {
 
 /* ─── STAT BAR (above ticker) ─── */
 #statbar {
-  position: fixed; bottom: 162px; left: 28px; z-index: 200;
+  position: fixed; bottom: 172px; left: 28px; z-index: 200;
   display: flex; gap: 24px; align-items: center;
   pointer-events: none;
 }
@@ -350,7 +370,7 @@ body::after {
 
 /* ─── ZOOM HINT ─── */
 #zoom-hint {
-  position: fixed; bottom: 162px; right: 28px; z-index: 200;
+  position: fixed; bottom: 172px; right: 28px; z-index: 200;
   font-family: var(--font-mono); font-size: 9px;
   color: var(--txt2); letter-spacing: 1px;
   opacity: 0.5; pointer-events: none;
