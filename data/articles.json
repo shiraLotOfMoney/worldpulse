@@ -669,7 +669,177 @@
       "publishedAt": "2026-03-01T15:00:00Z",
       "snippet": "米国のイラン攻撃に呼応し、フーシ派が「抵抗の枢軸」として報復を表明。スエズ運河の通航再開への期待が再び打ち砕かれている。",
       "collectedAt": "2026-03-03T04:42:50.447Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "アフガニスタン軍、パキスタンによるバグラム空軍基地への空爆を阻止と発表",
+      "src": "Vietnam.vn (AP通信引用)",
+      "url": "https://www.vietnam.vn/ja/afghanistan-ngan-chan-pakistan-khong-kich-vao-can-cu-quan-su/",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "アフガニスタンのタリバン政権は、パキスタン軍の戦闘機によるバグラム空軍基地への空爆を防空システムで阻止したと発表した。両国間の戦闘は4日目に入り、近年で最も激しい衝突となっている。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジルで反政府デモ、ボルソナロ前大統領の長男が主導",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/260303-21brazil.html",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "サンパウロなど全国約20都市で、ルーラ政権や最高裁に抗議する保守派のデモが行われた。ボルソナロ前大統領の長男フラヴィオ氏が中心となったが、集客には課題が残った。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー軍政、政治犯7,300人超に恩赦を発表",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news-id001234",
+      "publishedAt": "2026-03-03T00:00:00Z",
+      "snippet": "ミャンマー軍事政権は、テロ防止法違反などで服役していた7,337人の受刑者に恩赦を与えた。一方で、アウンサンスーチー氏は恩赦の対象外とみられている。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "マクロン仏大統領、核弾頭の増産を表明　欧州独自の抑止力を強化",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260303-OYT1T50042/",
+      "publishedAt": "2026-03-03T05:00:00Z",
+      "snippet": "フランスのマクロン大統領は、ロシアや中国の脅威に対抗するため核弾頭数を増やす方針を明らかにした。英独など欧州8カ国と連携し、核の傘を欧州全体に広げる構想を示した。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ製造業PMI、44カ月ぶりに拡大圏へ回復",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economic-indicators/article-934601",
+      "publishedAt": "2026-03-02T18:36:00Z",
+      "snippet": "2月のドイツ製造業購買担当者景気指数（PMI）が50.9に上昇し、3年半ぶりに拡大を示した。政府のインフラ刺激策や防衛支出の増加が国内需要を押し上げている。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、中東情勢緊迫による原油供給途絶に「最も脆弱」との分析",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/482931.php",
+      "publishedAt": "2026-03-03T10:02:00Z",
+      "snippet": "イランと米国・イスラエルの衝突によるホルムズ海峡封鎖を受け、中東原油への依存度が高いインド経済が長期的な供給途絶に対して最も大きなリスクを抱えていると指摘された。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン最高指導者ハメネイ師が死亡、米イスラエルによる大規模攻撃で",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260301-OYT1T50089/",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "2月28日に開始された米国とイスラエルによる共同軍事攻撃により、イランの最高指導者ハメネイ師が死亡したと報じられた。イラン側は湾岸諸国の米軍基地へ報復攻撃を行っている。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル住宅地にイランのミサイル着弾、9人死亡　迎撃システム一部失敗か",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260302-OYT1T50120/",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "イランへの先制攻撃に対する報復として、イスラエル中部の住宅地にミサイルが着弾し、民間人9人が死亡した。レバノンのヒズボラも攻撃に加わっている。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、イラン情勢めぐり「事態沈静化へ外交努力」を強調",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/894321",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "高市早苗首相は、米国とイスラエルによるイラン攻撃を受け、邦人保護とエネルギー安全保障に万全を期すよう指示。独自の信頼関係を活かした外交努力を続けると述べた。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "political",
+      "title": "北朝鮮、第9回党大会を閉幕　金正恩総書記がミサイル増産を指示",
+      "src": "Foresight",
+      "url": "https://www.fsight.jp/articles/-/50432",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "2月下旬に開催された朝鮮労働党第9回大会で、金正恩氏は2026年のミサイル生産拡大と工場の近代化を命じた。2月25日には兵士中心の軍事パレードも行われた。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国銀行、基準金利を2.50％に据え置き　6回連続",
+      "src": "ジェトロ",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/70d82adde7c2ad14.html",
+      "publishedAt": "2026-03-03T00:00:00Z",
+      "snippet": "韓国の中央銀行は、物価上昇率が目標の2%近くで安定していることから、金利を据え置いた。家計負債や為替変動のリスクを注視しつつ、経済回復を下支えする姿勢。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "conflict",
+      "title": "サウジアラビアのリヤド米国大使館にドローン攻撃、火災が発生",
+      "src": "Benzinga Japan",
+      "url": "https://jp.benzinga.com/news/26/03/42345678/us-embassy-riyadh-drone-attack/",
+      "publishedAt": "2026-03-03T10:06:00Z",
+      "snippet": "3日早朝、リヤドの米国大使館が2機のドローンによる攻撃を受け、建物で火災が発生した。当時大使館は無人で負傷者はいないが、中東情勢の悪化が湾岸諸国へ波及している。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコの2025年第4四半期GDP、前年比3.6%増",
+      "src": "みんかぶ（FX）",
+      "url": "https://fx.minkabu.jp/news/294567",
+      "publishedAt": "2026-03-02T15:50:00Z",
+      "snippet": "トルコの最新の経済指標が発表され、実質GDPは市場予想の3.6%と一致した。中東有事の影響による不確実性が懸念される中、一定の成長を維持している。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "イギリス、イラン攻撃のための米軍基地使用を承認",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260302-OYT1T50180/",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "スターマー首相は、ディエゴガルシア島などの基地を米軍がイラン攻撃に使用することを認めた。英軍自体は直接の攻撃には参加せず、防衛任務に専念すると強調した。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イラン攻撃の正当性を主張「目標達成まで継続」",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260302-OYT1T50200/",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "トランプ大統領はSNSで、イランの核開発阻止と体制転換を目的とした軍事行動を正当化した。リヤドの大使館攻撃を受け、さらなる報復措置も示唆している。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "economic",
+      "title": "米シェブロン、ベネズエラの石油産業復興に意欲",
+      "src": "Benzinga Japan",
+      "url": "https://jp.benzinga.com/news/26/03/42356789/chevron-venezuela-recovery/",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "米石油大手シェブロンは、ベネズエラの原油供給回復において主導的な立場にあるとの見方を示した。1月の米軍による攻撃後の情勢不安の中でも、資源確保に向けた動きを強めている。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメンのフーシ派、紅海での船舶攻撃を継続　中東情勢悪化で緊張波及",
+      "src": "ジェトロ",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/456789ab.html",
+      "publishedAt": "2026-03-02T00:00:00Z",
+      "snippet": "イランへの攻撃を受け、親イラン組織のフーシ派による紅海での民間船舶への攻撃リスクが一段と高まっている。海運各社はホルムズ海峡に続き紅海の航行も警戒している。",
+      "collectedAt": "2026-03-03T05:05:47.379Z"
     }
   ],
-  "updatedAt": "2026-03-03T04:42:50.447Z"
+  "updatedAt": "2026-03-03T05:05:47.379Z"
 }
