@@ -54,7 +54,7 @@ body::after {
 
 /* ─── HEADER ─── */
 #header {
-  position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+  position: fixed; top: 46px; left: 0; right: 0; z-index: 200;
   padding: 18px 28px 0;
   display: flex; align-items: flex-end; gap: 20px;
   background: linear-gradient(to bottom, rgba(3,12,24,0.92) 60%, transparent);
@@ -98,7 +98,7 @@ body::after {
 
 /* ─── FILTER BAR ─── */
 #filters {
-  position: fixed; top: 72px; left: 28px; z-index: 200;
+  position: fixed; top: 118px; left: 28px; z-index: 200;
   display: flex; gap: 8px;
 }
 .flt {
@@ -122,45 +122,53 @@ body::after {
 .flt.active-political { color: #000; background: var(--political);border-color: var(--political); }
 .flt.active-economic  { color: #000; background: var(--economic); border-color: var(--economic); }
 
-/* ─── HOT STORIES (top-right) ─── */
+/* ─── HOT STORIES (bottom strip) ─── */
 #hot-stories {
-  position: fixed; top: 68px; right: 28px; z-index: 200;
-  width: 310px;
-  display: flex; flex-direction: column; gap: 8px;
+  position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
+  display: flex; flex-direction: row;
+  height: 100px;
+  background: rgba(3,12,24,0.96);
+  border-top: 1px solid var(--border);
 }
 .hs-card {
-  background: rgba(3,12,24,0.85);
-  border: 1px solid var(--border);
-  border-left: 3px solid var(--conflict);
-  padding: 14px 16px;
+  flex: 1;
+  border-top: 3px solid var(--conflict);
+  border-right: 1px solid var(--border);
+  padding: 12px 20px;
   cursor: pointer;
-  backdrop-filter: blur(16px);
-  transition: border-color 0.2s, background 0.2s;
+  transition: background 0.2s;
+  overflow: hidden;
 }
-.hs-card:hover { background: rgba(10,24,40,0.95); }
-.hs-card.pol  { border-left-color: var(--political); }
-.hs-card.eco  { border-left-color: var(--economic); }
-.hs-card.ten  { border-left-color: var(--tension); }
+.hs-card:last-child { border-right: none; }
+.hs-card:hover { background: rgba(10,24,40,0.7); }
+.hs-card.pol { border-top-color: var(--political); }
+.hs-card.eco { border-top-color: var(--economic); }
+.hs-card.ten { border-top-color: var(--tension); }
 .hs-tag {
   font-family: var(--font-mono);
   font-size: 10px; font-weight: 700;
   letter-spacing: 1.5px; text-transform: uppercase;
-  margin-bottom: 6px;
+  margin-bottom: 5px;
   opacity: 0.7;
 }
 .hs-title {
-  font-size: 14px; font-weight: 600; line-height: 1.55;
+  font-size: 13px; font-weight: 600; line-height: 1.45;
   color: var(--txt1);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 .hs-meta {
   font-family: var(--font-mono);
-  font-size: 11px; color: var(--txt2);
-  margin-top: 7px;
+  font-size: 10px; color: var(--txt2);
+  margin-top: 5px;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
 
 /* ─── LEGEND ─── */
 #legend {
-  position: fixed; bottom: 58px; left: 28px; z-index: 200;
+  position: fixed; bottom: 110px; left: 28px; z-index: 200;
   background: rgba(3,12,24,0.85);
   border: 1px solid var(--border);
   padding: 12px 16px;
@@ -292,10 +300,10 @@ body::after {
 
 /* ─── TICKER ─── */
 #ticker {
-  position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
+  position: fixed; top: 0; left: 0; right: 0; z-index: 210;
   height: 46px;
-  background: rgba(3,12,24,0.94);
-  border-top: 1px solid var(--border);
+  background: rgba(3,12,24,0.97);
+  border-bottom: 1px solid var(--border);
   display: flex; align-items: center;
   overflow: hidden;
 }
@@ -327,7 +335,7 @@ body::after {
 
 /* ─── STAT BAR (above ticker) ─── */
 #statbar {
-  position: fixed; bottom: 40px; left: 28px; z-index: 200;
+  position: fixed; bottom: 110px; left: 28px; z-index: 200;
   display: flex; gap: 24px; align-items: center;
   pointer-events: none;
 }
@@ -340,7 +348,7 @@ body::after {
 
 /* ─── ZOOM HINT ─── */
 #zoom-hint {
-  position: fixed; bottom: 58px; right: 28px; z-index: 200;
+  position: fixed; bottom: 110px; right: 28px; z-index: 200;
   font-family: var(--font-mono); font-size: 9px;
   color: var(--txt2); letter-spacing: 1px;
   opacity: 0.5; pointer-events: none;

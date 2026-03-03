@@ -567,14 +567,10 @@ function openPanel(info) {
   `).join('');
 
   document.getElementById('news-panel').classList.add('open');
-  document.getElementById('hot-stories').style.opacity = '0';
-  document.getElementById('hot-stories').style.pointerEvents = 'none';
 }
 
 document.getElementById('panel-close').addEventListener('click', () => {
   document.getElementById('news-panel').classList.remove('open');
-  document.getElementById('hot-stories').style.opacity = '1';
-  document.getElementById('hot-stories').style.pointerEvents = 'auto';
 });
 
 /* ── hot stories ── */
