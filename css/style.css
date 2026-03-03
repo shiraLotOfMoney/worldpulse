@@ -125,14 +125,14 @@ body::after {
 /* ─── HOT STORIES (top-right) ─── */
 #hot-stories {
   position: fixed; top: 68px; right: 28px; z-index: 200;
-  width: 270px;
-  display: flex; flex-direction: column; gap: 7px;
+  width: 310px;
+  display: flex; flex-direction: column; gap: 8px;
 }
 .hs-card {
   background: rgba(3,12,24,0.85);
   border: 1px solid var(--border);
   border-left: 3px solid var(--conflict);
-  padding: 10px 12px;
+  padding: 14px 16px;
   cursor: pointer;
   backdrop-filter: blur(16px);
   transition: border-color 0.2s, background 0.2s;
@@ -143,19 +143,19 @@ body::after {
 .hs-card.ten  { border-left-color: var(--tension); }
 .hs-tag {
   font-family: var(--font-mono);
-  font-size: 9px; font-weight: 700;
+  font-size: 10px; font-weight: 700;
   letter-spacing: 1.5px; text-transform: uppercase;
-  margin-bottom: 5px;
+  margin-bottom: 6px;
   opacity: 0.7;
 }
 .hs-title {
-  font-size: 12px; font-weight: 600; line-height: 1.45;
+  font-size: 14px; font-weight: 600; line-height: 1.55;
   color: var(--txt1);
 }
 .hs-meta {
   font-family: var(--font-mono);
-  font-size: 10px; color: var(--txt2);
-  margin-top: 5px;
+  font-size: 11px; color: var(--txt2);
+  margin-top: 7px;
 }
 
 /* ─── LEGEND ─── */
@@ -185,8 +185,8 @@ body::after {
 
 /* ─── NEWS PANEL ─── */
 #news-panel {
-  position: fixed; top: 0; right: -400px; bottom: 0; z-index: 300;
-  width: 380px;
+  position: fixed; top: 0; right: -500px; bottom: 0; z-index: 300;
+  width: 460px;
   background: var(--panel);
   border-left: 1px solid var(--border);
   overflow-y: auto;
@@ -198,7 +198,7 @@ body::after {
 #panel-top {
   position: sticky; top: 0;
   background: rgba(3,12,24,0.98);
-  padding: 56px 22px 18px;
+  padding: 56px 28px 24px;
   border-bottom: 1px solid var(--border);
   z-index: 10;
 }
@@ -215,42 +215,42 @@ body::after {
 #panel-close:hover { color: var(--txt1); border-color: rgba(255,255,255,0.25); }
 #panel-country {
   font-family: var(--font-disp);
-  font-size: 30px; letter-spacing: 2px;
-  line-height: 1; margin-bottom: 8px;
+  font-size: 36px; letter-spacing: 2px;
+  line-height: 1; margin-bottom: 12px;
 }
 #panel-summary {
-  font-size: 12px; color: var(--txt2); line-height: 1.55;
+  font-size: 14px; color: var(--txt2); line-height: 1.75;
 }
-#panel-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
+#panel-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 14px; }
 .ptag {
   font-family: var(--font-mono);
-  font-size: 9px; font-weight: 700;
+  font-size: 10px; font-weight: 700;
   letter-spacing: 1.5px; text-transform: uppercase;
-  padding: 3px 9px; border-radius: 2px;
+  padding: 4px 10px; border-radius: 2px;
 }
 .ptag.conflict  { background: rgba(255,34,51,0.18);  color: var(--conflict); }
 .ptag.tension   { background: rgba(255,136,0,0.18);  color: var(--tension); }
 .ptag.political { background: rgba(26,144,255,0.18); color: var(--political); }
 .ptag.economic  { background: rgba(0,212,170,0.18);  color: var(--economic); }
-#panel-articles { padding: 8px 22px 30px; }
+#panel-articles { padding: 8px 28px 40px; }
 .article {
-  padding: 14px 0;
+  padding: 20px 0;
   border-bottom: 1px solid var(--border);
 }
 .article:last-child { border-bottom: none; }
 .art-cat {
   font-family: var(--font-mono);
-  font-size: 9px; font-weight: 700;
+  font-size: 10px; font-weight: 700;
   letter-spacing: 1.5px; text-transform: uppercase;
-  margin-bottom: 7px; display: inline-block;
+  margin-bottom: 9px; display: inline-block;
 }
 .art-cat.conflict  { color: var(--conflict); }
 .art-cat.tension   { color: var(--tension); }
 .art-cat.political { color: var(--political); }
 .art-cat.economic  { color: var(--economic); }
 .art-title {
-  font-size: 13px; font-weight: 600;
-  line-height: 1.5; color: var(--txt1); margin-bottom: 7px;
+  font-size: 15px; font-weight: 600;
+  line-height: 1.65; color: var(--txt1); margin-bottom: 9px;
 }
 .art-title a {
   color: inherit;
@@ -263,7 +263,7 @@ body::after {
 }
 .art-meta {
   font-family: var(--font-mono);
-  font-size: 10px; color: var(--txt2);
+  font-size: 12px; color: var(--txt2);
   display: flex; gap: 14px;
 }
 .art-src { font-weight: 700; }
@@ -293,7 +293,7 @@ body::after {
 /* ─── TICKER ─── */
 #ticker {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
-  height: 40px;
+  height: 46px;
   background: rgba(3,12,24,0.94);
   border-top: 1px solid var(--border);
   display: flex; align-items: center;
@@ -304,9 +304,9 @@ body::after {
   background: var(--conflict);
   color: #fff;
   font-family: var(--font-mono);
-  font-size: 9px; font-weight: 700;
+  font-size: 11px; font-weight: 700;
   letter-spacing: 2px; text-transform: uppercase;
-  padding: 0 14px; height: 100%;
+  padding: 0 16px; height: 100%;
   display: flex; align-items: center;
 }
 .tick-track-wrap { flex: 1; overflow: hidden; }
@@ -316,7 +316,7 @@ body::after {
 }
 .tick-item {
   font-family: var(--font-mono);
-  font-size: 11px; color: var(--txt2);
+  font-size: 13px; color: var(--txt2);
   padding-right: 80px;
 }
 .tick-item::before { content: '◆ '; color: var(--accent); opacity: 0.6; }
