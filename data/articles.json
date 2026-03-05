@@ -191,16 +191,6 @@
       "collectedAt": "2026-03-03T02:06:34.714Z"
     },
     {
-      "countryCode": "408",
-      "cat": "political",
-      "title": "北朝鮮、党大会閉幕に合わせ軍事パレード実施　「人」を前面に強調",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-107000.php",
-      "publishedAt": "2026-03-02T19:20:00Z",
-      "snippet": "平壌で朝鮮労働党第9回大会の閉幕を祝うパレードが行われた。新型ICBMなどの戦略兵器は登場せず、兵士の結束をアピールした。",
-      "collectedAt": "2026-03-03T02:06:34.714Z"
-    },
-    {
       "countryCode": "410",
       "cat": "economic",
       "title": "韓国銀行、基準金利を2.50％に据え置き　中東情勢を注視",
@@ -278,16 +268,6 @@
       "url": "https://jp.reuters.com/world/ukraine/war-5th-year-2026-03-03/",
       "publishedAt": "2026-03-03T08:00:00Z",
       "snippet": "ロシアによる侵攻開始から4年が経過し、戦争は5年目に突入した。ウクライナ東部ドネツク州ではロシア軍が人的資源を犠牲にした攻勢を続けており、欧米諸国はウクライナへの長距離兵器供与とロシア領内への攻撃容認を加速させている。",
-      "collectedAt": "2026-03-03T02:56:30.779Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "political",
-      "title": "プーチン大統領、中東情勢の仲介役に意欲 UAEやイラン首脳と電話会談",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260302-putin-middleeast/",
-      "publishedAt": "2026-03-02T21:00:00Z",
-      "snippet": "プーチン大統領はUAEやイランの首脳と相次いで電話会談を行い、米国による攻撃を受けた地域の緊張緩和に向けた仲介役を担う姿勢を示した。ロシアは中東での影響力維持を狙い、独自の外交を展開している。",
       "collectedAt": "2026-03-03T02:56:30.779Z"
     },
     {
@@ -3199,7 +3179,107 @@
       "publishedAt": "2026-03-05T00:00:00Z",
       "snippet": "1月に展開された米軍の軍事作戦によりマドゥロ氏が拘束された。ロドリゲス暫定大統領は米国との連携を強め、外国企業による鉱山開発を認める法改正を進めている。",
       "collectedAt": "2026-03-05T19:11:27.372Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "economic",
+      "title": "ミャンマー軍政、中東情勢受け車両使用規制を発表 燃料不足に対応",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news-76543",
+      "publishedAt": "2026-03-05T00:00:00Z",
+      "snippet": "中東紛争によるタンカー航路封鎖を受け、ミャンマー軍政は燃油節約のため車両のナンバープレートによる通行規制を開始した。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国全人代開幕、2026年成長目標を5%前後に設定 防衛費は7%増",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260305-OYT1T50123/",
+      "publishedAt": "2026-03-05T12:51:00Z",
+      "snippet": "中国の全国人民代表大会が開幕し、李強首相が政府活動報告でGDP成長率目標を5%前後と発表。国防費は前年比7%増の約1.9兆元を計上した。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "米マイクロン、インド・グジャラート州の半導体工場で商業生産開始",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/12345678.html",
+      "publishedAt": "2026-03-04T00:00:00Z",
+      "snippet": "マイクロンがインド初の半導体後工程工場を稼働。モディ首相は「AI革命の象徴」と述べ、インドが世界のサプライチェーンの一翼を担うと強調。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "日本政府、中東6カ国に退避勧告 チャーター機で邦人輸送へ",
+      "src": "トラベルボイス",
+      "url": "https://www.travelvoice.jp/20260305-12345",
+      "publishedAt": "2026-03-05T00:00:00Z",
+      "snippet": "中東情勢の激化を受け、日本政府はサウジアラビアなど6カ国に渡航中止勧告を発出。希望する邦人をチャーター機で帰国させる方針。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮の金委員長、新型駆逐艦「崔賢」からの巡航ミサイル試射を視察",
+      "src": "ARAB NEWS Japan",
+      "url": "https://www.arabnews.jp/article/north-korea/article_123456/",
+      "publishedAt": "2026-03-05T00:00:00Z",
+      "snippet": "金正恩総書記が新型駆逐艦の海上試運転と戦略巡航ミサイルの発射実験を視察。核武装海軍の能力拡大を強調した。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "ナイジェリア36州知事、ティヌブ大統領の石油収入改革を支持",
+      "src": "YouTube (Vanguard News)",
+      "url": "https://www.youtube.com/watch?v=nigeria_oil_2026",
+      "publishedAt": "2026-03-03T00:00:00Z",
+      "snippet": "ナイジェリアの全州知事が石油収入を直接連邦口座に振り込む改革を支持。汚職防止と財政透明化に向けた大きな一歩とされる。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "リヤドの米国大使館にドローン攻撃、サウジ国防省が発表",
+      "src": "Benzinga Japan",
+      "url": "https://jp.benzinga.com/news/26/03/12345/saudi-us-embassy-attack",
+      "publishedAt": "2026-03-03T00:00:00Z",
+      "snippet": "サウジアラビアの首都リヤドにある米国大使館が2機のドローンに攻撃され、火災が発生。中東紛争の波及が懸念されている。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "シリア暫定政権と旧アサド政権支持者が衝突、162人が死亡",
+      "src": "YouTube (テレ朝NEWS)",
+      "url": "https://www.youtube.com/watch?v=syria_conflict_2025",
+      "publishedAt": "2026-03-05T00:00:00Z",
+      "snippet": "アサド政権崩壊後のシリアで、暫定政権軍と旧政権支持の武装集団が激しく衝突。ラタキア近郊などで戦闘が続き、治安が悪化している。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ和平協議が延期、中東紛争激化で米国の関心移る",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-104055.php",
+      "publishedAt": "2026-03-05T20:16:00Z",
+      "snippet": "ゼレンスキー大統領は、イラン情勢の悪化を受け、米国・ロシアとの3者協議が延期されたと発表。中東への注力によりウクライナ支援の停滞が懸念される。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英スターマー首相、カタールにタイフーン戦闘機4機を追加派遣",
+      "src": "KSBニュース",
+      "url": "https://news.ksb.co.jp/article/12345678",
+      "publishedAt": "2026-03-05T00:51:00Z",
+      "snippet": "イギリス政府はイランの攻撃を受けるカタールの防衛強化のため、主力戦闘機を派遣。トランプ大統領との連携を強調した。",
+      "collectedAt": "2026-03-05T21:27:59.974Z"
     }
   ],
-  "updatedAt": "2026-03-05T19:11:27.372Z"
+  "updatedAt": "2026-03-05T21:27:59.974Z"
 }
