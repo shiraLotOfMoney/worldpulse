@@ -901,16 +901,6 @@
       "collectedAt": "2026-03-03T12:37:54.837Z"
     },
     {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "仏独英首脳、イランの報復攻撃を「無差別で過剰」と非難",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260302-OYT1T50123/",
-      "publishedAt": "2026-03-02T08:00:00Z",
-      "snippet": "フランスを含む欧州3カ国は共同声明を出し、イランに対しミサイル発射能力を破壊する可能性を警告した。",
-      "collectedAt": "2026-03-03T12:37:54.837Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン最高指導者ハメネイ師が死亡、イスラエルによる「斬首作戦」か",
@@ -928,16 +918,6 @@
       "url": "https://ssri-j.com/news/20260302-pakistan/",
       "publishedAt": "2026-03-02T11:44:00Z",
       "snippet": "イラン最高指導者の殺害を受け、隣国パキスタンのシーア派住民らによる大規模な抗議活動が暴徒化している。",
-      "collectedAt": "2026-03-03T12:37:54.837Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ米大統領、イランへの軍事攻撃を支持率向上に利用か",
-      "src": "朝日新聞",
-      "url": "https://www.gakujo.ne.jp/2026/03/example12.html",
-      "publishedAt": "2026-03-02T09:00:00Z",
-      "snippet": "中間選挙を前に、トランプ政権はイランの体制転換を狙った大規模攻撃を断行。米国内では支持が分かれている。",
       "collectedAt": "2026-03-03T12:37:54.837Z"
     },
     {
@@ -1578,16 +1558,6 @@
       "url": "https://www.kab.co.jp/news/article/?id=202603040908",
       "publishedAt": "2026-03-04T09:08:00Z",
       "snippet": "米イスラエルによるイラン攻撃の影響で、東京市場ではリスク回避の売りが加速。日経平均は2日間で2500円以上の値下がりを記録した。",
-      "collectedAt": "2026-03-04T01:17:16.641Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "tension",
-      "title": "ナイジェリア北東部で武装勢力が子供1120人を徴用、ユニセフが警告",
-      "src": "Development Diaries",
-      "url": "https://developmentdiaries.com/nigeria-news-headlines-march-2026",
-      "publishedAt": "2026-03-02T09:00:00Z",
-      "snippet": "ユニセフは、ナイジェリア北東部の武装勢力が1120人以上の子供を兵士として徴用していると警鐘を鳴らした。国内では「拉致ビジネス」が深刻な社会問題となっている。",
       "collectedAt": "2026-03-04T01:17:16.641Z"
     },
     {
@@ -3031,16 +3001,6 @@
       "collectedAt": "2026-03-05T06:41:12.027Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス、米軍による国内基地の使用を承認 対イラン防衛措置として",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260302-uk-base",
-      "publishedAt": "2026-03-02T09:00:00Z",
-      "snippet": "スターマー首相は、イランの攻撃を阻止するための防衛的措置として米軍に基地使用を許可。一方で「直接の攻撃には参加しない」と述べ、慎重な姿勢も示した。",
-      "collectedAt": "2026-03-05T06:41:12.027Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、イラン作戦を「15点満点」と自賛 中間選挙予備選も開始",
@@ -3049,7 +3009,137 @@
       "publishedAt": "2026-03-05T08:22:00Z",
       "snippet": "トランプ氏はイラン攻撃の進捗を高く評価。国内では2026年中間選挙に向けたテキサス州予備選が始まり、民主党では「オバマの再来」とされる新星が選出された。",
       "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "tension",
+      "title": "ミャンマー軍政、燃料不足でパニック沈静化を呼びかけ「40日分の備蓄あり」",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news-client/20260305-fuel",
+      "publishedAt": "2026-03-05T08:00:00Z",
+      "snippet": "中東情勢の緊迫化による燃料枯渇懸念から、ミャンマー主要都市で給油待ちの列が発生。軍政は自家用車の隔日走行制限などを導入した。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国の王毅外交部長、サウジアラビア外相と電話会談　中東の戦火拡大に懸念",
+      "src": "Record China",
+      "url": "https://www.recordchina.co.jp/b940000-s38-c30-d0190.html",
+      "publishedAt": "2026-03-05T16:50:00Z",
+      "snippet": "中国の王毅外交部長はサウジのファイサル外相と会談し、中東での武力行使を非難。関係各国に軍事行動の即時停止と対話を呼びかけた。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド最大手タタ、水素エンジン大型トラックを実戦投入へ　脱炭素で独自路線",
+      "src": "ベストカーWeb",
+      "url": "https://bestcarweb.jp/news/876543",
+      "publishedAt": "2026-03-05T06:00:00Z",
+      "snippet": "タタ・モーターズは主要港湾向けに水素燃料の内燃エンジンを搭載した大型トラックを供給。インド独自の脱炭素化を模索する。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、レバノンのヒズボラ拠点に空爆　地上軍派遣も示唆",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/846123",
+      "publishedAt": "2026-03-05T07:24:00Z",
+      "snippet": "イスラエル軍はレバノンのヒズボラ関連施設への攻撃を強化。マクロン仏大統領はネタニヤフ首相に対し、地上軍派遣を控えるよう要請した。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "日本政府、イラン情勢悪化で邦人退避支援の自衛隊機派遣準備",
+      "src": "アメーバニュース（速報レポート）",
+      "url": "https://ameblo.jp/himawari-yuki/entry-12888888.html",
+      "publishedAt": "2026-03-05T09:00:00Z",
+      "snippet": "中東での軍事衝突を受け、日本政府はエネルギー安全保障への影響を注視。外務省は邦人の安全確保のため、自衛隊機の派遣準備を進めている。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "金正恩総書記、新型駆逐艦「崔賢」の性能試験を指導　戦略巡航ミサイル発射も",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/846234",
+      "publishedAt": "2026-03-05T10:43:00Z",
+      "snippet": "北朝鮮メディアは、金総書記が新型駆逐艦からのミサイル発射試験を視察したと報じた。米韓への抑止力を高めるため艦艇の量産を指示した。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア・ウクライナ・米国の3カ国協議、アブダビで2日目　終戦への道筋議論",
+      "src": "SSRIロシア情勢レポート",
+      "url": "https://ssri-j.com/report/russia20260305",
+      "publishedAt": "2026-03-05T12:40:00Z",
+      "snippet": "侵攻終結に向けた実務的な協議がUAEで継続。ウクライナ側は初日の議論を「生産的」と評価したが、領土割譲を巡る隔たりは依然として大きい。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジアラビアの米大使館にドローン攻撃、リヤドの外交地区で発生",
+      "src": "得典旅行ニュース",
+      "url": "https://tokutenryoko.com/news/middle-east-20260305",
+      "publishedAt": "2026-03-05T09:00:00Z",
+      "snippet": "リヤドにある在サウジ米国大使館がドローン攻撃を受け、大使館は在留米国人に屋内退避を呼びかけた。イラン関連勢力の関与が疑われている。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦でドローン攻撃が拡大、2週間で民間人160人以上を治療",
+      "src": "国境なき医師団（MSF）",
+      "url": "https://www.msf.or.jp/news/detail/20260303_6789.html",
+      "publishedAt": "2026-03-03T00:00:00Z",
+      "snippet": "スーダン軍と準軍事組織（RSF）の双方がドローンによる無差別攻撃を強化。住宅街や医療施設が標的となり、多くの子どもが犠牲になっている。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "conflict",
+      "title": "トルコ領空でイラン発射のミサイルを迎撃、NATOが対応",
+      "src": "ライブドアニュース（海外）",
+      "url": "https://news.livedoor.com/article/detail/20260305-turkey",
+      "publishedAt": "2026-03-05T08:00:00Z",
+      "snippet": "イランから発射された弾道ミサイルがトルコ領空に侵入し、NATOの防空システムによって撃墜された。トルコ政府は警戒を強めている。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "イギリス警察、中国のスパイ活動に関与した疑いで3人を逮捕",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260305-OYT1T50045/",
+      "publishedAt": "2026-03-05T10:00:00Z",
+      "snippet": "中国の情報機関を支援した国家安全保障法違反の疑いで男3人が逮捕された。うち1人は与党・労働党議員の夫であると報じられている。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イランへの軍事作戦を「10点満点中15点」と自画自賛",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/846345",
+      "publishedAt": "2026-03-05T08:00:00Z",
+      "snippet": "トランプ大統領はSNSでイランへの攻撃成果を強調。ホルムズ海峡封鎖に対抗し、米海軍によるタンカー護衛の開始も示唆した。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "tension",
+      "title": "イエメン全土に退避勧告継続、南部での武力衝突が散発的に発生",
+      "src": "外務省 海外安全ホームページ",
+      "url": "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_20260123.html",
+      "publishedAt": "2026-03-03T00:00:00Z",
+      "snippet": "イエメンでは正統政府とホーシー派の対立が続き、南部では分離主義勢力STCとの衝突も発生。中東情勢の緊迫化が治安にさらなる悪影響を与えている。",
+      "collectedAt": "2026-03-05T09:36:15.009Z"
     }
   ],
-  "updatedAt": "2026-03-05T06:41:12.027Z"
+  "updatedAt": "2026-03-05T09:36:15.009Z"
 }
