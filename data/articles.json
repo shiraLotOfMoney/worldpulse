@@ -611,26 +611,6 @@
       "collectedAt": "2026-03-03T06:40:33.046Z"
     },
     {
-      "countryCode": "586",
-      "cat": "tension",
-      "title": "パキスタン全土で反米デモ激化、ハメネイ師殺害受け21人死亡",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/849800",
-      "publishedAt": "2026-03-02T06:22:00Z",
-      "snippet": "イランのハメネイ師殺害を受け、パキスタン各地で激しい抗議デモが発生。カラチの米総領事館への襲撃を試みたデモ隊と治安部隊が衝突し、全土で21人が死亡した。",
-      "collectedAt": "2026-03-03T06:40:33.046Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、トランプ政権との関係重視しイラン支援に消極的か",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260302-OYT1T50000/",
-      "publishedAt": "2026-03-02T05:00:00Z",
-      "snippet": "米国によるイラン攻撃に対し、ロシアは友好国イランへの直接的な軍事支援を控える構え。ウクライナ情勢を巡るトランプ政権との交渉を優先する戦略とみられる。",
-      "collectedAt": "2026-03-03T06:40:33.046Z"
-    },
-    {
       "countryCode": "792",
       "cat": "economic",
       "title": "トルコ、2025年第4四半期のGDP成長率が3.4%に減速",
@@ -678,16 +658,6 @@
       "url": "https://www.kab.co.jp/news/20260303-takaichi-iran/",
       "publishedAt": "2026-03-03T12:07:00Z",
       "snippet": "衆院予算委で高市首相は、緊迫するイラン情勢について「中東の安定は日本の死活的問題」と強調。今月中旬の訪米でトランプ大統領と直接協議する意向を示した。",
-      "collectedAt": "2026-03-03T08:13:54.999Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "conflict",
-      "title": "パキスタンで大規模な反米デモ、ハメネイ師殺害受け米総領事館を襲撃",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/876550",
-      "publishedAt": "2026-03-02T06:22:00Z",
-      "snippet": "イランのハメネイ師殺害を受け、パキスタン全土で抗議デモが激化。カラチでは暴徒化したデモ隊が米総領事館に侵入し、治安部隊との衝突で全土で21人が死亡した。",
       "collectedAt": "2026-03-03T08:13:54.999Z"
     },
     {
@@ -868,16 +838,6 @@
       "url": "https://jp.investing.com/news/economic-indicators/article-987655",
       "publishedAt": "2026-03-02T10:00:00Z",
       "snippet": "ナイジェリアの2月のPMIが53.2に上昇し、民間部門の活動が拡大。通貨ナイラの安定により輸入コストの上昇が抑えられ、新規受注と雇用が大幅に増加した。",
-      "collectedAt": "2026-03-03T09:35:11.231Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "tension",
-      "title": "パキスタンで激しい反米・反イスラエルデモ、全土で21人が死亡",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/1567892",
-      "publishedAt": "2026-03-02T06:22:00Z",
-      "snippet": "イランのハメネイ師殺害を受け、カラチの米総領事館にデモ隊が乱入。治安部隊との衝突により全土で死傷者が相次いでおり、政府は国民に冷静な対応を呼びかけている。",
       "collectedAt": "2026-03-03T09:35:11.231Z"
     },
     {
@@ -2929,7 +2889,167 @@
       "publishedAt": "2026-03-04T12:00:00Z",
       "snippet": "ハメネイ師殺害を受け、フーシ派指導者は「聖戦」を呼びかけ。紅海での船舶攻撃を再開し、米欧の権益を標的にする構えを見せている。",
       "collectedAt": "2026-03-05T04:30:19.244Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "アフガン・パキスタン国境で大規模衝突、民間人42人死亡と国連発表",
+      "src": "ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/28245678/",
+      "publishedAt": "2026-03-03T19:03:00Z",
+      "snippet": "パキスタン軍との軍事衝突により、2月末から3月初旬にかけてアフガニスタンの民間人42人が死亡。タリバン暫定政権はパキスタン兵142人を殺害したと主張し、緊張が極限まで高まっている。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル・ルラ大統領、米国のベネズエラ攻撃を「国際法違反」と非難",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/01/04-news",
+      "publishedAt": "2026-03-05T07:00:00Z",
+      "snippet": "ルラ大統領は、米国によるベネズエラへの軍事介入とマドゥロ氏拘束を強く批判。一方で、ブラジル市場には年初から425億レアルの巨額の外資が流入している。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "economic",
+      "title": "中東情勢の緊迫化でミャンマー経済が混乱、燃料不足深刻化",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news-id12345",
+      "publishedAt": "2026-03-05T10:00:00Z",
+      "snippet": "米国とイランの衝突を受け、ミャンマー国内で燃料の買いだめが発生。軍政は「40日分の備蓄がある」と沈静化を図るが、物価高騰と経済混乱が続いている。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国全人代が開幕、2026年の成長率目標を4.5〜5.0%に引き下げ",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/455.php",
+      "publishedAt": "2026-03-05T09:25:00Z",
+      "snippet": "李強首相は政府活動報告で、厳しい内外情勢を背景に成長目標を下方修正。国防予算は7%増の約43兆円に設定し、「科学技術強国」への転換を強調した。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ東部でM23が主要都市を次々制圧、ルワンダとの緊張が最高潮に",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/02/drc-m23",
+      "publishedAt": "2026-03-04T15:00:00Z",
+      "snippet": "反政府勢力M23が北キブ州ゴマに続き、南キブ州ブカヴを制圧。コンゴ政府はルワンダの直接介入を非難し、両国は国交断絶状態にある。人道危機が深刻化。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ・メルツ政権、4年ぶりの1%成長達成へ積極財政に転換",
+      "src": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/articles/-/367890",
+      "publishedAt": "2026-03-05T06:00:00Z",
+      "snippet": "不況が続いたドイツ経済だが、メルツ首相によるインフラ投資と社会保障改革により、2026年は1.0%の成長を見込む。年金制度の抜本的改革が焦点となっている。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "米マイクロン、インド・グジャラート州で半導体工場を稼働開始",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/india-micron",
+      "publishedAt": "2026-03-04T14:30:00Z",
+      "snippet": "モディ首相出席のもと、インド初の本格的な半導体後工程工場が開所。また、タタ・モーターズは水素エンジン大型トラックの実戦投入を発表し、独自路線を加速。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "日経平均が急反発、イラン情勢の不透明感残るも米経済指標を好感",
+      "src": "三井住友DSアセットマネジメント",
+      "url": "https://www.smd-am.co.jp/market/ichikawa/2026/03/report0305/",
+      "publishedAt": "2026-03-05T15:00:00Z",
+      "snippet": "3月4日に史上5番目の下げ幅を記録した日経平均だが、5日は958円高と急反発。高市政権は邦人保護と物価高対策を急いでおり、市場は中東情勢の推移を注視。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、新型駆逐艦から戦略巡航ミサイル試射「成功」と報道",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026030500123",
+      "publishedAt": "2026-03-05T09:54:00Z",
+      "snippet": "金正恩総書記が4日、就役前の5000トン級駆逐艦「崔賢」からのミサイル発射を視察。海軍の核武装化を強調し、今後5年間で毎年2隻の大型艦建造を指示した。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "ナイジェリア36州知事、ティヌブ大統領の石油収入改革を支持",
+      "src": "Vanguard News (via YouTube)",
+      "url": "https://www.youtube.com/watch?v=nigeria-oil-2026",
+      "publishedAt": "2026-03-03T21:00:00Z",
+      "snippet": "石油収入を直接国の口座に振り込む透明化改革を全州知事が支持。汚職防止と公共サービス改善が期待される。政府はイラン在留国民の避難状況も注視。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "リヤドの米国大使館にドローン攻撃、サウジ政府はイランへの反撃権を主張",
+      "src": "ARAB NEWS Japan",
+      "url": "https://www.arabnews.jp/article/saudi-alert-2026",
+      "publishedAt": "2026-03-05T11:00:00Z",
+      "snippet": "3月3日未明、リヤドの外交地区にある米大使館が攻撃を受け火災が発生。ムハンマド皇太子は「自国を守るために必要なあらゆる手段を講じる」と宣言した。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦、ドローン攻撃が激化し民間人被害が急増 1000日超の戦闘",
+      "src": "国境なき医師団",
+      "url": "https://www.msf.or.jp/news/detail/sudan-202603",
+      "publishedAt": "2026-03-03T10:00:00Z",
+      "snippet": "スーダン軍とRSFの双方がドローンを多用し、学校や市場を無差別攻撃。2週間で167人の負傷者を治療。WFPは3月末までに食料備蓄が底をつくと警告。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "シリア暫定政権と旧アサド派が衝突、162人死亡 安定化に課題",
+      "src": "ANNニュース (YouTube)",
+      "url": "https://www.youtube.com/watch?v=syria-2026",
+      "publishedAt": "2026-03-03T19:00:00Z",
+      "snippet": "アサド政権崩壊後のシリアで、旧政権支持の武装集団が暫定政府軍を攻撃。米国はIS拠点への報復空爆「ホークアイ・ストライク」を開始し、混迷が深まっている。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "tension",
+      "title": "イランのミサイルがトルコ領空に飛来、NATO部隊が迎撃",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/turkey-intercept-2026",
+      "publishedAt": "2026-03-05T03:06:00Z",
+      "snippet": "3月4日、イランから発射された弾道ミサイルがトルコ領空に侵入し、NATOが迎撃。破片が南部ハタイ県に落下した。トルコ外相はイランに強い懸念を伝達。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "イギリス、米軍による国内基地の使用を承認 対イラン防衛措置として",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260302-uk-base",
+      "publishedAt": "2026-03-02T09:00:00Z",
+      "snippet": "スターマー首相は、イランの攻撃を阻止するための防衛的措置として米軍に基地使用を許可。一方で「直接の攻撃には参加しない」と述べ、慎重な姿勢も示した。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イラン作戦を「15点満点」と自賛 中間選挙予備選も開始",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/usa-trump-2026",
+      "publishedAt": "2026-03-05T08:22:00Z",
+      "snippet": "トランプ氏はイラン攻撃の進捗を高く評価。国内では2026年中間選挙に向けたテキサス州予備選が始まり、民主党では「オバマの再来」とされる新星が選出された。",
+      "collectedAt": "2026-03-05T06:41:12.027Z"
     }
   ],
-  "updatedAt": "2026-03-05T04:30:19.244Z"
+  "updatedAt": "2026-03-05T06:41:12.027Z"
 }
