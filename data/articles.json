@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP、2025年は2.3％成長に減速 高金利が消費圧迫",
-      "src": "ロイター（Newsweek Japan）",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/post-67890.php",
-      "publishedAt": "2026-03-04T10:07:00Z",
-      "snippet": "ブラジル地理統計院（IBGE）は3日、2025年のGDP成長率が2.3％だったと発表。前年の3.4％から減速し、過去5年間で最低の伸びとなった。中東情勢緊迫化によるインフレ懸念も影を落としている。",
-      "collectedAt": "2026-03-04T04:27:07.181Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル市場が急落、中東情勢緊迫で「暗黒の火曜日」",
-      "src": "ブラジル日報",
-      "url": "https://www.brasilnippou.com/2026/260304-21brasil.html",
-      "publishedAt": "2026-03-04T10:00:00Z",
-      "snippet": "中東情勢の悪化を受け、ボベスパ指数が3.28%急落。イランによるホルムズ海峡封鎖懸念が、資源国ブラジルのインフレ懸念と通貨レアル安を招いている。",
-      "collectedAt": "2026-03-04T12:38:23.125Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国、中東情勢悪化でエネルギー安全保障に「二重の打撃」",
-      "src": "Benzinga Japan",
-      "url": "https://jp.benzinga.com/content/12345678",
-      "publishedAt": "2026-03-04T12:00:00Z",
-      "snippet": "米国によるベネズエラ介入とイラン攻撃により、中国は安価な石油供給源を相殺される危機に直面。外務省はエネルギー安全保障確保のため必要な措置をとると表明した。",
-      "collectedAt": "2026-03-04T12:38:23.125Z"
-    },
-    {
       "countryCode": "356",
       "cat": "economic",
       "title": "インドルピーが過去最安値、原油高騰で貿易赤字拡大懸念",
@@ -38,26 +8,6 @@
       "url": "https://www.vietnam.vn/ja/dong-rupee-cua-an-do-cham-muc-thap-ky-luc-do-lo-ngai-gia-dau-leo-thang/",
       "publishedAt": "2026-03-04T13:50:00Z",
       "snippet": "中東紛争による原油価格上昇を受け、ルピーは1ドル＝92ルピー台の過去最安値を記録。輸入エネルギーへの依存度が高いインド経済への打撃が懸念されている。",
-      "collectedAt": "2026-03-04T12:38:23.125Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、湾岸諸国の米軍基地へ報復攻撃　ホルムズ海峡は停止状態",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/03/abcd1234.html",
-      "publishedAt": "2026-03-04T11:00:00Z",
-      "snippet": "米・イスラエルによる攻撃を受け、イランがUAEやサウジの石油施設、米軍基地へミサイル攻撃を実施。ホルムズ海峡の通航隻数は過去最低を記録し、事実上の停止状態にある。",
-      "collectedAt": "2026-03-04T12:38:23.125Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "conflict",
-      "title": "イギリス、キプロス基地への攻撃受け地中海に駆逐艦派遣",
-      "src": "英国ニュースダイジェスト",
-      "url": "http://www.news-digest.co.uk/news/news/uk-news/20260304-destroyer.html",
-      "publishedAt": "2026-03-04T10:00:00Z",
-      "snippet": "スターマー首相は、キプロスの英軍基地がイランの無人機攻撃を受けたことを受け、駆逐艦「ドラゴン」の派遣を発表。防空体制を強化し、同盟国の安全を守る姿勢を強調した。",
       "collectedAt": "2026-03-04T12:38:23.125Z"
     },
     {
@@ -71,66 +21,6 @@
       "collectedAt": "2026-03-04T15:33:30.686Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、イランへの「広範な攻撃」を開始　ネタニヤフ首相が正当性主張",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/middle-east/article-12345/",
-      "publishedAt": "2026-03-04T10:00:00Z",
-      "snippet": "イスラエル軍はイラン国内の核施設や軍事拠点への大規模な攻撃を開始。ネタニヤフ首相は「北朝鮮の二の舞を避けるための決断」と述べた。",
-      "collectedAt": "2026-03-04T15:33:30.686Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市総理、イラン情勢受け予算案の早期採決を強調　日本経済への影響を注視",
-      "src": "KAB ONLINE",
-      "url": "https://www.kab.co.jp/news/20260304-1/",
-      "publishedAt": "2026-03-04T12:17:00Z",
-      "snippet": "高市早苗総理は国会で、中東情勢の緊迫化を理由に予算の予見可能性を高めるべきだと主張。政府は経産省に対策本部を設置し、原油高への対応を協議している。",
-      "collectedAt": "2026-03-04T15:33:30.686Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "tension",
-      "title": "シリア、レバノン国境に部隊配備　ヒズボラ・イスラエル戦火の波及を警戒",
-      "src": "オリーブ山通信",
-      "url": "https://mtolive.net/syria-lebanon-border-2026/",
-      "publishedAt": "2026-03-04T11:00:00Z",
-      "snippet": "シリア軍はレバノン国境に数千人規模の部隊とロケット班を配備。隣国レバノンでの戦闘激化を受け、武装組織の流入阻止と自国への飛び火を警戒している。",
-      "collectedAt": "2026-03-04T15:33:30.686Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "political",
-      "title": "トルコ外相、イラン紛争終結に向け全勢力と協議　オマーンと連携",
-      "src": "Reuters Japan",
-      "url": "https://jp.reuters.com/world/turkey-iran-mediation-20260304/",
-      "publishedAt": "2026-03-04T09:33:00Z",
-      "snippet": "トルコのフィダン外相は、イランの戦争終結と交渉復帰を模索するため、米国やイランを含むすべての関係勢力と協議を行っていると明らかにした。",
-      "collectedAt": "2026-03-04T15:33:30.686Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "tension",
-      "title": "イギリス、キプロスの基地防空強化のため駆逐艦「ドラゴン」を派遣",
-      "src": "英国ニュースダイジェスト",
-      "url": "https://www.news-digest.co.uk/news/news/uk-news/12345.html",
-      "publishedAt": "2026-03-04T10:00:00Z",
-      "snippet": "スターマー首相は、キプロスの英軍基地が無人機攻撃を受けたことを受け、45型駆逐艦を地中海に展開。イラン攻撃には参加せず「防衛目的」に限定する方針。",
-      "collectedAt": "2026-03-04T15:33:30.686Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "economic",
-      "title": "米エクソン、ベネズエラに技術者派遣へ　マドゥロ氏拘束後の復帰模索",
-      "src": "Reuters Japan",
-      "url": "https://jp.reuters.com/business/exxon-venezuela-20260304/",
-      "publishedAt": "2026-03-04T12:16:00Z",
-      "snippet": "米石油大手エクソンモービルは、米軍の作戦でマドゥロ氏が拘束された後のベネズエラに技術チームを派遣。石油生産の再開に向けた調査を開始する。",
-      "collectedAt": "2026-03-04T15:33:30.686Z"
-    },
-    {
       "countryCode": "410",
       "cat": "economic",
       "title": "韓国株12％安の「暗黒の水曜日」、中東情勢緊迫で過去最大の下落率",
@@ -139,16 +29,6 @@
       "publishedAt": "2026-03-04T18:00:00Z",
       "snippet": "4日の韓国市場でKOSPIが前日比12.06％安と暴落し、サーキットブレーカーが発動された。政府は原油・ガスの備蓄は十分だと強調しているが、市場のパニックは収まっていない。",
       "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "tension",
-      "title": "フランス、保有核弾頭数の増強を表明 中東情勢受け抑止力強化",
-      "src": "Jディフェンスニュース",
-      "url": "https://www.ikaros.jp/news/20260304-france-nuclear",
-      "publishedAt": "2026-03-04T10:52:00Z",
-      "snippet": "マクロン大統領は、中東での紛争拡大と国際秩序の不安定化を受け、フランスの核抑止力を強化するため保有核弾頭数を増加させる方針を明らかにした。",
-      "collectedAt": "2026-03-04T21:27:58.531Z"
     },
     {
       "countryCode": "76",
@@ -298,16 +178,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/12345.php",
       "publishedAt": "2026-03-05T10:11:00Z",
       "snippet": "昨年第4四半期のGDPが7％増を記録。ロドリゲス暫定大統領は外資による金・レアアース採掘を可能にする法改正案を提出し、経済の立て直しを急ぐ。",
-      "collectedAt": "2026-03-05T04:30:19.244Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "イエメン・フーシ派、イランとの連帯を掲げ「全面戦争」を警告",
-      "src": "HSToday",
-      "url": "https://www.hstoday.us/featured/iran-led-axis-of-resistance-2026/",
-      "publishedAt": "2026-03-04T12:00:00Z",
-      "snippet": "ハメネイ師殺害を受け、フーシ派指導者は「聖戦」を呼びかけ。紅海での船舶攻撃を再開し、米欧の権益を標的にする構えを見せている。",
       "collectedAt": "2026-03-05T04:30:19.244Z"
     },
     {
@@ -548,16 +418,6 @@
       "url": "https://www.fnn.jp/articles/-/824561",
       "publishedAt": "2026-03-05T18:26:00Z",
       "snippet": "第14期全人代が開幕し、李強首相は2026年の経済成長目標を前年の「5%前後」から引き下げた。不動産不況や消費低迷を受け、ハイテク分野の自立を強調している。",
-      "collectedAt": "2026-03-05T12:41:08.463Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イランで死者1000人超、米・イスラエル攻撃で ホルムズ海峡は「完全支配」表明",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3564125",
-      "publishedAt": "2026-03-04T12:00:00Z",
-      "snippet": "米国とイスラエルによる大規模空爆を受け、イラン国内の死者が1000人を突破。革命防衛隊は対抗措置としてホルムズ海峡の完全支配と機雷敷設を示唆している。",
       "collectedAt": "2026-03-05T12:41:08.463Z"
     },
     {
@@ -871,16 +731,6 @@
       "collectedAt": "2026-03-06T01:22:49.891Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP、2025年は2.3％増に減速 高金利が消費を圧迫",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/512345.php",
-      "publishedAt": "2026-03-04T10:07:00Z",
-      "snippet": "ブラジルの2025年通年の経済成長率が2.3％に減速。中央銀行はインフレ抑制のため高金利を維持しており、家計消費が抑制されている。",
-      "collectedAt": "2026-03-06T01:22:49.891Z"
-    },
-    {
       "countryCode": "104",
       "cat": "economic",
       "title": "ミャンマー軍政、中東情勢緊迫化を受け車両の使用規制を発表",
@@ -1061,16 +911,6 @@
       "collectedAt": "2026-03-06T04:28:13.678Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP、2025年は2.3％増に減速 高金利が消費圧迫",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/465821.php",
-      "publishedAt": "2026-03-04T10:07:00Z",
-      "snippet": "2025年の実質GDP成長率は2.3％となり、過去5年間で最低水準に。中央銀行の制限的な金融政策による高金利が個人消費や投資を抑制している。",
-      "collectedAt": "2026-03-06T06:38:37.048Z"
-    },
-    {
       "countryCode": "156",
       "cat": "political",
       "title": "中国、全国両会が開幕 質の高い発展とグリーン変革を強調",
@@ -1138,16 +978,6 @@
       "url": "https://www.fnn.jp/articles/-/847567",
       "publishedAt": "2026-03-04T14:00:00Z",
       "snippet": "イランから発射されたミサイルがトルコ領空を侵犯し、東地中海に展開するNATO部隊が迎撃。破片が南部ハタイ県に落下したが、死傷者は報告されていない。",
-      "collectedAt": "2026-03-06T06:38:37.048Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ロシアの全面侵攻から4年、ウクライナ和平協議は突破口見えず",
-      "src": "アムネスティ日本",
-      "url": "https://www.amnesty.or.jp/news/2026/0304_10456.html",
-      "publishedAt": "2026-03-04T10:00:00Z",
-      "snippet": "侵攻開始から4年が経過。ロシア軍の進軍は鈍化しているものの、領土問題を巡る双方の主張は平行線を辿り、3月に予定されていた和平協議も進展していない。",
       "collectedAt": "2026-03-06T06:38:37.048Z"
     },
     {
@@ -1941,16 +1771,6 @@
       "collectedAt": "2026-03-07T01:14:56.019Z"
     },
     {
-      "countryCode": "792",
-      "cat": "tension",
-      "title": "トルコ領空に飛来したイランのミサイル、NATO部隊が撃墜",
-      "src": "TRT 日本語",
-      "url": "https://www.trtnihongo.com/world/article-123456",
-      "publishedAt": "2026-03-04T10:00:00Z",
-      "snippet": "イランから発射されトルコ領空に向かっていた弾道ミサイルを、NATOの防空システムが東地中海で撃墜。トルコはイランに厳重抗議した。",
-      "collectedAt": "2026-03-07T01:14:56.019Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ウクライナ、ロシア軍のStarlink利用を「ホワイトリスト制」で遮断",
@@ -2129,16 +1949,6 @@
       "publishedAt": "2026-03-06T20:41:00Z",
       "snippet": "トランプ米大統領はSNSで「イランとの合意は無条件降伏以外にあり得ない」と投稿。降伏後に米国が受け入れ可能な指導者が選出されれば、経済再建を支援するとの考えを示した。",
       "collectedAt": "2026-03-07T04:19:16.119Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP、2025年は2.3％増に減速 高金利が消費圧迫",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/495063.php",
-      "publishedAt": "2026-03-04T10:07:00Z",
-      "snippet": "ブラジルの2025年通年成長率は2.3％となり、2020年以来の低水準にとどまった。中東情勢の緊迫化による原油高やインフレ再燃への懸念が、今後の経済運営の重石となっている。",
-      "collectedAt": "2026-03-07T06:30:29.795Z"
     },
     {
       "countryCode": "104",
@@ -2439,7 +2249,147 @@
       "publishedAt": "2026-03-07T00:00:00Z",
       "snippet": "イエメンのフーシ派指導者は、米国・イスラエルによるイラン攻撃を受け、自らも「戦争状態」にあると宣言した。紅海での船舶攻撃をさらに強化する構えだ。",
       "collectedAt": "2026-03-07T09:22:24.949Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチンの1月鉱工業生産、前年同月比3.2%減少",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economic-indicators/article-938456",
+      "publishedAt": "2026-03-07T04:32:00Z",
+      "snippet": "南米第2位の経済規模を持つアルゼンチンで、1月の鉱工業生産が前年比で減少。農業の回復などで経済活動全体は拡大の兆しを見せるものの、製造業の低迷が続いている。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジルGDP、2025年は2.3％増に減速 高金利が消費圧迫",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/489123.php",
+      "publishedAt": "2026-03-04T15:00:00Z",
+      "snippet": "ブラジルの2025年通年の経済成長率が2.3％に留まり、前年から減速。中央銀行による15％の高金利政策が個人消費や投資を抑制している。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "economic",
+      "title": "ミャンマー、中東情勢を踏まえた車両使用規制を発表",
+      "src": "ミャンマー・ジャポン",
+      "url": "https://myanmarjapon.com/news-20260305-1",
+      "publishedAt": "2026-03-05T09:00:00Z",
+      "snippet": "中東での軍事衝突による燃油輸入ルートの遮断を受け、ミャンマー軍政は車両のナンバープレートによる通行規制を開始。深刻な燃料不足が懸念されている。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国、2026年の成長目標を「4.5～5.0％」に設定 3年ぶり引き下げ",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/economy/20260305-OYT1T50114/",
+      "publishedAt": "2026-03-05T09:14:00Z",
+      "snippet": "全人代が開幕し、李強首相が2026年の実質GDP成長率目標を前年の「5％前後」から引き下げると発表。不動産不況や内需不足を背景に、成長の質を重視する姿勢に転換した。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ経済、イラン紛争の打撃400億ユーロも 原油高で＝DIW試算",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/489567.php",
+      "publishedAt": "2026-03-06T10:00:00Z",
+      "snippet": "中東での戦火拡大による原油価格高騰を受け、ドイツ経済研究所（DIW）は独経済が今後2年間で約400億ユーロの損失を被ると予測。メルツ政権はエネルギー確保に奔走している。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "日本政府、中東4カ国から邦人輸送を開始 チャーター機手配",
+      "src": "トラベルボイス",
+      "url": "https://www.travelvoice.jp/20260305-155123",
+      "publishedAt": "2026-03-05T10:00:00Z",
+      "snippet": "中東情勢の激化を受け、外務省は湾岸諸国の危険レベルを引き上げ。リヤドやマスカットに集結した邦人を帰国させるため、政府チャーター機の派遣を決定した。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮の金正恩氏、2026年のミサイル増産を指示「ネオ冷戦」鮮明に",
+      "src": "ARAB NEWS / Newsweek Japan",
+      "url": "https://www.arabnews.jp/article/japan/article_155678/",
+      "publishedAt": "2026-03-07T16:00:00Z",
+      "snippet": "金正恩総書記は軍需工場を視察し、ミサイル生産の飛躍的拡大を命令。韓国との断絶を宣言し、核戦力の近代化を加速させる「ネオ冷戦」戦略を打ち出している。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア地方財政が悪化、モスクワ市が投資削減 ウクライナ紛争5年目",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/489789.php",
+      "publishedAt": "2026-03-06T15:48:00Z",
+      "snippet": "長期化するウクライナ侵攻の影響で、ロシア国内の財政が逼迫。最も裕福なモスクワ市ですら投資計画の削減を余儀なくされており、戦費負担が経済を圧迫している。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジ皇太子、中東情勢を巡り各国首脳と緊急協議 イランの攻撃を非難",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_155999/",
+      "publishedAt": "2026-03-07T06:03:00Z",
+      "snippet": "ムハンマド皇太子は、イランによるサウジ国内の米軍基地や石油施設への攻撃を受け、トルコや英国の首脳と電話会談。地域の安定を損なう行為を拒否する姿勢を強調した。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "tension",
+      "title": "シリアにレバノンから3万人以上が避難、中東危機で人道対応強化",
+      "src": "UNHCR",
+      "url": "https://www.unhcr.org/jp/20260307-news",
+      "publishedAt": "2026-03-07T10:00:00Z",
+      "snippet": "イスラエルとイラン・ヒズボラの戦闘激化により、レバノンからシリアへ逃れる難民が急増。シリア国内も新政権下の不安定な状況にあり、国際的な支援が急務となっている。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "tension",
+      "title": "イランの弾道ミサイルがトルコ領空に飛来、NATO部隊が迎撃",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/849567",
+      "publishedAt": "2026-03-05T03:06:00Z",
+      "snippet": "イランから発射されたミサイルがトルコ領空を侵犯し、東地中海のNATO部隊が迎撃。破片が南部ハタイ県に落下した。トルコ政府はイランに対し強い懸念を表明した。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "イギリス、カタールに戦闘機派遣を決定 イランの攻撃拡大に対応",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/849678",
+      "publishedAt": "2026-03-06T02:51:00Z",
+      "snippet": "スターマー首相は、イランの攻撃を受けるカタールに空軍のタイフーン戦闘機4機を派遣すると発表。米軍基地の使用も容認し、対イラン包囲網を強化している。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イラン攻撃に最新AI技術「Claude」を活用と発表",
+      "src": "The HEADLINE",
+      "url": "https://www.theheadline.jp/articles/20260305-1",
+      "publishedAt": "2026-03-05T10:00:00Z",
+      "snippet": "米軍は対イラン精密爆撃の標的選定に、PalantirとAnthropicのAI技術を導入。トランプ大統領は作戦の成果を強調する一方、軍事AIの倫理的議論も再燃している。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "米国とベネズエラ、外交関係回復で合意 マドゥロ拘束から2カ月",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/489999.php",
+      "publishedAt": "2026-03-06T11:27:00Z",
+      "snippet": "1月の米軍による電撃作戦でマドゥロ氏が拘束された後、米国はベネズエラ暫定政権との外交回復を発表。米石油大手シェルも同国政府と事業契約を締結した。",
+      "collectedAt": "2026-03-07T12:30:28.143Z"
     }
   ],
-  "updatedAt": "2026-03-07T09:22:24.949Z"
+  "updatedAt": "2026-03-07T12:30:28.143Z"
 }
