@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP成長率、2025年第4四半期は0.1%に減速",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-987654",
-      "publishedAt": "2026-03-03T21:28:00Z",
-      "snippet": "ブラジルの2025年第4四半期GDPは前期比0.1%増にとどまった。輸出は好調だが国内需要の弱さが成長を抑制している。",
-      "collectedAt": "2026-03-03T18:38:01.664Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "political",
-      "title": "プーチン大統領、イランと湾岸諸国の仲介に意欲",
-      "src": "KFB福島放送",
-      "url": "https://www.kfb.co.jp/news/ann/00012345",
-      "publishedAt": "2026-03-03T23:59:00Z",
-      "snippet": "ロシアのプーチン大統領はサウジアラビアなど湾岸諸国首脳と電話会談し、イラン情勢の緊張緩和に向けた仲介役を担う姿勢を示した。",
-      "collectedAt": "2026-03-03T18:38:01.664Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英国、2026年の経済成長率予測を1.1%に下方修正",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy/article-112233",
-      "publishedAt": "2026-03-03T22:04:00Z",
-      "snippet": "リーブス英財務相は、2026年の成長率予測を従来の1.4%から1.1%に引き下げた。中東情勢によるエネルギー価格高騰がリスクとなっている。",
-      "collectedAt": "2026-03-03T18:38:01.664Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP、2025年第4四半期は0.1%成長に減速",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/brazil-gdp-slows-to-01-in-q4-945678",
-      "publishedAt": "2026-03-03T21:28:00Z",
-      "snippet": "ブラジル経済は輸出の好調により辛うじてプラス成長を維持したが、国内需要の弱さが鮮明となった。市場は中央銀行が今月後半に利下げサイクルを開始すると予想している。",
-      "collectedAt": "2026-03-03T21:27:41.686Z"
-    },
-    {
       "countryCode": "180",
       "cat": "political",
       "title": "モナコ当局、コンゴ民主共和国とのスポンサー契約を巡る汚職疑惑で捜査開始",
@@ -98,16 +58,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/post-67890.php",
       "publishedAt": "2026-03-04T10:07:00Z",
       "snippet": "ブラジル地理統計院（IBGE）は3日、2025年のGDP成長率が2.3％だったと発表。前年の3.4％から減速し、過去5年間で最低の伸びとなった。中東情勢緊迫化によるインフレ懸念も影を落としている。",
-      "collectedAt": "2026-03-04T04:27:07.181Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "economic",
-      "title": "ミャンマー軍事政権、7日から自動車の使用制限を発表 燃料不足深刻化",
-      "src": "共同通信（ライブドアニュース）",
-      "url": "https://news.livedoor.com/article/detail/28165432/",
-      "publishedAt": "2026-03-04T00:17:00Z",
-      "snippet": "ミャンマー軍事政権は、中東情勢の悪化に伴う燃料供給の不安定化を受け、3月7日から自動車の使用を制限すると発表。ヤンゴンではガソリンスタンドに長蛇の列ができている。",
       "collectedAt": "2026-03-04T04:27:07.181Z"
     },
     {
@@ -181,16 +131,6 @@
       "collectedAt": "2026-03-04T09:33:11.667Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP、2025年は2.3％増に減速 高金利が消費圧迫",
-      "src": "ロイター（ニューズウィーク日本版）",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/524321.php",
-      "publishedAt": "2026-03-04T01:07:00Z",
-      "snippet": "ブラジルの2025年通年のGDP成長率は2.3％となり、過去5年間で最低の伸びを記録した。中東危機によるインフレ再燃が懸念されている。",
-      "collectedAt": "2026-03-04T09:33:11.667Z"
-    },
-    {
       "countryCode": "104",
       "cat": "economic",
       "title": "ミャンマー、深刻な燃料不足で自家用車の走行を制限",
@@ -238,16 +178,6 @@
       "url": "https://www.fnn.jp/articles/-/865678",
       "publishedAt": "2026-03-04T06:49:00Z",
       "snippet": "スターマー首相は、キプロスの英軍基地がイランの無人機攻撃を受けたことを受け、駆逐艦「ドラゴン」やヘリコプターを派遣すると発表した。",
-      "collectedAt": "2026-03-04T09:33:11.667Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "米軍、イエメンのフーシ派拠点を連日空爆 100以上の標的破壊",
-      "src": "ARAB NEWS Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_165123/",
-      "publishedAt": "2026-03-04T01:04:00Z",
-      "snippet": "米軍は3月中旬以降、イエメンのフーシ派支配地域で100以上の軍事目標を攻撃。トランプ大統領は脅威がなくなるまで継続すると宣言した。",
       "collectedAt": "2026-03-04T09:33:11.667Z"
     },
     {
@@ -299,16 +229,6 @@
       "publishedAt": "2026-03-04T10:00:00Z",
       "snippet": "スターマー首相は、キプロスの英軍基地がイランの無人機攻撃を受けたことを受け、駆逐艦「ドラゴン」の派遣を発表。防空体制を強化し、同盟国の安全を守る姿勢を強調した。",
       "collectedAt": "2026-03-04T12:38:23.125Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP、2025年第4四半期は0.1%成長に減速",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-999999",
-      "publishedAt": "2026-03-03T21:28:00Z",
-      "snippet": "ブラジル経済は2025年第4四半期に前期比0.1%の微増にとどまった。輸出は好調だが、高金利による国内需要の弱さが成長を圧迫している。",
-      "collectedAt": "2026-03-04T15:33:30.686Z"
     },
     {
       "countryCode": "104",
@@ -411,76 +331,6 @@
       "collectedAt": "2026-03-04T15:33:30.686Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル2025年GDPは2.3％成長、中東危機によるインフレ再燃を懸念",
-      "src": "ブラジル日報",
-      "url": "https://www.brasilnippou.com/2026/03/04-2.html",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "ブラジル地理統計院は2025年のGDPが2.3％成長したと発表。5年連続のプラス成長となったが、足元では中東情勢の緊迫化に伴う原油高がインフレを押し上げるリスクとして警戒されている。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "economic",
-      "title": "ミャンマー、深刻な燃料不足で自家用車の走行を隔日制に制限",
-      "src": "MYANMAR JAPON",
-      "url": "https://myanmarjapon.com/news-client/20260304-car-restriction",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "ミャンマー軍事政権は、中東情勢の悪化による燃料供給の混乱を受け、3月7日から自家用車の走行をナンバープレートによる隔日制に制限すると発表。主要都市では給油待ちの長い列ができている。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国「全人代」5日開幕、第15次5カ年計画に向けた経済目標に注目",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/03/china-npc-preview.html",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "中国で5日から全国人民代表大会が開幕する。中東紛争による世界経済の不透明感が増す中、習近平指導部がどのような成長目標や「新たな質の生産力」への投資方針を示すかが焦点となる。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "tension",
-      "title": "フランス、核弾頭の増産へ転換 マクロン大統領「今後は核兵器の時代」",
-      "src": "文化放送 (朝日新聞引用)",
-      "url": "https://www.joqr.co.jp/qr/article/118250/",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "マクロン大統領は2日、核抑止力強化のため核弾頭数を増やす方針を表明。冷戦後の削減路線を転換し、欧州全体を守る「核の傘」構築を示唆した。また、中東情勢を受け空母を地中海へ派遣した。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ・メルツ首相、トランプ米大統領と会談 経済協力と安全保障を協議",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260304-OYT1T50123/",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "ドイツのメルツ首相は3日、訪米してトランプ大統領と会談。中東紛争によるエネルギー価格高騰への対応や、欧州の防衛分担について協議した。ドイツ経済はQ4に0.3%の微増にとどまっている。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インド、マイクロン社の半導体工場が稼働開始 「世界経済のハブ」へ前進",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/03/micron-india-start.html",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "米マイクロン・テクノロジーがグジャラート州で半導体工場の商業生産を開始。モディ首相は「AI革命の世紀においてインドが世界のバリューチェーンの中核を担う象徴だ」と強調した。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "日本株が一時2100円超の暴落、中東情勢悪化で過去5番目の下げ幅",
-      "src": "野村総合研究所 (NRI)",
-      "url": "https://www.nri.com/jp/knowledge/column/2026/0304",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "4日の東京株式市場で日経平均株価が一時2100円超下落。トランプ政権によるイラン攻撃とホルムズ海峡封鎖の懸念を受け、原油価格高騰と世界経済の泥沼化への警戒感が広がっている。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
       "countryCode": "410",
       "cat": "economic",
       "title": "韓国株12％安の「暗黒の水曜日」、中東情勢緊迫で過去最大の下落率",
@@ -488,26 +338,6 @@
       "url": "https://www.chosunonline.com/site/data/html_dir/2026/03/04/2026030480001.html",
       "publishedAt": "2026-03-04T18:00:00Z",
       "snippet": "4日の韓国市場でKOSPIが前日比12.06％安と暴落し、サーキットブレーカーが発動された。政府は原油・ガスの備蓄は十分だと強調しているが、市場のパニックは収まっていない。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "tension",
-      "title": "米国、サウジアラビアの渡航警戒レベルを「再検討」に引き上げ",
-      "src": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/world/us-raises-travel-advisory-for-saudi-arabia/3489012",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "米国務省はイラン紛争に伴う安全保障上のリスクを理由に、サウジアラビアの渡航警戒レベルを「レベル3」に引き上げた。非緊急職員の家族らの退避も承認され、イエメン国境付近への渡航中止も呼びかけられている。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ軍、ロシア国内の兵器工場を次々攻撃 分散型電力網へ移行",
-      "src": "ネット大衆紙ブルーカラー",
-      "url": "https://www.youtube.com/watch?v=ukraine-strike-2026",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "侵攻5年目を迎えたウクライナ軍は、ロシア国内の軍事施設や燃料プラントへの攻撃を強化。国内ではロシアの空爆に耐えるため、攻撃に強い分散型電力システムへの移行を加速させている。",
       "collectedAt": "2026-03-04T18:38:00.101Z"
     },
     {
@@ -519,36 +349,6 @@
       "publishedAt": "2026-03-04T06:49:00Z",
       "snippet": "キプロスにある英軍基地がイランの無人機攻撃を受けたことを受け、スターマー首相は駆逐艦「ドラゴン」の派遣を決定。フランスも歩調を合わせ、防空装備の追加派遣を表明した。",
       "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ米大統領、ホルムズ海峡でのタンカー護衛を表明 軍事介入を深化",
-      "src": "The HEADLINE",
-      "url": "https://www.theheadline.jp/articles/20260304-trump-iran",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "トランプ大統領は、イランとの衝突で混乱するホルムズ海峡の安全確保のため、米海軍によるタンカー護衛と保険提供を発表。地上軍派遣の可能性も示唆し、イランへの圧力を最大化させている。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "米軍、イエメンのフーシ派拠点を100カ所以上空爆 航路安全を強調",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "米国は3月中旬以降、紅海での商船攻撃を続けるフーシ派に対し100以上の標的を空爆。トランプ大統領は「海運の脅威がなくなるまで攻撃を継続する」と宣言し、強硬姿勢を崩していない。",
-      "collectedAt": "2026-03-04T18:38:00.101Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ルーラ大統領の訪米延期、中東情勢の緊迫化が影響か",
-      "src": "ブラジル日報",
-      "url": "https://www.brasilnippou.com/2026/0304-21-brazil-news",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "3月中旬に予定されていたルーラ大統領とトランプ大統領の会談が延期された。米国によるイラン攻撃を巡る立場の違いや、重要鉱物に関する議題の隔たりが原因とみられる。",
-      "collectedAt": "2026-03-04T21:27:58.531Z"
     },
     {
       "countryCode": "156",
@@ -571,36 +371,6 @@
       "collectedAt": "2026-03-04T21:27:58.531Z"
     },
     {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "スズキ、パキスタンでバイオガス事業を推進 インドでの成功を横展開",
-      "src": "ジェトロ (JETRO)",
-      "url": "https://www.jetro.go.jp/biznews/2026/03/pakistan-suzuki-biogas",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "インド市場で圧倒的シェアを持つスズキが、パキスタンでもカーボンニュートラル実現に向けたバイオガス事業を開始した。若年人口が多いパキスタンを次なる成長市場と位置づけている。",
-      "collectedAt": "2026-03-04T21:27:58.531Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン最高指導者ハメネイ師が死亡、米国とイスラエルの攻撃で",
-      "src": "読売新聞オンライン",
-      "url": "https://www.yomiuri.co.jp/world/20260304-iran-khamenei",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "米国とイスラエルによる大規模な空爆を受け、イラン政府は最高指導者ハメネイ師の死亡を発表した。革命防衛隊は「処罰」を宣言し、中東全域での報復攻撃を開始した。",
-      "collectedAt": "2026-03-04T21:27:58.531Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "tension",
-      "title": "イギリス海軍、駆逐艦「ドラゴン」を東地中海へ派遣",
-      "src": "フネコ (Funeco)",
-      "url": "https://funeco.jp/news/uk-navy-hms-dragon-2026/",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "中東での軍事衝突を受け、イギリス政府は防空能力に優れた駆逐艦を派遣した。同盟国の防衛と、自国権益を狙うドローン攻撃への対処を目的としている。",
-      "collectedAt": "2026-03-04T21:27:58.531Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジル市場に巨額の資金流入、中東情勢緊迫で「避難先」として注目",
@@ -611,16 +381,6 @@
       "collectedAt": "2026-03-05T01:19:30.507Z"
     },
     {
-      "countryCode": "104",
-      "cat": "economic",
-      "title": "ミャンマー主要都市で燃料枯渇の懸念、中東戦争による供給網混乱で給油待ちの列",
-      "src": "MYANMAR JAPON",
-      "url": "https://myanmarjapon.com",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "米国とイランの軍事衝突により世界の石油供給網が混乱。ミャンマーでは燃料の駆け込み買いが加速し、ヤンゴンなどで自家用車の走行制限が導入される事態となっている。",
-      "collectedAt": "2026-03-05T01:19:30.507Z"
-    },
-    {
       "countryCode": "180",
       "cat": "political",
       "title": "コンゴ民主共和国、モナコFCとのスポンサー契約を巡る汚職疑惑で捜査開始",
@@ -628,66 +388,6 @@
       "url": "https://goal.com",
       "publishedAt": "2026-03-04T05:08:00Z",
       "snippet": "コンゴ政府とモナコFCの480万ユーロの契約にマネーロンダリングや公金横領の疑い。フランス金融検察庁の照会を受け、モナコ司法当局が予備調査を開始した。",
-      "collectedAt": "2026-03-05T01:19:30.507Z"
-    },
-    {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "米マイクロン、インド・グジャラート州で半導体工場の商業生産を開始",
-      "src": "JETRO",
-      "url": "https://jetro.go.jp",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "モディ首相出席のもと、インド初の本格的な半導体後工程工場が稼働。インドが世界の半導体サプライチェーンにおいて重要な役割を担い始めた象徴的な出来事となった。",
-      "collectedAt": "2026-03-05T01:19:30.507Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン最高指導者ハメネイ師が死亡、米・イスラエルによる攻撃で死者1000人超",
-      "src": "読売新聞",
-      "url": "https://yomiuri.co.jp",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "2月28日から始まった米・イスラエルの大規模空爆により、イランの最高指導者ハメネイ師が死亡。イラン国内の死者は1045人に達し、革命防衛隊は徹底抗戦を宣言している。",
-      "collectedAt": "2026-03-05T01:19:30.507Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍がレバノン南部へ侵攻、ヒズボラとの戦闘で「安全地帯」拡大",
-      "src": "FNNプライムオンライン",
-      "url": "https://fnn.jp",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "イスラエル軍はイランへの攻撃に続き、レバノンのヒズボラ拠点への地上侵攻を開始。ネタニヤフ首相は「イランの脅威を取り除くことが中東和平に繋がる」と強調した。",
-      "collectedAt": "2026-03-05T01:19:30.507Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、2026年2月にウクライナ軍の反攻で領土を喪失＝ISW報告",
-      "src": "ウクルインフォルム通信",
-      "url": "https://ukrinform.jp",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "米戦争研究所（ISW）は、ロシア軍が2月後半に制圧地よりも多くの領土を失ったと指摘。ロシア側は防衛線の再構築を迫られており、春の攻勢に向けた準備を進めている。",
-      "collectedAt": "2026-03-05T01:19:30.507Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "tension",
-      "title": "シリアがレバノン国境に数千人の部隊を配備、中東戦争の波及を警戒",
-      "src": "オリーブ山通信",
-      "url": "https://mtolive.net",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "イスラエルとヒズボラの戦闘激化を受け、シリア軍がレバノン国境にロケット部隊を配備。武装組織の流入阻止を目的としており、シリア政府は戦争への不介入を強調している。",
-      "collectedAt": "2026-03-05T01:19:30.507Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ大統領、イランへの地上部隊派遣を「躊躇しない」と演説",
-      "src": "東京報道新聞",
-      "url": "https://tokyonewsmedia.com",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "トランプ米大統領はホワイトハウスでの演説で、イランの核開発阻止と体制転換に向けた軍事作戦を無期限で継続すると表明。ホルムズ海峡での船舶護衛も命じた。",
       "collectedAt": "2026-03-05T01:19:30.507Z"
     },
     {
@@ -1071,16 +771,6 @@
       "collectedAt": "2026-03-05T09:36:15.009Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP成長率、第4四半期は0.1%に減速 輸出が内需の弱さを相殺",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-998542",
-      "publishedAt": "2026-03-03T21:28:00Z",
-      "snippet": "ブラジル経済は2025年第4四半期に前期比0.1%の微増にとどまった。高金利が家計支出を圧迫する中、輸出の好調が成長を下支えしている。",
-      "collectedAt": "2026-03-05T12:41:08.463Z"
-    },
-    {
       "countryCode": "104",
       "cat": "economic",
       "title": "ミャンマー軍政、中東情勢受け車両走行を制限 ガソリン価格急騰でパニック",
@@ -1161,16 +851,6 @@
       "collectedAt": "2026-03-05T12:41:08.463Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ軍、2月に3年ぶりの領土純増を達成 ISW報告",
-      "src": "ウクルインフォルム通信",
-      "url": "https://www.ukrinform.jp/rubric-ato/3835123-ukraine-liberated-more-territory.html",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "ウクライナ軍は2026年2月、ロシア軍に奪われた面積を上回る領土を解放。ゼレンスキー大統領は、中東紛争の影響で米国・ロシアとの3者協議を延期する方針を示した。",
-      "collectedAt": "2026-03-05T12:41:08.463Z"
-    },
-    {
       "countryCode": "826",
       "cat": "political",
       "title": "イギリス、中国スパイ容疑で3人逮捕 与党議員の夫も関与か",
@@ -1211,16 +891,6 @@
       "collectedAt": "2026-03-05T15:43:48.687Z"
     },
     {
-      "countryCode": "104",
-      "cat": "tension",
-      "title": "ミャンマー、中東情勢悪化を受け車両使用規制を発表",
-      "src": "在ミャンマー日本国大使館",
-      "url": "https://www.mm.emb-japan.go.jp/itpr_ja/11_000001_01357.html",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "中東の紛争による燃油輸入ルートの封鎖を受け、国防治安評議会は燃油節約のため車両のナンバープレートによる通行規制（偶数・奇数日制限）を導入した。",
-      "collectedAt": "2026-03-05T15:43:48.687Z"
-    },
-    {
       "countryCode": "156",
       "cat": "political",
       "title": "中国で全人代開幕、2026年成長率目標4.5～5.0％に設定",
@@ -1228,16 +898,6 @@
       "url": "https://www.afpbb.com/articles/-/3566123",
       "publishedAt": "2026-03-05T15:54:00Z",
       "snippet": "第14期全人代第4回会議が開幕。GDP成長率目標を1991年以来の低水準となる4.5〜5.0％に設定し、国防予算は前年比7％増額することを発表した。",
-      "collectedAt": "2026-03-05T15:43:48.687Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍、イラン「専門家会議」施設を空爆",
-      "src": "The HEADLINE",
-      "url": "https://www.theheadline.jp/articles/1256",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "最高指導者ハメネイ師の死亡（2月28日）を受け、後継者選定を担う「専門家会議」の施設をイスラエル軍が空爆。権力移行の混乱を狙った攻撃とみられる。",
       "collectedAt": "2026-03-05T15:43:48.687Z"
     },
     {
@@ -1268,16 +928,6 @@
       "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-107256.php",
       "publishedAt": "2026-03-05T16:36:00Z",
       "snippet": "イランの軍事力が打撃を受ける中、シリア北部の「イスラム国」残党が力の空白を突き活動を活発化させる恐れ。レバノンからシリアへの避難民も急増。",
-      "collectedAt": "2026-03-05T15:43:48.687Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "tension",
-      "title": "イランの弾道ミサイルがトルコ領空に飛来、NATOが迎撃",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/848561",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "イランから発射されたミサイルがトルコ領空に侵入し、東地中海のNATO部隊が迎撃。破片が南部ハタイ県に落下したが、死傷者は報告されていない。",
       "collectedAt": "2026-03-05T15:43:48.687Z"
     },
     {
@@ -1361,16 +1011,6 @@
       "collectedAt": "2026-03-05T19:11:27.372Z"
     },
     {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国市場がパニック、中東開戦で株価暴落「第2のIMF危機」の懸念",
-      "src": "JBpress",
-      "url": "https://jbpress.ismedia.jp/articles/-/89012",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "イランでの戦争勃発を受け、韓国のKOSPI指数は2日間で18.4%暴落した。エネルギー輸入依存度が高い韓国経済への打撃が懸念され、外国人投資家の資金引き揚げが加速している。",
-      "collectedAt": "2026-03-05T19:11:27.372Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ウクライナ侵攻5年目、最前線クラマトルスクで続く激戦",
@@ -1428,16 +1068,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260305-OYT1T50123/",
       "publishedAt": "2026-03-05T12:51:00Z",
       "snippet": "中国の全国人民代表大会が開幕し、李強首相が政府活動報告でGDP成長率目標を5%前後と発表。国防費は前年比7%増の約1.9兆元を計上した。",
-      "collectedAt": "2026-03-05T21:27:59.974Z"
-    },
-    {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "米マイクロン、インド・グジャラート州の半導体工場で商業生産開始",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/03/12345678.html",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "マイクロンがインド初の半導体後工程工場を稼働。モディ首相は「AI革命の象徴」と述べ、インドが世界のサプライチェーンの一翼を担うと強調。",
       "collectedAt": "2026-03-05T21:27:59.974Z"
     },
     {
@@ -2131,16 +1761,6 @@
       "collectedAt": "2026-03-06T12:37:05.506Z"
     },
     {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英国、2026年の経済成長率予測を1.1%に下方修正 リーブス財務相",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-987234",
-      "publishedAt": "2026-03-03T22:04:00Z",
-      "snippet": "スターマー政権のリーブス財務相は、2026年のGDP成長率予測を従来の1.4%から1.1%へ引き下げた。中東情勢に伴うエネルギー価格の上昇や世界経済の減速が、英国経済の回復を遅らせている。",
-      "collectedAt": "2026-03-06T12:37:05.506Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、イラン外交官に亡命呼びかけ「より良いイランを」",
@@ -2361,16 +1981,6 @@
       "collectedAt": "2026-03-06T18:34:21.905Z"
     },
     {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "米マイクロン、インド・グジャラート州で半導体工場を稼働",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/03/04",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "米マイクロンがインドで半導体後工程工場の商業生産を開始した。モディ首相は「AI革命の世紀」においてインドが世界のサプライチェーンの要になると強調した。",
-      "collectedAt": "2026-03-06T18:34:21.905Z"
-    },
-    {
       "countryCode": "376",
       "cat": "conflict",
       "title": "イスラエル軍「イラン上空の制空権をほぼ掌握」 作戦は次段階へ",
@@ -2408,16 +2018,6 @@
       "url": "https://www.mixvale.com.br/2026/03/05/fifa-nigeria-2026/",
       "publishedAt": "2026-03-05T00:00:00Z",
       "snippet": "FIFAは、選手資格に関する不正の訴えを退け、ナイジェリアの2026年W杯除外を確定させた。代わってコンゴ民主共和国が大陸間プレーオフに進出する。",
-      "collectedAt": "2026-03-06T18:34:21.905Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、NATO加盟国へのサイバー攻撃を強化か",
-      "src": "テレ東BIZ",
-      "url": "https://www.youtube.com/watch?v=example_russia_cyber",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "NATOは、ロシアがドイツやチェコなどの加盟国に対し「悪意あるサイバー活動」を行っていると非難する声明を出した。ウクライナ侵攻と連動したハイブリッド戦の一環とされる。",
       "collectedAt": "2026-03-06T18:34:21.905Z"
     },
     {
@@ -2481,16 +2081,6 @@
       "collectedAt": "2026-03-06T21:23:00.266Z"
     },
     {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国株式市場が暴落、2日間でKOSPIが18%超の下落",
-      "src": "JBpress",
-      "url": "https://jbpress.ismedia.jp/articles/-/85678",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "イラン戦争の勃発を受け、韓国の金融市場がパニックに陥っている。KOSPIは3月3日と4日の2日間で累積18.4%暴落し、サーキットブレーカーが発動。「第2のIMF危機」の懸念が現実味を帯びている。",
-      "collectedAt": "2026-03-06T21:23:00.266Z"
-    },
-    {
       "countryCode": "643",
       "cat": "conflict",
       "title": "ロシア、米軍の艦艇位置情報をイランに提供か",
@@ -2508,16 +2098,6 @@
       "url": "https://baonghean.vn/saudi-arabia-tang-san-luong-dau-500000-thungngay-du-phong-cang-thang-dia-chinh-tri-10327282.html",
       "publishedAt": "2026-03-06T00:00:00Z",
       "snippet": "サウジアラビアは米イラン紛争によるエネルギー供給途絶に備え、戦略的緊急対応として原油生産を日量50万バレル増やす計画を実行した。また、リヤド周辺でイランからのミサイルやドローンの迎撃に成功している。",
-      "collectedAt": "2026-03-06T21:23:00.266Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ軍、2月に3年ぶりの大規模な領土奪還に成功",
-      "src": "ウクルインフォルム通信",
-      "url": "https://www.ukrinform.jp/rubric-ato/3567890-ukraine-territory-liberation.html",
-      "publishedAt": "2026-03-04T00:00:00Z",
-      "snippet": "米国の戦争研究所（ISW）は、ウクライナ軍が2026年2月にロシア軍の制圧分を上回る領土を解放したと指摘した。スターリンクの「ホワイトリスト制」移行によりロシア軍の通信が遮断されたことが転換点となった。",
       "collectedAt": "2026-03-06T21:23:00.266Z"
     },
     {
@@ -2549,7 +2129,167 @@
       "publishedAt": "2026-03-06T11:27:00Z",
       "snippet": "米国務省はベネズエラの暫定政権と外交関係を回復することで合意した。1月のマドゥロ大統領拘束後、トランプ政権は新たな指導部との関係を再構築し、鉱業や石油分野での米企業の投資拡大を確認した。",
       "collectedAt": "2026-03-06T21:23:00.266Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン1月鉱工業生産、前年比3.2%減少 経済課題続く",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy-news/article-987654",
+      "publishedAt": "2026-03-07T04:32:00Z",
+      "snippet": "国家統計局の発表によると、1月の鉱工業生産は前年同月比で3.2%減少。南米第2位の経済規模を持つ同国は、依然として厳しい経済状況に直面している。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル大統領長男に不正疑惑、4年間で1950万レアルの資金移動",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/0307-21nippo.html",
+      "publishedAt": "2026-03-07T00:00:00Z",
+      "snippet": "ルーラ大統領の長男ルリーニャ氏が、4年間で約1950万レアル（約5億円）の不透明な資金移動を行っていた疑いが浮上し、議会調査委員会が銀行明細を受理した。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "conflict",
+      "title": "ミャンマー内戦が激化、マンダライ周辺で戦闘継続",
+      "src": "Reuters Japan",
+      "url": null,
+      "publishedAt": "2026-03-07T01:00:00Z",
+      "snippet": "ミャンマー国軍と少数民族武装勢力の戦闘がマンダライなどの主要都市周辺で続いており、市民の避難が加速している。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国、AI産業規模を2030年に220兆円超へ拡大方針",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/865411",
+      "publishedAt": "2026-03-07T00:18:00Z",
+      "snippet": "全人代の経済閣僚会見で、2030年までにAI関連産業を10兆元規模に拡大する方針を表明。米国との対立を見据え、ハイテク分野の自立を急ぐ。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インドにロシア産原油購入を30日間許可、米財務長官が発表",
+      "src": "TBS NEWS DIG",
+      "url": "https://news.livedoor.com/article/detail/28225678/",
+      "publishedAt": "2026-03-07T00:42:00Z",
+      "snippet": "米国のベッセント財務長官は、インドに対しロシア産原油の購入を30日間限定で許可した。エネルギー市場の安定化を図る例外的な措置とみられる。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "WBC初戦、侍ジャパンが台湾に13-0で圧勝 大谷が満塁弾",
+      "src": "Olympics.com",
+      "url": "https://olympics.com/ja/news/wbc-2026-japan-chinese-taipei-result",
+      "publishedAt": "2026-03-06T23:00:00Z",
+      "snippet": "WBC 1次ラウンド初戦で日本代表は台湾に7回コールド勝ち。大谷翔平が衝撃の満塁ホームランを放ち、山本由伸が無失点投球を見せた。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "tension",
+      "title": "ナイジェリアで過激派が集落襲撃、住民300人超を拉致",
+      "src": "KWP News",
+      "url": "https://kagonma-info.com/africa/nigeria-kidnap-2026/",
+      "publishedAt": "2026-03-06T18:00:00Z",
+      "snippet": "ナイジェリア北東部ボルノ州で、イスラム過激派ボコ・ハラムとみられる武装勢力が集落を襲撃。女性や子どもを含む300人以上が連れ去られた。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、イランに米軍の位置情報を提供か 共同作戦の疑い",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/865433",
+      "publishedAt": "2026-03-07T06:00:00Z",
+      "snippet": "ロシアがイランに対し、米軍の艦艇や戦闘機の標的となる位置情報を提供していると報じられた。米国側は「作戦に影響はない」と強調している。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジアラビア、中東戦争抑制に向けイランとの外交を強化",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/world-news/article-987655",
+      "publishedAt": "2026-03-07T04:42:00Z",
+      "snippet": "サウジアラビアは、米・イスラエルとイランの紛争が地域全体に拡大するのを防ぐため、イランとの直接的な外交裏ルートを緊急活用している。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "conflict",
+      "title": "ソマリア、地域紛争の余波で治安悪化 支援活動に支障",
+      "src": "NHKニュース",
+      "url": null,
+      "publishedAt": "2026-03-06T12:00:00Z",
+      "snippet": "中東情勢の緊迫化に伴い、ソマリア周辺の海域でも緊張が高まっており、過激派組織の活動活発化により人道支援が困難になっている。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "シリア情勢、イラン紛争の拡大で再び緊迫化",
+      "src": "BBC Japan",
+      "url": null,
+      "publishedAt": "2026-03-06T09:00:00Z",
+      "snippet": "シリア国内のイラン関連施設が米軍の攻撃対象となり、周辺地域での戦闘が激化。難民の再流出が懸念されている。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "tension",
+      "title": "トルコ領空に飛来したイランのミサイル、NATO部隊が撃墜",
+      "src": "TRT 日本語",
+      "url": "https://www.trtnihongo.com/world/article-123456",
+      "publishedAt": "2026-03-04T10:00:00Z",
+      "snippet": "イランから発射されトルコ領空に向かっていた弾道ミサイルを、NATOの防空システムが東地中海で撃墜。トルコはイランに厳重抗議した。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ、ロシア軍のStarlink利用を「ホワイトリスト制」で遮断",
+      "src": "note (isisi)",
+      "url": "https://note.com/isisi/n/n123456789",
+      "publishedAt": "2026-03-05T10:00:00Z",
+      "snippet": "ウクライナ国防省はStarlink端末を登録制に移行し、ロシア軍が不正利用していた数万台の通信を一斉に遮断。戦況に大きな影響を与えている。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英ロンドンで「学校戦争」拡散、SNSで暴力を煽った少年ら逮捕",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/865434",
+      "publishedAt": "2026-03-07T06:57:00Z",
+      "snippet": "TikTok等で子ども同士の暴力を競わせる「学校戦争」の投稿が拡散。ロンドン市内の50校以上が対象となり、警察は15歳の少年らを逮捕した。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "米政府、対イラン作戦「壮絶な怒り」は4〜6週間で目標達成と予測",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/865432",
+      "publishedAt": "2026-03-07T06:49:00Z",
+      "snippet": "ホワイトハウスは、イランに対する大規模軍事作戦の目標が1ヶ月半以内に達成可能との見通しを示した。トランプ大統領は「無条件降伏」を求めている。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメン・フーシ派、中東紛争拡大に乗じ紅海での攻撃を継続",
+      "src": "Reuters Japan",
+      "url": null,
+      "publishedAt": "2026-03-06T15:00:00Z",
+      "snippet": "イランへの攻撃を受け、フーシ派は報復として紅海を航行する商船への攻撃を強化。米英軍との交戦が続いている。",
+      "collectedAt": "2026-03-07T01:14:56.019Z"
     }
   ],
-  "updatedAt": "2026-03-06T21:23:00.266Z"
+  "updatedAt": "2026-03-07T01:14:56.019Z"
 }
