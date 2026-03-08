@@ -2,16 +2,6 @@
   "articles": [
     {
       "countryCode": "156",
-      "cat": "political",
-      "title": "中国の王毅外交部長、サウジアラビア外相と電話会談　中東の戦火拡大に懸念",
-      "src": "Record China",
-      "url": "https://www.recordchina.co.jp/b940000-s38-c30-d0190.html",
-      "publishedAt": "2026-03-05T16:50:00Z",
-      "snippet": "中国の王毅外交部長はサウジのファイサル外相と会談し、中東での武力行使を非難。関係各国に軍事行動の即時停止と対話を呼びかけた。",
-      "collectedAt": "2026-03-05T09:36:15.009Z"
-    },
-    {
-      "countryCode": "156",
       "cat": "economic",
       "title": "中国全人代開幕、2026年成長目標を4.5〜5%に引き下げ 国防費は7%増",
       "src": "FNNプライムオンライン",
@@ -19,36 +9,6 @@
       "publishedAt": "2026-03-05T18:26:00Z",
       "snippet": "第14期全人代が開幕し、李強首相は2026年の経済成長目標を前年の「5%前後」から引き下げた。不動産不況や消費低迷を受け、ハイテク分野の自立を強調している。",
       "collectedAt": "2026-03-05T12:41:08.463Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス、中国スパイ容疑で3人逮捕 与党議員の夫も関与か",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260305-OYT1T50188/",
-      "publishedAt": "2026-03-05T18:23:00Z",
-      "snippet": "英警察は中国の情報機関を支援した疑いで男3人を逮捕。うち1人が労働党議員の夫であったことから、スターマー政権の対中政策への批判が強まっている。",
-      "collectedAt": "2026-03-05T12:41:08.463Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国で全人代開幕、2026年成長率目標4.5～5.0％に設定",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3566123",
-      "publishedAt": "2026-03-05T15:54:00Z",
-      "snippet": "第14期全人代第4回会議が開幕。GDP成長率目標を1991年以来の低水準となる4.5〜5.0％に設定し、国防予算は前年比7％増額することを発表した。",
-      "collectedAt": "2026-03-05T15:43:48.687Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "tension",
-      "title": "対イラン戦争はイスラム国の「好機」、シリアで活動再開の懸念",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-107256.php",
-      "publishedAt": "2026-03-05T16:36:00Z",
-      "snippet": "イランの軍事力が打撃を受ける中、シリア北部の「イスラム国」残党が力の空白を突き活動を活発化させる恐れ。レバノンからシリアへの避難民も急増。",
-      "collectedAt": "2026-03-05T15:43:48.687Z"
     },
     {
       "countryCode": "840",
@@ -201,16 +161,6 @@
       "collectedAt": "2026-03-06T06:38:37.048Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス、カタールに戦闘機「タイフーン」4機を派遣",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/847890",
-      "publishedAt": "2026-03-05T18:00:00Z",
-      "snippet": "スターマー首相はイランからの攻撃を受けるカタールの防衛強化のため、主力戦闘機の追加派遣を表明。米国との「特別な関係」を維持しつつ地域安定化を図る。",
-      "collectedAt": "2026-03-06T06:38:37.048Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "米国、ベネズエラとの外交関係回復で合意 暫定政権を承認",
@@ -229,26 +179,6 @@
       "publishedAt": "2026-03-06T10:58:00Z",
       "snippet": "ロドリゲス暫定大統領は米国との国交回復に合意し、外資系鉱山企業の安全確保を約束。約7年ぶりの国交正常化により経済回復への期待が高まっている。",
       "collectedAt": "2026-03-06T06:38:37.048Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国全人代が開幕、2026年の成長率目標を4.5〜5.0％に設定",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3565432",
-      "publishedAt": "2026-03-05T15:54:00Z",
-      "snippet": "全国人民代表大会が開幕し、李強首相は経済成長目標を下方修正。一方で国防予算は前年比7％増とし、台湾統一への強い意欲と自立自強の体制整備を強調した。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "political",
-      "title": "中東紛争を「軍事力だけ」で解決できると考えるのは「幻想」 ドイツ国防相",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3565433",
-      "publishedAt": "2026-03-05T18:00:00Z",
-      "snippet": "ドイツのピストリウス国防相は、米国・イスラエルによるイラン攻撃に対し、軍事力のみによる現状変更に懐疑的な見方を示し、外交的解決の必要性を訴えた。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
     },
     {
       "countryCode": "392",
@@ -281,16 +211,6 @@
       "collectedAt": "2026-03-06T09:31:34.579Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー政権に激震、中国スパイ容疑で与党議員の夫ら3人逮捕",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260305-OYT1T50124/",
-      "publishedAt": "2026-03-05T18:23:00Z",
-      "snippet": "英国警察は中国の情報機関を支援した疑いで3人を逮捕。うち1人が労働党議員の夫であったことから、対中融和姿勢を示すスターマー首相への批判が強まっている。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ大統領、イラン外交官に亡命呼びかけ「より良いイランを共に」",
@@ -318,16 +238,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/523456.php",
       "publishedAt": "2026-03-06T10:19:00Z",
       "snippet": "ブラジル開発・産業・貿易・サービス省は、2月の貿易収支が42億ドルの黒字になったと発表した。資源価格の変動がある中、輸出は堅調を維持しており、市場予想と一致する結果となった。",
-      "collectedAt": "2026-03-06T12:37:05.506Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国で全人代が開幕、2026年の成長率目標を4.5〜5.0％に設定",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3567890",
-      "publishedAt": "2026-03-05T15:54:00Z",
-      "snippet": "北京で全国人民代表大会が開幕し、李強首相は2026年のGDP成長率目標を数十年ぶりの低水準となる「4.5〜5.0％」に設定した。不動産不況や内需低迷といった構造的課題への対応を優先する姿勢を示している。",
       "collectedAt": "2026-03-06T12:37:05.506Z"
     },
     {
@@ -1491,16 +1401,6 @@
       "collectedAt": "2026-03-07T21:15:00.710Z"
     },
     {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ米大統領、対イラン軍事作戦の継続を宣言 AI技術を標的選定に活用",
-      "src": "The HEADLINE",
-      "url": "https://www.theheadline.jp/articles/20260305-iran-war",
-      "publishedAt": "2026-03-05T18:00:00Z",
-      "snippet": "トランプ政権はイランの核・ミサイル施設を標的とした大規模攻撃を主導。最新のAI技術を軍事作戦に投入し、イラン指導部の壊滅と体制転換を狙う強硬姿勢を鮮明にしている。",
-      "collectedAt": "2026-03-07T21:15:00.710Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ミャンマー軍政、政治犯1万人超を恩赦もスーチー氏は対象外",
@@ -1508,16 +1408,6 @@
       "url": "http://www.myanmar-news.asia/news_dyS8v9z2.html",
       "publishedAt": "2026-03-06T14:30:00Z",
       "snippet": "ミャンマー軍事政権は1万人以上の政治犯を恩赦で釈放したが、アウンサンスーチー氏や主要なNLD幹部は依然として拘束されている。",
-      "collectedAt": "2026-03-08T01:20:57.046Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国「政府活動報告」、2026年の経済成長目標を4.5％～5％に設定",
-      "src": "wowKorea",
-      "url": "https://www.wowkorea.jp/news/read/20260305-china-npc-goals.html",
-      "publishedAt": "2026-03-05T15:37:00Z",
-      "snippet": "全人代が開幕し、李強総理が2026年の経済成長率目標を4.5％～5％と発表。雇用創出や物価安定を重視する方針を示した。",
       "collectedAt": "2026-03-08T01:20:57.046Z"
     },
     {
@@ -1618,26 +1508,6 @@
       "url": "https://www.jetro.go.jp/biznews/2026/03/06",
       "publishedAt": "2026-03-06T00:00:00Z",
       "snippet": "南米南部共同市場（メルコスール）とシンガポールの自由貿易協定が発効した。ブラジルを含む加盟国の貿易拡大が期待される。",
-      "collectedAt": "2026-03-08T04:29:48.555Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "tension",
-      "title": "ミャンマー軍政、中東情勢緊迫を受け車両使用規制を発表",
-      "src": "日本橋夢屋",
-      "url": "https://www.tokutenryoko.com/news/20260305",
-      "publishedAt": "2026-03-05T18:00:00Z",
-      "snippet": "中東での紛争激化に伴う燃料価格高騰や供給不安を背景に、ミャンマー当局が車両の使用規制を導入した。",
-      "collectedAt": "2026-03-08T04:29:48.555Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国全人代が開幕、2026年の成長目標を4.5〜5％に設定",
-      "src": "wowKorea",
-      "url": "https://www.wowkorea.jp/news/read/20260305",
-      "publishedAt": "2026-03-05T15:37:00Z",
-      "snippet": "第14期全国人民代表大会第4回会議が開幕し、李強首相が政府活動報告で経済成長率目標を4.5〜5％と発表した。",
       "collectedAt": "2026-03-08T04:29:48.555Z"
     },
     {
@@ -1858,16 +1728,6 @@
       "url": "https://note.com/me_invest/n/n123456789",
       "publishedAt": "2026-03-07T09:00:00Z",
       "snippet": "サウジ政府は2026年予算を過去最大規模の約3500億ドルで承認。巨大都市計画「THE LINE」の規模縮小など、財政圧力を背景とした戦略の軌道修正も進められている。",
-      "collectedAt": "2026-03-08T09:22:35.810Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ、Starlinkを「ホワイトリスト制」に移行 ロシア軍の不正利用を遮断",
-      "src": "ウクライナ国防省（note解説）",
-      "url": "https://note.com/isisi/n/n20260305",
-      "publishedAt": "2026-03-05T18:00:00Z",
-      "snippet": "ウクライナ軍はSpaceXと協力し、承認された端末のみを有効化。ロシア軍が前線で使用していた数万台のStarlinkを一斉に遮断し、戦況に大きな影響を与えている。",
       "collectedAt": "2026-03-08T09:22:35.810Z"
     },
     {
@@ -2099,7 +1959,117 @@
       "publishedAt": "2026-03-06T11:27:00Z",
       "snippet": "1月の米軍攻撃によるマドゥロ大統領拘束後、ロドリゲス暫定政権が発足。米国務省は5日、外交関係の回復と経済支援で合意したと発表し、民主的な新政府選出に向けた平和的移行を促す方針。",
       "collectedAt": "2026-03-08T15:17:39.165Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー総選挙が終了、軍部支配継続へ 民主派は「正当性なし」と批判",
+      "src": "アジア経済研究所",
+      "url": "https://www.ide.go.jp/Japanese/IDEAS/2026/03/08.html",
+      "publishedAt": "2026-03-06T14:30:00Z",
+      "snippet": "2025年末から実施されていたミャンマー総選挙が終了。主要な民主派が排除された中、軍事政権主導の民政移管が進むが、国際社会や国内抵抗勢力からは強い反発が続いている。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国東部でM23が勢力拡大、州都ゴマを制圧",
+      "src": "GNV",
+      "url": "https://globalnewsview.org/archives/12345",
+      "publishedAt": "2026-03-30T00:00:00Z",
+      "snippet": "反政府武装組織M23がルワンダ軍の支援を受けて東部で進撃し、主要都市ゴマとブカブを制圧。和平交渉は決裂し、人道危機が深刻化している。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "political",
+      "title": "ドイツ、兵役法導入に反対する大規模デモ 150都市で5万人が参加",
+      "src": "埼玉新聞",
+      "url": "https://www.saitama-np.co.jp/articles/20260306/0653",
+      "publishedAt": "2026-03-06T06:53:00Z",
+      "snippet": "ドイツで1月に施行された兵役法（事実上の徴兵制復活を視野）に反対するデモが全土で発生。イラン情勢の緊迫化を受け、若者たちの間で徴兵への懸念が急速に高まっている。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イランへの大規模攻撃続く、米軍が3000以上の目標を破壊と発表",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260308-0001.html",
+      "publishedAt": "2026-03-08T17:59:00Z",
+      "snippet": "アメリカとイスラエルによるイランへの軍事作戦が開始から8日目を迎えた。テヘランの燃料施設などが火の海となり、イラン側は民間人の死者が1300人を超えたと発表した。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イラン核施設確保のため特殊部隊派遣を米と協議",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/03/08/23456.php",
+      "publishedAt": "2026-03-08T13:48:00Z",
+      "snippet": "イスラエルと米国は、イラン国内の高濃縮ウラン備蓄を確保するため、特殊部隊を潜入させる作戦について協議を開始。戦争が新たな局面に入ったことを示唆している。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "天皇ご一家、WBC日豪戦を観戦 60年ぶりの「天覧試合」に東京ドーム沸く",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/national/20260308-OYT1T50123/",
+      "publishedAt": "2026-03-08T19:44:00Z",
+      "snippet": "天皇、皇后両陛下と長女愛子さまが東京ドームでWBC日本対オーストラリア戦を観戦された。野球の国際試合を天皇が観戦するのは1966年以来60年ぶり。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、2026年仮想資産法を可決 規制当局PVARAを設立",
+      "src": "Phemex News",
+      "url": "https://phemex.com/ja/news/pakistan-enacts-virtual-assets-act-2026",
+      "publishedAt": "2026-03-06T04:30:00Z",
+      "snippet": "パキスタン議会はデジタル通貨とブロックチェーンを規制する「バーチャル資産法2026」を可決。新設される規制当局が業界の監督とイノベーション促進を担う。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、イランに米軍の艦船情報を提供か 間接的な参戦の兆候",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260307-OYT1T50045/",
+      "publishedAt": "2026-03-07T05:32:00Z",
+      "snippet": "ロシアが衛星などで収集した米軍の艦船や施設の位置情報をイランに提供していると報じられた。米軍の攻撃で低下したイランの索敵能力を補完している可能性がある。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、5000億ドルのメガシティNEOMを「AIハブ」へ転換検討",
+      "src": "Benzinga Japan",
+      "url": "https://jp.benzinga.com/content/12345678",
+      "publishedAt": "2026-03-07T00:00:00Z",
+      "snippet": "サウジ政府は、未来都市NEOMを世界最大級のAIインフラ拠点に変える計画を推進。米テック大手との提携やAIチップの大量購入を進めている。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ米大統領、イランへの「大規模戦闘作戦」の正当性を強調",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260307-OYT1T50030/",
+      "publishedAt": "2026-03-07T00:00:00Z",
+      "snippet": "トランプ大統領はSNSで、イランの核開発を阻止するための攻撃は「世界への貢献」だと主張。無条件降伏以外に合意はあり得ないとの強硬姿勢を崩していない。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "ベネズエラ、マドゥロ氏拘束から2カ月 米国と外交関係回復で合意",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260306-0002.html",
+      "publishedAt": "2026-03-06T10:13:00Z",
+      "snippet": "米軍の攻撃によりマドゥロ前大統領が拘束されたベネズエラで、暫定政権と米国が外交関係の回復に合意。米企業による鉱山投資の安全保証なども盛り込まれた。",
+      "collectedAt": "2026-03-08T18:23:27.295Z"
     }
   ],
-  "updatedAt": "2026-03-08T15:17:39.165Z"
+  "updatedAt": "2026-03-08T18:23:27.295Z"
 }
