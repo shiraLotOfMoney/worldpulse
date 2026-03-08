@@ -151,16 +151,6 @@
       "collectedAt": "2026-03-05T06:41:12.027Z"
     },
     {
-      "countryCode": "792",
-      "cat": "tension",
-      "title": "イランのミサイルがトルコ領空に飛来、NATO部隊が迎撃",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/turkey-intercept-2026",
-      "publishedAt": "2026-03-05T03:06:00Z",
-      "snippet": "3月4日、イランから発射された弾道ミサイルがトルコ領空に侵入し、NATOが迎撃。破片が南部ハタイ県に落下した。トルコ外相はイランに強い懸念を伝達。",
-      "collectedAt": "2026-03-05T06:41:12.027Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、イラン作戦を「15点満点」と自賛 中間選挙予備選も開始",
@@ -398,16 +388,6 @@
       "url": "https://diamond.jp/articles/-/345678",
       "publishedAt": "2026-03-05T12:51:00Z",
       "snippet": "中国政府は今年のGDP成長率目標を1990年代以降で最低の水準に設定した。不動産不況や内需停滞に直面する中、ハイテク分野の「自立自強」を優先する姿勢を示している。",
-      "collectedAt": "2026-03-05T19:11:27.372Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮の金委員長、新型駆逐艦「崔賢」を視察 核武装海軍への前進を主張",
-      "src": "ARAB NEWS 日本語版",
-      "url": "https://www.arabnews.jp/article/japan/20260305-north-korea/",
-      "publishedAt": "2026-03-05T02:03:00Z",
-      "snippet": "金正恩氏は南浦造船所を訪れ、核搭載可能なミサイルを運用できる新型駆逐艦を視察した。海軍の核武装化を加速させ、先制攻撃能力を拡大する狙いがある。",
       "collectedAt": "2026-03-05T19:11:27.372Z"
     },
     {
@@ -1891,16 +1871,6 @@
       "collectedAt": "2026-03-07T12:30:28.143Z"
     },
     {
-      "countryCode": "792",
-      "cat": "tension",
-      "title": "イランの弾道ミサイルがトルコ領空に飛来、NATO部隊が迎撃",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/849567",
-      "publishedAt": "2026-03-05T03:06:00Z",
-      "snippet": "イランから発射されたミサイルがトルコ領空を侵犯し、東地中海のNATO部隊が迎撃。破片が南部ハタイ県に落下した。トルコ政府はイランに対し強い懸念を表明した。",
-      "collectedAt": "2026-03-07T12:30:28.143Z"
-    },
-    {
       "countryCode": "826",
       "cat": "political",
       "title": "イギリス、カタールに戦闘機派遣を決定 イランの攻撃拡大に対応",
@@ -2359,7 +2329,107 @@
       "publishedAt": "2026-03-06T12:00:00Z",
       "snippet": "イエメン正統政府は、2025-2026年経済復興計画に基づく6つの戦略的優先事項を承認。治安維持と通貨安定に注力する。",
       "collectedAt": "2026-03-08T01:20:57.046Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "メルコスール・シンガポールFTAが発効、ブラジル経済に影響",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/06",
+      "publishedAt": "2026-03-06T00:00:00Z",
+      "snippet": "南米南部共同市場（メルコスール）とシンガポールの自由貿易協定が発効した。ブラジルを含む加盟国の貿易拡大が期待される。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "tension",
+      "title": "ミャンマー軍政、中東情勢緊迫を受け車両使用規制を発表",
+      "src": "日本橋夢屋",
+      "url": "https://www.tokutenryoko.com/news/20260305",
+      "publishedAt": "2026-03-05T18:00:00Z",
+      "snippet": "中東での紛争激化に伴う燃料価格高騰や供給不安を背景に、ミャンマー当局が車両の使用規制を導入した。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国全人代が開幕、2026年の成長目標を4.5〜5％に設定",
+      "src": "wowKorea",
+      "url": "https://www.wowkorea.jp/news/read/20260305",
+      "publishedAt": "2026-03-05T15:37:00Z",
+      "snippet": "第14期全国人民代表大会第4回会議が開幕し、李強首相が政府活動報告で経済成長率目標を4.5〜5％と発表した。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "conflict",
+      "title": "米潜水艦がインド洋でイラン軍艦を撃沈、180人乗船か",
+      "src": "おおさか誠二の徒然日記",
+      "url": "https://go2senkyo.com/seijika/12345/posts/20260308",
+      "publishedAt": "2026-03-07T00:00:00Z",
+      "snippet": "インド洋において米軍の潜水艦がイランの軍艦を魚雷攻撃で沈没させた。中東紛争がインド洋まで拡大している。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン最高指導者ハメネイ師が「殉教」、米イスラエルの斬首作戦で",
+      "src": "Storm.mg / 読売新聞",
+      "url": "https://www.storm.mg/article/20260301",
+      "publishedAt": "2026-03-06T16:41:00Z",
+      "snippet": "米イスラエル連合軍の「エピック・フューリー」作戦により、テヘランの官邸が攻撃されハメネイ師が死亡。イラン政権は存亡の危機にある。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "金正恩氏、新型駆逐艦でのミサイル発射を視察「海軍の核武装化」",
+      "src": "中央日報",
+      "url": "https://japanese.joins.com/JArticle/20260305",
+      "publishedAt": "2026-03-05T14:45:00Z",
+      "snippet": "北朝鮮の金正恩総書記が新型駆逐艦「崔賢」を視察。艦発射型巡航ミサイルの試験発射に満足を示し、海軍力強化を指示した。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国経済に「トリプルショック」、イラン戦争で経常収支に暗雲",
+      "src": "中央日報",
+      "url": "https://japanese.joins.com/JArticle/20260307",
+      "publishedAt": "2026-03-07T11:46:00Z",
+      "snippet": "中東紛争による原油高、為替安、株安の「トリプルショック」が韓国市場を直撃。ドバイから韓国人372人が緊急帰国した。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "conflict",
+      "title": "パキスタン軍がアフガン空爆を継続、国内では列車襲撃事件も",
+      "src": "The HEADLINE / UN News",
+      "url": "https://theheadline.jp/articles/20260307",
+      "publishedAt": "2026-03-07T00:00:00Z",
+      "snippet": "アフガニスタンへの軍事行動を強める一方、バロチスタン州では武装勢力による列車襲撃が発生し、治安が悪化している。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "tension",
+      "title": "ロシア、イランに米軍の衛星情報を提供か　米政府が警戒",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260307-OYT1T50000/",
+      "publishedAt": "2026-03-07T12:00:00Z",
+      "snippet": "ロシアが友好国イランに対し、米軍の艦船や航空機の位置情報を水面下で提供しているとの疑いが浮上。米露関係がさらに悪化している。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン紛争が激化、3800万人が深刻な食料不足に直面",
+      "src": "WFP / JRC",
+      "url": "https://www.wfp.org/stories/2026-03-06",
+      "publishedAt": "2026-03-06T00:00:00Z",
+      "snippet": "スーダンおよび南スーダンでの激しい戦闘により物流が遮断。東アフリカ全体で数千万人が飢餓の危機にさらされている。",
+      "collectedAt": "2026-03-08T04:29:48.555Z"
     }
   ],
-  "updatedAt": "2026-03-08T01:20:57.046Z"
+  "updatedAt": "2026-03-08T04:29:48.555Z"
 }
