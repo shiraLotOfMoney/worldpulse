@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー軍政、徴兵制第20期生が卒業　燃料不足も深刻化",
-      "src": "MYANMAR JAPON",
-      "url": "https://myanmarjapon.com/news-12345",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "徴兵制に基づく新兵の訓練が完了する一方、中東情勢の影響で燃料供給が滞り、ヤンゴンなどの主要都市で給油待ちの列が発生している。",
-      "collectedAt": "2026-03-05T04:30:19.244Z"
-    },
-    {
       "countryCode": "156",
       "cat": "economic",
       "title": "中国全人代が開幕、成長率目標を4.5〜5％に引き下げ",
@@ -23,81 +13,11 @@
     {
       "countryCode": "392",
       "cat": "economic",
-      "title": "日経平均株価が大幅反発、一時2000円超の上昇",
-      "src": "日経新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB05001/",
-      "publishedAt": "2026-03-05T11:00:00Z",
-      "snippet": "中東情勢の緊迫化による売りが一巡し、値ごろ感からの買いが優勢に。一方で、原油高による物価上昇への懸念は依然として根強い。",
-      "collectedAt": "2026-03-05T04:30:19.244Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮、新型駆逐艦「崔賢」の性能試験に成功　金正恩氏が指導",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/876543",
-      "publishedAt": "2026-03-05T10:43:00Z",
-      "snippet": "金正恩総書記は新型艦艇からの戦略巡航ミサイル発射試験を視察し、海軍力の飛躍的強化を指示。毎年2隻以上の大型艦艇を建造する量産体制を命じた。",
-      "collectedAt": "2026-03-05T04:30:19.244Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "economic",
-      "title": "ベネズエラ、19四半期連続のプラス成長　鉱業改革も推進",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/12345.php",
-      "publishedAt": "2026-03-05T10:11:00Z",
-      "snippet": "昨年第4四半期のGDPが7％増を記録。ロドリゲス暫定大統領は外資による金・レアアース採掘を可能にする法改正案を提出し、経済の立て直しを急ぐ。",
-      "collectedAt": "2026-03-05T04:30:19.244Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "economic",
-      "title": "中東情勢の緊迫化でミャンマー経済が混乱、燃料不足深刻化",
-      "src": "MYANMAR JAPON",
-      "url": "https://myanmarjapon.com/news-id12345",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "米国とイランの衝突を受け、ミャンマー国内で燃料の買いだめが発生。軍政は「40日分の備蓄がある」と沈静化を図るが、物価高騰と経済混乱が続いている。",
-      "collectedAt": "2026-03-05T06:41:12.027Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国全人代が開幕、2026年の成長率目標を4.5〜5.0%に引き下げ",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/455.php",
-      "publishedAt": "2026-03-05T09:25:00Z",
-      "snippet": "李強首相は政府活動報告で、厳しい内外情勢を背景に成長目標を下方修正。国防予算は7%増の約43兆円に設定し、「科学技術強国」への転換を強調した。",
-      "collectedAt": "2026-03-05T06:41:12.027Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "economic",
       "title": "日経平均が急反発、イラン情勢の不透明感残るも米経済指標を好感",
       "src": "三井住友DSアセットマネジメント",
       "url": "https://www.smd-am.co.jp/market/ichikawa/2026/03/report0305/",
       "publishedAt": "2026-03-05T15:00:00Z",
       "snippet": "3月4日に史上5番目の下げ幅を記録した日経平均だが、5日は958円高と急反発。高市政権は邦人保護と物価高対策を急いでおり、市場は中東情勢の推移を注視。",
-      "collectedAt": "2026-03-05T06:41:12.027Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "conflict",
-      "title": "北朝鮮、新型駆逐艦から戦略巡航ミサイル試射「成功」と報道",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026030500123",
-      "publishedAt": "2026-03-05T09:54:00Z",
-      "snippet": "金正恩総書記が4日、就役前の5000トン級駆逐艦「崔賢」からのミサイル発射を視察。海軍の核武装化を強調し、今後5年間で毎年2隻の大型艦建造を指示した。",
-      "collectedAt": "2026-03-05T06:41:12.027Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "tension",
-      "title": "リヤドの米国大使館にドローン攻撃、サウジ政府はイランへの反撃権を主張",
-      "src": "ARAB NEWS Japan",
-      "url": "https://www.arabnews.jp/article/saudi-alert-2026",
-      "publishedAt": "2026-03-05T11:00:00Z",
-      "snippet": "3月3日未明、リヤドの外交地区にある米大使館が攻撃を受け火災が発生。ムハンマド皇太子は「自国を守るために必要なあらゆる手段を講じる」と宣言した。",
       "collectedAt": "2026-03-05T06:41:12.027Z"
     },
     {
@@ -111,16 +31,6 @@
       "collectedAt": "2026-03-05T09:36:15.009Z"
     },
     {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "金正恩総書記、新型駆逐艦「崔賢」の性能試験を指導　戦略巡航ミサイル発射も",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/846234",
-      "publishedAt": "2026-03-05T10:43:00Z",
-      "snippet": "北朝鮮メディアは、金総書記が新型駆逐艦からのミサイル発射試験を視察したと報じた。米韓への抑止力を高めるため艦艇の量産を指示した。",
-      "collectedAt": "2026-03-05T09:36:15.009Z"
-    },
-    {
       "countryCode": "643",
       "cat": "conflict",
       "title": "ロシア・ウクライナ・米国の3カ国協議、アブダビで2日目　終戦への道筋議論",
@@ -128,16 +38,6 @@
       "url": "https://ssri-j.com/report/russia20260305",
       "publishedAt": "2026-03-05T12:40:00Z",
       "snippet": "侵攻終結に向けた実務的な協議がUAEで継続。ウクライナ側は初日の議論を「生産的」と評価したが、領土割譲を巡る隔たりは依然として大きい。",
-      "collectedAt": "2026-03-05T09:36:15.009Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス警察、中国のスパイ活動に関与した疑いで3人を逮捕",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260305-OYT1T50045/",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "中国の情報機関を支援した国家安全保障法違反の疑いで男3人が逮捕された。うち1人は与党・労働党議員の夫であると報じられている。",
       "collectedAt": "2026-03-05T09:36:15.009Z"
     },
     {
@@ -151,16 +51,6 @@
       "collectedAt": "2026-03-05T12:41:08.463Z"
     },
     {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "金正恩氏、新型駆逐艦「崔賢」の性能試験を指導 戦略巡航ミサイル発射も成功",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/824415",
-      "publishedAt": "2026-03-05T10:43:00Z",
-      "snippet": "北朝鮮の金正恩総書記は新型駆逐艦に自ら乗船し、海上からのミサイル発射実験を視察。米国のイラン攻撃を受け、核保有による抑止力強化の決意を固めている。",
-      "collectedAt": "2026-03-05T12:41:08.463Z"
-    },
-    {
       "countryCode": "826",
       "cat": "political",
       "title": "イギリス、中国スパイ容疑で3人逮捕 与党議員の夫も関与か",
@@ -168,26 +58,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260305-OYT1T50188/",
       "publishedAt": "2026-03-05T18:23:00Z",
       "snippet": "英警察は中国の情報機関を支援した疑いで男3人を逮捕。うち1人が労働党議員の夫であったことから、スターマー政権の対中政策への批判が強まっている。",
-      "collectedAt": "2026-03-05T12:41:08.463Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ大統領、イラン攻撃「目標達成まで継続」 潜水艦がイラン軍艦撃沈",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/824333",
-      "publishedAt": "2026-03-05T12:00:00Z",
-      "snippet": "トランプ政権はイランの核施設や軍事拠点2000カ所への攻撃を強行。米海軍潜水艦が国際水域でイラン軍艦を撃沈するなど、全面戦争の様相を呈している。",
-      "collectedAt": "2026-03-05T12:41:08.463Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "economic",
-      "title": "ベネズエラ、鉱業法改正案を提出へ 外国企業に金・レアアース採掘開放",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/525911.php",
-      "publishedAt": "2026-03-05T11:04:00Z",
-      "snippet": "ロドリゲス暫定大統領は米内務長官と会談し、鉱業セクターの開放を表明。GDPは19四半期連続のプラス成長を記録しており、経済再建を加速させる狙い。",
       "collectedAt": "2026-03-05T12:41:08.463Z"
     },
     {
@@ -218,16 +88,6 @@
       "url": "https://www.yomiuri.co.jp/economy/20260305-OYT1T50234/",
       "publishedAt": "2026-03-05T23:05:00Z",
       "snippet": "米国際貿易裁判所は、トランプ政権が課した「相互関税」を違法とし、企業への全額還付を命じた。一方で財務長官は新関税を15％に引き上げる意向を表明。",
-      "collectedAt": "2026-03-05T15:43:48.687Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "economic",
-      "title": "ベネズエラ、鉱業改革案を議会提出へ 暫定大統領が米閣僚と会談",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-107245.php",
-      "publishedAt": "2026-03-05T10:11:00Z",
-      "snippet": "ロドリゲス暫定大統領は米内務長官と会談し、外国企業による金・レアアース採掘を可能にする法改正案を発表。GDPは19期連続のプラス成長を記録。",
       "collectedAt": "2026-03-05T15:43:48.687Z"
     },
     {
@@ -271,26 +131,6 @@
       "collectedAt": "2026-03-05T21:27:59.974Z"
     },
     {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン大手金融ガリシア、マクロ経済の圧力で純損失を計上",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/stock-market-news/article-934567",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "アルゼンチンの大手銀行グループが2025年第4四半期に巨額の純損失を報告。国内のマクロ経済的課題が引き続き重荷となっている。",
-      "collectedAt": "2026-03-06T01:22:49.891Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "economic",
-      "title": "ミャンマー軍政、中東情勢緊迫化を受け車両の使用規制を発表",
-      "src": "MYANMAR JAPON",
-      "url": "https://myanmarjapon.com/news-6789/",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "中東での軍事衝突による燃油輸入ルートの封鎖を受け、ミャンマー軍政は燃油節約のため車両のナンバーによる通行規制を開始した。",
-      "collectedAt": "2026-03-06T01:22:49.891Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "日本政府、中東情勢悪化で邦人退避のチャーター機派遣を決定",
@@ -298,16 +138,6 @@
       "url": "https://www.fnn.jp/articles/-/867890",
       "publishedAt": "2026-03-06T06:28:00Z",
       "snippet": "イラン情勢の緊迫化を受け、日本政府はオマーンから成田へのチャーター機を8日に運航し、足止めされている邦人の退避を支援する。",
-      "collectedAt": "2026-03-06T01:22:49.891Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "tension",
-      "title": "サウジ防空当局、製油所を狙ったイランのドローン攻撃を迎撃",
-      "src": "ARAB NEWS Japan",
-      "url": "https://www.arabnews.jp/article/saudi-arabia/article_234567/",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "サウジアラビア東部のラス・タンヌーラ製油所などがイランの攻撃対象となったが、防空システムにより無力化された。サウジ政府は自衛の権利を強調している。",
       "collectedAt": "2026-03-06T01:22:49.891Z"
     },
     {
@@ -351,16 +181,6 @@
       "collectedAt": "2026-03-06T01:22:49.891Z"
     },
     {
-      "countryCode": "276",
-      "cat": "political",
-      "title": "ドイツで若者が兵役法に反対デモ、150都市で5万人が参加",
-      "src": "埼玉新聞",
-      "url": "https://www.saitama-np.co.jp/articles/20260305",
-      "publishedAt": "2026-03-05T11:00:00Z",
-      "snippet": "ドイツ全土で、徴兵制の復活を視野に入れた新兵役法に反対するデモが行われた。イラン情勢の緊迫化やウクライナ侵攻が続く中、若者たちが徴兵への不安を訴えている。",
-      "collectedAt": "2026-03-06T04:28:13.678Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン大統領「自衛の道しかなかった」、米・イスラエルの攻撃に釈明",
@@ -378,36 +198,6 @@
       "url": "https://www.fnn.jp/articles/-/123456",
       "publishedAt": "2026-03-06T05:00:00Z",
       "snippet": "イスラエル軍はイランに対する軍事作戦で、同国の防空システムの約8割を破壊し、制空権をほぼ獲得したと発表した。ネタニヤフ首相は「核武装を阻止するための正当な行動」と主張している。",
-      "collectedAt": "2026-03-06T04:28:13.678Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、カナダ首相と会談へ 重要鉱物の供給網構築で合意",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/politics/20260305-OYT1T50001/",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "高市首相は来日したカナダのカーニー首相と首脳会談を行い、重要鉱物のサプライチェーン強靱化に向けた「経済安全保障対話」の設置で合意する。中国への依存脱却を目指す。",
-      "collectedAt": "2026-03-06T04:28:13.678Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国、出生率が過去最大の伸びを記録 少子化対策に効果か",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-10000.php",
-      "publishedAt": "2026-03-05T11:00:00Z",
-      "snippet": "深刻な少子化に悩む韓国で、昨年の出生率が過去最大の伸びを示した。政府の継続的な支援策が功を奏した形となり、経済・社会の持続可能性への期待が高まっている。",
-      "collectedAt": "2026-03-06T04:28:13.678Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ大統領、イラン最高指導者ハメネイ師の後継選出に関与示唆",
-      "src": "埼玉新聞",
-      "url": "https://www.saitama-np.co.jp/articles/20260305_trump",
-      "publishedAt": "2026-03-05T11:00:00Z",
-      "snippet": "トランプ米大統領は、米軍の攻撃で死亡したとされるイランのハメネイ師の後継選出に関与する意向を示した。イランに対し反米路線の脱却を強く要求している。",
       "collectedAt": "2026-03-06T04:28:13.678Z"
     },
     {
@@ -458,16 +248,6 @@
       "url": "https://www.vietnam.vn/ja/saudi-arabia-tang-san-luong-dau-500000-thungngay-du-phong-cang-thang-dia-chinh-tri/",
       "publishedAt": "2026-03-06T08:00:00Z",
       "snippet": "米イラン紛争によるエネルギー供給途絶に備え、サウジアラビアは戦略的増産を決定。世界のエネルギー市場の安定化を図る。",
-      "collectedAt": "2026-03-06T06:38:37.048Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "tension",
-      "title": "シリア、レバノンからの避難民3万人以上を受け入れ 中東危機波及",
-      "src": "UNHCR 日本",
-      "url": "https://www.unhcr.org/jp/65432-pr-2026-03-05.html",
-      "publishedAt": "2026-03-05T12:00:00Z",
-      "snippet": "イスラエルとイラン・ヒズボラの戦闘激化により、レバノンからシリアへ3万人以上が越境避難。シリア国内の不安定な情勢にさらなる負担となっている。",
       "collectedAt": "2026-03-06T06:38:37.048Z"
     },
     {
@@ -541,16 +321,6 @@
       "collectedAt": "2026-03-06T09:31:34.579Z"
     },
     {
-      "countryCode": "586",
-      "cat": "conflict",
-      "title": "パキスタン、アフガニスタンとの「開戦」を宣言 国境沿いで激しい戦闘",
-      "src": "Vietnam.vn (日本語訳)",
-      "url": "https://www.vietnam.vn/ja/pakistan-tuyen-bo-chien-tranh-voi-afghanistan/",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "パキスタン政府は、アフガニスタンからの越境攻撃に対し「開戦」を宣言。5日間の戦闘でアフガニスタン側兵士464人を殺害したと主張している。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
-    },
-    {
       "countryCode": "682",
       "cat": "tension",
       "title": "サウジアラビア、リヤドと空軍基地を狙ったイランのミサイル・無人機を迎撃",
@@ -558,36 +328,6 @@
       "url": "https://www.arabnews.jp/article/saudi-arabia/article_154322/",
       "publishedAt": "2026-03-06T01:03:00Z",
       "snippet": "サウジ国防省は、王子スルタン空軍基地やリヤドを標的とした弾道ミサイル4発とドローン5機を撃墜。イランによる地域諸国への攻撃を「卑怯な行為」と非難した。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "tension",
-      "title": "ソマリア情勢、中東紛争の波及を警戒 海上交通路の安全確保が課題",
-      "src": "Reuters Japan",
-      "url": null,
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "紅海およびアデン湾での緊張が高まる中、ソマリア沖の海上交通路の安全保障が再び焦点に。アルシャバブによる混乱に乗じた活動活発化が懸念されている。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "political",
-      "title": "シリア、アサド政権打倒後の新政権が発足も不安定な連立続く",
-      "src": "週刊 経団連タイムス",
-      "url": "https://www.keidanren.or.jp/journal/times/2026/0305_01.html",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "イスラエルによる支援を背景にアサド政権が崩壊。新たに樹立された政権はテロ組織出身勢力を含む不安定な連立体制にあり、国内の再編が難航している。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "tension",
-      "title": "トルコ領空に接近したイランの弾道ミサイル、NATO防空隊が迎撃",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/middle-east/article_154323/",
-      "publishedAt": "2026-03-05T12:00:00Z",
-      "snippet": "イランから発射されたミサイルがトルコ領空に接近したが、NATOのミサイル防衛システムにより迎撃された。トルコ政府は領土保全を守る権利を強調している。",
       "collectedAt": "2026-03-06T09:31:34.579Z"
     },
     {
@@ -631,26 +371,6 @@
       "collectedAt": "2026-03-06T09:31:34.579Z"
     },
     {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "紅海の重要拠点バブ・エル・マンデブ海峡、各国が支配権争い激化",
-      "src": "週刊 経団連タイムス",
-      "url": "https://www.keidanren.or.jp/journal/times/2026/0305_02.html",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "イランの代理勢力フーシ派が弱体化する中、イエメンのアデン港や海峡の支配権を巡り、米国・イスラエル連合と周辺諸国の再編の動きが加速している。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタンとアフガニスタン国境地帯で大規模軍事衝突、双方で死者多数",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/845123",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "パキスタンとアフガニスタンの国境地帯で激しい軍事衝突が発生し、5日間で双方合わせて数百人の兵士が死亡した。タリバン政権はパキスタンの空爆への報復として攻撃を開始し、緊張が極限まで高まっている。",
-      "collectedAt": "2026-03-06T12:37:05.506Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジル貿易収支、2月は42億ドルの黒字 予想と一致",
@@ -668,16 +388,6 @@
       "url": "https://www.afpbb.com/articles/-/3567890",
       "publishedAt": "2026-03-05T15:54:00Z",
       "snippet": "北京で全国人民代表大会が開幕し、李強首相は2026年のGDP成長率目標を数十年ぶりの低水準となる「4.5〜5.0％」に設定した。不動産不況や内需低迷といった構造的課題への対応を優先する姿勢を示している。",
-      "collectedAt": "2026-03-06T12:37:05.506Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "conflict",
-      "title": "中国、2026年の国防予算を前年比7％増額 台湾・南シナ海での抑止力強化",
-      "src": "第一生命経済研究所",
-      "url": "https://www.dlri.co.jp/report/macro/324567.html",
-      "publishedAt": "2026-03-05T12:00:00Z",
-      "snippet": "全人代の予算案で、国防費を前年比7％増とすることが発表された。米国との対立や台湾情勢を念頭に、軍事力の近代化と「発展と安全の統合」を加速させる方針だ。",
       "collectedAt": "2026-03-06T12:37:05.506Z"
     },
     {
@@ -718,16 +428,6 @@
       "url": "https://policynews.jp/2026-03-calendar/",
       "publishedAt": "2026-03-06T08:00:00Z",
       "snippet": "高市早苗首相は就任後初の訪米を19日に予定しており、ホワイトハウスでトランプ大統領と会談する。緊迫する中東情勢への対応や日米安保、通商政策が主要議題となる見通しだ。",
-      "collectedAt": "2026-03-06T12:37:05.506Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "conflict",
-      "title": "パキスタン軍、アフガニスタンとの戦闘で「開戦」を宣言",
-      "src": "Vietnam.vn / AP",
-      "url": "https://www.vietnam.vn/ja/pakistan-claims-67-afghan-soldiers-killed/",
-      "publishedAt": "2026-03-05T11:00:00Z",
-      "snippet": "パキスタン政府は、国境沿いでアフガニスタン軍の攻撃を撃退し、過去5日間で400人以上のタリバン兵を殺害したと発表した。パキスタン側は「開戦」を宣言し、国境地帯での軍事作戦を強化している。",
       "collectedAt": "2026-03-06T12:37:05.506Z"
     },
     {
@@ -848,16 +548,6 @@
       "url": "https://www.arabnews.jp/article/saudi-arabia/article_123456/",
       "publishedAt": "2026-03-06T03:00:00Z",
       "snippet": "リヤド近郊の空軍基地や石油施設を狙ったイランの攻撃をサウジ軍が阻止。サウジ政府は「自国を守るあらゆる権利を留保する」と強く警告した。",
-      "collectedAt": "2026-03-06T15:31:16.882Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "tension",
-      "title": "ソマリア、中東紛争の波及を警戒、紅海周辺の安全確保を強化",
-      "src": "Reuters Japan",
-      "url": null,
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "イランと米国・イスラエルの衝突により紅海の緊張が高まる中、ソマリア政府は領海内のパトロールを強化。アルシャバブによる混乱に乗じたテロにも警戒を呼びかけている。",
       "collectedAt": "2026-03-06T15:31:16.882Z"
     },
     {
@@ -1181,16 +871,6 @@
       "collectedAt": "2026-03-07T01:14:56.019Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ、ロシア軍のStarlink利用を「ホワイトリスト制」で遮断",
-      "src": "note (isisi)",
-      "url": "https://note.com/isisi/n/n123456789",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "ウクライナ国防省はStarlink端末を登録制に移行し、ロシア軍が不正利用していた数万台の通信を一斉に遮断。戦況に大きな影響を与えている。",
-      "collectedAt": "2026-03-07T01:14:56.019Z"
-    },
-    {
       "countryCode": "826",
       "cat": "political",
       "title": "英ロンドンで「学校戦争」拡散、SNSで暴力を煽った少年ら逮捕",
@@ -1321,26 +1001,6 @@
       "collectedAt": "2026-03-07T04:19:16.119Z"
     },
     {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国、全人代が開幕 第15次5カ年計画の経済目標を審議へ",
-      "src": "三井住友DSアセットマネジメント",
-      "url": "https://www.smd-am.co.jp/market/report/2026/02/26/",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "中国で全国人民代表大会（全人代）が開幕し、2026〜30年の経済目標を定める「第15次5カ年計画」などが審議されている。成長率目標の引き下げ観測が出る中、政府の方針が注目される。",
-      "collectedAt": "2026-03-07T06:30:29.795Z"
-    },
-    {
-      "countryCode": "180",
-      "cat": "conflict",
-      "title": "コンゴ民主共和国、武装勢力M23との戦闘継続で人道危機深刻化",
-      "src": "テラ・ルネッサンス",
-      "url": "https://www.terra-r.jp/news/20260107.html",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "コンゴ民主共和国東部で武装勢力M23との戦闘が続いており、南キブ州などで医療支援や食料供給が途絶える「空白地帯」が発生。子供たちの深刻な栄養失調が報告されている。",
-      "collectedAt": "2026-03-07T06:30:29.795Z"
-    },
-    {
       "countryCode": "250",
       "cat": "political",
       "title": "マクロン仏大統領、核戦略の転換を表明「これからは核兵器の時代」",
@@ -1388,16 +1048,6 @@
       "url": "https://www.chiba-tv.com/plus/news/20260307002",
       "publishedAt": "2026-03-07T06:00:00Z",
       "snippet": "ウクライナのゼレンスキー大統領は、ロシア軍が今春に東部ドネツク州で新たな大規模攻勢を仕掛ける準備を進めていると警告。戦況は依然として予断を許さない状況が続いている。",
-      "collectedAt": "2026-03-07T06:30:29.795Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "tension",
-      "title": "サウジアラビア、イランによる米軍基地攻撃を受け危険レベル引き上げ",
-      "src": "外務省 海外安全ホームページ",
-      "url": "https://www.anzen.mofa.go.jp/info/pcareainfo_2026T026.html",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "イラン革命防衛隊がサウジアラビア国内の米軍基地を標的とした攻撃を実施。リヤド州や東部州で民間施設にも被害が出ており、日本外務省は同地域の危険レベルを3に引き上げた。",
       "collectedAt": "2026-03-07T06:30:29.795Z"
     },
     {
@@ -1591,16 +1241,6 @@
       "collectedAt": "2026-03-07T12:30:28.143Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "日本政府、中東4カ国から邦人輸送を開始 チャーター機手配",
-      "src": "トラベルボイス",
-      "url": "https://www.travelvoice.jp/20260305-155123",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "中東情勢の激化を受け、外務省は湾岸諸国の危険レベルを引き上げ。リヤドやマスカットに集結した邦人を帰国させるため、政府チャーター機の派遣を決定した。",
-      "collectedAt": "2026-03-07T12:30:28.143Z"
-    },
-    {
       "countryCode": "408",
       "cat": "tension",
       "title": "北朝鮮の金正恩氏、2026年のミサイル増産を指示「ネオ冷戦」鮮明に",
@@ -1651,16 +1291,6 @@
       "collectedAt": "2026-03-07T12:30:28.143Z"
     },
     {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ大統領、イラン攻撃に最新AI技術「Claude」を活用と発表",
-      "src": "The HEADLINE",
-      "url": "https://www.theheadline.jp/articles/20260305-1",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "米軍は対イラン精密爆撃の標的選定に、PalantirとAnthropicのAI技術を導入。トランプ大統領は作戦の成果を強調する一方、軍事AIの倫理的議論も再燃している。",
-      "collectedAt": "2026-03-07T12:30:28.143Z"
-    },
-    {
       "countryCode": "862",
       "cat": "political",
       "title": "米国とベネズエラ、外交関係回復で合意 マドゥロ拘束から2カ月",
@@ -1671,16 +1301,6 @@
       "collectedAt": "2026-03-07T12:30:28.143Z"
     },
     {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタンとアフガニスタン国境で大規模衝突、兵士180人以上死亡",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/860123",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "パキスタン軍による空爆への報復としてタリバン暫定政権が国境拠点を攻撃し、双方に多数の死者が出るなど緊張が極限まで高まっている。",
-      "collectedAt": "2026-03-07T15:16:10.845Z"
-    },
-    {
       "countryCode": "32",
       "cat": "economic",
       "title": "アルゼンチン1月鉱工業生産3.2%減、経済課題続く",
@@ -1688,16 +1308,6 @@
       "url": "https://jp.investing.com/news/economic-indicators/article-987654",
       "publishedAt": "2026-03-07T04:32:00Z",
       "snippet": "国家統計局INDECの発表により、南米第2位の経済規模を持つ同国が依然として厳しい景気後退局面にあることが示された。",
-      "collectedAt": "2026-03-07T15:16:10.845Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー軍政、中東紛争による燃料不足で車両使用規制を開始",
-      "src": "海外安全.jp",
-      "url": "https://www.tokutenryoko.com/news/myanmar/20260307",
-      "publishedAt": "2026-03-05T12:00:00Z",
-      "snippet": "中東での軍事衝突による燃油輸入ルート封鎖を受け、軍政はナンバープレートの偶数・奇数による走行制限を7日から実施すると発表した。",
       "collectedAt": "2026-03-07T15:16:10.845Z"
     },
     {
@@ -2251,16 +1861,6 @@
       "collectedAt": "2026-03-08T06:33:59.191Z"
     },
     {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国の尹錫悦前大統領に一審で無期懲役判決、内乱首謀罪を認定",
-      "src": "週刊女性PRIME",
-      "url": "https://www.jprime.jp/articles/-/98765",
-      "publishedAt": "2026-03-05T12:00:00Z",
-      "snippet": "2024年末の非常戒厳宣言を巡り、ソウル中央地裁は尹前大統領に対し無期懲役を言い渡した。韓国国民の半数が「量刑が軽すぎる」と回答するなど処罰感情が強い。",
-      "collectedAt": "2026-03-08T06:33:59.191Z"
-    },
-    {
       "countryCode": "566",
       "cat": "conflict",
       "title": "ナイジェリア北東部で住民100人以上が拉致、イスラム過激派の襲撃か",
@@ -2341,16 +1941,6 @@
       "collectedAt": "2026-03-08T06:33:59.191Z"
     },
     {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタンとアフガニスタン国境で大規模軍事衝突、双方で180人超の兵士が死亡",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/848211",
-      "publishedAt": "2026-03-05T10:00:00Z",
-      "snippet": "パキスタン軍とアフガニスタンのタリバン暫定政権の間で空爆を含む激しい軍事衝突が発生し、双方の被害が拡大。パキスタン側は「開戦」を宣言し、緊張が極限に達している。",
-      "collectedAt": "2026-03-08T09:22:35.810Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "トランプ氏「きょうイランに激しい攻撃」大規模攻撃を予告、ハメネイ師殺害の報道も",
@@ -2409,7 +1999,127 @@
       "publishedAt": "2026-03-06T10:13:00Z",
       "snippet": "1月の米軍攻撃とマドゥロ大統領拘束を経て、米国務省はベネズエラ暫定政権との外交関係回復を発表。ベネズエラ側は米企業の鉱山投資に対する安全保証を約束した。",
       "collectedAt": "2026-03-08T09:22:35.810Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "米・イスラエルがイランへ大規模攻撃 テヘランは「火の海」に",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260308-iran-attack/",
+      "publishedAt": "2026-03-08T11:00:00Z",
+      "snippet": "トランプ米大統領の指示により、米軍とイスラエル軍がイランの核・軍事施設3000箇所以上を攻撃。イラン側は民間人1300人以上の死者を発表し、最高指導者ハメネイ師の死去も報じられるなど情勢は極めて緊迫している。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イランへの「驚きを伴う計画」を継続 ネタニヤフ首相",
+      "src": "ロイター",
+      "url": "https://jp.reuters.com/world/israel-iran-2026-03-07/",
+      "publishedAt": "2026-03-07T19:00:00Z",
+      "snippet": "ネタニヤフ首相は、イランの体制弱体化を狙った軍事作戦を継続する意向を表明。テヘランの燃料貯蔵施設への初攻撃を皮切りに、さらなる戦略的攻撃を予告している。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、イラン情勢受けWBC始球式参加を見送り 邦人退避を優先",
+      "src": "TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/-/1567890",
+      "publishedAt": "2026-03-08T09:40:00Z",
+      "snippet": "高市早苗首相は緊迫する中東情勢を受け、予定していたWBC始球式への参加をキャンセル。政府はチャーター機による日本人の帰国支援を本格化させており、危機管理対応に全力を挙げる。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "金正恩氏、米国の制裁解除を条件に対話示唆 第9回党大会終了",
+      "src": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/890123",
+      "publishedAt": "2026-03-08T06:30:00Z",
+      "snippet": "北朝鮮の第9回朝鮮労働党大会が終了。金正恩総書記は対米強硬姿勢を維持しつつも、核保有の容認と制裁解除を条件に交渉の余地を残した。一方で、新型駆逐艦への乗船を公開し軍事力増強を誇示している。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "conflict",
+      "title": "ナイジェリアで女性ら100人拉致 イスラム過激派の襲撃か",
+      "src": "nippon.com",
+      "url": "https://www.nippon.com/ja/news/fnn20260306001/",
+      "publishedAt": "2026-03-06T12:00:00Z",
+      "snippet": "ナイジェリア北東部ボルノ州で武装集団が集落を襲撃し、女性や子供ら約100人を拉致した。イスラム過激派ボコ・ハラム系の組織による犯行とみられ、治安当局が追跡を続けている。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "economic",
+      "title": "ロシアGDP、2025年は1％に急減速 戦争の代償が表面化",
+      "src": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/articles/-/356789",
+      "publishedAt": "2026-03-08T04:55:00Z",
+      "snippet": "ウクライナ侵攻から4年が経過し、ロシア経済に陰りが見えている。軍事部門は成長を続ける一方、高インフレと人手不足により民間部門が低迷。2025年の成長率は1％まで急減速した。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジアラビア、リヤドの危険レベル引き上げ ホルムズ海峡は事実上封鎖",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/saudi-safety-alert.html",
+      "publishedAt": "2026-03-05T15:00:00Z",
+      "snippet": "日本外務省はサウジアラビアのリヤドなどの危険レベルを「渡航中止勧告」に引き上げた。イランによる報復攻撃が湾岸諸国の米軍基地やインフラ施設に及んでおり、ホルムズ海峡の通航も停止状態にある。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "tension",
+      "title": "シリアのクルド勢力、武装維持を強調 トルコの軍事介入を警戒",
+      "src": "INPS Japan",
+      "url": "https://www.inpsjapan.com/2026/03/07/syria-kurdish-issue/",
+      "publishedAt": "2026-03-07T11:00:00Z",
+      "snippet": "シリア北部のクルド勢力は、トルコによる繰り返しの軍事介入を受け、自衛のための武装を継続すると表明。中東全域の不安定化に乗じたトルコの攻勢を警戒している。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシアの全面侵攻から4年、ウクライナ東部で夜間攻撃により6人死亡",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3567123",
+      "publishedAt": "2026-03-07T14:00:00Z",
+      "snippet": "ロシアによる侵攻開始から4年。ハルキウ州の集合住宅にミサイルが直撃し、子供を含む5人が死亡。トランプ米政権下で支援の先行きが不透明になる中、ロシアは攻撃の手を緩めていない。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英スターマー首相、カタールに戦闘機派遣 イランの攻撃拡大に対抗",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/890456",
+      "publishedAt": "2026-03-06T02:50:00Z",
+      "snippet": "イギリス政府は、イランからの攻撃を受けるカタールの防衛を支援するため、空軍の主力戦闘機「タイフーン」4機を追加派遣すると発表。中東の同盟国との連携を強化する姿勢を示した。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ米大統領、半導体販売の許可制導入を検討 業界に衝撃",
+      "src": "MoneDucation Japan",
+      "url": "https://moneducation.jp/news/20260305-us-semiconductor/",
+      "publishedAt": "2026-03-06T10:00:00Z",
+      "snippet": "トランプ政権が高度な半導体の輸出を完全許可制にする検討に入った。サプライチェーンへの甚大な影響が懸念され、フィラデルフィア半導体株指数は2.7％下落。日本企業への波及も不可避の情勢だ。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "米とベネズエラ、外交関係回復で合意 マドゥロ氏拘束から2カ月",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/456789.php",
+      "publishedAt": "2026-03-06T11:20:00Z",
+      "snippet": "米国務省はベネズエラ暫定政権との外交関係回復を発表。1月の米軍による軍事作戦とマドゥロ氏拘束を経て、新政権下での経済回復と鉱山投資の安全確保に向けて協力することで一致した。",
+      "collectedAt": "2026-03-08T12:31:53.277Z"
     }
   ],
-  "updatedAt": "2026-03-08T09:22:35.810Z"
+  "updatedAt": "2026-03-08T12:31:53.277Z"
 }
