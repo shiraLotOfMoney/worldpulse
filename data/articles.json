@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "32",
-      "cat": "political",
-      "title": "リバープレート、アルゼンチンサッカー協会をボイコット",
-      "src": "Goal.com",
-      "url": "https://www.goal.com/jp/news/river-plate-boycott-afa-2026/12345",
-      "publishedAt": "2026-03-06T19:42:00Z",
-      "snippet": "ブエノスアイレスの強豪リバープレートが、不透明な脱税調査に抗議してアルゼンチンサッカー協会（AFA）からの脱退を表明した。国内サッカー界の統治体制見直しを求めている。",
-      "collectedAt": "2026-03-06T18:34:21.905Z"
-    },
-    {
       "countryCode": "643",
       "cat": "conflict",
       "title": "ロシア、米軍の艦艇位置情報をイランに提供か",
@@ -171,16 +161,6 @@
       "collectedAt": "2026-03-07T04:19:16.119Z"
     },
     {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ大統領、イランに「無条件降伏」を要求 SNSで表明",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/national/20260306-trump-iran/",
-      "publishedAt": "2026-03-06T20:41:00Z",
-      "snippet": "トランプ米大統領はSNSで「イランとの合意は無条件降伏以外にあり得ない」と投稿。降伏後に米国が受け入れ可能な指導者が選出されれば、経済再建を支援するとの考えを示した。",
-      "collectedAt": "2026-03-07T04:19:16.119Z"
-    },
-    {
       "countryCode": "643",
       "cat": "conflict",
       "title": "ロシア軍、今春にウクライナ東部ドネツク州で大規模攻勢を準備か",
@@ -199,16 +179,6 @@
       "publishedAt": "2026-03-07T01:50:00Z",
       "snippet": "ハンガリー当局がウクライナ国営銀行の現金輸送車2台（約126億円相当）を押収し、職員7人と連絡が取れなくなっている。ウクライナ外相は「人質を取り資金を盗む行為」と猛烈に非難した。",
       "collectedAt": "2026-03-07T06:30:29.795Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "political",
-      "title": "アルゼンチン名門リバープレート、サッカー協会をボイコット",
-      "src": "Goal.com 日本",
-      "url": "https://www.goal.com/jp/news/river-plate-afa-boycott-20260306/12345",
-      "publishedAt": "2026-03-06T19:42:00Z",
-      "snippet": "アルゼンチンの名門リバープレートが、不透明な統治と脱税調査への抗議としてサッカー協会（AFA）執行委員会からの脱退を表明した。国内サッカー界の混乱が深まっている。",
-      "collectedAt": "2026-03-07T09:22:24.949Z"
     },
     {
       "countryCode": "276",
@@ -948,16 +918,6 @@
       "url": "https://jp.investing.com/news/economy/article-987654",
       "publishedAt": "2026-03-07T04:32:00Z",
       "snippet": "アルゼンチン国家統計局は1月の鉱工業生産が前年比で減少したと発表。ミレイ政権下でインフレ加速が続いており、経済の先行きに不透明感が強まっている。",
-      "collectedAt": "2026-03-08T21:17:01.034Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ消費者信頼感、3月は予想外の悪化 購買意欲が著しく減退",
-      "src": "Yahoo!ファイナンス (ロイター)",
-      "url": "https://finance.yahoo.co.jp/news/detail/20260225-00000001-reut",
-      "publishedAt": "2026-03-06T21:20:00Z",
-      "snippet": "地政学的緊張や政府の社会政策への懸念から、ドイツの消費者心理が悪化している。メルツ政権による積極財政への転換が景気回復の鍵とされている。",
       "collectedAt": "2026-03-08T21:17:01.034Z"
     },
     {
@@ -1819,7 +1779,127 @@
       "publishedAt": "2026-03-09T08:37:00Z",
       "snippet": "イラン攻撃への不参加をめぐりトランプ氏から批判を受けていたスターマー首相が、軍事協力の継続を確認。カタールへの戦闘機派遣も表明した。",
       "collectedAt": "2026-03-09T18:41:17.658Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国全人代開幕、2026年の成長率目標を4.5〜5％に設定",
+      "src": "人民網日本語版",
+      "url": "http://j.people.com.cn/n3/2026/0309/c94476-20260309.html",
+      "publishedAt": "2026-03-09T09:00:00Z",
+      "snippet": "第15次五カ年計画の初年度となる全人代で、李強首相が政府活動報告。不動産不況や地政学リスクを背景に、成長目標を前年から引き下げた。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド政府、中東有事による原油高でもガソリン価格据え置きを表明",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economic-indicators/article-887766",
+      "publishedAt": "2026-03-07T21:47:00Z",
+      "snippet": "イラン情勢悪化で原油価格が高騰する中、インド政府は国内の燃料在庫は十分であるとし、当面の小売価格引き上げを否定した。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン新最高指導者にモジタバ・ハメネイ師を選出、イスラエルへ報復ミサイル",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article-20260309-1",
+      "publishedAt": "2026-03-09T18:00:00Z",
+      "snippet": "アリ・ハメネイ師の殺害を受け、息子のモジタバ師が第3代最高指導者に就任。就任直後、イスラエルに向けて大規模なミサイル攻撃を命じた。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル軍、イラン全土のミサイル基地を空爆「獅子の咆哮」作戦継続",
+      "src": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/998877",
+      "publishedAt": "2026-03-07T10:00:00Z",
+      "snippet": "米国と共同でイランへの直接攻撃を開始。イランの核・ミサイル施設を標的とし、中東全域を巻き込む大規模な軍事衝突に発展している。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市総理、イラン情勢めぐり「存立危機事態」認定を否定も注視継続",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260309-iran-takaichi/",
+      "publishedAt": "2026-03-09T17:26:00Z",
+      "snippet": "中東での戦火拡大を受け、国会で集中審議。高市首相は現時点での集団的自衛権行使の要件には該当しないとしつつ、邦人保護に万全を期すと答弁。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "conflict",
+      "title": "ナイジェリア北東部で住民100人以上拉致、イスラム過激派の襲撃か",
+      "src": "共同通信 / Livedoor ニュース",
+      "url": "https://news.livedoor.com/article/detail/20260307-nigeria",
+      "publishedAt": "2026-03-07T06:38:00Z",
+      "snippet": "ボルノ州の集落が武装集団に襲われ、女性や子供を含む多数が連れ去られた。治安悪化に対する政府への抗議活動も各地で激化している。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、石油生産の削減開始、ホルムズ海峡封鎖で貯蔵限界に",
+      "src": "株探ニュース",
+      "url": "https://kabutan.jp/news/?&b=n202603090123",
+      "publishedAt": "2026-03-09T21:25:00Z",
+      "snippet": "ペルシャ湾の緊張により海上輸送が困難となり、サウジは減産を余儀なくされた。原油価格は一時111ドル台まで急騰し、世界経済に衝撃を与えている。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦、チャドが国境閉鎖し人道危機が深刻化",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article-20260309-2",
+      "publishedAt": "2026-03-09T12:03:00Z",
+      "snippet": "RSFと政府軍の戦闘が続く中、隣国チャドが安全保障上の理由で国境を閉鎖。避難ルートを失った数十万人の難民が飢餓の危機にさらされている。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "イランの報復ミサイルがシリアに誤落下、市民生活への影響拡大",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-104100.php",
+      "publishedAt": "2026-03-09T15:50:00Z",
+      "snippet": "イランがイスラエルに向けて放ったミサイルの不発弾がシリア北東部に着弾。周辺国を巻き込む戦火の拡大に、住民の不安が高まっている。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "conflict",
+      "title": "トルコ軍、領空侵犯の弾道ミサイルを迎撃、米国は南東部に渡航禁止勧告",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/991122",
+      "publishedAt": "2026-03-09T00:56:00Z",
+      "snippet": "イランから発射されたミサイルをトルコ領空で撃墜。米国はインジルリク空軍基地周辺の緊張を受け、領事館職員の退避と渡航禁止を命じた。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ軍、ドネツクのドローン基地をATACMSで破壊",
+      "src": "SSRI",
+      "url": "https://www.ssri-j.com/news/ukraine-20260307",
+      "publishedAt": "2026-03-07T13:50:00Z",
+      "snippet": "欧米供与の長距離ミサイルを使用し、ロシア軍のドローン発射拠点を攻撃。戦況は膠着しているが、ハイテク兵器による応酬が続いている。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "米軍、イエメンのフーシ派拠点を連日空爆、100以上の標的を破壊",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article-20260315-1",
+      "publishedAt": "2026-03-09T10:00:00Z",
+      "snippet": "紅海の航行安全を確保するため、米軍がフーシ派の武器庫や指揮施設を攻撃。トランプ大統領は「痛みはこれからだ」と警告している。",
+      "collectedAt": "2026-03-09T21:26:42.128Z"
     }
   ],
-  "updatedAt": "2026-03-09T18:41:17.658Z"
+  "updatedAt": "2026-03-09T21:26:42.128Z"
 }
