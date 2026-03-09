@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、中東からの邦人退避チャーター機手配を表明 8日未明に成田着",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/816545",
-      "publishedAt": "2026-03-06T14:00:00Z",
-      "snippet": "高市早苗首相は、中東情勢の悪化を受け、オマーンのマスカットから邦人を退避させるためのチャーター機を派遣。8日未明に成田空港に到着する予定。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ大統領、イラン外交官に亡命呼びかけ「より良いイランを共に」",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/816546",
-      "publishedAt": "2026-03-06T14:15:00Z",
-      "snippet": "トランプ大統領はホワイトハウスで演説し、イランへの軍事作戦の成果を強調。世界中のイラン外交官に対し、現体制を捨てて米国へ亡命するよう異例の呼びかけを行った。",
-      "collectedAt": "2026-03-06T09:31:34.579Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国、AI産業規模を2030年に220兆円超へ拡大方針、全人代で表明",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/849123",
-      "publishedAt": "2026-03-06T15:18:00Z",
-      "snippet": "開催中の全人代において、中国政府はAI関連の産業規模を2030年までに10兆元（約220兆円）以上に拡大する戦略を発表。米国とのハイテク対立を見据え自立強固を目指す。",
-      "collectedAt": "2026-03-06T15:31:16.882Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "日本政府、中東4カ国から邦人輸送を開始へ、高市首相が表明",
-      "src": "朝日新聞デジタル",
-      "url": "https://www.asahi.com/articles/ASR361234.html",
-      "publishedAt": "2026-03-06T14:00:00Z",
-      "snippet": "中東情勢の激化を受け、日本政府はサウジアラビアなどにチャーター機を派遣し、邦人の退避支援を開始。高市首相は事態の沈静化に向けた外交努力を継続すると述べた。",
-      "collectedAt": "2026-03-06T15:31:16.882Z"
-    },
-    {
       "countryCode": "32",
       "cat": "political",
       "title": "リバープレート、アルゼンチンサッカー協会をボイコット",
@@ -48,16 +8,6 @@
       "url": "https://www.goal.com/jp/news/river-plate-boycott-afa-2026/12345",
       "publishedAt": "2026-03-06T19:42:00Z",
       "snippet": "ブエノスアイレスの強豪リバープレートが、不透明な脱税調査に抗議してアルゼンチンサッカー協会（AFA）からの脱退を表明した。国内サッカー界の統治体制見直しを求めている。",
-      "collectedAt": "2026-03-06T18:34:21.905Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "ベネズエラと米国、外交関係の再構築で合意",
-      "src": "Record China（CGTN引用）",
-      "url": "https://www.recordchina.co.jp/news-20260306-venezuela",
-      "publishedAt": "2026-03-06T15:20:00Z",
-      "snippet": "1月の米軍による攻撃とマドゥロ大統領拘束を経て、ベネズエラ暫定政権と米国政府が外交・領事関係の回復に合意した。米国企業による鉱山投資の安全も保証される。",
       "collectedAt": "2026-03-06T18:34:21.905Z"
     },
     {
@@ -191,16 +141,6 @@
       "collectedAt": "2026-03-07T01:14:56.019Z"
     },
     {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "イエメン・フーシ派、中東紛争拡大に乗じ紅海での攻撃を継続",
-      "src": "Reuters Japan",
-      "url": null,
-      "publishedAt": "2026-03-06T15:00:00Z",
-      "snippet": "イランへの攻撃を受け、フーシ派は報復として紅海を航行する商船への攻撃を強化。米英軍との交戦が続いている。",
-      "collectedAt": "2026-03-07T01:14:56.019Z"
-    },
-    {
       "countryCode": "32",
       "cat": "economic",
       "title": "アルゼンチンの1月鉱工業生産、前年同月比3.2%減少",
@@ -208,16 +148,6 @@
       "url": "https://jp.investing.com/news/economic-indicators/article-823456",
       "publishedAt": "2026-03-07T04:32:00Z",
       "snippet": "アルゼンチン国家統計局（INDEC）は、1月の鉱工業生産が前年同月比で3.2%減少したと発表した。南米第2位の経済規模を持つ同国が引き続き厳しい経済課題に直面していることを示している。",
-      "collectedAt": "2026-03-07T04:19:16.119Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮に無人機飛ばした3人を送検 「利敵」容疑など適用＝韓国警察",
-      "src": "朝鮮日報 (Chosun Online)",
-      "url": "https://www.chosunonline.com/site/data/html_dir/2026/03/06/2026030680123.html",
-      "publishedAt": "2026-03-06T14:42:00Z",
-      "snippet": "韓国警察は、北朝鮮に向けて無人機を飛ばした活動家ら3人を送検した。南北間の緊張が高まる中、当局は無許可の飛行が安全保障上の脅威になるとして厳格な対応を取っている。",
       "collectedAt": "2026-03-07T04:19:16.119Z"
     },
     {
@@ -378,16 +308,6 @@
       "url": "https://www.arabnews.jp/article/japan/article_155678/",
       "publishedAt": "2026-03-07T16:00:00Z",
       "snippet": "金正恩総書記は軍需工場を視察し、ミサイル生産の飛躍的拡大を命令。韓国との断絶を宣言し、核戦力の近代化を加速させる「ネオ冷戦」戦略を打ち出している。",
-      "collectedAt": "2026-03-07T12:30:28.143Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア地方財政が悪化、モスクワ市が投資削減 ウクライナ紛争5年目",
-      "src": "Reuters / Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/489789.php",
-      "publishedAt": "2026-03-06T15:48:00Z",
-      "snippet": "長期化するウクライナ侵攻の影響で、ロシア国内の財政が逼迫。最も裕福なモスクワ市ですら投資計画の削減を余儀なくされており、戦費負担が経済を圧迫している。",
       "collectedAt": "2026-03-07T12:30:28.143Z"
     },
     {
@@ -621,16 +541,6 @@
       "collectedAt": "2026-03-07T21:15:00.710Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ戦争5年目、ロシアがエネルギー施設へ大規模攻撃 和平交渉は停滞",
-      "src": "RIETI",
-      "url": "https://www.rieti.go.jp/jp/special/ukraine2026/index.html",
-      "publishedAt": "2026-03-06T14:00:00Z",
-      "snippet": "侵攻開始から4年が経過し、ロシア軍は冬のエネルギーインフラ攻撃を強化。トランプ政権の仲介による和平協議は領土問題を巡り突破口が見えず、戦闘が長期化している。",
-      "collectedAt": "2026-03-07T21:15:00.710Z"
-    },
-    {
       "countryCode": "826",
       "cat": "economic",
       "title": "英財務相、2026年成長率予測を1.1％に下方修正 春季経済見通し発表",
@@ -639,16 +549,6 @@
       "publishedAt": "2026-03-06T16:00:00Z",
       "snippet": "リーブス財務相は世界情勢の不確実性を背景に成長率予測を引き下げ。一方で国防支出をGDP比3％に引き上げる計画の前倒しを検討している。",
       "collectedAt": "2026-03-07T21:15:00.710Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー軍政、政治犯1万人超を恩赦もスーチー氏は対象外",
-      "src": "ミャンマーニュース",
-      "url": "http://www.myanmar-news.asia/news_dyS8v9z2.html",
-      "publishedAt": "2026-03-06T14:30:00Z",
-      "snippet": "ミャンマー軍事政権は1万人以上の政治犯を恩赦で釈放したが、アウンサンスーチー氏や主要なNLD幹部は依然として拘束されている。",
-      "collectedAt": "2026-03-08T01:20:57.046Z"
     },
     {
       "countryCode": "356",
@@ -1029,16 +929,6 @@
       "publishedAt": "2026-03-07T00:00:00Z",
       "snippet": "サウジ政府は過去最大規模の予算を承認し、鉱業やインフラへの投資を加速。イラン情勢の悪化により一部空路に混乱が出ているが、オイルマネーを背景に経済変革を継続する姿勢。",
       "collectedAt": "2026-03-08T15:17:39.165Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー総選挙が終了、軍部支配継続へ 民主派は「正当性なし」と批判",
-      "src": "アジア経済研究所",
-      "url": "https://www.ide.go.jp/Japanese/IDEAS/2026/03/08.html",
-      "publishedAt": "2026-03-06T14:30:00Z",
-      "snippet": "2025年末から実施されていたミャンマー総選挙が終了。主要な民主派が排除された中、軍事政権主導の民政移管が進むが、国際社会や国内抵抗勢力からは強い反発が続いている。",
-      "collectedAt": "2026-03-08T18:23:27.295Z"
     },
     {
       "countryCode": "180",
@@ -1831,15 +1721,55 @@
       "collectedAt": "2026-03-09T12:41:57.010Z"
     },
     {
-      "countryCode": "887",
+      "countryCode": "356",
+      "cat": "political",
+      "title": "インド・カルナタカ州、16歳未満のSNS利用を禁止する方針",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260307-12345/",
+      "publishedAt": "2026-03-07T19:46:00Z",
+      "snippet": "インド南部のカルナタカ州は、子供への悪影響を防ぐため、16歳未満のSNS利用を禁止する方針を予算演説で発表した。IT産業の集積地ベンガルールを抱える同州の決定は注目を集めている。",
+      "collectedAt": "2026-03-09T15:51:52.950Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "tension",
+      "title": "米韓合同演習「フリーダムシールド」開始、北朝鮮の反発を警戒",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/823456",
+      "publishedAt": "2026-03-09T12:14:00Z",
+      "snippet": "米韓両軍は9日、定例の合同軍事演習を開始した。北朝鮮の核・ミサイルへの対応力強化を目的とするが、トランプ米大統領の訪中を控え、規模は一部縮小されている。",
+      "collectedAt": "2026-03-09T15:51:52.950Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "political",
+      "title": "ロシア政府、プーチン大統領の「健康不安説」を裏付ける動画を誤投稿か",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/612345.php",
+      "publishedAt": "2026-03-09T16:10:00Z",
+      "snippet": "ロシア政府が公式に投稿した動画が、プーチン大統領の健康状態が悪化していることを示唆しているとして話題を呼んでいる。ウクライナ侵攻が長期化する中、指導部の動揺が懸念される。",
+      "collectedAt": "2026-03-09T15:51:52.950Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、ホルムズ海峡封鎖を受け石油減産を開始",
+      "src": "Yahoo!ファイナンス（Bloomberg）",
+      "url": "https://finance.yahoo.co.jp/news/detail/12345",
+      "publishedAt": "2026-03-09T20:08:00Z",
+      "snippet": "中東紛争によるホルムズ海峡の事実上の封鎖を受け、サウジアラビアは石油生産の削減を開始した。貯蔵能力が限界に達しており、世界的なエネルギー供給ショックが懸念される。",
+      "collectedAt": "2026-03-09T15:51:52.950Z"
+    },
+    {
+      "countryCode": "804",
       "cat": "conflict",
-      "title": "イエメン・フーシ派が停戦を破りタイズ市を攻撃 中東情勢悪化に同調か",
-      "src": "ARAB NEWS Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_154567/",
-      "publishedAt": "2026-03-06T15:00:00Z",
-      "snippet": "イエメンのフーシ派が停戦合意を破り、タイズ市への新たな攻撃を開始。イランと米・イスラエルの衝突に呼応する形で、紅海での船舶攻撃も継続しており、地域全体の不安定化に拍車をかけている。",
-      "collectedAt": "2026-03-09T12:41:57.010Z"
+      "title": "ロシア軍、ウクライナ東部ハルキウをミサイル攻撃 10人死亡",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260307-23456/",
+      "publishedAt": "2026-03-07T15:00:00Z",
+      "snippet": "ロシア軍は7日未明、ウクライナ東部ハルキウのアパートをミサイルで攻撃し、子供を含む10人が死亡した。パラリンピック開幕の裏で、激しい攻撃が継続している。",
+      "collectedAt": "2026-03-09T15:51:52.950Z"
     }
   ],
-  "updatedAt": "2026-03-09T12:41:57.010Z"
+  "updatedAt": "2026-03-09T15:51:52.950Z"
 }
