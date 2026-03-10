@@ -1,56 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、米軍の艦艇位置情報をイランに提供か",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/856901",
-      "publishedAt": "2026-03-07T05:48:00Z",
-      "snippet": "ロシアがウクライナ侵攻5年目を迎える中、中東で対峙する米軍の艦艇や戦闘機の標的情報をイランに提供している疑いが浮上した。モスクワ市は財政悪化により大規模な投資計画を削減している。",
-      "collectedAt": "2026-03-06T21:23:00.266Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ米大統領、イラン指導者の後継について言及",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/856910",
-      "publishedAt": "2026-03-07T05:48:00Z",
-      "snippet": "トランプ大統領はCNNのインタビューで、殺害したハメネイ師の後継について「必ずしも民主的である必要はない」と述べた。作戦の継続期間に制限は設けないとし、イランの核開発阻止まで攻撃を強める考えを強調した。",
-      "collectedAt": "2026-03-06T21:23:00.266Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン1月鉱工業生産、前年比3.2%減少 経済課題続く",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy-news/article-987654",
-      "publishedAt": "2026-03-07T04:32:00Z",
-      "snippet": "国家統計局の発表によると、1月の鉱工業生産は前年同月比で3.2%減少。南米第2位の経済規模を持つ同国は、依然として厳しい経済状況に直面している。",
-      "collectedAt": "2026-03-07T01:14:56.019Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、イランに米軍の位置情報を提供か 共同作戦の疑い",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/865433",
-      "publishedAt": "2026-03-07T06:00:00Z",
-      "snippet": "ロシアがイランに対し、米軍の艦艇や戦闘機の標的となる位置情報を提供していると報じられた。米国側は「作戦に影響はない」と強調している。",
-      "collectedAt": "2026-03-07T01:14:56.019Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "tension",
-      "title": "サウジアラビア、中東戦争抑制に向けイランとの外交を強化",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/world-news/article-987655",
-      "publishedAt": "2026-03-07T04:42:00Z",
-      "snippet": "サウジアラビアは、米・イスラエルとイランの紛争が地域全体に拡大するのを防ぐため、イランとの直接的な外交裏ルートを緊急活用している。",
-      "collectedAt": "2026-03-07T01:14:56.019Z"
-    },
-    {
       "countryCode": "826",
       "cat": "political",
       "title": "英ロンドンで「学校戦争」拡散、SNSで暴力を煽った少年ら逮捕",
@@ -71,56 +21,6 @@
       "collectedAt": "2026-03-07T01:14:56.019Z"
     },
     {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチンの1月鉱工業生産、前年同月比3.2%減少",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-823456",
-      "publishedAt": "2026-03-07T04:32:00Z",
-      "snippet": "アルゼンチン国家統計局（INDEC）は、1月の鉱工業生産が前年同月比で3.2%減少したと発表した。南米第2位の経済規模を持つ同国が引き続き厳しい経済課題に直面していることを示している。",
-      "collectedAt": "2026-03-07T04:19:16.119Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリアで100人拉致 過激派襲撃、死者多数か",
-      "src": "nippon.com (共同通信)",
-      "url": "https://www.nippon.com/ja/news/fnn20260307001/",
-      "publishedAt": "2026-03-07T06:35:00Z",
-      "snippet": "ナイジェリア北東部ボルノ州で、イスラム過激派とみられる武装集団が集落を襲撃し、女性や子供ら約100人を拉致した。多数の住民が殺害されたとの情報もあり、治安当局が追跡を続けている。",
-      "collectedAt": "2026-03-07T04:19:16.119Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、今春にウクライナ東部ドネツク州で大規模攻勢を準備か",
-      "src": "共同通信（チバテレ）",
-      "url": "https://www.chiba-tv.com/plus/news/20260307002",
-      "publishedAt": "2026-03-07T06:00:00Z",
-      "snippet": "ウクライナのゼレンスキー大統領は、ロシア軍が今春に東部ドネツク州で新たな大規模攻勢を仕掛ける準備を進めていると警告。戦況は依然として予断を許さない状況が続いている。",
-      "collectedAt": "2026-03-07T06:30:29.795Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "WBCベネズエラ代表、オランダを破り白星発進",
-      "src": "スポーツナビ",
-      "url": "https://baseball.yahoo.co.jp/wbc/game/2026030701/",
-      "publishedAt": "2026-03-07T05:41:00Z",
-      "snippet": "2026 WBCの1次ラウンドでベネズエラがオランダに6-2で勝利した。国内の政治的不安が続く中、国民的スポーツでの勝利に沸いている。",
-      "collectedAt": "2026-03-07T09:22:24.949Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチンの1月鉱工業生産、前年同月比3.2%減少",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-938456",
-      "publishedAt": "2026-03-07T04:32:00Z",
-      "snippet": "南米第2位の経済規模を持つアルゼンチンで、1月の鉱工業生産が前年比で減少。農業の回復などで経済活動全体は拡大の兆しを見せるものの、製造業の低迷が続いている。",
-      "collectedAt": "2026-03-07T12:30:28.143Z"
-    },
-    {
       "countryCode": "408",
       "cat": "tension",
       "title": "北朝鮮の金正恩氏、2026年のミサイル増産を指示「ネオ冷戦」鮮明に",
@@ -128,16 +28,6 @@
       "url": "https://www.arabnews.jp/article/japan/article_155678/",
       "publishedAt": "2026-03-07T16:00:00Z",
       "snippet": "金正恩総書記は軍需工場を視察し、ミサイル生産の飛躍的拡大を命令。韓国との断絶を宣言し、核戦力の近代化を加速させる「ネオ冷戦」戦略を打ち出している。",
-      "collectedAt": "2026-03-07T12:30:28.143Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "tension",
-      "title": "サウジ皇太子、中東情勢を巡り各国首脳と緊急協議 イランの攻撃を非難",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/saudi-arabia/article_155999/",
-      "publishedAt": "2026-03-07T06:03:00Z",
-      "snippet": "ムハンマド皇太子は、イランによるサウジ国内の米軍基地や石油施設への攻撃を受け、トルコや英国の首脳と電話会談。地域の安定を損なう行為を拒否する姿勢を強調した。",
       "collectedAt": "2026-03-07T12:30:28.143Z"
     },
     {
@@ -149,16 +39,6 @@
       "publishedAt": "2026-03-07T10:00:00Z",
       "snippet": "イスラエルとイラン・ヒズボラの戦闘激化により、レバノンからシリアへ逃れる難民が急増。シリア国内も新政権下の不安定な状況にあり、国際的な支援が急務となっている。",
       "collectedAt": "2026-03-07T12:30:28.143Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン1月鉱工業生産3.2%減、経済課題続く",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-987654",
-      "publishedAt": "2026-03-07T04:32:00Z",
-      "snippet": "国家統計局INDECの発表により、南米第2位の経済規模を持つ同国が依然として厳しい景気後退局面にあることが示された。",
-      "collectedAt": "2026-03-07T15:16:10.845Z"
     },
     {
       "countryCode": "356",
@@ -198,16 +78,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260307-OYT1T50088/",
       "publishedAt": "2026-03-07T12:00:00Z",
       "snippet": "北朝鮮の制裁逃れを監視していたオーストラリア軍機に対し、中国軍機が挑発的な接近を行い、緊張が走った。",
-      "collectedAt": "2026-03-07T15:16:10.845Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリアで住民100人以上拉致、過激派が村を襲撃",
-      "src": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/28012345/",
-      "publishedAt": "2026-03-07T06:38:00Z",
-      "snippet": "北東部ボルノ州で武装集団が集落を襲い、女性や子供を含む多数を連れ去った。イスラム過激派の犯行とみられる。",
       "collectedAt": "2026-03-07T15:16:10.845Z"
     },
     {
@@ -288,16 +158,6 @@
       "url": "https://news.ntv.co.jp/category/international/3c08c409cf77419cbe38ca4f4b6ee6f0",
       "publishedAt": "2026-03-07T20:00:00Z",
       "snippet": "2月28日の攻撃開始から1週間が経過し、イラン国内のインフラが甚大な被害。イラン側はホルムズ海峡の封鎖を示唆し、周辺国への報復攻撃も続いている。",
-      "collectedAt": "2026-03-07T21:15:00.710Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリアで住民100人以上拉致、イスラム過激派が襲撃か",
-      "src": "ライブドアニュース (共同通信)",
-      "url": "https://news.livedoor.com/article/detail/28123456/",
-      "publishedAt": "2026-03-07T06:00:00Z",
-      "snippet": "ナイジェリア北東部ボルノ州で武装集団が集落を襲撃し、女性や子供を含む100人以上を連れ去った。多数の死者も出ている模様で、治安悪化が深刻化している。",
       "collectedAt": "2026-03-07T21:15:00.710Z"
     },
     {
@@ -428,16 +288,6 @@
       "url": "https://www.fnn.jp/articles/-/987655",
       "publishedAt": "2026-03-08T05:00:00Z",
       "snippet": "イラン情勢の悪化を受け、高市首相はオマーンから出発した政府チャーター機による邦人保護を陣頭指揮。ホルムズ海峡封鎖による国内農業への影響も懸念されている。",
-      "collectedAt": "2026-03-08T06:33:59.191Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア北東部で住民100人以上が拉致、イスラム過激派の襲撃か",
-      "src": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/28282828/",
-      "publishedAt": "2026-03-07T06:38:00Z",
-      "snippet": "ボルノ州の集落を武装集団が襲撃し、女性や子供を含む100人以上を連れ去った。2027年の総選挙を控え、治安悪化と政治的緊張が一段と高まっている。",
       "collectedAt": "2026-03-08T06:33:59.191Z"
     },
     {
@@ -631,16 +481,6 @@
       "collectedAt": "2026-03-08T15:17:39.165Z"
     },
     {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア北東部で住民100人以上が拉致、過激派の襲撃か",
-      "src": "livedoor ニュース (共同通信)",
-      "url": "https://news.livedoor.com/article/detail/26030701/",
-      "publishedAt": "2026-03-07T06:38:00Z",
-      "snippet": "ボルノ州の集落を武装集団が襲撃し、女性や子供を含む100人以上を連れ去った。多数の死者も出ている模様で、イスラム過激派による犯行とみられている。",
-      "collectedAt": "2026-03-08T15:17:39.165Z"
-    },
-    {
       "countryCode": "180",
       "cat": "conflict",
       "title": "コンゴ民主共和国東部でM23が勢力拡大、州都ゴマを制圧",
@@ -681,26 +521,6 @@
       "collectedAt": "2026-03-08T18:23:27.295Z"
     },
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、イランに米軍の艦船情報を提供か 間接的な参戦の兆候",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260307-OYT1T50045/",
-      "publishedAt": "2026-03-07T05:32:00Z",
-      "snippet": "ロシアが衛星などで収集した米軍の艦船や施設の位置情報をイランに提供していると報じられた。米軍の攻撃で低下したイランの索敵能力を補完している可能性がある。",
-      "collectedAt": "2026-03-08T18:23:27.295Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチンの1月鉱工業生産、前年同月比3.2%減少",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy/article-987654",
-      "publishedAt": "2026-03-07T04:32:00Z",
-      "snippet": "アルゼンチン国家統計局は1月の鉱工業生産が前年比で減少したと発表。ミレイ政権下でインフレ加速が続いており、経済の先行きに不透明感が強まっている。",
-      "collectedAt": "2026-03-08T21:17:01.034Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イランへの大規模攻撃8日目、米軍が3000以上の目標を破壊と発表",
@@ -738,16 +558,6 @@
       "url": "https://www.fnn.jp/articles/-/850001",
       "publishedAt": "2026-03-08T12:00:00Z",
       "snippet": "日本の外国人政策厳格化が、韓国国内の高度人材や経営者にも波及。ビザ取得要件の引き上げにより、地域経済を支える店舗の維持が困難になっている。",
-      "collectedAt": "2026-03-08T21:17:01.034Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "tension",
-      "title": "ナイジェリアで100人以上が拉致、イスラム過激派の襲撃か",
-      "src": "ライブドアニュース (共同通信)",
-      "url": "https://news.livedoor.com/article/detail/28000000/",
-      "publishedAt": "2026-03-07T06:38:00Z",
-      "snippet": "ナイジェリア北東部で武装集団が集落を襲い、女性や子供を含む住民を連れ去った。経済悪化に伴う抗議デモも頻発しており、治安情勢が極めて不安定。",
       "collectedAt": "2026-03-08T21:17:01.034Z"
     },
     {
@@ -851,16 +661,6 @@
       "collectedAt": "2026-03-09T01:20:18.495Z"
     },
     {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン1月鉱工業生産が3.2%減少、経済的課題続く",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-998234",
-      "publishedAt": "2026-03-07T04:32:00Z",
-      "snippet": "アルゼンチン国家統計局は1月の鉱工業生産が前年同月比で3.2%減少したと発表。南米第2位の経済規模を持つ同国は依然として厳しい経済状況に直面している。",
-      "collectedAt": "2026-03-09T04:47:59.518Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ASEANミャンマー特使、国連安保理で人道支援の強化を要請",
@@ -888,16 +688,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260309-OYT1T50123/",
       "publishedAt": "2026-03-09T11:31:00Z",
       "snippet": "死亡したハメネイ師の後継に次男モジタバ師が選出された。米トランプ大統領は「我々の承認がなければ長続きしない」と述べ、体制転換への強い意志を表明。",
-      "collectedAt": "2026-03-09T04:47:59.518Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍がイランへの大規模攻撃「獅子の咆哮」作戦を継続",
-      "src": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/998765",
-      "publishedAt": "2026-03-07T06:00:00Z",
-      "snippet": "イスラエルは米国と共同でイランの核・軍事施設を攻撃。イラン側の報復ミサイルによりイスラエル全土で空襲警報が鳴り響き、市民の避難が続いている。",
       "collectedAt": "2026-03-09T04:47:59.518Z"
     },
     {
@@ -949,16 +739,6 @@
       "publishedAt": "2026-03-09T05:56:00Z",
       "snippet": "ゼレンスキー大統領は、ロシアが使用するイラン製ドローンの迎撃ノウハウを共有するため中東へ軍教官を派遣。見返りにロシアへの停戦圧力を求める。",
       "collectedAt": "2026-03-09T04:47:59.518Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチンの1月鉱工業生産、前年同月比3.2%減少",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-934567",
-      "publishedAt": "2026-03-07T04:32:00Z",
-      "snippet": "アルゼンチン国家統計局（INDEC）が発表したデータによると、1月の鉱工業生産は前年比で減少。南米第2位の経済規模を持つ同国が引き続き厳しい経済課題に直面していることを示している。",
-      "collectedAt": "2026-03-09T06:53:10.278Z"
     },
     {
       "countryCode": "32",
@@ -1021,16 +801,6 @@
       "collectedAt": "2026-03-09T06:53:10.278Z"
     },
     {
-      "countryCode": "643",
-      "cat": "tension",
-      "title": "ロシアがイランに米軍の位置情報を提供か、中東での「間接的参戦」の兆候",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/890321",
-      "publishedAt": "2026-03-07T05:42:00Z",
-      "snippet": "ロシアが米軍の艦艇や戦闘機の標的情報をイランに提供していると米紙が報道。ウクライナ侵攻を巡るイランの支援への見返りとみられ、米露の対立が中東でも激化している。",
-      "collectedAt": "2026-03-09T06:53:10.278Z"
-    },
-    {
       "countryCode": "682",
       "cat": "tension",
       "title": "サウジアラビア、イランに攻撃停止を要求 報復の可能性を警告",
@@ -1089,16 +859,6 @@
       "publishedAt": "2026-03-08T00:00:00Z",
       "snippet": "フーシ派はイランへの連帯を示し、医療従事者に戦時動員への署名を強制。イランの「最後の砦」として、米・イスラエルとの直接対決に備えた準備を加速させている。",
       "collectedAt": "2026-03-09T06:53:10.278Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン1月の鉱工業生産、前年同月比3.2%減少",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-991456",
-      "publishedAt": "2026-03-07T04:32:00Z",
-      "snippet": "アルゼンチン国家統計局（INDEC）が発表した1月の鉱工業生産は前年比3.2%減となり、経済の停滞が続いている。一方で前月比では3.1%の上昇を見せ、一部で回復の兆しも指摘されている。",
-      "collectedAt": "2026-03-09T09:41:11.234Z"
     },
     {
       "countryCode": "76",
@@ -1561,16 +1321,6 @@
       "collectedAt": "2026-03-09T21:26:42.128Z"
     },
     {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア北東部で住民100人以上拉致、イスラム過激派の襲撃か",
-      "src": "共同通信 / Livedoor ニュース",
-      "url": "https://news.livedoor.com/article/detail/20260307-nigeria",
-      "publishedAt": "2026-03-07T06:38:00Z",
-      "snippet": "ボルノ州の集落が武装集団に襲われ、女性や子供を含む多数が連れ去られた。治安悪化に対する政府への抗議活動も各地で激化している。",
-      "collectedAt": "2026-03-09T21:26:42.128Z"
-    },
-    {
       "countryCode": "682",
       "cat": "economic",
       "title": "サウジアラビア、石油生産の削減開始、ホルムズ海峡封鎖で貯蔵限界に",
@@ -1711,16 +1461,6 @@
       "collectedAt": "2026-03-10T04:28:38.800Z"
     },
     {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリアで住民100人以上拉致、過激派が避難民キャンプ襲撃か",
-      "src": "ライブドアニュース（共同通信）",
-      "url": "https://news.livedoor.com/article/detail/20260307123/",
-      "publishedAt": "2026-03-07T06:38:00Z",
-      "snippet": "北東部ボルノ州で武装集団が女性や子供を連れ去った。多数の死者も出ている模様で、治安悪化が深刻な問題となっている。",
-      "collectedAt": "2026-03-10T04:28:38.800Z"
-    },
-    {
       "countryCode": "586",
       "cat": "conflict",
       "title": "パキスタン海軍、中東緊張受け商船護衛の「ムハフィズ・アル・バフル作戦」開始",
@@ -1769,7 +1509,107 @@
       "publishedAt": "2026-03-10T08:00:00Z",
       "snippet": "マドゥロ政権崩壊後の暫定統治下でハイパーインフレが再燃。米国との外交回復が進む一方、国民の困窮は極限に達している。",
       "collectedAt": "2026-03-10T04:28:38.800Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル財務相が辞任見通し、サンパウロ州知事選出馬へ",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/521487.php",
+      "publishedAt": "2026-03-10T11:46:00Z",
+      "snippet": "ブラジルのアダジ財務相が、ルラ大統領の要請によりサンパウロ州知事選に出馬するため、来週中に辞任する見込みであることが関係筋への取材で判明した。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "conflict",
+      "title": "ミャンマー軍が市民30人を殺害、160人以上拘束",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news-6842/",
+      "publishedAt": "2026-03-10T09:00:00Z",
+      "snippet": "ミャンマー中部のバゴー管区で、ミャンマー軍部隊が少なくとも30人の市民を殺害し、160人以上を拘束した。軍政による弾圧が激化している。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "economic",
+      "title": "コンゴの中国企業コバルト処理施設、周辺住民が体調不良に",
+      "src": "Wall Street Journal",
+      "url": "https://diamond.jp/articles/-/358912",
+      "publishedAt": "2026-03-10T08:55:00Z",
+      "snippet": "コンゴ民主共和国にある中国企業運営のコバルト処理施設周辺で、住民や従業員が吐血などの体調不良を訴えている。EV向け需要拡大に伴う排出急増が原因とみられる。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランスと同盟国、ホルムズ海峡の「段階的」再開に向け準備",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3567111",
+      "publishedAt": "2026-03-10T19:05:00Z",
+      "snippet": "マクロン大統領は、中東での戦争によるホルムズ海峡の封鎖を解除するため、同盟国と「防衛的」な護衛任務の準備を進めていると表明した。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "political",
+      "title": "ドイツ首相与党、州議会選で惜敗",
+      "src": "岐阜新聞",
+      "url": "https://www.gifu-np.co.jp/articles/-/521389",
+      "publishedAt": "2026-03-10T05:00:00Z",
+      "snippet": "ドイツ南西部バーデン・ビュルテンベルク州の議会選挙で、メルツ首相率いる与党が惜敗した。極右政党の台頭が旧西独地域でも鮮明になっている。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "political",
+      "title": "イスラエルで「頭脳流出」が急拡大、8万人超が国外へ",
+      "src": "風傳媒日本語版",
+      "url": "https://japan.storm.mg/article/521155",
+      "publishedAt": "2026-03-10T16:00:00Z",
+      "snippet": "戦争の長期化と政治的対立への不安から、イスラエルでは高度人材の国外流出が加速しており、これまでに8万人以上が移住したと報じられている。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、米韓演習を批判 金与正氏「想像絶する恐ろしい結果招く」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/684123",
+      "publishedAt": "2026-03-10T11:31:00Z",
+      "snippet": "金与正氏は、9日から始まった米韓合同軍事演習を「戦争実演」と強く非難し、主権を侵害すれば「想像を絶するひどい結果」を招くと警告する談話を発表した。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、2026年に契約兵40万人追加募集へ 部隊を80万人に拡大",
+      "src": "RBC Ukraine",
+      "url": "https://www.ssri-j.com/news/20260307.html",
+      "publishedAt": "2026-03-07T13:50:00Z",
+      "snippet": "ロシア軍はウクライナ侵攻の長期化に備え、2026年中に新たに40万9千人の契約兵を募集し、展開部隊を80万人に増強する計画であることが判明した。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "tension",
+      "title": "トルコ領空にイラン弾道ミサイル、NATOが撃墜",
+      "src": "KFB福島放送",
+      "url": "https://www.kfb.co.jp/news/national/202603092330.html",
+      "publishedAt": "2026-03-09T23:30:00Z",
+      "snippet": "イランから発射された弾道ミサイルがトルコ領空に侵入し、NATOの防空網によって撃墜された。破片がガジアンテップに落下したが、死傷者は報告されていない。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "トランプ氏、イギリスの援軍を拒否「空母はもう必要ない」",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260308-OYT1T50089/",
+      "publishedAt": "2026-03-08T10:00:00Z",
+      "snippet": "トランプ米大統領は、イギリスが提案した中東への空母派遣を拒否した。基地使用を巡るスターマー首相の対応を「非協力的」と非難し、同盟関係に亀裂が生じている。",
+      "collectedAt": "2026-03-10T06:39:39.919Z"
     }
   ],
-  "updatedAt": "2026-03-10T04:28:38.800Z"
+  "updatedAt": "2026-03-10T06:39:39.919Z"
 }
