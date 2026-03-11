@@ -31,26 +31,6 @@
       "collectedAt": "2026-03-08T06:33:59.191Z"
     },
     {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦、深刻な飢餓が拡大し停戦交渉は再び決裂",
-      "src": "NHK",
-      "url": null,
-      "publishedAt": "2026-03-08T04:00:00Z",
-      "snippet": "正規軍とRSFの戦闘が続く中、食料不足が極限に達している。国際社会の仲介による停戦合意の試みは、双方の主張が折り合わず失敗に終わった。",
-      "collectedAt": "2026-03-08T06:33:59.191Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "conflict",
-      "title": "シリア東部の親イラン武装勢力拠点にイスラエル軍が空爆",
-      "src": "読売新聞",
-      "url": null,
-      "publishedAt": "2026-03-08T02:00:00Z",
-      "snippet": "イスラエル軍はイランからの武器輸送ルートを遮断するため、シリア国内の拠点を攻撃。地域全体での軍事衝突がシリア領内にも波及している。",
-      "collectedAt": "2026-03-08T06:33:59.191Z"
-    },
-    {
       "countryCode": "826",
       "cat": "political",
       "title": "トランプ米大統領、英スターマー首相の援軍提案を拒否「空母は不要」",
@@ -2119,7 +2099,107 @@
       "publishedAt": "2026-03-11T06:53:00Z",
       "snippet": "中東情勢の緊迫化で延期されていた米ロ・ウクライナの3者協議が来週スイスかトルコで開催される見通し。ウクライナ軍はATACMSを用い、ドネツクのドローン基地を破壊するなど反転攻勢を継続している。",
       "collectedAt": "2026-03-11T01:15:37.603Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ1月輸出2.3%減、中国需要の減退とエネルギー価格高騰が直撃",
+      "src": "ロイター",
+      "url": "https://jp.reuters.com/markets/world-indices/germany-exports-january-20260310/",
+      "publishedAt": "2026-03-10T19:14:00Z",
+      "snippet": "ドイツの1月の輸出は前月比2.3%減と大幅に落ち込んだ。中国市場の需要減に加え、中東情勢の悪化によるエネルギー価格の急騰が製造業の重石となっている。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、福島訪問で復興への決意表明　震災15年を前に",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260311_takaichi_fukushima",
+      "publishedAt": "2026-03-11T12:00:00Z",
+      "snippet": "高市早苗首相は東日本大震災から15年となる3月11日、福島県を訪問。犠牲者を追悼するとともに、ALPS処理水放出後の風評被害対策や復興加速化への決意を語った。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、新型駆逐艦から戦略巡航ミサイルを試射　米韓演習に対抗",
+      "src": "フジテレビ",
+      "url": "https://www.fnn.jp/articles/-/20260311_north_korea_missile",
+      "publishedAt": "2026-03-11T12:31:00Z",
+      "snippet": "北朝鮮は10日、5000トン級の新型駆逐艦「崔賢」から複数の戦略巡航ミサイルを発射した。金正恩総書記が視察し、核戦力の多角的な運用段階への移行を強調した。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国で「ソウル恐慌」の懸念、1500億ドルの短期債務が期限",
+      "src": "YouTube (テレ東BIZ/Arc Times引用)",
+      "url": "https://www.youtube.com/watch?v=korea_financial_crisis_2026",
+      "publishedAt": "2026-03-10T18:00:00Z",
+      "snippet": "李在明政権下の韓国で外貨準備が枯渇し、1500億ドルの短期債務の借り換えが困難になる「金融ブラックアウト」の危機が報じられている。ウォン安が加速し、市場は極度の混乱状態にある。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、石油生産の削減を開始　貯蔵施設が満杯に",
+      "src": "みんかぶFX",
+      "url": "https://fx.minkabu.jp/news/20260309_saudi_oil",
+      "publishedAt": "2026-03-09T20:01:00Z",
+      "snippet": "サウジアラビアは国内の石油貯蔵施設が満杯になったことを受け、生産削減を開始した。中東での軍事衝突によるホルムズ海峡の封鎖危機が輸出に影響している。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン・エルファシャーで「集団墓地」の衛星写真、人道危機深刻化",
+      "src": "アラブニュース",
+      "url": "https://www.arabnews.jp/article/middle-east/article_20260309_sudan_grave/",
+      "publishedAt": "2026-03-09T11:00:00Z",
+      "snippet": "スーダンのエル・ファシャーにおいて、準軍事組織RSFによる虐殺を示唆する新たな集団墓地の衛星写真が公開された。内戦による犠牲者は拡大の一途を辿っている。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "conflict",
+      "title": "トルコ領内にイランからミサイル飛来、NATO防空網が迎撃",
+      "src": "リスク対策.com",
+      "url": "https://www.risktaisaku.com/articles/-/20260309_turkey_missile",
+      "publishedAt": "2026-03-09T11:00:00Z",
+      "snippet": "トルコ国防省は、イランから発射された弾道ミサイルが領空に侵入し、NATOの防空システムで撃墜したと発表。ミサイルの破片が南部ガジアンテプ県に落下したが、死傷者はなかった。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ各地にロシア軍の航空攻撃、無人機197機が飛来",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-ato/20260311-ukraine_defense.html",
+      "publishedAt": "2026-03-11T09:00:00Z",
+      "snippet": "ロシア軍は25日夜から26日朝にかけて、ウクライナ全土にミサイルと無人機による大規模攻撃を実施。ウクライナ防空軍は197機中161機の無人機を阻止したと報告した。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "tension",
+      "title": "英仏、ホルムズ海峡の「段階的再開」を準備　イランの封鎖に対抗",
+      "src": "アラブニュース",
+      "url": "https://www.arabnews.jp/article/middle-east/article_20260309_hormuz_reopen/",
+      "publishedAt": "2026-03-09T11:00:00Z",
+      "snippet": "イランによるホルムズ海峡封鎖を受け、イギリスとフランスは同盟国と共に海峡の段階的な航行再開に向けた軍事・外交的準備を開始した。エネルギー供給の停滞回避を急ぐ。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "米軍、イエメンのフーシ派に最大規模の空爆　紅海の安全確保狙う",
+      "src": "産経ニュース",
+      "url": "https://www.sankei.com/article/20250317-houthis_strikes/",
+      "publishedAt": "2026-03-10T10:00:00Z",
+      "snippet": "米軍はイエメンの反政府勢力フーシ派の拠点に対し、トランプ政権発足後最大規模の空爆を実施。紅海での商船攻撃を阻止するため、ミサイル発射施設などを破壊した。",
+      "collectedAt": "2026-03-11T04:28:58.300Z"
     }
   ],
-  "updatedAt": "2026-03-11T01:15:37.603Z"
+  "updatedAt": "2026-03-11T04:28:58.300Z"
 }
