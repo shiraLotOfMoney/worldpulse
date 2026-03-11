@@ -21,16 +21,6 @@
       "collectedAt": "2026-03-08T18:23:27.295Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、イラン核施設確保のため特殊部隊派遣を米と協議",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/2026/03/08/23456.php",
-      "publishedAt": "2026-03-08T13:48:00Z",
-      "snippet": "イスラエルと米国は、イラン国内の高濃縮ウラン備蓄を確保するため、特殊部隊を潜入させる作戦について協議を開始。戦争が新たな局面に入ったことを示唆している。",
-      "collectedAt": "2026-03-08T18:23:27.295Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "天皇ご一家、WBC日豪戦を観戦 60年ぶりの「天覧試合」に東京ドーム沸く",
@@ -1011,16 +1001,6 @@
       "collectedAt": "2026-03-10T09:37:20.287Z"
     },
     {
-      "countryCode": "760",
-      "cat": "political",
-      "title": "シリア暫定政府、新通貨の流通を開始 アサド政権崩壊後の統治進める",
-      "src": "アラブニュース",
-      "url": "https://www.arabnews.jp/article/middle-east/20260104-syria-new-currency/",
-      "publishedAt": "2026-03-08T15:00:00Z",
-      "snippet": "アサド政権崩壊後、HTS主導の暫定政府が新紙幣を発行。旧政権の汚職摘発を進める一方、クルド勢力との緊張緩和に向けた協議を継続。",
-      "collectedAt": "2026-03-10T09:37:20.287Z"
-    },
-    {
       "countryCode": "792",
       "cat": "economic",
       "title": "トルコ、最低賃金を27%引き上げ インフレ抑制と景気下支え狙う",
@@ -1058,16 +1038,6 @@
       "url": "https://www.vietnam.vn/ja/us-venezuela-restore-diplomatic-ties-2026/",
       "publishedAt": "2026-03-09T11:00:00Z",
       "snippet": "米軍によるマドゥロ氏拘束後、ベネズエラ暫定政府とトランプ政権が外交回復に合意。米エネルギー長官が訪ベし、石油資源開発の再開を協議した。",
-      "collectedAt": "2026-03-10T09:37:20.287Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "フーシ派、イスラエルと米軍施設への報復攻撃を宣言 イラン攻撃に呼応",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260302-houthi-retaliation/",
-      "publishedAt": "2026-03-08T15:00:00Z",
-      "snippet": "イエメンのフーシ派は、ハメネイ師殺害に対する報復として紅海での商船攻撃を拡大。イスラエル南部へのミサイル発射も継続し、戦火の拡大を警告。",
       "collectedAt": "2026-03-10T09:37:20.287Z"
     },
     {
@@ -2419,7 +2389,137 @@
       "publishedAt": "2026-03-09T00:00:00Z",
       "snippet": "ブリティッシュ・エアウェイズ親会社のIAGは、中東の戦争による空域閉鎖で飛行時間が長期化し、燃料費と運航コストが急増していると発表。",
       "collectedAt": "2026-03-11T12:41:13.434Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "tension",
+      "title": "米国、アフガニスタンを「不当拘束支援国家」に指定 イランに続き2か国目",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260311-OYT1T50055/",
+      "publishedAt": "2026-03-11T00:36:00Z",
+      "snippet": "米国のルビオ国務長官は、タリバン暫定政権が身代金目的で米国人らを拘束しているとして「不当拘束支援国家」に指定したと発表。人質外交の停止を強く求めた。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン経済危機がブラジルに波及、自動車輸出が28％減",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/0311-21economic.html",
+      "publishedAt": "2026-03-11T09:00:00Z",
+      "snippet": "アルゼンチンの深刻な経済危機により、主要貿易相手国であるブラジルの自動車輸出が前年同期比で約3割減少。ミレイ政権の緊縮策による内需停滞が影響している。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル・ハダジ財務相が辞任表明、サンパウロ州知事選出馬へ",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/0310-21political.html",
+      "publishedAt": "2026-03-10T18:00:00Z",
+      "snippet": "ルーラ政権の経済政策を担ってきたハダジ財務相が退任し、次期州知事選への出馬を準備。後任にはドゥリガン事務次官が昇格し、現行の財政路線を継承する見通し。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "economic",
+      "title": "ミャンマー軍政、ガソリン不足で車の使用制限を開始 中東情勢悪化が直撃",
+      "src": "Livedoor ニュース",
+      "url": "https://news.livedoor.com/article/detail/20260311-myanmar-gas/",
+      "publishedAt": "2026-03-11T10:00:00Z",
+      "snippet": "中東での紛争激化に伴う原油価格高騰を受け、ミャンマー国内で深刻な燃料不足が発生。軍事政権は自家用車の利用制限やガソリンスタンドの営業規制を強化した。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "tension",
+      "title": "台湾周辺での中国軍機活動が異例の激減、トランプ訪中前の「平和ポーズ」か",
+      "src": "風傳媒（ストーム・メディア）",
+      "url": "https://world.storm.mg/article/20260311-china-taiwan-military",
+      "publishedAt": "2026-03-11T11:01:00Z",
+      "snippet": "過去10日間のうち9日間、台湾周辺で中国軍機の飛来が確認されない異例の事態。4月に予定されるトランプ米大統領の訪中を前に、緊張緩和を演出する狙いとの分析。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ政府、石油備蓄の協調放出を決定 中東戦争による価格高騰に対応",
+      "src": "Livedoor ニュース",
+      "url": "https://news.livedoor.com/article/detail/20260311-germany-oil/",
+      "publishedAt": "2026-03-11T20:13:00Z",
+      "snippet": "メルツ首相はG7首脳会議での合意に基づき、国内の石油備蓄放出を指示。イラン情勢悪化によるエネルギー危機から国民生活を守るための緊急措置。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "tension",
+      "title": "インド、イラン情勢急変で自国民保護を強化 経済への悪影響を懸念",
+      "src": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/20260310-india-iran",
+      "publishedAt": "2026-03-10T07:00:00Z",
+      "snippet": "米国・イスラエルによるイラン攻撃を受け、モディ政権は中東在住の数百万人のインド人保護に奔走。原油高騰による国内経済への打撃を最小限に抑える策を協議。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル軍、イラン石油施設への攻撃を継続 トランプ政権の停止要請を無視か",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260311-israel-iran-oil",
+      "publishedAt": "2026-03-11T08:20:00Z",
+      "snippet": "トランプ政権が原油価格安定のため攻撃停止を求めたものの、イスラエルはイランの核・エネルギーインフラ破壊を優先。ガザとイランの二正面作戦を強化している。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、東日本大震災15年式典で「防災庁」年内設置を表明",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260311-takaichi-311",
+      "publishedAt": "2026-03-11T15:14:00Z",
+      "snippet": "福島市で行われた追悼式典に出席した高市首相は、災害対応の司令塔となる「防災庁」を2026年中に設置すると強調。被災地の復興加速を誓った。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "金正恩氏と娘のジュエ氏、新型駆逐艦からの巡航ミサイル試射を視察",
+      "src": "Vietnam.vn (AP通信引用)",
+      "url": "https://www.vietnam.vn/ja/ong-kim-jong-un-cung-con-gai-theo-doi-vu-thu-ten-lua-hanh-trinh-post2149092154.html",
+      "publishedAt": "2026-03-11T15:05:00Z",
+      "snippet": "米韓合同演習に対抗し、北朝鮮は駆逐艦「崔賢」から戦略巡航ミサイルを発射。金正恩氏の娘ジュエ氏が同行し、核抑止力の多様化を誇示した。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "日韓、有事の邦人退避協力覚書を初適用 中東から韓国人12人が日本機で帰国",
+      "src": "nippon.com",
+      "url": "https://www.nippon.com/ja/news/fnn20260311001/",
+      "publishedAt": "2026-03-11T17:35:00Z",
+      "snippet": "イラン情勢悪化を受け、日本政府が手配したチャーター機に韓国人12人が同乗。2024年に締結された日韓協力覚書が初めて適用され、両国の信頼関係を示した。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "プーチン大統領、ドネツク州の85％を制圧と主張 ウクライナ侵攻で戦果誇示",
+      "src": "埼玉新聞 (共同通信)",
+      "url": "https://www.saitama-np.co.jp/articles/20260310-russia-ukraine",
+      "publishedAt": "2026-03-10T12:00:00Z",
+      "snippet": "ロシアのプーチン大統領は、東部ドネツク州の大部分を制圧したと述べ、軍事的優位を強調。一方でウクライナ軍は局所的な反撃で領土の一部を奪還している。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "米国務省、サウジアラビア駐在の外交官らに出国命令 安全上のリスク高まる",
+      "src": "Yahoo!ファイナンス (Bloomberg)",
+      "url": "https://finance.yahoo.co.jp/news/detail/20260309-bloomberg",
+      "publishedAt": "2026-03-09T14:00:00Z",
+      "snippet": "イラン戦争の激化に伴い、サウジアラビア国内の米国関連施設へのテロリスクが急増。米国政府は緊急性のない職員とその家族に対し、直ちに出国するよう命じた。",
+      "collectedAt": "2026-03-11T15:41:23.940Z"
     }
   ],
-  "updatedAt": "2026-03-11T12:41:13.434Z"
+  "updatedAt": "2026-03-11T15:41:23.940Z"
 }
