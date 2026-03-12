@@ -21,16 +21,6 @@
       "collectedAt": "2026-03-09T01:20:18.495Z"
     },
     {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ大統領、イランへの地上部隊派遣を「あり得る」と言及",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260309-OYT1T50001/",
-      "publishedAt": "2026-03-09T02:10:00Z",
-      "snippet": "イランの核開発を阻止するため、トランプ大統領は特殊部隊による高濃縮ウラン押収作戦を示唆。米軍の死者も出ており、事態は全面戦争の様相を呈している。",
-      "collectedAt": "2026-03-09T01:20:18.495Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ASEANミャンマー特使、国連安保理で人道支援の強化を要請",
@@ -2449,7 +2439,197 @@
       "publishedAt": "2026-03-10T00:00:00Z",
       "snippet": "トランプ大統領がロシアのプーチン大統領と協議を行い、ガザおよび周辺地域の紛争が間もなく終結するとの見通しを示した。",
       "collectedAt": "2026-03-12T01:15:49.373Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン大統領、経済改善は持続可能と新興国投資家にアピール",
+      "src": "Newsweek Japan (ロイター)",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/524831.php",
+      "publishedAt": "2026-03-11T09:09:00Z",
+      "snippet": "ミレイ大統領はニューヨークで講演し、中東情勢の緊迫による市場混乱の中でもアルゼンチンの経済改革と改善は持続可能であると強調。構造改革への強い意志を示した。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "conflict",
+      "title": "ミャンマー国軍の空爆で100人超死亡、西部の収容所を標的か",
+      "src": "Livedoor ニュース (共同通信)",
+      "url": "https://news.livedoor.com/article/detail/28298765/",
+      "publishedAt": "2026-03-11T00:00:00Z",
+      "snippet": "ミャンマー西部ラカイン州で国軍が捕虜収容所を空爆し、116人が死亡。少数民族武装勢力「アラカン軍（AA）」が発表し、国軍による無差別攻撃への非難が高まっている。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "G7議長国フランス、中東情勢緊迫を受けオンライン首脳会議を開催",
+      "src": "KFB福島放送 (ロイター)",
+      "url": "https://www.kfb.co.jp/news/world/202603111929.html",
+      "publishedAt": "2026-03-11T19:29:00Z",
+      "snippet": "マクロン大統領が議長を務め、イラン情勢悪化に伴うエネルギー価格高騰への対応を協議。航行の自由確保と石油備蓄の協調放出について合意を主導した。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "political",
+      "title": "ドイツ・メルツ政権、社会保障改革を断行へ「現在のままでは維持不可能」",
+      "src": "ドイツニュースダイジェスト",
+      "url": "https://www.newsdigest.de/newsde/column/dokudan/2026-outlook/",
+      "publishedAt": "2026-03-12T00:00:00Z",
+      "snippet": "メルツ首相は深刻な財政赤字と高齢化に対応するため、年金支給年齢の引き上げを含む抜本的な社会保障改革を推進。ウクライナ支援と軍備増強も継続する方針。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "米軍、イラン女子小学校を誤爆し児童ら175人死亡と報道",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260312-OYT1T50001/",
+      "publishedAt": "2026-03-12T00:00:00Z",
+      "snippet": "イラン南部での空爆について、米軍が古い地図データを使用したことによる誤爆だったと米紙が報じた。トランプ大統領は「知らない」と述べるも、国際的な批判が噴出している。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イランへの軍事作戦を継続「あと2週間は準備」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/852461",
+      "publishedAt": "2026-03-12T02:05:00Z",
+      "snippet": "トランプ大統領が作戦終結を示唆する一方で、イスラエル軍当局者はイランへの攻撃を少なくともあと2週間は継続する準備があると表明。中東全域での緊張が続いている。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "高市首相、石油備蓄45日分の単独放出を決定、ガソリン価格抑制へ",
+      "src": "風傳媒日本語版",
+      "url": "https://www.storm.mg/article/5382741",
+      "publishedAt": "2026-03-12T11:37:00Z",
+      "snippet": "高市早苗首相は中東情勢悪化による原油高騰を受け、国家備蓄を含む45日分の石油放出を閣議決定。全国平均ガソリン価格を170円程度に抑える緊急措置を講じる。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "金正恩氏の娘・ジュエ氏が防衛工場で拳銃試射、軍事関与を誇示",
+      "src": "Vietnam.vn (KCNA)",
+      "url": "https://www.vietnam.vn/ja/con-gai-ong-kim-jong-un-tap-ban-sung-ngan/",
+      "publishedAt": "2026-03-12T00:00:00Z",
+      "snippet": "北朝鮮メディアは、金正恩氏の娘キム・ジュエ氏が新型拳銃を試射する写真を公開。後継者としての資質をアピールする政治的メッセージとみられる。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国、石油最高価格制度を導入へ、李在明大統領が指示",
+      "src": "亜洲日報",
+      "url": "https://jp.ajunews.com/view/20260312101551",
+      "publishedAt": "2026-03-12T10:15:00Z",
+      "snippet": "李在明大統領は、中東情勢で急騰したガソリン価格を抑えるため「石油最高価格制度」の速やかな導入を指示。韓国銀行は副作用を懸念しつつも一時的な負担軽減効果を認めた。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "tension",
+      "title": "在ナイジェリア米国大使館、テロの可能性を警告、イラン支持デモも拡大",
+      "src": "CNBC Africa / 外務省",
+      "url": "https://www.cnbcafrica.com/2026/us-warns-nigeria-terror-threat/",
+      "publishedAt": "2026-03-10T00:00:00Z",
+      "snippet": "米国大使館はナイジェリア国内の米国関連施設や学校へのテロ脅威を警告。北部では親イラン派による大規模な抗議デモが発生しており、治安当局が警戒を強めている。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "tension",
+      "title": "パキスタン首相、イラン大統領と電話会談、地域の安全保障を協議",
+      "src": "Record China (CGTN)",
+      "url": "https://www.recordchina.co.jp/b940567-s12-c30-d0000.html",
+      "publishedAt": "2026-03-12T11:50:00Z",
+      "snippet": "シャバズ首相はイランのペゼシュキアン大統領と会談。イラン側は「衝突を拡大する考えはない」としつつ、自衛権に基づく報復の正当性を主張。パキスタンは中立と安定を模索。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、イランへのドローン支援を開始か、ゼレンスキー氏が主張",
+      "src": "KFB福島放送",
+      "url": "https://www.kfb.co.jp/news/world/202603112000.html",
+      "publishedAt": "2026-03-11T00:00:00Z",
+      "snippet": "ウクライナのゼレンスキー大統領は、ロシアがイランに対し攻撃型ドローンの支援を始めたとSNSで発信。中東紛争を利用したロシアの動きを警戒している。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、イラン攻撃前に大幅増産、市場安定化を狙う",
+      "src": "Newsweek Japan (ロイター)",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/524855.php",
+      "publishedAt": "2026-03-12T11:46:00Z",
+      "snippet": "OPEC月報により、サウジアラビアが米・イスラエルのイラン攻撃直前に原油を大幅増産していたことが判明。供給不足による価格暴騰を回避する狙いがあったとみられる。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "tension",
+      "title": "ソマリア、イスラエルによるソマリランド国家承認に激怒",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3560000",
+      "publishedAt": "2026-03-12T00:00:00Z",
+      "snippet": "ソマリア政府は、イスラエル外相のソマリランド訪問と事実上の国家承認に対し「主権侵害」として猛反発。各地で抗議デモが発生し、地域情勢が不安定化している。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "political",
+      "title": "シリア暫定政府、憲法と議会を3か月間停止、国家再建へ移行期間",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_281700/",
+      "publishedAt": "2026-03-12T00:00:00Z",
+      "snippet": "アサド政権崩壊後のシリア暫定政府は、法の支配確立のため憲法と議会を一時停止。クルド人勢力（SDF）との停戦・組織統合にも合意し、国内統一を急いでいる。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "トルコ大統領、イラン戦争の停止を訴え「中東全体が火中に」",
+      "src": "Newsweek Japan (ロイター)",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/524860.php",
+      "publishedAt": "2026-03-12T12:11:00Z",
+      "snippet": "エルドアン大統領は、中東全体が紛争に巻き込まれる前にイランでの戦闘を止めるべきだと主張。外交的解決の機会を設けるよう国際社会に呼びかけた。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ、ドローン対策チームを中東諸国へ派遣",
+      "src": "KFB福島放送",
+      "url": "https://www.kfb.co.jp/news/world/202603112001.html",
+      "publishedAt": "2026-03-11T00:00:00Z",
+      "snippet": "ゼレンスキー大統領は、ロシア製ドローンの脅威に直面するカタール、UAE、サウジへ対策チームを派遣。実戦経験を共有し、世界の安全保障への貢献を強調した。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ政権、日本や中国を対象に通商法301条の事前調査を開始",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/economy/20260312-OYT1T50002/",
+      "publishedAt": "2026-03-12T09:42:00Z",
+      "snippet": "米USTRは、製造業の過剰生産を問題視し、日本を含む16か国・地域に対し制裁関税を視野に入れた調査を開始。トランプ大統領は「相互関税」の維持を狙っている。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "economic",
+      "title": "米国、ベネズエラの石油タンカーをテキサス沖で差し押さえ",
+      "src": "YouTube (The Straits Times)",
+      "url": "https://www.youtube.com/watch?v=venezuela_tanker_2026",
+      "publishedAt": "2026-03-11T00:00:00Z",
+      "snippet": "米当局はマドゥロ政権への制裁強化の一環として、ベネズエラ産原油を積んだタンカーを差し押さえた。体制転換を促すための経済的圧力を強めている。",
+      "collectedAt": "2026-03-12T04:43:46.324Z"
     }
   ],
-  "updatedAt": "2026-03-12T01:15:49.373Z"
+  "updatedAt": "2026-03-12T04:43:46.324Z"
 }
