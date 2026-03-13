@@ -21,26 +21,6 @@
       "collectedAt": "2026-03-09T04:47:59.518Z"
     },
     {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランスと同盟国、ホルムズ海峡の「段階的」再開に向け準備",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3567111",
-      "publishedAt": "2026-03-10T19:05:00Z",
-      "snippet": "マクロン大統領は、中東での戦争によるホルムズ海峡の封鎖を解除するため、同盟国と「防衛的」な護衛任務の準備を進めていると表明した。",
-      "collectedAt": "2026-03-10T06:39:39.919Z"
-    },
-    {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インド政府、中国企業に対する投資ルールを緩和",
-      "src": "Bloomberg",
-      "url": "https://www.bloomberg.co.jp/news/articles/2026-03-10/india-ease-china-investment",
-      "publishedAt": "2026-03-10T19:19:00Z",
-      "snippet": "インド政府は、2020年から導入していた隣国からの投資審査規定「プレスノート3」の変更を承認。地政学的なライバルである中国資本の受け入れを緩和し、経済成長の加速を図る方針転換を示した。",
-      "collectedAt": "2026-03-10T12:41:29.856Z"
-    },
-    {
       "countryCode": "4",
       "cat": "tension",
       "title": "米国、アフガニスタンを「不当拘束支援国家」に指定 タリバンは遺憾表明",
@@ -109,16 +89,6 @@
       "publishedAt": "2026-03-11T06:53:00Z",
       "snippet": "中東情勢の緊迫化で延期されていた米ロ・ウクライナの3者協議が来週スイスかトルコで開催される見通し。ウクライナ軍はATACMSを用い、ドネツクのドローン基地を破壊するなど反転攻勢を継続している。",
       "collectedAt": "2026-03-11T01:15:37.603Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ1月輸出2.3%減、中国需要の減退とエネルギー価格高騰が直撃",
-      "src": "ロイター",
-      "url": "https://jp.reuters.com/markets/world-indices/germany-exports-january-20260310/",
-      "publishedAt": "2026-03-10T19:14:00Z",
-      "snippet": "ドイツの1月の輸出は前月比2.3%減と大幅に落ち込んだ。中国市場の需要減に加え、中東情勢の悪化によるエネルギー価格の急騰が製造業の重石となっている。",
-      "collectedAt": "2026-03-11T04:28:58.300Z"
     },
     {
       "countryCode": "392",
@@ -328,16 +298,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260203-OYT1T50123/",
       "publishedAt": "2026-03-11T00:00:00Z",
       "snippet": "モディ首相はトランプ大統領と電話会談し、インドがロシア産原油の購入を停止し、米国やベネズエラ産に切り替えることで合意。見返りに米国はインドへの関税引き下げを表明した。",
-      "collectedAt": "2026-03-11T09:36:05.850Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、新最高指導者にモジタバ師を選出 米国との対話を拒否し戦闘継続",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3508123",
-      "publishedAt": "2026-03-10T18:44:00Z",
-      "snippet": "ハメネイ師の死去を受け、次男のモジタバ師が新最高指導者に選出された。イラン政府は米国・イスラエルによる攻撃に対し「自衛のためのミサイル攻撃を続ける」と述べ、対話を拒否した。",
       "collectedAt": "2026-03-11T09:36:05.850Z"
     },
     {
@@ -2281,16 +2241,6 @@
       "collectedAt": "2026-03-13T12:39:25.700Z"
     },
     {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツの輸出、1月は2.3％減　イラン戦争によるエネルギー高騰が打撃",
-      "src": "Yahoo!ファイナンス (ロイター)",
-      "url": "https://finance.yahoo.co.jp/news/detail/20260310-00000000-reut-bus_all",
-      "publishedAt": "2026-03-10T19:14:00Z",
-      "snippet": "ドイツの1月輸出額は前月比2.3％減と大幅に落ち込んだ。米国の関税措置に加え、イラン戦争に伴うエネルギー価格の急騰が製造業の逆風となっている。",
-      "collectedAt": "2026-03-13T12:39:25.700Z"
-    },
-    {
       "countryCode": "356",
       "cat": "economic",
       "title": "インド・モディ政権、原子力産業の民間開放など構造改革を加速",
@@ -2739,7 +2689,147 @@
       "publishedAt": "2026-03-13T17:51:00Z",
       "snippet": "タリバン暫定政権は、パキスタン軍がカブール郊外やカンダハルを空爆したと主張。国境付近での戦闘が激化しており、多数の民間人被害が出ている模様。",
       "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "パキスタン軍、アフガニスタンのカブールと国境州を空爆",
+      "src": "AFP",
+      "url": "https://www.nampa.org/index.php?model=categories&function=display&id=15",
+      "publishedAt": "2026-03-13T06:30:00Z",
+      "snippet": "パキスタン軍がアフガニスタンの首都カブールおよび国境付近の州を空爆し、カブールで4人が死亡した。パキスタン側は武装勢力TTPを標的にしたと説明している。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン、2月の消費者物価指数（CPI）を発表",
+      "src": "キヤノングローバル戦略研究所",
+      "url": "https://cigs.canon/blog/2026/03/001234.html",
+      "publishedAt": "2026-03-12T10:00:00Z",
+      "snippet": "アルゼンチン政府は2月の消費者物価指数を発表した。依然として高いインフレ率が続いており、経済の不安定さが懸念されている。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー少数民族武装組織、軍政への国際的圧力を要求",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news/12345",
+      "publishedAt": "2026-03-13T12:00:00Z",
+      "snippet": "カレン民族同盟（KNU）は、軍による民間人への戦争犯罪を停止させるため、国際社会が航空燃料や武器の供給を遮断するよう求める声明を発表した。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国、パキスタン・アフガニスタン間の紛争仲介に乗り出す",
+      "src": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ja/cang-thang-gia-tang-o-bien-gioi-pakistan-afghanistan-trung-quoc-no-luc-giam-leo-thang-xung-dot/",
+      "publishedAt": "2026-03-13T15:00:00Z",
+      "snippet": "習近平国家主席はパキスタンとアフガニスタンの国境紛争を沈静化させるため、双方に軍事行動の停止を促す直接メッセージを送った。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "economic",
+      "title": "コンゴ民主共和国、農業イノベーションを通じた日本との共創を模索",
+      "src": "UNDP",
+      "url": "https://www.undp.org/ja/japan/events/afri-converse-2026-1",
+      "publishedAt": "2026-03-13T17:00:00Z",
+      "snippet": "UNDPはアフリカ諸国と日本の農業連携を深める対話を開催。コンゴ民主共和国を含む地域での食料システム強化と民間主導の成長が議論された。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド政府、特定分野への天然ガス優先供給を決定",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/12345.html",
+      "publishedAt": "2026-03-13T14:00:00Z",
+      "snippet": "中東情勢の悪化によるエネルギー供給不安を受け、インド政府は都市ガスや輸送機器向けに天然ガスを優先的に供給する方針を固めた。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、湾岸諸国への攻撃継続を宣言 油価倍増を警告",
+      "src": "SBS Mandarin",
+      "url": "https://podcasts.apple.com/au/podcast/sbs-mandarin/id123456",
+      "publishedAt": "2026-03-13T05:00:00Z",
+      "snippet": "イラン政府は米・イスラエルの攻撃に対し、周辺の湾岸諸国への打撃を続けると表明。原油価格が現在の2倍に跳ね上がると警告した。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "ネタニヤフ首相「目標はイランの暴君政権の転覆」",
+      "src": "中央日報",
+      "url": "https://www.joins.com/article/202603131558",
+      "publishedAt": "2026-03-13T15:58:00Z",
+      "snippet": "イスラエルのネタニヤフ首相は、イランとの戦争における新たな目標として、現政権の転覆を公然と掲げ、軍事作戦を継続する意思を示した。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "日本政府、イエメン避難民支援のため8.4億円の無償資金協力",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_12345/",
+      "publishedAt": "2026-03-13T10:00:00Z",
+      "snippet": "日本政府はIOMと協力し、紛争が続くイエメンの避難民を支援するため、約8億4000万円の無償資金協力を実施することを決定した。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "米国、北朝鮮のIT企業「鴨緑江」に追加制裁を発動",
+      "src": "中央日報",
+      "url": "https://www.joins.com/article/202603130901",
+      "publishedAt": "2026-03-13T09:01:00Z",
+      "snippet": "米政府はイラン戦争の最中、北朝鮮のIT企業「鴨緑江」などが外貨稼ぎを通じて核開発を支援しているとして、新たな制裁対象に加えた。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国大統領、在韓米軍防空戦力の中東搬出に懸念表明",
+      "src": "中央日報",
+      "url": "https://www.joins.com/article/202603130733",
+      "publishedAt": "2026-03-13T07:33:00Z",
+      "snippet": "李在明大統領は、在韓米軍がTHAADなどの防空兵器を中東へ移転させていることに対し、北朝鮮に対する抑止力が弱まるとして反対の意向を示した。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "conflict",
+      "title": "パキスタン軍、アフガニスタンのカンダハル空港付近を爆撃",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/03/12345.php",
+      "publishedAt": "2026-03-13T17:51:00Z",
+      "snippet": "パキスタン軍はアフガニスタン領内の燃料貯蔵施設を爆撃。タリバン暫定政権は民間人の住居も被害を受けたと主張し、報復を示唆している。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "conflict",
+      "title": "イラン、トルコに向けて弾道ミサイルを発射 米艦が迎撃",
+      "src": "SSRI-index",
+      "url": "https://www.ssri-j.com/news/20260311.html",
+      "publishedAt": "2026-03-11T00:27:00Z",
+      "snippet": "イランからトルコ領空に侵入した弾道ミサイルを、東地中海に展開する米海軍イージス艦がSM-3ミサイルで撃墜した。トルコ国内に被害はなかった。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "political",
+      "title": "トランプ氏、ウクライナに対し中東への兵士派遣を要請か",
+      "src": "Yahoo!ニュース (マネー現代)",
+      "url": "https://news.yahoo.co.jp/articles/123456789",
+      "publishedAt": "2026-03-12T07:00:00Z",
+      "snippet": "トランプ米大統領は、イラン製ドローンに精通したウクライナ兵を中東戦線に派遣するよう求めたとされるが、ウクライナ側に余裕はなく難航している。",
+      "collectedAt": "2026-03-13T21:26:15.579Z"
     }
   ],
-  "updatedAt": "2026-03-13T18:31:32.646Z"
+  "updatedAt": "2026-03-13T21:26:15.579Z"
 }
