@@ -51,16 +51,6 @@
       "collectedAt": "2026-03-10T01:16:51.161Z"
     },
     {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル財務相が辞任へ、サンパウロ州知事選出馬のため",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/456789.php",
-      "publishedAt": "2026-03-10T02:46:00Z",
-      "snippet": "アダジ財務相がルラ大統領の要請を受け、来週中に辞任する見通し。後任人事や経済政策への影響が注目される。",
-      "collectedAt": "2026-03-10T04:28:38.800Z"
-    },
-    {
       "countryCode": "276",
       "cat": "political",
       "title": "ドイツ首相与党、バーデン・ビュルテンベルク州議会選で惜敗",
@@ -408,16 +398,6 @@
       "url": "https://www.arabnews.jp/article/middle-east/article_234567/",
       "publishedAt": "2026-03-10T12:03:00Z",
       "snippet": "チャド政府はスーダンの準軍事組織RSFによる越境攻撃を受け、国境を閉鎖した。スーダンからの難民の脱出ルートが断たれ、深刻な飢餓と人道危機が加速している。",
-      "collectedAt": "2026-03-10T15:54:51.512Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "conflict",
-      "title": "シリア軍、ヒズボラによる自国領内への砲撃を非難",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/middle-east/article_345678/",
-      "publishedAt": "2026-03-10T02:03:00Z",
-      "snippet": "シリア軍は、レバノンのヒズボラがダマスカス近郊に砲弾を撃ち込んだと発表した。アサド政権崩壊後のシリアとヒズボラの関係が悪化しており、国境付近で緊張が高まっている。",
       "collectedAt": "2026-03-10T15:54:51.512Z"
     },
     {
@@ -2679,7 +2659,147 @@
       "publishedAt": "2026-03-12T15:00:00Z",
       "snippet": "イランによるホルムズ海峡の機雷敷設と船舶攻撃により、イエメンへの人道物資輸送が停滞。国内の飢餓リスクが再び高まっている。",
       "collectedAt": "2026-03-12T21:25:51.351Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "political",
+      "title": "タリバン、女性と少数派への刑罰を強化する新たな刑事規則を施行",
+      "src": "アムネスティ・インターナショナル",
+      "url": "https://www.amnesty.or.jp/news/2026/0311_10416.html",
+      "publishedAt": "2026-03-11T00:00:00Z",
+      "snippet": "タリバン指導部が承認した新たな「裁判所刑事手続規則」により、女性の移動制限や家庭内暴力の事実上の容認、宗教的不服従への厳罰化が法制化され、人権状況のさらなる悪化が懸念されている。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "中東紛争による原油高、ブラジル経済の燃料価格政策を直撃",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/260311-21colonia.html",
+      "publishedAt": "2026-03-11T00:00:00Z",
+      "snippet": "米国・イスラエルによる対イラン攻撃に端を発した原油価格の急騰が、国営石油会社ペトロブラスの燃料価格政策に圧力を与え、ブラジル国内のインフレ懸念を強めている。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国全人代が開幕、2026年の成長率目標を4.5〜5.0％に設定",
+      "src": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGM110000_R10C26A3000000/",
+      "publishedAt": "2026-03-11T10:00:00Z",
+      "snippet": "第14期全国人民代表大会（全人代）第4回会議が開幕し、2026年の実質GDP成長率目標を前年より引き下げた。ハイテク産業への投資と内需拡大を柱とする第15次5カ年計画も採択された。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、米国との貿易暫定枠組みで追加関税25％を撤廃",
+      "src": "イーストスプリング・インベストメンツ",
+      "url": "https://www.eastspring.co.jp/publications/publications?id=20260311",
+      "publishedAt": "2026-03-11T00:00:00Z",
+      "snippet": "米国とインドは貿易に関する暫定合意に達し、米国によるインド製品への追加関税が撤廃された。モディ政権は「メイク・イン・インディア」政策を再強化し、経済成長を加速させる方針。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン新指導者モジタバ師、米・イスラエルに対し徹底抗戦を宣言",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/876543",
+      "publishedAt": "2026-03-13T06:39:00Z",
+      "snippet": "ハメネイ師の後継として選出されたモジタバ師は初の声明で、ホルムズ海峡の封鎖継続と米軍・イスラエル軍への報復を強調。中東情勢は極めて危険な段階に入った。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "2026年度予算案、衆院を通過へ　野党は委員長解任案で反発",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/politics/20260313-OYT1T50089/",
+      "publishedAt": "2026-03-13T11:48:00Z",
+      "snippet": "高市政権が提出した2026年度予算案は、13日夜の衆院本会議で可決される見通し。野党側は審議時間の短さを「政治史の汚点」と批判し、激しく対立している。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "国連、ロシアによるウクライナの子供1200人強制移送を「戦争犯罪」と報告",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260313-OYT1T50045/",
+      "publishedAt": "2026-03-13T10:14:00Z",
+      "snippet": "国連人権理事会の調査委員会は、ロシアが占領地から子供を強制移送しロシア国籍を与えた行為を戦争犯罪と断定。侵攻開始から4年が経過し、人道被害が深刻化している。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジアラビア、リヤド外交地区を狙ったドローン群を迎撃",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_123456/",
+      "publishedAt": "2026-03-12T01:03:00Z",
+      "snippet": "サウジ国防省は、首都リヤドの外交地区やシェイバ油田を標的とした多数の無人機を撃墜したと発表。イラン紛争の拡大に伴い、エネルギーインフラへの警戒を強めている。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "conflict",
+      "title": "トランプ政権、ソマリアでの対テロ軍事作戦を継続",
+      "src": "新潮社 Foresight",
+      "url": "https://www.fsight.jp/articles/-/51234",
+      "publishedAt": "2026-03-12T00:00:00Z",
+      "snippet": "米国トランプ政権は「対テロ戦争」の一環として、ソマリアやナイジェリアでの軍事行動を強化。イスラム過激派勢力の台頭に対し、直接的な武力介入を繰り返している。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "シリア北東部のアルホール・キャンプが突然閉鎖、数万人が行き場を失う",
+      "src": "国境なき医師団",
+      "url": "https://www.msf.or.jp/news/detail/20260312_7890.html",
+      "publishedAt": "2026-03-12T00:00:00Z",
+      "snippet": "シリア政府によりアルホール・キャンプが事前調整なく閉鎖され、収容されていた女性や子供たちが医療アクセスを断たれた。地域情勢の不安定化に拍車をかけている。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ中銀、イラン戦争による物価高を警戒し利下げを休止",
+      "src": "第一生命経済研究所",
+      "url": "https://www.dlri.co.jp/report/macro/321456.html",
+      "publishedAt": "2026-03-13T00:00:00Z",
+      "snippet": "トルコ中央銀行は政策金利を37%に据え置いた。中東での有事による原油高とリラ安圧力を受け、インフレ抑制を最優先する姿勢を示している。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ軍、ロシア領内の石油ハブをドローンで攻撃",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-104012.php",
+      "publishedAt": "2026-03-13T08:47:00Z",
+      "snippet": "ウクライナ保安庁（SBU）は、ロシア南部チホレツクの石油施設を攻撃し大規模な火災を発生させたと発表。ロシアの戦争継続能力を削ぐ戦略的インフラ攻撃を継続している。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "G7首脳、オンライン会議でイラン情勢とエネルギー価格を議論",
+      "src": "KAB熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/?id=202603120553",
+      "publishedAt": "2026-03-12T05:53:00Z",
+      "snippet": "イギリスを含むG7首脳は、イランによるホルムズ海峡付近での船舶攻撃に強い懸念を表明。エネルギー供給の安定確保に向けた連携を確認した。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イラン核阻止のため「戦争を続ける」姿勢を強調",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/876544",
+      "publishedAt": "2026-03-13T06:39:00Z",
+      "snippet": "トランプ大統領はSNSで、原油価格上昇が米国に利益をもたらすと主張しつつ、イランの核保有阻止を最優先課題として軍事作戦を継続する決意を表明した。",
+      "collectedAt": "2026-03-13T04:30:24.179Z"
     }
   ],
-  "updatedAt": "2026-03-13T01:18:50.856Z"
+  "updatedAt": "2026-03-13T04:30:24.179Z"
 }
