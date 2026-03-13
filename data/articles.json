@@ -31,26 +31,6 @@
       "collectedAt": "2026-03-10T06:39:39.919Z"
     },
     {
-      "countryCode": "376",
-      "cat": "political",
-      "title": "イスラエルで「頭脳流出」が急拡大、8万人超が国外へ",
-      "src": "風傳媒日本語版",
-      "url": "https://japan.storm.mg/article/521155",
-      "publishedAt": "2026-03-10T16:00:00Z",
-      "snippet": "戦争の長期化と政治的対立への不安から、イスラエルでは高度人材の国外流出が加速しており、これまでに8万人以上が移住したと報じられている。",
-      "collectedAt": "2026-03-10T06:39:39.919Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ1月貿易収支、212億ユーロの黒字も輸出は減少",
-      "src": "NSJショートライブ",
-      "url": "https://nsjournal.jp/news/20260310-de-trade/",
-      "publishedAt": "2026-03-10T17:00:00Z",
-      "snippet": "ドイツの1月貿易収支は予想を上回る黒字を確保したが、輸出は前月比2.3％減少。地政学的緊張や内需の低迷が製造業の重荷となっており、欧州最大の経済国は景気浮揚に苦慮している。",
-      "collectedAt": "2026-03-10T12:41:29.856Z"
-    },
-    {
       "countryCode": "356",
       "cat": "economic",
       "title": "インド政府、中国企業に対する投資ルールを緩和",
@@ -158,16 +138,6 @@
       "url": "https://www.fnn.jp/articles/-/20260311_north_korea_missile",
       "publishedAt": "2026-03-11T12:31:00Z",
       "snippet": "北朝鮮は10日、5000トン級の新型駆逐艦「崔賢」から複数の戦略巡航ミサイルを発射した。金正恩総書記が視察し、核戦力の多角的な運用段階への移行を強調した。",
-      "collectedAt": "2026-03-11T04:28:58.300Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国で「ソウル恐慌」の懸念、1500億ドルの短期債務が期限",
-      "src": "YouTube (テレ東BIZ/Arc Times引用)",
-      "url": "https://www.youtube.com/watch?v=korea_financial_crisis_2026",
-      "publishedAt": "2026-03-10T18:00:00Z",
-      "snippet": "李在明政権下の韓国で外貨準備が枯渇し、1500億ドルの短期債務の借り換えが困難になる「金融ブラックアウト」の危機が報じられている。ウォン安が加速し、市場は極度の混乱状態にある。",
       "collectedAt": "2026-03-11T04:28:58.300Z"
     },
     {
@@ -578,16 +548,6 @@
       "url": "https://www.brasilnippou.com/2026/0311-21economic.html",
       "publishedAt": "2026-03-11T09:00:00Z",
       "snippet": "アルゼンチンの深刻な経済危機により、主要貿易相手国であるブラジルの自動車輸出が前年同期比で約3割減少。ミレイ政権の緊縮策による内需停滞が影響している。",
-      "collectedAt": "2026-03-11T15:41:23.940Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル・ハダジ財務相が辞任表明、サンパウロ州知事選出馬へ",
-      "src": "ブラジル日報",
-      "url": "https://www.brasilnippou.com/2026/0310-21political.html",
-      "publishedAt": "2026-03-10T18:00:00Z",
-      "snippet": "ルーラ政権の経済政策を担ってきたハダジ財務相が退任し、次期州知事選への出馬を準備。後任にはドゥリガン事務次官が昇格し、現行の財政路線を継承する見通し。",
       "collectedAt": "2026-03-11T15:41:23.940Z"
     },
     {
@@ -2679,7 +2639,107 @@
       "publishedAt": "2026-03-13T11:00:00Z",
       "snippet": "イエメンのフーシ派による船舶攻撃が長期化。大手海運会社は紅海ルートの利用再開を停止し、南アフリカ喜望峰経由の迂回を継続している。",
       "collectedAt": "2026-03-13T15:36:22.598Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン革命防衛隊、ホルムズ海峡の「事実上の封鎖」を継続 原油価格高騰",
+      "src": "野村総合研究所",
+      "url": "https://www.nri.com/jp/knowledge/blog/2026/03/13/001.html",
+      "publishedAt": "2026-03-13T10:00:00Z",
+      "snippet": "2月28日の米イスラエルによる攻撃を受け、イランはホルムズ海峡付近の船舶に通過禁止を通告。WTI原油先物は一時120ドル近くまで上昇し、世界経済に深刻な影響が出ている。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ米大統領、イランは「降伏間近」と発言 3月末には訪中予定",
+      "src": "みんかぶFX",
+      "url": "https://fx.minkabu.jp/news/2026031301",
+      "publishedAt": "2026-03-13T19:01:00Z",
+      "snippet": "トランプ大統領はG7オンライン会合で、軍事圧力を受けるイランが降伏に近いとの認識を示した。また、3月31日には北京で習近平国家主席との首脳会談を予定している。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、新型駆逐艦から戦略巡航ミサイルを発射 金正恩氏が視察",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260311",
+      "publishedAt": "2026-03-11T12:31:00Z",
+      "snippet": "北朝鮮は10日、5000トン級の新型駆逐艦「崔賢」から複数の戦略巡航ミサイルを発射。金正恩総書記は「核戦力は多角的な運用段階へ移行した」と宣言した。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、イラン紛争による供給不足に備え原油生産を大幅増強",
+      "src": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ja/saudi-arabia-tang-san-luong-dau-tho-20260313",
+      "publishedAt": "2026-03-13T15:00:00Z",
+      "snippet": "サウジアラビアは2月の原油生産量を日量1088万バレルまで引き上げた。イラン紛争による輸出混乱を補い、急騰する原油価格を安定させるための戦略的措置。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "conflict",
+      "title": "パキスタン軍、アフガン領内の燃料施設を空爆 緊張緩和に向け中国が仲介",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/13/001.php",
+      "publishedAt": "2026-03-13T17:51:00Z",
+      "snippet": "パキスタン軍はアフガニスタンのカンダハル空港近くを空爆。これに対し中国の習近平主席が個人的なメッセージを送り、両国に軍事行動の停止を促す仲介に乗り出した。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル政府、2026年のインフレ見通しを3.7％に上方修正 原油高が影響",
+      "src": "みんかぶFX",
+      "url": "https://fx.minkabu.jp/news/2026031302",
+      "publishedAt": "2026-03-13T22:44:00Z",
+      "snippet": "ブラジル中銀は中東紛争に伴う原油価格の上昇を受け、2026年のインフレ予測を引き上げた。一方でGDP成長率予測は2.3％で据え置いている。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国、ゴマへのドローン攻撃でユニセフ職員が死亡",
+      "src": "日本ユニセフ協会",
+      "url": "https://www.unicef.or.jp/news/2026/0311.html",
+      "publishedAt": "2026-03-11T12:00:00Z",
+      "snippet": "コンゴ東部のゴマで支援活動従事者が入居する建物がドローン攻撃を受け、ユニセフ職員1名が犠牲となった。同地域では紛争による人道危機の悪化が続いている。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国、5月にソウルで最大規模の音楽フェス開催へ Original Loveら出演",
+      "src": "CDJournal",
+      "url": "https://www.cdjournal.com/main/news/20260312",
+      "publishedAt": "2026-03-12T11:00:00Z",
+      "snippet": "2026年5月にソウルで開催される音楽フェスティバルに、日本のOriginal Love（田島貴男）が韓国のバンドCADEJOと共に出演することが決定した。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン対スペインの「フィナリッシマ」、中東情勢悪化で延期か",
+      "src": "ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/20260313/",
+      "publishedAt": "2026-03-13T14:00:00Z",
+      "snippet": "3月27日にカタールで予定されていたアルゼンチン対スペインの王者対決が、米国・イスラエルによるイラン攻撃を受けた情勢不安により延期される可能性が浮上。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "アフガニスタン暫定政権、パキスタンによる空爆被害を非難",
+      "src": "ロイター",
+      "url": "https://jp.reuters.com/world/afghanistan-pakistan-20260313",
+      "publishedAt": "2026-03-13T17:51:00Z",
+      "snippet": "タリバン暫定政権は、パキスタン軍がカブール郊外やカンダハルを空爆したと主張。国境付近での戦闘が激化しており、多数の民間人被害が出ている模様。",
+      "collectedAt": "2026-03-13T18:31:32.646Z"
     }
   ],
-  "updatedAt": "2026-03-13T15:36:22.598Z"
+  "updatedAt": "2026-03-13T18:31:32.646Z"
 }
