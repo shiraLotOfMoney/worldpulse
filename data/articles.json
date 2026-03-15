@@ -371,16 +371,6 @@
       "collectedAt": "2026-03-12T18:42:18.544Z"
     },
     {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦、深刻な飢餓状態に 国連が緊急支援を要請",
-      "src": "毎日新聞",
-      "url": null,
-      "publishedAt": "2026-03-12T06:15:00Z",
-      "snippet": "正規軍とRSFの戦闘により農業が崩壊し、数百万人が飢餓の危機に。人道支援物資の搬入が戦闘により阻まれており、国際的な介入が急務となっている。",
-      "collectedAt": "2026-03-12T18:42:18.544Z"
-    },
-    {
       "countryCode": "792",
       "cat": "economic",
       "title": "トルコ、インフレ抑制のため追加利上げを実施",
@@ -578,16 +568,6 @@
       "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-104012.php",
       "publishedAt": "2026-03-13T08:47:00Z",
       "snippet": "ウクライナ保安庁（SBU）は、ロシア南部チホレツクの石油施設を攻撃し大規模な火災を発生させたと発表。ロシアの戦争継続能力を削ぐ戦略的インフラ攻撃を継続している。",
-      "collectedAt": "2026-03-13T04:30:24.179Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "G7首脳、オンライン会議でイラン情勢とエネルギー価格を議論",
-      "src": "KAB熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/?id=202603120553",
-      "publishedAt": "2026-03-12T05:53:00Z",
-      "snippet": "イギリスを含むG7首脳は、イランによるホルムズ海峡付近での船舶攻撃に強い懸念を表明。エネルギー供給の安定確保に向けた連携を確認した。",
       "collectedAt": "2026-03-13T04:30:24.179Z"
     },
     {
@@ -2191,16 +2171,6 @@
       "collectedAt": "2026-03-14T18:27:26.929Z"
     },
     {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ米大統領「イランとの戦争はまもなく終わる」と強気姿勢",
-      "src": "ANNニュース / 読売新聞",
-      "url": "https://www.youtube.com/watch?v=trump-iran-war-2026",
-      "publishedAt": "2026-03-12T05:55:00Z",
-      "snippet": "トランプ大統領はイランへの軍事作戦が予定より前倒しで進んでいると述べ、早期の勝利を確信している。一方でホルムズ海峡の安全確保のため日本など同盟国に艦船派遣を求めている。",
-      "collectedAt": "2026-03-14T18:27:26.929Z"
-    },
-    {
       "countryCode": "76",
       "cat": "political",
       "title": "ブラジル・ボルソナロ前大統領が肺炎で集中治療室（ICU）へ、重篤な状態",
@@ -2479,7 +2449,117 @@
       "publishedAt": "2026-03-15T11:05:00Z",
       "snippet": "トランプ米大統領は、イランの原油輸出の9割を担うカーグ島への大規模攻撃を実施したと発表。ホルムズ海峡の安全確保のため、日本や韓国などの同盟国にも艦艇派遣を強く期待すると述べた。",
       "collectedAt": "2026-03-15T05:01:29.484Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "パキスタン、アフガニスタン暫定政権が「レッドライン」を越えたと警告",
+      "src": "Vietnam.vn (日本語版)",
+      "url": "https://www.vietnam.vn/ja/pakistan-canh-bao-afghanistan-da-vuot-qua-vach-ke-do/",
+      "publishedAt": "2026-03-15T00:00:00Z",
+      "snippet": "パキスタンのザルダリ大統領は、アフガニスタンのタリバン政権によるドローン攻撃を「レッドライン」を越えた行為と非難し、深刻な結果を招くと警告。国境地帯での衝突が激化している。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチンのインフレ、2026年2月は前月比2.9%で横ばい",
+      "src": "FXニュース速報",
+      "url": "https://arvo.net/fx-news/20260313-argentina-cpi/",
+      "publishedAt": "2026-03-13T00:00:00Z",
+      "snippet": "アルゼンチンの2月の消費者物価指数（CPI）は前月比2.9%上昇となり、1月から横ばいで推移。ミレイ政権の経済改革下で物価の安定性が注視されている。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル、2026年のインフレ見通しを3.7%に引き上げ",
+      "src": "みんかぶFX",
+      "url": "https://minkabu.jp/news/3855621",
+      "publishedAt": "2026-03-13T22:44:00Z",
+      "snippet": "中東情勢を受けた原油高の影響により、ブラジル政府は2026年のインフレ見通しを従来の3.6%から3.7%に上方修正した。GDP成長率見通しは2.3%で据え置かれた。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国、日本とカナダ産合成ゴムに反ダンピング関税を課すと発表",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/economy/20260314-OYT1T50070/",
+      "publishedAt": "2026-03-14T13:06:00Z",
+      "snippet": "中国商務省は日本とカナダからの合成ゴム輸入に対し、不当廉売関税を課すと発表。日本への税率は最大30.1%で、日中関係の悪化が影響した可能性がある。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国東部でM23が勢力拡大、ルワンダとの緊張が最高潮に",
+      "src": "Global News View (GNV)",
+      "url": "https://globalnewsview.org/archives/20250330-drc-peace-process",
+      "publishedAt": "2026-03-15T00:00:00Z",
+      "snippet": "反政府勢力M23が東部の重要都市を制圧し、鉱物資源地帯での陣地を強化。ルワンダ軍の関与を巡り両国間の緊張が続いており、和平プロセスは停滞している。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、イランとの合意に基づきホルムズ海峡経由のLPG輸送を再開",
+      "src": "Yahoo!ファイナンス (Bloomberg)",
+      "url": "https://finance.yahoo.co.jp/news/detail/20260314-00000001-bloomberg-bus_all",
+      "publishedAt": "2026-03-14T00:00:00Z",
+      "snippet": "インド政府とイランの合意により、LPGタンカー2隻が封鎖中のホルムズ海峡を通過。国内で深刻化する調理用燃料不足の緩和が期待される。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、中国の対日関税措置に遺憾の意を表明",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/politics/20260314-OYT1T50071/",
+      "publishedAt": "2026-03-14T15:00:00Z",
+      "snippet": "高市首相は、中国が日本産合成ゴムに課した反ダンピング関税について「極めて遺憾」と述べ、台湾情勢を巡る自身の答弁が背景にあるとの見方に対し冷静な対応を求めた。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮が日本海へ弾道ミサイル十数発を発射、米韓演習に反発か",
+      "src": "KSBニュース (ANN)",
+      "url": "https://news.ksb.co.jp/ann/article/20260314001",
+      "publishedAt": "2026-03-14T16:36:00Z",
+      "snippet": "北朝鮮は14日午後、平壌付近から日本海に向けて弾道ミサイル十数発を連続発射。一度に10発以上の発射は異例で、実施中の米韓合同軍事演習への抗議とみられる。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "tension",
+      "title": "トルコ領空でイランからの弾道ミサイルをNATOが迎撃、3例目",
+      "src": "KSBニュース (ロイター)",
+      "url": "https://news.ksb.co.jp/ann/article/20260313002",
+      "publishedAt": "2026-03-13T21:23:00Z",
+      "snippet": "トルコ国防省は、イランから発射された弾道ミサイルが領空に侵入し、NATOの防空システムが迎撃したと発表。米軍基地周辺で爆発音が確認された。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ国防省、2026年初頭の志願兵募集状況を発表",
+      "src": "Ukrinform (日本語版)",
+      "url": "https://www.ukrinform.jp/rubric-ato/20260112-ukraine-volunteers.html",
+      "publishedAt": "2026-03-12T14:40:00Z",
+      "snippet": "ウクライナ国防省は、2026年1月〜2月の志願兵の多くが無人機操縦士や電子戦専門職を希望していると発表。長期化する戦況に対応した兵力確保を進めている。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、ホルムズ海峡封鎖解除のためイラン沿岸の爆撃を示唆",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/world-news/article-987654",
+      "publishedAt": "2026-03-13T00:00:00Z",
+      "snippet": "トランプ米大統領は、イランによるホルムズ海峡封鎖を打破するため、沿岸部の軍事施設を徹底的に爆撃する方針を表明。原油供給の正常化を急ぐ構え。",
+      "collectedAt": "2026-03-15T06:46:10.749Z"
     }
   ],
-  "updatedAt": "2026-03-15T05:01:29.484Z"
+  "updatedAt": "2026-03-15T06:46:10.749Z"
 }
