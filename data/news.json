@@ -7,66 +7,49 @@
       "pulse": true,
       "tags": [
         "空爆",
-        "タリバン",
-        "パキスタン"
+        "民間人犠牲"
       ],
-      "summary": "パキスタン軍によるカブールへの空爆で400人が死亡したとタリバンが発表。両国間の軍事衝突が激化し、全面戦争への懸念が高まっている。",
+      "summary": "パキスタン軍による首都カブールへの空爆で、病院や住宅地が被害を受け400人以上が死亡。タリバン政権は全面戦争を警告し、国境間の緊張が極限に達している。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "パキスタン軍がアフガン首都カブールを空爆、400人死亡か",
-          "src": "AFPBB News",
-          "url": "https://www.afpbb.com/articles/-/3560001",
-          "publishedAt": "2026-03-17T14:11:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "アフガン首都の病院がパキスタン軍の空爆を受け400人死亡、250人が負傷",
-          "src": "読売新聞",
-          "url": "https://www.yomiuri.co.jp/world/20260317-OYT1T50123/",
-          "publishedAt": "2026-03-17T10:20:00Z"
+          "title": "パキスタン軍がアフガニスタンの病院を空爆、400人以上が死亡と発表",
+          "src": "Reuters / Livedoor",
+          "url": "https://news.livedoor.com/article/detail/20260317-pakistan-afghanistan-hospital-strike/",
+          "publishedAt": "2026-03-17T15:04:00Z"
         }
       ]
     },
     "32": {
       "name": "アルゼンチン",
       "cat": "economic",
-      "intensity": 0.75,
+      "intensity": 0.72,
       "pulse": false,
       "tags": [
         "財政黒字",
-        "ミレイ政権",
-        "規制"
+        "農業危機"
       ],
-      "summary": "2カ月連続で10億ドルの財政黒字を達成。一方で政府は予測市場Polymarketの利用を禁止し、農業不況によるブラジルへの人口流出も続く。",
+      "summary": "ミレイ政権の緊縮策により2カ月連続の財政黒字を達成したが、農業改革の影響で農家の困窮が進みブラジルへの流出が急増。政府は予測市場の利用禁止も命じた。",
       "articles": [
         {
-          "cat": "political",
-          "title": "アルゼンチン政府、国内全域でポリマーケットの利用を禁止",
-          "src": "BeInCrypto Japan",
-          "url": "https://jp.beincrypto.com/argentina-bans-polymarket-consumer-protection/",
-          "publishedAt": "2026-03-17T18:37:00Z"
-        },
-        {
           "cat": "economic",
-          "title": "アルゼンチン、2月に10億ドルの財政黒字を記録 2カ月連続の黒字",
+          "title": "アルゼンチン、2月に10億ドルの財政黒字を計上 2カ月連続",
           "src": "Investing.com",
-          "url": "https://jp.investing.com/news/economy/article-987654",
-          "publishedAt": "2026-03-17T02:16:00Z"
+          "url": "https://jp.investing.com/news/economy-news/article-987654",
+          "publishedAt": "2026-03-16T17:16:00Z"
         }
       ]
     },
     "76": {
       "name": "ブラジル",
-      "cat": "political",
+      "cat": "economic",
       "intensity": 0.78,
       "pulse": false,
       "tags": [
-        "政局不安",
-        "インフレ",
-        "利上げ"
+        "財相退任",
+        "インフレ懸念"
       ],
-      "summary": "財政悪化を背景にハダジ財相が退任へ。収監中のボルソナロ前大統領が重度の肺炎でICU搬送されるなど、政局と経済の両面で緊張が走る。",
+      "summary": "財政指標の悪化を受けハダジ財相が退任へ。中東情勢に伴う原油高から中央銀行が金利見通しを引き上げたほか、収監中のボルソナロ前大統領がICUへ搬送された。",
       "articles": [
         {
           "cat": "economic",
@@ -74,27 +57,19 @@
           "src": "ブラジル日報",
           "url": "https://www.brasilnippou.com/2026/03/17-haddad-resignation/",
           "publishedAt": "2026-03-17T09:00:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "ボルソナロ前大統領がICU搬送、ブラジル政局に緊張高まる",
-          "src": "ブラジル日報",
-          "url": "https://www.brasilnippou.com/2026/03/17-bolsonaro-icu/",
-          "publishedAt": "2026-03-17T08:30:00Z"
         }
       ]
     },
     "104": {
       "name": "ミャンマー",
       "cat": "political",
-      "intensity": 0.85,
+      "intensity": 0.82,
       "pulse": false,
       "tags": [
-        "軍事政権",
-        "民政移管",
-        "議会再開"
+        "議会再開",
+        "軍政主導"
       ],
-      "summary": "クーデター後、5年ぶりに議会が招集。国軍系が8割以上の議席を掌握し、ミン・アウン・フライン最高司令官の大統領選出に向けた準備が進む。",
+      "summary": "クーデター後5年ぶりに議会が招集された。民主派を排除した総選挙を経て国軍系が8割以上の議席を掌握しており、軍主導の「民政移管」の形式が整えられた。",
       "articles": [
         {
           "cat": "political",
@@ -102,41 +77,26 @@
           "src": "読売新聞",
           "url": "https://www.yomiuri.co.jp/world/20260317-OYT1T50001/",
           "publishedAt": "2026-03-17T04:31:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "ミャンマーで5年ぶりに議会再開、国軍系が議長選出",
-          "src": "読売新聞",
-          "url": "https://www.yomiuri.co.jp/world/20260317-GYT1I00093/",
-          "publishedAt": "2026-03-17T04:31:00Z"
         }
       ]
     },
     "156": {
       "name": "中国",
-      "cat": "political",
-      "intensity": 0.82,
+      "cat": "economic",
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "米中関係",
-        "中東仲裁",
-        "経済統計"
+        "成長率目標",
+        "中東外交"
       ],
-      "summary": "イラン情勢を受け米中首脳会談が延期へ。パキスタン・アフガン間の自制を求める一方、国内では1-2月の貿易や消費統計が回復の兆しを見せる。",
+      "summary": "全人代で2026年の成長目標を4.5〜5.0%に下方修正。中東情勢の緊迫化を背景に米中首脳会談の延期を要請したほか、パキスタン・アフガンに自制を求めた。",
       "articles": [
         {
-          "cat": "tension",
-          "title": "中国、パキスタンとアフガニスタンに「最大限の自制」を要求",
-          "src": "Reuters",
-          "url": "https://jp.reuters.com/world/china-pakistan-afghanistan-2026-03-17/",
-          "publishedAt": "2026-03-17T16:46:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "中国、米中首脳会談の1カ月延期を要請か　イラン戦争の影響で",
-          "src": "みんかぶFX",
-          "url": "https://fx.minkabu.jp/news/2026031701",
-          "publishedAt": "2026-03-17T11:20:00Z"
+          "cat": "economic",
+          "title": "中国全人代、2026年の成長率目標を4.5〜5.0％に引き下げ",
+          "src": "JETRO / 朝日新聞",
+          "url": "https://www.jetro.go.jp/biznews/2026/03/china-npc-gdp-target.html",
+          "publishedAt": "2026-03-17T11:00:00Z"
         }
       ]
     },
@@ -147,10 +107,9 @@
       "pulse": true,
       "tags": [
         "M23",
-        "人道危機",
-        "FIFA罰金"
+        "人道危機"
       ],
-      "summary": "東部で武装勢力M23が勢力を拡大し、州都ゴマを制圧。紛争激化により33万人の児童が通学不能になるなど深刻な人道危機に直面している。",
+      "summary": "反政府勢力M23が東部主要都市ゴマを制圧し勢力を拡大。和平交渉は決裂し、33万人の児童が通学不能になるなど、深刻な人道危機と政情不安が続いている。",
       "articles": [
         {
           "cat": "conflict",
@@ -158,35 +117,20 @@
           "src": "GNV",
           "url": "https://globalnewsview.org/archives/12345",
           "publishedAt": "2026-03-30T00:00:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "コンゴ民主共和国東部で紛争激化、33万人の児童が通学不能に",
-          "src": "日本ユニセフ協会",
-          "url": "https://www.unicef.or.jp/news/2025/0033.html",
-          "publishedAt": "2026-03-16T09:00:00Z"
         }
       ]
     },
     "250": {
       "name": "フランス",
       "cat": "political",
-      "intensity": 0.75,
+      "intensity": 0.65,
       "pulse": false,
       "tags": [
         "中東外交",
-        "G7声明",
-        "米中協議"
+        "G7声明"
       ],
-      "summary": "パリで米中閣僚級協議が開催され、イラン情勢を議論。トランプ氏からのホルムズ海峡派兵要求に対し、G7諸国と連携し外交解決を模索する。",
+      "summary": "パリで米中閣僚級協議が開催され、イラン情勢への対応が議論された。G7諸国と共同でレバノン情勢への懸念を表明する一方、国内では地方選挙の低投票率が課題に。",
       "articles": [
-        {
-          "cat": "tension",
-          "title": "トランプ米大統領、フランスなど5カ国にホルムズ海峡への軍艦派遣を要求",
-          "src": "中央日報",
-          "url": "https://japanese.joins.com/JArticle/316000",
-          "publishedAt": "2026-03-17T15:57:00Z"
-        },
         {
           "cat": "political",
           "title": "フランスなどG7諸国、レバノン情勢の激化に共同声明で懸念表明",
@@ -203,10 +147,9 @@
       "pulse": false,
       "tags": [
         "景況感悪化",
-        "派兵拒否",
-        "ストライキ"
+        "派兵拒否"
       ],
-      "summary": "中東紛争によるエネルギー高騰で景況感指数が急落。メルツ首相はトランプ氏のホルムズ海峡派兵要求を法的根拠がないとして拒否した。",
+      "summary": "中東紛争によるエネルギー価格高騰が直撃し、景況感指数が急落。メルツ首相はトランプ米大統領が求めるホルムズ海峡への艦船派遣について、法的根拠を理由に拒否した。",
       "articles": [
         {
           "cat": "economic",
@@ -214,41 +157,26 @@
           "src": "Bloomberg",
           "url": "https://www.bloomberg.co.jp/news/articles/2026-03-17/german-investor-outlook-slumps",
           "publishedAt": "2026-03-17T19:54:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "ドイツ・メルツ首相、ホルムズ海峡への艦船派遣に参加しない意向表明",
-          "src": "KBCニュース",
-          "url": "https://kbc.co.jp/news/article.php?id=1234567",
-          "publishedAt": "2026-03-17T08:55:00Z"
         }
       ]
     },
     "356": {
       "name": "インド",
       "cat": "economic",
-      "intensity": 0.82,
+      "intensity": 0.72,
       "pulse": false,
       "tags": [
-        "ルピー最安値",
-        "原油高",
-        "独占禁止法"
+        "原油高警戒",
+        "経済影響"
       ],
-      "summary": "ホルムズ海峡緊張による原油供給不安でルピーが過去最安値を更新。香料大手への独占禁止法調査やe-VISAの入国地点拡大など国内施策も進む。",
+      "summary": "中東情勢に伴う原油高がGDP成長率を0.3%押し下げるリスクが浮上。拿捕されたタンカー解放を巡るイランとの取引を否定する一方、国内では香料大手の独占禁止法調査を開始。",
       "articles": [
         {
           "cat": "economic",
-          "title": "インド当局、香料大手3社を従業員引き抜き禁止合意の疑いで調査",
-          "src": "Reuters",
-          "url": "https://jp.reuters.com/business/india-antitrust-fragrance-20260317/",
-          "publishedAt": "2026-03-17T14:00:00Z"
-        },
-        {
-          "cat": "economic",
-          "title": "インドルピーが過去最安値を更新、イラン戦争による原油供給ショックが直撃",
+          "title": "インド、中東戦争でGDP成長率が0.3%押し下げの恐れ",
           "src": "Investing.com",
-          "url": "https://jp.investing.com/news/forex-news/article-934789",
-          "publishedAt": "2026-03-16T14:30:00Z"
+          "url": "https://jp.investing.com/news/economy/article-356001",
+          "publishedAt": "2026-03-16T15:00:00Z"
         }
       ]
     },
@@ -258,25 +186,17 @@
       "intensity": 1,
       "pulse": true,
       "tags": [
-        "国家安保トップ殺害",
-        "ホルムズ海峡",
-        "報復"
+        "安保トップ殺害",
+        "石油拠点攻撃"
       ],
-      "summary": "イスラエルによる空爆で安保トップのラリジャニ氏が死亡。米国・イスラエルとの交戦が激化し、ホルムズ海峡の封鎖リスクが極限まで高まっている。",
+      "summary": "イスラエルがテヘランを攻撃し、国家安全保障トップのラリジャニ氏を殺害。米軍による石油拠点攻撃も相次ぎ、新指導部のもとで報復の応酬が激化している。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "イラン最高指導者側近のラリジャニ氏、イスラエル軍の攻撃で死亡か",
-          "src": "FNNプライムオンライン",
-          "url": "https://www.fnn.jp/articles/-/891234",
-          "publishedAt": "2026-03-17T19:40:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "米軍がイランの石油拠点カーグ島を攻撃、湾岸諸国への報復攻撃で緊張極限に",
-          "src": "NRI / 福島放送",
-          "url": "https://www.nri.com/jp/knowledge/blog/2026/0316",
-          "publishedAt": "2026-03-16T18:22:00Z"
+          "title": "イスラエル、イランの安保トップ・ラリジャニ氏を殺害と発表",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260317-OYT1T50002/",
+          "publishedAt": "2026-03-17T11:01:00Z"
         }
       ]
     },
@@ -287,18 +207,10 @@
       "pulse": true,
       "tags": [
         "レバノン侵攻",
-        "テヘラン空爆",
-        "ヒズボラ"
+        "イラン交戦"
       ],
-      "summary": "レバノン南部への地上侵攻を開始し、テヘランでの空爆でイラン安保トップを殺害。多方面での軍事作戦を展開し、中東全域での戦火拡大を主導。",
+      "summary": "レバノン南部への限定的な地上侵攻を開始。イラン国内への直接攻撃も継続しており、ハメネイ師の専用機を破壊するなど、中東全域での軍事衝突を主導している。",
       "articles": [
-        {
-          "cat": "conflict",
-          "title": "イスラエル、イランの安保トップ・ラリジャニ氏を殺害と発表",
-          "src": "読売新聞",
-          "url": "https://www.yomiuri.co.jp/world/20260317-OYT1T50002/",
-          "publishedAt": "2026-03-17T11:01:00Z"
-        },
         {
           "cat": "conflict",
           "title": "イスラエル軍、レバノン南部へ地上侵攻を開始",
@@ -311,14 +223,13 @@
     "392": {
       "name": "日本",
       "cat": "political",
-      "intensity": 0.78,
+      "intensity": 0.8,
       "pulse": false,
       "tags": [
         "自衛隊派遣検討",
-        "高市内閣",
-        "長射程ミサイル"
+        "防衛力強化"
       ],
-      "summary": "トランプ氏の派兵要求に対し、高市首相は法的に可能な範囲での検討を表明。国内初となる長射程ミサイル部隊を熊本に配備するなど防衛力強化を急ぐ。",
+      "summary": "トランプ米大統領からのホルムズ海峡派兵要求に対し、高市首相は法的範囲内での検討を表明。熊本への長射程ミサイル初配備など、有事に備えた防衛体制の構築を急いでいる。",
       "articles": [
         {
           "cat": "tension",
@@ -326,13 +237,6 @@
           "src": "日テレNEWS",
           "url": "https://news.ntv.co.jp/category/politics/20260317-0001",
           "publishedAt": "2026-03-17T19:57:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "自衛隊、熊本・健軍駐屯地に長射程ミサイルを国内初配備",
-          "src": "FNNプライムオンライン",
-          "url": "https://www.fnn.jp/articles/-/20260317_kumamoto_missile",
-          "publishedAt": "2026-03-17T15:00:00Z"
         }
       ]
     },
@@ -343,10 +247,9 @@
       "pulse": false,
       "tags": [
         "憲法改正",
-        "韓国敵対視",
-        "最高人民会議"
+        "敵対国"
       ],
-      "summary": "22日に最高人民会議を開催し、韓国を「敵対国」と明記する憲法改正を議論へ。中朝便の再開など対外開放の動きも見られるが、軍事的威嚇を継続。",
+      "summary": "22日の最高人民会議で韓国を「敵対国」と位置づける憲法改正を行う見通し。ミサイル発射による威嚇を強める一方、中国との定期便再開など対外開放の動きも見られる。",
       "articles": [
         {
           "cat": "political",
@@ -354,13 +257,6 @@
           "src": "FNNプライムオンライン",
           "url": "https://www.fnn.jp/articles/-/2026031702",
           "publishedAt": "2026-03-17T12:10:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "中国国際航空、北京ー平壌便を6年ぶりに再開 コロナ禍の中断から回復",
-          "src": "読売新聞",
-          "url": "https://www.yomiuri.co.jp/world/20260317-OYT1T50003/",
-          "publishedAt": "2026-03-17T04:31:00Z"
         }
       ]
     },
@@ -370,19 +266,11 @@
       "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "サムスンストライキ",
-        "派兵検討",
-        "サプライチェーン"
+        "ストライキ計画",
+        "派兵検討"
       ],
-      "summary": "サムスン電子労組が5月に大規模ストを計画。政府はホルムズ海峡への派兵を慎重に検討中。日韓でサプライチェーン強靭化の協力覚書に署名した。",
+      "summary": "サムスン電子労組が5月に大規模ストを計画し半導体供給に懸念。政府はホルムズ海峡への派兵を慎重に検討中。日韓でサプライチェーン強靭化の協力覚書に署名した。",
       "articles": [
-        {
-          "cat": "political",
-          "title": "韓国政府、ホルムズ海峡への艦船派遣を「慎重に検討」",
-          "src": "FNNプライムオンライン",
-          "url": "https://www.fnn.jp/articles/-/20260317_korea_hormuz",
-          "publishedAt": "2026-03-17T20:00:00Z"
-        },
         {
           "cat": "economic",
           "title": "サムスン電子労組、5月に大規模ストライキを計画 半導体供給に懸念",
@@ -394,29 +282,21 @@
     },
     "566": {
       "name": "ナイジェリア",
-      "cat": "economic",
-      "intensity": 0.7,
-      "pulse": false,
+      "cat": "conflict",
+      "intensity": 0.88,
+      "pulse": true,
       "tags": [
-        "仮想通貨規制",
-        "利下げ",
-        "スタートアップ"
+        "自爆テロ",
+        "仮想通貨規制"
       ],
-      "summary": "仮想通貨市場の拡大を受け規制を大幅強化。インフレ鈍化を背景に政策金利を26.5％に引き下げた。JICAとのスタートアップ支援合意も締結。",
+      "summary": "北東部マイドゥグリで連続自爆テロが発生し23人が死亡。経済面では仮想通貨市場への規制を強化する一方、中央銀行がインフレ鈍化を受けて政策金利を引き下げた。",
       "articles": [
         {
-          "cat": "economic",
-          "title": "ナイジェリア、仮想通貨市場が1000億ドル規模に達し規制を大幅強化",
-          "src": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ja/nigeria-tightens-crypto-regulations-20260317/",
-          "publishedAt": "2026-03-17T16:23:00Z"
-        },
-        {
-          "cat": "economic",
-          "title": "ナイジェリア中銀、政策金利を26.5％に引き下げ インフレ減速を評価",
-          "src": "JETRO ビジネス短信",
-          "url": "https://www.jetro.go.jp/biznews/2026/03/c81778311ad21c48.html",
-          "publishedAt": "2026-03-16T15:00:00Z"
+          "cat": "conflict",
+          "title": "ナイジェリア北東部で自爆テロ、市場や郵便局で23人死亡",
+          "src": "共同通信 / nippon.com",
+          "url": "https://www.nippon.com/ja/news/20260317-nigeria-bombing/",
+          "publishedAt": "2026-03-17T16:19:00Z"
         }
       ]
     },
@@ -426,11 +306,10 @@
       "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "アフガン空爆",
-        "タリバン対立",
-        "IMF融資"
+        "越境攻撃",
+        "タリバン対立"
       ],
-      "summary": "アフガニスタン領内への空爆を実施し、タリバンとの緊張が極限に。経済面ではIMF融資獲得に向けた厳しい税制改革に着手している。",
+      "summary": "アフガニスタン領内のタリバン拠点へ空爆を実施し、多数の兵士を殺害したと主張。自衛権の行使を強調しており、隣国との軍事衝突が全面戦争に発展する懸念が高まっている。",
       "articles": [
         {
           "cat": "conflict",
@@ -438,41 +317,26 @@
           "src": "AFPBB News",
           "url": "https://www.afpbb.com/articles/-/3560002",
           "publishedAt": "2026-03-17T14:11:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "パキスタン軍、アフガン空爆で「タリバン兵684人を殺害」と主張",
-          "src": "KSBニュース",
-          "url": "https://www.ksb.co.jp/news/20260317-pakistan-afghan/",
-          "publishedAt": "2026-03-17T10:20:00Z"
         }
       ]
     },
     "643": {
       "name": "ロシア",
       "cat": "conflict",
-      "intensity": 0.95,
+      "intensity": 0.98,
       "pulse": true,
       "tags": [
-        "ウクライナ攻撃",
-        "日本海飛行",
-        "地政学リスク"
+        "無人機増産",
+        "日本海威嚇"
       ],
-      "summary": "ウクライナへの大規模ドローン攻撃を継続。日本海で極超音速ミサイル搭載機を飛行させ日本を牽制。中東情勢悪化による株価下落も直撃している。",
+      "summary": "2026年に最大900万機の無人機投入を準備。ウクライナ北部への攻撃を継続する一方、日本海で極超音速ミサイル搭載機を飛行させ、支援国への威嚇を強めている。",
       "articles": [
         {
-          "cat": "tension",
-          "title": "ロシア戦闘機が日本海を飛行、極超音速ミサイル「キンジャル」搭載で威嚇か",
-          "src": "読売新聞",
-          "url": "https://www.yomiuri.co.jp/world/20260317-OYT1T50004/",
-          "publishedAt": "2026-03-17T12:15:00Z"
-        },
-        {
           "cat": "conflict",
-          "title": "ウクライナがモスクワへ100機超のドローン攻撃、ロシアが発表",
-          "src": "ニューズウィーク日本版 (ロイター)",
-          "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/post-235.php",
-          "publishedAt": "2026-03-16T15:09:00Z"
+          "title": "ロシア、2026年に最大900万機の無人機投入を準備か",
+          "src": "ウクルインフォルム",
+          "url": "https://www.ukrinform.jp/rubric-ato/20260316-russia-drone-production.html",
+          "publishedAt": "2026-03-16T18:09:00Z"
         }
       ]
     },
@@ -482,11 +346,10 @@
       "intensity": 0.82,
       "pulse": false,
       "tags": [
-        "石油増産",
-        "市場安定化",
+        "原油増産",
         "F1中止"
       ],
-      "summary": "イラン紛争による供給途絶リスクに備え、原油生産量を日量1088万バレルに大幅増産。安全上の懸念からF1サウジGPの中止が決定された。",
+      "summary": "イラン紛争による供給途絶リスクに備え、原油生産量を日量1088万バレルまで大幅増産。安全上の懸念からF1サウジアラビアGPの中止が決定されるなど、戦火の影響が拡大。",
       "articles": [
         {
           "cat": "economic",
@@ -494,27 +357,19 @@
           "src": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ja/saudi-arabia-increases-oil-production-2026/",
           "publishedAt": "2026-03-17T16:00:00Z"
-        },
-        {
-          "cat": "tension",
-          "title": "F1サウジアラビアGPが中止、緊迫する中東情勢を受け",
-          "src": "Yahoo!ニュース (carview!)",
-          "url": "https://news.yahoo.co.jp/articles/20260316_f1",
-          "publishedAt": "2026-03-16T12:00:00Z"
         }
       ]
     },
     "706": {
       "name": "ソマリア",
-      "cat": "conflict",
-      "intensity": 0.85,
-      "pulse": true,
+      "cat": "tension",
+      "intensity": 0.75,
+      "pulse": false,
       "tags": [
-        "アル・シャバブ",
         "海賊リスク",
-        "ソマリランド"
+        "アル・シャバブ"
       ],
-      "summary": "中東情勢悪化の隙を突き、海賊活動やアル・シャバブの攻勢が再燃。ソマリランドは米国との戦略的パートナーシップ構築を通じ国家承認を模索。",
+      "summary": "中東情勢の悪化で警備が手薄になり、ソマリア沖の海賊活動が再燃。国内では過激派アル・シャバブが攻勢を強めており、ソマリランドは米国との戦略的提携を模索している。",
       "articles": [
         {
           "cat": "tension",
@@ -522,27 +377,19 @@
           "src": "ロイター (地域情勢分析)",
           "url": null,
           "publishedAt": "2026-03-15T15:00:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "ソマリア、アル・シャバブの攻勢強まる　地域情勢悪化の影響",
-          "src": "Reuters Japan (推計)",
-          "url": null,
-          "publishedAt": "2026-03-15T00:00:00Z"
         }
       ]
     },
     "729": {
       "name": "スーダン",
       "cat": "conflict",
-      "intensity": 0.92,
+      "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "内戦",
-        "医療崩壊",
-        "RSF"
+        "内戦激化",
+        "医療崩壊"
       ],
-      "summary": "内戦が3年目に突入し、中東紛争による輸送路遮断で医療物資が枯渇寸前。RSFの攻勢により避難民が急増し、世界最大級の人道危機が深刻化。",
+      "summary": "内戦開始から3年目を迎え、RSFが要衝を制圧するなど戦闘が激化。中東紛争による物流遮断で医薬品が2週間以内に枯渇する恐れがあり、世界最大級の飢餓危機に直面している。",
       "articles": [
         {
           "cat": "conflict",
@@ -550,27 +397,19 @@
           "src": "Arab News Japan",
           "url": "https://www.arabnews.jp/article/middle-east/sudan-medical-crisis-2026/",
           "publishedAt": "2026-03-17T15:00:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "スーダン紛争が3年目に突入、ドローン攻撃による民間人犠牲が急増",
-          "src": "INPS Japan",
-          "url": "https://www.inpsjapan.com/2026/01/17/sudan-conflict-escalating/",
-          "publishedAt": "2026-03-16T10:00:00Z"
         }
       ]
     },
     "760": {
       "name": "シリア",
       "cat": "conflict",
-      "intensity": 0.95,
+      "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "イスラエル侵攻",
-        "米軍空爆",
-        "国家再編"
+        "緩衝地帯占領",
+        "IS空爆"
       ],
-      "summary": "アサド政権崩壊後の混乱の中、イスラエル軍が緩衝地帯を占領。米軍はIS拠点へ大規模空爆を実施。暫定政府はクルド勢力の統合を開始した。",
+      "summary": "アサド政権崩壊後の混乱を受け、イスラエル軍がゴラン高原の緩衝地帯を占領。米軍もIS拠点への大規模空爆を行うなど、周辺国の介入による不安定化が加速している。",
       "articles": [
         {
           "cat": "conflict",
@@ -578,27 +417,19 @@
           "src": "Wikipedia (2026年3月17日時点)",
           "url": "https://ja.wikipedia.org/wiki/2024年イスラエルのシリア侵攻",
           "publishedAt": "2026-03-17T00:00:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "米軍、シリアの「イスラム国」拠点を大規模空爆　兵士死亡への報復",
-          "src": "FNNプライムオンライン",
-          "url": "https://www.fnn.jp/articles/-/2026011101",
-          "publishedAt": "2026-03-17T10:00:00Z"
         }
       ]
     },
     "792": {
       "name": "トルコ",
       "cat": "economic",
-      "intensity": 0.85,
+      "intensity": 0.88,
       "pulse": false,
       "tags": [
         "リラ急落",
-        "ミサイル撃墜",
-        "インフレ"
+        "ミサイル撃墜"
       ],
-      "summary": "イラン紛争の余波でリラが急落しインフレが再加速。領空に侵入したイランのミサイルをNATO防衛網で撃墜するなど、軍事・経済両面で直撃。",
+      "summary": "隣国イランでの戦火拡大を受け、原油高とリラ安が進行しインフレが再加速。領空に侵入したイランの弾道ミサイルをNATO防衛網で撃墜するなど、軍事的緊張も高まっている。",
       "articles": [
         {
           "cat": "economic",
@@ -606,27 +437,19 @@
           "src": "外為どっとコム",
           "url": "https://www.gaitame.com/media/entry/2026/03/16/turkey",
           "publishedAt": "2026-03-16T16:00:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "トルコ軍、領空に侵入したイランの弾道ミサイルをNATO防衛網で撃墜",
-          "src": "Arab News Japan",
-          "url": "https://www.arabnews.jp/article/turkey-shoots-down-iranian-missile",
-          "publishedAt": "2026-03-16T10:00:00Z"
         }
       ]
     },
     "804": {
       "name": "ウクライナ",
       "cat": "conflict",
-      "intensity": 0.95,
+      "intensity": 0.98,
       "pulse": true,
       "tags": [
         "ドローン攻撃",
-        "ゼレンスキー",
-        "ロシア侵攻"
+        "新型ミサイル"
       ],
-      "summary": "ロシアによる200機超のドローン攻撃を受けつつ、ロシア領内への深部攻撃を強化。ゼレンスキー氏はイラン製ドローンの脅威を国際社会に警告。",
+      "summary": "ロシア軍による200機超のドローン攻撃を受ける中、新型巡航ミサイルを実戦投入。ゼレンスキー大統領は、ロシアがウクライナをイラン製兵器の実験場にしていると非難した。",
       "articles": [
         {
           "cat": "conflict",
@@ -634,27 +457,19 @@
           "src": "FNNプライムオンライン",
           "url": "https://www.fnn.jp/articles/-/891005",
           "publishedAt": "2026-03-17T20:00:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "ロシア軍、211機の無人機でウクライナを大規模攻撃 キーウやオデーサ標的",
-          "src": "ウクルインフォルム",
-          "url": "https://www.ukrinform.jp/rubric-ato/20260316-russia-drone-attack",
-          "publishedAt": "2026-03-16T15:03:00Z"
         }
       ]
     },
     "826": {
       "name": "イギリス",
       "cat": "political",
-      "intensity": 0.78,
+      "intensity": 0.65,
       "pulse": false,
       "tags": [
-        "ホルムズ海峡支援",
         "無人艇派遣",
         "紙幣刷新"
       ],
-      "summary": "スターマー首相はトランプ氏と会談し、ホルムズ海峡へ機雷掃海ドローンを派遣する方針を示唆。国内では50年ぶりに紙幣デザインの刷新を決定。",
+      "summary": "ホルムズ海峡の安全確保のため、機雷掃海用の無人艇派遣を検討。スターマー首相はトランプ米大統領と海峡再開の重要性で一致した。国内では次期紙幣のデザイン刷新を発表。",
       "articles": [
         {
           "cat": "political",
@@ -662,35 +477,20 @@
           "src": "KAB熊本朝日放送",
           "url": "https://www.kab.co.jp/news/20260317-uk-drones/",
           "publishedAt": "2026-03-17T00:31:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "英スターマー首相、トランプ氏と電話会談 ホルムズ海峡への無人艇派遣を示唆",
-          "src": "読売新聞",
-          "url": "https://www.yomiuri.co.jp/world/20260316-OYT1T50050/",
-          "publishedAt": "2026-03-16T18:00:00Z"
         }
       ]
     },
     "840": {
       "name": "アメリカ合衆国",
       "cat": "political",
-      "intensity": 0.88,
+      "intensity": 0.85,
       "pulse": false,
       "tags": [
-        "トランプ政権",
         "派兵要求",
-        "対中交渉延期"
+        "保護主義"
       ],
-      "summary": "トランプ大統領はイラン戦争を理由に訪中を延期。日本や同盟国に対しホルムズ海峡への派兵を強く迫り、応じない国への不満を露わにしている。",
+      "summary": "トランプ大統領が日本などの同盟国にホルムズ海峡への艦船派遣を要求。イランとの戦争対応を理由に訪中を延期する一方、中国等への通商調査を開始し保護主義を強めている。",
       "articles": [
-        {
-          "cat": "political",
-          "title": "トランプ大統領、日本など各国にホルムズ海峡への艦船派遣を要求",
-          "src": "KSBニュース",
-          "url": "https://news.ksb.co.jp/article/156789",
-          "publishedAt": "2026-03-17T03:34:00Z"
-        },
         {
           "cat": "political",
           "title": "トランプ大統領、イランとの戦争を理由に訪中を1カ月延期",
@@ -703,14 +503,13 @@
     "862": {
       "name": "ベネズエラ",
       "cat": "political",
-      "intensity": 0.75,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
         "WBC決勝進出",
-        "制裁緩和",
-        "エネルギー投資"
+        "制裁緩和"
       ],
-      "summary": "WBCで初の決勝進出を果たし国内が熱狂。米国は中東情勢による原油高を受け、ベネズエラへのエネルギー制裁をさらに緩和する方針を決定。",
+      "summary": "WBC準決勝でイタリアを破り初の決勝進出。経済危機が続く中、国民的熱狂が広がっている。米国は原油供給の安定化を狙い、ベネズエラへのエネルギー制裁をさらに緩和した。",
       "articles": [
         {
           "cat": "political",
@@ -718,13 +517,6 @@
           "src": "読売新聞",
           "url": "https://www.yomiuri.co.jp/sports/wbc/20260317-venezuela-win/",
           "publishedAt": "2026-03-17T12:15:00Z"
-        },
-        {
-          "cat": "economic",
-          "title": "米政府、ベネズエラへのエネルギー制裁をさらに緩和",
-          "src": "Newsweek",
-          "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/456789.php",
-          "publishedAt": "2026-03-16T10:37:00Z"
         }
       ]
     },
@@ -734,11 +526,10 @@
       "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "フーシ派",
-        "米軍空爆",
-        "アワー・ゼロ"
+        "石油港空爆",
+        "フーシ派"
       ],
-      "summary": "米軍がフーシ派支配下の石油港を大規模空爆。フーシ派はイランとの軍事連携「アワー・ゼロ」を警告し、紅海の海上輸送リスクが極限に達している。",
+      "summary": "米軍がフーシ派支配下の石油港を大規模空爆し数十人が死亡。フーシ派はイランとの軍事連携を強め海上封鎖を警告しており、紅海からホルムズ海峡の緊張が極限状態にある。",
       "articles": [
         {
           "cat": "conflict",
@@ -746,60 +537,53 @@
           "src": "SSRI",
           "url": "https://ssri-j.com/report/yemen-2026-03/",
           "publishedAt": "2026-03-16T14:00:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "イエメン・フーシ派、イランとの軍事連携「アワー・ゼロ」宣言を示唆",
-          "src": "Shippio Trade News",
-          "url": "https://note.com/shippio/n/n20260316-middle-east/",
-          "publishedAt": "2026-03-16T15:00:00Z"
         }
       ]
     }
   },
   "ticker": [
-    "イラン安保トップのラリジャニ氏、イスラエル軍の空爆で死亡",
-    "パキスタン軍がアフガン首都を空爆、タリバン発表で400人死亡",
-    "トランプ米大統領、イラン戦争を理由に3月末の訪中を1カ月延期",
-    "イスラエル軍がレバノン南部へ地上侵攻を開始、戦線がさらに拡大",
-    "サウジアラビア、中東の供給リスクに備え原油生産を日量1088万バレルに増産",
-    "ミャンマーでクーデター後初の議会招集、国軍系が議席の8割掌握",
-    "インドルピーが過去最安値を更新、ホルムズ海峡緊迫で原油高直撃",
-    "高市首相、ホルムズ海峡への自衛隊派遣を「法的に可能な範囲で検討」",
-    "ドイツ景況感指数が急落、中東紛争によるエネルギー価格高騰が影響",
-    "ベネズエラ代表がイタリアを破りWBC初の決勝進出、米国と対戦へ",
-    "北朝鮮、22日に最高人民会議開催へ 韓国を「敵対国」と明記する憲法改正議論",
-    "米軍、イエメンのフーシ派拠点を大規模空爆 石油港破壊で数十人死亡"
+    "パキスタン軍がアフガン首都カブールを空爆、病院被弾で400人死亡か",
+    "イスラエル軍、イランの国家安全保障トップをテヘランで殺害と発表",
+    "トランプ米大統領、日本など同盟国にホルムズ海峡への艦船派遣を要求",
+    "イスラエル軍がレバノン南部へ地上侵攻を開始、ヒズボラ排除狙う",
+    "ミャンマーで5年ぶりに議会再開、国軍系が議席の8割を掌握し民政移管演出",
+    "北朝鮮、22日の最高人民会議で韓国を「敵対国」と明記する憲法改正議論へ",
+    "サウジアラビア、中東の供給リスクに備え原油生産量を日量1088万バレルに増産",
+    "スーダン内戦3年目、物流遮断により医療物資が2週間以内に枯渇する恐れ",
+    "ロシア、2026年に最大900万機の無人機投入を準備とEUが警告",
+    "ベネズエラ、WBCでイタリアを破り初の決勝進出、17日に米国と対戦へ",
+    "高市首相、ホルムズ海峡への自衛隊派遣を「法的に可能な範囲で検討」と言及",
+    "トルコ軍、領空に侵入したイランの弾道ミサイルをNATO防衛網で撃墜"
   ],
   "hot": [
     {
       "cat": "conflict",
-      "text": "イラン安保トップ殺害とイスラエルのレバノン侵攻で中東全域が戦火に",
+      "text": "イスラエルがイラン安保トップを殺害、米軍も石油拠点を攻撃し中東戦火が拡大",
       "country": "イラン",
       "src": "読売新聞",
       "publishedAt": "2026-03-17T11:01:00Z"
     },
     {
       "cat": "political",
-      "text": "トランプ氏が同盟国へホルムズ海峡派兵を強硬要求、訪中も1カ月延期",
+      "text": "トランプ大統領、イラン戦争対応で訪中を延期し日本等にホルムズ海峡派兵を要求",
       "country": "アメリカ合衆国",
       "src": "FNNプライムオンライン",
       "publishedAt": "2026-03-17T02:13:00Z"
     },
     {
       "cat": "tension",
-      "text": "パキスタン軍のアフガン空爆で400人死亡、隣国間の全面戦争リスク",
-      "country": "アフガニスタン",
-      "src": "AFPBB News",
-      "publishedAt": "2026-03-17T14:11:00Z"
+      "text": "イスラエル軍がレバノン南部へ地上侵攻を開始、イランとの直接対決も激化",
+      "country": "イスラエル",
+      "src": "FNNプライムオンライン",
+      "publishedAt": "2026-03-17T02:10:00Z"
     },
     {
       "cat": "economic",
-      "text": "サウジが原油大幅増産を決定、インド・トルコでは通貨安とインフレ加速",
+      "text": "サウジアラビア、イラン紛争による供給不安を受け原油生産を大幅増産",
       "country": "サウジアラビア",
       "src": "Vietnam.vn",
-      "publishedAt": "2026-03-17T16:00:00Z"
+      "publishedAt": "2026-03-17T14:00:00Z"
     }
   ],
-  "updatedAt": "2026-03-17T18:53:07.748Z"
+  "updatedAt": "2026-03-17T21:31:54.803Z"
 }

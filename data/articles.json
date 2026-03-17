@@ -31,16 +31,6 @@
       "collectedAt": "2026-03-14T15:20:47.249Z"
     },
     {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル・ボルソナロ前大統領が肺炎で集中治療室（ICU）へ、重篤な状態",
-      "src": "Vietnam.vn (AP通信引用)",
-      "url": "https://www.vietnam.vn/ja/brazils-former-president-bolsonaro-is-being-treated-in-the-intensive-care-unit/",
-      "publishedAt": "2026-03-14T21:00:00Z",
-      "snippet": "収監中のボルソナロ氏が肺炎を患い、ブラジリアの病院に緊急移送された。医師団は敗血症の恐れがあるとして厳重な監視を続けている。",
-      "collectedAt": "2026-03-14T21:20:07.986Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "トランプ米大統領、日本にホルムズ海峡への艦船派遣を期待と表明",
@@ -59,16 +49,6 @@
       "publishedAt": "2026-03-15T00:00:00Z",
       "snippet": "紅海の航行安全を確保するため、武器庫や工場を破壊。トランプ氏はフーシ派が脅威でなくなるまで軍事行動を継続すると宣言した。",
       "collectedAt": "2026-03-14T21:20:07.986Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン最高指導者ハメネイ師が死亡か、米・イスラエルの攻撃で",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260314-OYT1T50000/",
-      "publishedAt": "2026-03-14T20:44:00Z",
-      "snippet": "米国とイスラエルによる大規模な軍事攻撃を受け、イラン政府は最高指導者ハメネイ師が死亡したと発表。後継には息子のモジタバ師が就任し、ホルムズ海峡の封鎖継続と徹底抗戦を宣言した。",
-      "collectedAt": "2026-03-15T05:01:29.484Z"
     },
     {
       "countryCode": "643",
@@ -311,16 +291,6 @@
       "collectedAt": "2026-03-15T12:34:45.371Z"
     },
     {
-      "countryCode": "104",
-      "cat": "conflict",
-      "title": "ミャンマー国軍、重要拠点を失う　少数民族武装勢力が攻勢強める",
-      "src": "朝日新聞デジタル",
-      "url": "https://www.asahi.com/articles/ASR3F1234567.html",
-      "publishedAt": "2026-03-14T19:30:00Z",
-      "snippet": "ミャンマー北部で、抵抗勢力が国軍の主要な補給路を遮断。国軍側は空爆で対抗しているが、支配地域の縮小が止まらない状況だ。",
-      "collectedAt": "2026-03-15T12:34:45.371Z"
-    },
-    {
       "countryCode": "180",
       "cat": "conflict",
       "title": "コンゴ民主共和国東部で戦闘激化　避難民が10万人規模に拡大",
@@ -358,16 +328,6 @@
       "url": "https://www.nikkei.com/article/DGXZQOGS150020_V10C26A3000000/",
       "publishedAt": "2026-03-15T06:15:00Z",
       "snippet": "人口ボーナスとインフラ投資が経済を牽引。モディ政権は「メイク・イン・インディア」の次段階として、電子機器の輸出拡大を狙う。",
-      "collectedAt": "2026-03-15T12:34:45.371Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン、核濃縮活動を巡りIAEAと協議　制裁解除を条件に提示",
-      "src": "AFP BB News",
-      "url": "https://www.afpbb.com/articles/-/3510001",
-      "publishedAt": "2026-03-14T21:00:00Z",
-      "snippet": "イラン当局は、国際原子力機関（IAEA）の査察受け入れ拡大を示唆する一方、欧米による経済制裁の即時緩和を強く求めている。",
       "collectedAt": "2026-03-15T12:34:45.371Z"
     },
     {
@@ -438,16 +398,6 @@
       "url": "https://www.nikkei.com/article/DGXZQOGR150030_V10C26A3000000/",
       "publishedAt": "2026-03-15T08:00:00Z",
       "snippet": "観光やエンターテインメント分野への投資が実を結び、石油依存からの脱却が加速。NEOMプロジェクトの第一段階完了が近づいている。",
-      "collectedAt": "2026-03-15T12:34:45.371Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "conflict",
-      "title": "ソマリア、アルシャバブ掃討作戦で成果　中部地域を奪還",
-      "src": "AFP BB News",
-      "url": "https://www.afpbb.com/articles/-/3510002",
-      "publishedAt": "2026-03-14T20:15:00Z",
-      "snippet": "ソマリア政府軍は、国際的な支援を受け、過激派組織アルシャバブの拠点を制圧。治安回復に向けた取り組みを強化している。",
       "collectedAt": "2026-03-15T12:34:45.371Z"
     },
     {
@@ -2739,7 +2689,107 @@
       "publishedAt": "2026-03-17T10:00:00Z",
       "snippet": "アデンやシャブワで南部移行評議会（STC）支持派のデモに対し、政府軍が過剰な武力を行使。多数の負傷者と拘束者が出ている。",
       "collectedAt": "2026-03-17T18:51:58.822Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "パキスタン軍がアフガニスタンの病院を空爆、400人以上が死亡と発表",
+      "src": "Reuters / Livedoor",
+      "url": "https://news.livedoor.com/article/detail/20260317-pakistan-afghanistan-hospital-strike/",
+      "publishedAt": "2026-03-17T15:04:00Z",
+      "snippet": "パキスタン軍がアフガニスタンの首都カブールなどの病院や住宅地を空爆し、少なくとも400人が死亡した。タリバン政権は「全面戦争」の状態にあると非難している。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマーで5年ぶりに議会再開、国軍系が8割以上の議席占有",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260316-myanmar-parliament-reopen/",
+      "publishedAt": "2026-03-16T10:00:00Z",
+      "snippet": "2021年のクーデター以来閉鎖されていた議会が再開された。民主派が排除された総選挙の結果、国軍系政党が上下両院で圧倒的多数を確保している。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国全人代、2026年の成長率目標を4.5〜5.0％に引き下げ",
+      "src": "JETRO / 朝日新聞",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/china-npc-gdp-target.html",
+      "publishedAt": "2026-03-17T11:00:00Z",
+      "snippet": "全国人民代表大会において、不動産不況や内需停滞を背景に成長率目標を下方修正した。AIや半導体分野での「自立自強」を加速させる方針。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、ホルムズ海峡封鎖を巡るイランとのタンカー返還協議を否定",
+      "src": "Reuters / Newsweek",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/03/india-iran-tanker-talks-denial.php",
+      "publishedAt": "2026-03-17T19:40:00Z",
+      "snippet": "イランに拿捕されているタンカー3隻の解放を巡り、インド外務省はイラン側と何らかの取引や協議を行っている事実はないと発表した。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン新最高指導者モジタバ師、米・イスラエルへの新戦線拡大を示唆",
+      "src": "Times of Israel / AFP",
+      "url": "https://www.timesofisrael.com/iran-new-leader-mojtaba-khamenei-war-fronts-2026/",
+      "publishedAt": "2026-03-15T12:00:00Z",
+      "snippet": "ハメネイ師の後を継いだモジタバ師は、米軍基地やイスラエルへの攻撃を継続し、中東全域で新たな戦線を開く可能性を警告した。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル軍、南レバノンで限定的な地上作戦を開始",
+      "src": "オリーブ山通信",
+      "url": "https://mtolive.net/israel-idf-lebanon-ground-operation-2026/",
+      "publishedAt": "2026-03-16T10:00:00Z",
+      "snippet": "ヒズボラによるミサイル攻撃に対抗するため、イスラエル国防軍（IDF）は国境付近の緩衝地帯確保を目的とした限定的な地上戦に踏み切った。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "conflict",
+      "title": "ナイジェリア北東部で自爆テロ、市場や郵便局で23人死亡",
+      "src": "共同通信 / nippon.com",
+      "url": "https://www.nippon.com/ja/news/20260317-nigeria-bombing/",
+      "publishedAt": "2026-03-17T16:19:00Z",
+      "snippet": "ボルノ州マイドゥグリの市場などで16日に連続爆発が発生。イスラム過激派による自爆テロとみられ、少なくとも23人が犠牲となった。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、2026年に最大900万機の無人機投入を準備か",
+      "src": "ウクルインフォルム",
+      "url": "https://www.ukrinform.jp/rubric-ato/20260316-russia-drone-production.html",
+      "publishedAt": "2026-03-16T18:09:00Z",
+      "snippet": "EUの防衛担当委員は、ロシアが2026年中に700万〜900万機の無人機を戦場に投入する準備を進めていると警告し、欧州の防空能力強化を訴えた。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ゼレンスキー大統領「ウクライナはイラン製ドローンの実験場」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260317-zelensky-interview/",
+      "publishedAt": "2026-03-17T16:43:00Z",
+      "snippet": "ゼレンスキー氏は、ロシアがウクライナで使用したドローンの技術が現在の中東攻撃に転用されていると指摘。国際社会に対応強化を訴えた。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメンで断食明けの食事会に砲撃、子供含む10人が死亡",
+      "src": "AP通信 / LA Times",
+      "url": "https://www.latimes.com/world-nation/story/2026-03-16/yemen-hajjah-iftar-attack/",
+      "publishedAt": "2026-03-16T17:00:00Z",
+      "snippet": "イエメン北部のハッジャ州で、ラマダンの食事会（イフタール）に集まっていた市民が砲撃を受け、子供6人を含む10人が死亡した。政府はフーシ派の犯行と断定。",
+      "collectedAt": "2026-03-17T21:30:53.175Z"
     }
   ],
-  "updatedAt": "2026-03-17T18:51:58.822Z"
+  "updatedAt": "2026-03-17T21:30:53.175Z"
 }
