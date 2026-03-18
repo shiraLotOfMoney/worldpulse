@@ -21,16 +21,6 @@
       "collectedAt": "2026-03-09T04:47:59.518Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "トランプ米大統領、日本にホルムズ海峡への艦船派遣を期待と表明",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/866105",
-      "publishedAt": "2026-03-15T02:08:00Z",
-      "snippet": "トランプ氏はSNSで、イランによる海峡封鎖の影響を受ける日本や中国に対し、安全確保のための軍艦派遣を強く求めた。",
-      "collectedAt": "2026-03-14T21:20:07.986Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ大統領、イラン・カーグ島の石油拠点を攻撃「経済の生命線を断つ」",
@@ -221,16 +211,6 @@
       "collectedAt": "2026-03-15T12:34:45.371Z"
     },
     {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮、新型巡航ミサイルの発射実験を実施と発表",
-      "src": "産経ニュース",
-      "url": "https://www.sankei.com/article/20260315-NKOR/",
-      "publishedAt": "2026-03-15T04:30:00Z",
-      "snippet": "朝鮮中央通信は、戦術核を搭載可能な新型ミサイルの実験に成功したと報じた。日米韓は警戒監視を強めている。",
-      "collectedAt": "2026-03-15T12:34:45.371Z"
-    },
-    {
       "countryCode": "410",
       "cat": "political",
       "title": "韓国大統領、日米韓の安保協力を強調　北朝鮮の挑発を非難",
@@ -398,16 +378,6 @@
       "url": "https://www.newsweekjapan.jp/stories/world/2026/03/post-104000.php",
       "publishedAt": "2026-03-15T11:41:00Z",
       "snippet": "ウクライナのゼレンスキー大統領は、ロシアがイランに対し、米国やイスラエルへの攻撃に使用するための無人機を供給していると指摘。両国の軍事協力への懸念を表明した。",
-      "collectedAt": "2026-03-15T15:22:42.141Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "conflict",
-      "title": "サウジアラビア、イランからのミサイルと無人機を多数撃墜",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/saudi-arabia/article_123456/",
-      "publishedAt": "2026-03-15T02:03:00Z",
-      "snippet": "サウジアラビア防空軍は15日、リヤドや東部州を狙ったイランのミサイル6発と無人機31機を撃墜。イランによる湾岸諸国への報復攻撃が激化している。",
       "collectedAt": "2026-03-15T15:22:42.141Z"
     },
     {
@@ -648,16 +618,6 @@
       "url": "https://jp.reuters.com/business/energy/india-tanker-uae-attack-2026-03-16/",
       "publishedAt": "2026-03-16T09:23:00Z",
       "snippet": "UAEのフジャイラ港でドローン攻撃による火災が発生。インドのタンカーは出航したものの、中東の航路不安がインドのエネルギー安全保障を揺るがしている。",
-      "collectedAt": "2026-03-16T05:11:46.463Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル・テルアビブにイランのミサイル着弾、防空システムが迎撃",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_20260315_telaviv/",
-      "publishedAt": "2026-03-15T02:03:00Z",
-      "snippet": "15日未明、イランから発射されたミサイルがテルアビブ上空で迎撃された。レバノン南部ではヒズボラとイスラエル軍の地上衝突も激化している。",
       "collectedAt": "2026-03-16T05:11:46.463Z"
     },
     {
@@ -2749,7 +2709,217 @@
       "publishedAt": "2026-03-16T14:00:00Z",
       "snippet": "イランと米イスラエルの直接衝突が続く中、イランの支援を受けるフーシ派が目立った軍事行動を控えている。イランの意向とは異なる独自の生存戦略をとっている可能性が指摘されている。",
       "collectedAt": "2026-03-18T01:24:27.803Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン大統領、イスラエル支持を再表明しイランを非難",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3567890",
+      "publishedAt": "2026-03-18T09:00:00Z",
+      "snippet": "ハビエル・ミレイ大統領は、1992年のイスラエル大使館爆破事件の追悼式典で、イランを強く非難するとともに米国とイスラエルへの全面的な支持を改めて表明した。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル政府、石油危機に伴う輸出業者への支援策を検討",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/stock-market-news/article-987654",
+      "publishedAt": "2026-03-18T01:29:00Z",
+      "snippet": "ブラジル国立経済社会開発銀行（BNDES）は、中東情勢悪化による石油危機や米国の関税引き上げの影響を受ける企業に対し、低金利融資などの新たな支援策を導入する方針を示した。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "conflict",
+      "title": "ヤンゴンの軍駐屯地で爆発、徴兵目的の拘束も急増",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news-20260318-1",
+      "publishedAt": "2026-03-18T11:00:00Z",
+      "snippet": "ミャンマー最大都市ヤンゴンの軍駐屯地で爆発が発生し、兵士が負傷した。また、軍政による強制徴兵を目的とした若者の拘束や居住リストの検査が強化されており、市民の不安が高まっている。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ベルリン空港で大規模ストライキ、全便が運航停止",
+      "src": "特典航空券.com",
+      "url": "https://tokutenryoko.com/news/germany-strike-20260318",
+      "publishedAt": "2026-03-17T18:00:00Z",
+      "snippet": "ドイツの労働組合ver.diの呼びかけにより、3月18日にベルリン・ブランデンブルク空港で警告ストライキが実施され、約445便の全旅客便が欠航となる見通し。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、2026年度の成長率見通しを7.6％に上方修正",
+      "src": "Yahoo!ファイナンス",
+      "url": "https://finance.yahoo.co.jp/news/detail/20260227-00000001-bloomberg",
+      "publishedAt": "2026-03-17T22:20:00Z",
+      "snippet": "インド政府はGDP統計の基準年改定に伴い、2026年度の経済成長率見通しを7.6％に引き上げた。世界的な通商混乱の中でも内需の底堅さが示されている。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン最高指導者モジタバ師、空爆で負傷しロシアへ移送か",
+      "src": "毎日経済 (MK)",
+      "url": "https://www.mk.co.kr/news/world/20260315-1",
+      "publishedAt": "2026-03-15T20:00:00Z",
+      "snippet": "イランの新最高指導者モジタバ・ハメネイ師がイスラエルの空爆により重傷を負い、ロシアで手術を受けたとの報道が出ている。イラン国内では情報の真偽を巡り混乱が続いている。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イランからのミサイル攻撃を相次ぎ迎撃",
+      "src": "KSBニュース",
+      "url": "https://www.ksb.co.jp/ann/news/123456",
+      "publishedAt": "2026-03-18T12:03:00Z",
+      "snippet": "18日未明、エルサレム周辺を含むイスラエル各地でイランからのミサイル攻撃が発生した。イスラエル軍は迎撃システムで対応し、市民はシェルターへ避難した。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、今夜訪米へ　トランプ大統領とイラン情勢を協議",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/987656",
+      "publishedAt": "2026-03-18T04:00:00Z",
+      "snippet": "高市早苗首相は18日夜、米国を訪問しトランプ大統領と首脳会談を行う。ホルムズ海峡への自衛隊派遣要請や、緊迫する中東情勢への対応が焦点となる。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国・李在明大統領、ホルムズ海峡への艦船派遣を「慎重に検討」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/987657",
+      "publishedAt": "2026-03-17T20:08:00Z",
+      "snippet": "韓国の安圭伯国防相は、米国からの公式要請はないとしつつも、ホルムズ海峡への艦船派遣について内部検討を行っていると述べた。李在明大統領は慎重な姿勢を維持している。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "ナイジェリア、仮想通貨市場の急拡大を受け規制を大幅強化",
+      "src": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ja/thi-truong-tien-so-lon-nhat-chau-phi-siet-chat-quan-ly/",
+      "publishedAt": "2026-03-17T16:23:00Z",
+      "snippet": "ナイジェリアの仮想通貨取引額が約960億ドルに達したことを受け、証券取引委員会（SEC）は金融安定化と投資家保護を目的に監督権限を拡大する新法を施行した。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "conflict",
+      "title": "パキスタン軍、アフガン国内のタリバン拠点を空爆と発表",
+      "src": "YouTube (Dawn News)",
+      "url": "https://www.youtube.com/watch?v=pak-afghan-2026",
+      "publishedAt": "2026-03-17T15:00:00Z",
+      "snippet": "パキスタン軍は、自国内への越境テロに対する報復として、アフガニスタンのカブールやナンガルハルにあるタリバンの軍事施設を空爆したと発表した。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "tension",
+      "title": "ロシア軍、日本海で極超音速ミサイル搭載機による訓練を実施",
+      "src": "KAB ONLINE",
+      "url": "https://www.kab.co.jp/news/national/20260318-1",
+      "publishedAt": "2026-03-18T02:22:00Z",
+      "snippet": "ロシア軍は日本海周辺で、核弾頭搭載可能な極超音速ミサイル「キンジャール」を積んだ戦闘機による訓練を行った。日本や同盟国への威嚇を強める狙いがあるとみられる。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビアのセキュリティ市場、2032年までに145億ドル規模へ",
+      "src": "Sqool.net",
+      "url": "https://sqool.net/news/saudi-security-market-2026/",
+      "publishedAt": "2026-03-18T11:00:00Z",
+      "snippet": "サウジアラビアでは中東情勢の不安定化を受け、重要インフラ保護のためのセキュリティ需要が急増しており、市場規模が今後数年で大幅に拡大する見通し。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダンの医療物資、中東戦争の影響で2週間以内に枯渇の恐れ",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
+      "publishedAt": "2026-03-18T12:03:00Z",
+      "snippet": "セーブ・ザ・チルドレンは、中東での紛争による物流停止により、スーダン国内の診療所向けの医療物資が2週間以内に底をつくと警告した。約40万人の患者が危機に瀕している。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "シリア暫定政府軍と民主軍の衝突継続、人道支援が急務",
+      "src": "Peace Winds Japan",
+      "url": "https://peace-winds.org/news/syria-20260318",
+      "publishedAt": "2026-03-18T00:00:00Z",
+      "snippet": "アサド政権崩壊後のシリアでは、暫定政府軍と民主軍による武力衝突が続いており、15年に及ぶ人道危機の影響で子どもたちの精神的ケアや医療サービスが極めて不足している。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコリラが対ドルで40リラを突破、高インフレで市民生活困窮",
+      "src": "外為どっとコム",
+      "url": "https://www.gaitame.com/media/entry/2026/03/18/100000",
+      "publishedAt": "2026-03-18T09:00:00Z",
+      "snippet": "トルコリラ安が加速し、1ドル＝40リラの大台を超えた。イラン情勢に伴う原油高がインフレに拍車をかけており、市民の間では資産を金やドルへ移す動きが強まっている。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ゼレンスキー大統領「ウクライナはイラン製ドローンの実験場」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/987658",
+      "publishedAt": "2026-03-17T17:00:00Z",
+      "snippet": "ゼレンスキー大統領は、ロシアがウクライナ攻撃で使用するイラン製ドローンが実戦を通じて改良されており、その技術が現在の中東での攻撃にも転用されていると指摘した。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "イギリス、ホルムズ海峡への艦船派遣を「検討中」と表明",
+      "src": "毎日経済 (MK)",
+      "url": "https://www.mk.co.kr/news/world/20260315-2",
+      "publishedAt": "2026-03-15T15:00:00Z",
+      "snippet": "トランプ米大統領からの要請を受け、英国のエド・ミリバンドエネルギー安保長官は、ホルムズ海峡への軍艦派遣を含むすべての選択肢を検討していると述べた。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イラン作戦を理由に訪中を1カ月延期",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260318-OYT1T50125/",
+      "publishedAt": "2026-03-18T13:17:00Z",
+      "snippet": "トランプ大統領は、対イラン軍事作戦の指揮に専念するため、3月末に予定していた中国訪問を5〜6週間延期すると発表した。習近平主席もこれに同意したという。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "WBC決勝でベネズエラが米国を破り初優勝、国内が歓喜に沸く",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/987659",
+      "publishedAt": "2026-03-18T10:00:00Z",
+      "snippet": "2026年WBC決勝でベネズエラ代表が米国代表を接戦の末に破り、悲願の初優勝を果たした。経済危機が続く国内では、この歴史的勝利が大きな希望として受け止められている。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "フーシ派、イラン支援のためイスラエルへの攻撃再開を宣言",
+      "src": "SSRI",
+      "url": "http://www.ssri-j.com/worldnews/yemen-20260317",
+      "publishedAt": "2026-03-17T21:00:00Z",
+      "snippet": "イエメンのフーシ派幹部は、イスラエルから攻撃を受けるイランを支援するため、紅海での船舶攻撃やミサイル発射を再開すると表明した。中東全域への紛争拡大が懸念される。",
+      "collectedAt": "2026-03-18T04:52:01.558Z"
     }
   ],
-  "updatedAt": "2026-03-18T01:24:27.803Z"
+  "updatedAt": "2026-03-18T04:52:01.558Z"
 }
