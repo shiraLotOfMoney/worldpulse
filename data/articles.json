@@ -41,16 +41,6 @@
       "collectedAt": "2026-03-16T21:32:07.185Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "BofA、ブラジルの利下げ予想を縮小、地政学リスクによる原油高を警戒",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy/article-934567",
-      "publishedAt": "2026-03-16T21:28:00Z",
-      "snippet": "バンク・オブ・アメリカは、中東での戦争による原油価格のボラティリティがインフレ上振れリスクを招くとして、ブラジル中央銀行の利下げ幅予想を50bpから25bpに引き下げた。",
-      "collectedAt": "2026-03-16T21:32:07.185Z"
-    },
-    {
       "countryCode": "4",
       "cat": "conflict",
       "title": "アフガン首都で病院空爆か パキスタン、200人死傷",
@@ -108,16 +98,6 @@
       "url": "https://www.newsweekjapan.jp/stories/world/2026/03/400-11.php",
       "publishedAt": "2026-03-17T02:09:00Z",
       "snippet": "アフガニスタンのタリバン暫定政権は、首都カブールの薬物依存者更生病院がパキスタン軍の空爆を受け、少なくとも400人が死亡したと発表した。パキスタン側は標的が軍事施設だったとして病院への攻撃を否定している。",
-      "collectedAt": "2026-03-17T04:47:43.421Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマーで5年ぶりに議会再開 国軍系が8割以上の議席占める",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260317-OYT1T50043/",
-      "publishedAt": "2026-03-16T19:31:00Z",
-      "snippet": "2021年のクーデター後、事実上排除された民主派不在の中で行われた総選挙を経て、16日に議会が再開された。国軍系政党が圧倒的多数を占めており、4月にもミン・アウン・フライン最高司令官が大統領に選出される見通し。",
       "collectedAt": "2026-03-17T04:47:43.421Z"
     },
     {
@@ -468,16 +448,6 @@
       "url": "https://www.fnn.jp/articles/-/2026031701",
       "publishedAt": "2026-03-17T07:59:00Z",
       "snippet": "メルツ首相は、米国が求めるホルムズ海峡での船舶護衛任務について、法的根拠がないとして不参加を表明した。ドイツはイランとの直接戦闘に参加しておらず、慎重な姿勢を維持している。",
-      "collectedAt": "2026-03-17T09:48:32.137Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍、イラン最高指導者の専用機を破壊と発表",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/2026031602",
-      "publishedAt": "2026-03-16T21:00:00Z",
-      "snippet": "イスラエル軍は、イラン国内への攻撃を継続し、ハメネイ師の専用機を地上で破壊したと発表した。親イラン武装勢力への攻撃も強化しており、中東全域での軍事衝突が激化している。",
       "collectedAt": "2026-03-17T09:48:32.137Z"
     },
     {
@@ -1658,16 +1628,6 @@
       "url": "https://news.ntv.co.jp/category/international/20260318iran",
       "publishedAt": "2026-03-18T00:00:00Z",
       "snippet": "イランは安全保障トップのラリジャニ氏がイスラエルに殺害されたことへの報復として、テルアビブ近郊をクラスター弾搭載ミサイルで攻撃。中東情勢は全面戦争の危機に直面している。",
-      "collectedAt": "2026-03-18T12:52:09.765Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍、レバノンのヒズボラに対し地上侵攻を開始",
-      "src": "AFP",
-      "url": "https://www.afpbb.com/articles/-/20260316israel",
-      "publishedAt": "2026-03-16T21:00:00Z",
-      "snippet": "イスラエル軍はレバノン南部のヒズボラ拠点に対する地上作戦を開始したと発表。イランとの直接衝突も激化しており、地域全体の緊張が極限に達している。",
       "collectedAt": "2026-03-18T12:52:09.765Z"
     },
     {
@@ -3039,7 +2999,177 @@
       "publishedAt": "2026-03-18T12:00:00Z",
       "snippet": "WBC決勝でベネズエラが米国を破り初優勝。マドゥロ大統領拘束後の暫定政権下で国民は歓喜に沸いたが、トランプ米大統領は「ベネズエラを州に昇格させる」と投稿し、事実上の併合を示唆して波紋を広げている。",
       "collectedAt": "2026-03-19T18:45:20.347Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "パキスタンとアフガニスタン、祝祭「イード」に合わせ一時休戦を発表",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/526789.php",
+      "publishedAt": "2026-03-19T09:15:00Z",
+      "snippet": "パキスタンとアフガニスタンの両政府は18日、ラマダン明けの祝祭期間中、互いへの軍事作戦を一時停止することで合意した。2月下旬から激化していた国境付近での空爆や戦闘が一時的に沈静化する見通し。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン政府、WHOからの脱退を完了「政治的理由に左右される」と批判",
+      "src": "TBS NEWS DIG / Livedoor",
+      "url": "https://news.livedoor.com/article/detail/202603181613/",
+      "publishedAt": "2026-03-18T16:13:00Z",
+      "snippet": "ミレイ政権下のアルゼンチン政府は、WHOの新型コロナ対策などを「科学的根拠が乏しい」と批判し、正式に脱退を完了した。米国に追随する形での国際機関離れが鮮明となっている。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル中央銀行、0.25％の利下げを決定 政策金利14.75％に",
+      "src": "共同通信 / Livedoor",
+      "url": "https://news.livedoor.com/article/detail/202603191158/",
+      "publishedAt": "2026-03-19T06:30:00Z",
+      "snippet": "ブラジル中銀は18日の金融政策委員会で、インフレ鈍化を受けて2年ぶりの利下げを断行した。中東情勢悪化による原油高懸念があるものの、国内経済の下支えを優先した形。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国東部でIS関連勢力の攻撃激化、テロ死者数が前年比28%増",
+      "src": "共同通信PRワイヤー",
+      "url": "https://kyodonewsprwire.jp/release/20260319GTI",
+      "publishedAt": "2026-03-19T12:00:00Z",
+      "snippet": "最新のグローバル・テロリズム・インデックスによると、コンゴ民主共和国東部でIS関連組織による大規模攻撃が相次ぎ、治安が著しく悪化している。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "tension",
+      "title": "ドイツ・フランクフルト空港で混乱、中東情勢悪化による検問強化で足止め相次ぐ",
+      "src": "キヤノングローバル戦略研究所",
+      "url": "https://cigs.canon/article/20260319_seguchi.html",
+      "publishedAt": "2026-03-19T15:00:00Z",
+      "snippet": "イラン戦争の影響でEUの入出境管理が厳格化され、フランクフルト等の主要空港で搭乗に間に合わない旅客が続出。中東便の欠航も相次いでいる。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、アフリカ市場との関係強化を加速 モディ政権が「グローバル・サウス」主導狙う",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/india_africa.html",
+      "publishedAt": "2026-03-19T11:00:00Z",
+      "snippet": "インド政府はナイジェリア等アフリカ諸国との経済連携を強化。中東情勢が不安定化する中、代替市場および資源供給源としての重要性が高まっている。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、ホルムズ海峡の封鎖を継続 米・イスラエルの攻撃に対し「存亡をかけた戦い」",
+      "src": "ARAB NEWS Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/20260319-iraq-groups/",
+      "publishedAt": "2026-03-19T12:03:00Z",
+      "snippet": "2月28日の米・イスラエルによる攻撃以降、イランはホルムズ海峡を事実上封鎖。親イラン武装勢力も地域一帯の米軍基地への攻撃を強めている。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イランへの軍事行動を継続 報復ドローン攻撃の96%を迎撃と発表",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/526801.php",
+      "publishedAt": "2026-03-19T14:00:00Z",
+      "snippet": "イスラエル国防軍は、イランから発射された多数の無人機を韓国製ミサイル「天弓-II」等でほぼ全て迎撃したと発表。中東全域で緊張が極限に達している。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、訪米しトランプ大統領と会談へ 中東情勢と原油確保が焦点",
+      "src": "KAB ONLINE / 日テレNEWS",
+      "url": "https://www.kab.co.jp/news/20260319_takaichi/",
+      "publishedAt": "2026-03-19T11:58:00Z",
+      "snippet": "高市早苗首相は19日、米国に到着。20日未明にトランプ大統領と首脳会談を行う。ホルムズ海峡封鎖に伴う石油供給確保や、台湾有事への対応を協議する見通し。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、平壌への旅客便を6年ぶり再開へ 中国国際航空が予約受付開始",
+      "src": "Yahoo!ニュース / carview!",
+      "url": "https://news.yahoo.co.jp/articles/20260319_airchina",
+      "publishedAt": "2026-03-19T10:00:00Z",
+      "snippet": "中国国際航空が3月30日より北京〜平壌線の運航を再開することが判明。ロシアへの軍事支援を通じた関係強化を背景に、国際的な孤立からの脱却を図る動きか。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国・李在明大統領、中東戦争受け「戦争補正予算」編成とエネルギー削減を指示",
+      "src": "朝鮮日報",
+      "url": "https://www.chosunonline.com/site/data/html_dir/2026/03/17/2026031780001.html",
+      "publishedAt": "2026-03-17T15:00:00Z",
+      "snippet": "李在明大統領は17日の閣議で、ホルムズ海峡封鎖によるエネルギー危機を受け、車の「5部制」導入や補正予算編成を指示。トランプ氏からの派兵圧力にも直面している。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "ナイジェリア・リバース州に非常事態宣言、政治対立激化で石油施設に襲撃",
+      "src": "外務省 海外安全ホームページ",
+      "url": "https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyId=123456",
+      "publishedAt": "2026-03-19T22:17:00Z",
+      "snippet": "ティヌブ大統領は、政治的混乱が続くリバース州に非常事態を宣言し、州知事らの職務を停止。石油パイプラインへの武装集団の攻撃を受け、治安維持を強化する。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジアラビア外相、イランの攻撃を非難「忍耐は無制限ではない」と警告",
+      "src": "ARAB NEWS Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/20260319-saudi-fm/",
+      "publishedAt": "2026-03-19T12:00:00Z",
+      "snippet": "サウジ外相は、湾岸諸国の民間施設を標的としたイランの攻撃を強く非難。自衛のための行動をとる権利を留保すると述べ、地域紛争の拡大に警鐘を鳴らした。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "political",
+      "title": "ソマリア国籍の男、違法植物「カート」250kg密輸の疑いで日本で逮捕・起訴",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/123456",
+      "publishedAt": "2026-03-17T17:25:00Z",
+      "snippet": "興奮作用のある植物「カート」をルワンダから日本へ密輸したとして、ソマリア国籍の男が逮捕された。過去最大級の押収量となり、国際的な密輸ルートの解明が進められている。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "tension",
+      "title": "ドーハ・フォーラム、拡大するシリア情勢への懸念を表明 中東戦争の余波波及",
+      "src": "ARAB NEWS Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/20260319-syria-concern/",
+      "publishedAt": "2026-03-19T12:00:00Z",
+      "snippet": "イラン戦争の激化に伴い、シリア国内の親イラン勢力や米軍基地への攻撃が再燃。国際会議ではシリアが再び大規模な戦場となるリスクが議論された。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ軍、クリミアのロシア軍防空システム保守拠点を攻撃成功と発表",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-ato/3841234-ukraine-attack-sevastopol.html",
+      "publishedAt": "2026-03-19T14:10:00Z",
+      "snippet": "ウクライナ海軍は19日未明、セヴァストーポリにあるロシア軍の防空システム修理施設を攻撃。S-400等の保守を担う重要拠点を破壊したと報告した。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "キャサリン皇太子妃、ナイジェリア大統領夫妻を「ファッション外交」で出迎え",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/526795.php",
+      "publishedAt": "2026-03-19T14:06:00Z",
+      "snippet": "英キャサリン妃が訪英中のナイジェリア・ティヌブ大統領夫妻を歓迎。中東情勢で緊迫する中、英連邦諸国との結束を示す象徴的な外交行事として注目を集めた。",
+      "collectedAt": "2026-03-19T21:28:27.631Z"
     }
   ],
-  "updatedAt": "2026-03-19T18:45:20.347Z"
+  "updatedAt": "2026-03-19T21:28:27.631Z"
 }
