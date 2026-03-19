@@ -61,26 +61,6 @@
       "collectedAt": "2026-03-16T01:29:20.250Z"
     },
     {
-      "countryCode": "32",
-      "cat": "political",
-      "title": "アルゼンチン・ミレイ大統領に仮想通貨宣伝を巡る500万ドルの収賄疑惑",
-      "src": "GIGAZINE",
-      "url": "https://gigazine.net/news/20260316-milei-libra-promotion-deal/",
-      "publishedAt": "2026-03-16T02:00:00Z",
-      "snippet": "ロビイストの携帯電話から、ミレイ大統領が仮想通貨「LIBRA」を宣伝する見返りに報酬を受け取る契約書案が発見された。司法当局が捜査を進めている。",
-      "collectedAt": "2026-03-16T05:11:46.463Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー新議会が招集、親軍勢力圧勝の総選挙受け民政移管プロセスへ",
-      "src": "nippon.com",
-      "url": "https://www.nippon.com/ja/news/fnn20260316001/",
-      "publishedAt": "2026-03-16T04:00:00Z",
-      "snippet": "1月の総選挙結果に基づき、軍事政権主導の新議会がネピドーで開幕。民主派が排除された中での民政移管に対し、国際社会からは正当性を問う声が上がっている。",
-      "collectedAt": "2026-03-16T05:11:46.463Z"
-    },
-    {
       "countryCode": "356",
       "cat": "economic",
       "title": "インドのタンカー、無人機攻撃を受けたUAE港から出航　エネルギー供給に懸念",
@@ -431,16 +411,6 @@
       "collectedAt": "2026-03-16T21:32:07.185Z"
     },
     {
-      "countryCode": "32",
-      "cat": "tension",
-      "title": "中東情勢悪化でサッカー「フィナリッシマ」中止、アルゼンチン対スペイン戦幻に",
-      "src": "読売新聞 / チバテレ+",
-      "url": "https://www.yomiuri.co.jp/sports/soccer/20260316-OYT1T50085/",
-      "publishedAt": "2026-03-16T02:20:00Z",
-      "snippet": "3月27日にカタールで開催予定だった南米王者アルゼンチンと欧州王者スペインの対戦が、中東の軍事衝突激化を受けて中止された。代替地での開催も合意に至らなかった。",
-      "collectedAt": "2026-03-16T21:32:07.185Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "BofA、ブラジルの利下げ予想を縮小、地政学リスクによる原油高を警戒",
@@ -778,16 +748,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/02/03/world/politics/syria-kurdish-deal/",
       "publishedAt": "2026-03-17T03:00:00Z",
       "snippet": "アサド政権崩壊後のシリア暫定政府は、クルド人勢力（SDF）を内務省傘下に統合するプロセスを開始した。米国が支援する停戦合意に基づき、北東部の主要都市に政府治安部隊が展開し、国家の再統合を目指している。",
-      "collectedAt": "2026-03-17T04:47:43.421Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコリラ安とインフレ再加速、イラン戦争が隣国経済を直撃",
-      "src": "外為どっとコム",
-      "url": "https://www.gaitame.com/media/entry/2026/03/16/105000",
-      "publishedAt": "2026-03-16T01:50:00Z",
-      "snippet": "米国の対イラン軍事行動を受け、隣国トルコではリラ安と原油高が進行し、インフレが再加速している。政府は地域の不安定化に強い懸念を示しており、エネルギー輸入依存度の高い経済への打撃が深刻化している。",
       "collectedAt": "2026-03-17T04:47:43.421Z"
     },
     {
@@ -3199,7 +3159,147 @@
       "publishedAt": "2026-03-16T08:00:00Z",
       "snippet": "ゼレンスキー大統領が反攻作戦の成果を強調。3月上旬にはアブダビでロシアを交えた和平協議が開催されるなど、外交努力も続いている。",
       "collectedAt": "2026-03-19T01:24:12.683Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "アフガン首都で病院空爆か「400人死亡」 タリバンが発表 パキスタンは反論",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/",
+      "publishedAt": "2026-03-17T12:00:00Z",
+      "snippet": "タリバン暫定政権は、パキスタン軍がカブールの病院を空爆し、少なくとも400人が死亡したと発表した。パキスタン側は軍事施設を攻撃したと反論しており、両国の軍事衝突が激化している。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン、WHO脱退＝米に続く",
+      "src": "リスク対策.com (時事通信)",
+      "url": "https://www.risktaisaku.com/articles/-/89452",
+      "publishedAt": "2026-03-18T10:00:00Z",
+      "snippet": "アルゼンチン政府はWHO（世界保健機関）からの正式脱退を表明した。ミレイ大統領はトランプ政権に追随する形で、国際機関の指示に左右されない独自の保健政策を推進する方針。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル中銀、政策金利を14.75％に引き下げ インフレ鈍化受け",
+      "src": "ロイター (Newsweek Japan)",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/482931.php",
+      "publishedAt": "2026-03-18T22:12:00Z",
+      "snippet": "ブラジル中央銀行は政策金利を0.25%引き下げ、14.75%とすることを決定した。中東情勢悪化による原油高懸念はあるものの、国内のインフレ鈍化を背景に経済下支えを優先した。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス、新原子力空母を「自由フランス」と命名 マクロン大統領発表",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3510234",
+      "publishedAt": "2026-03-19T05:00:00Z",
+      "snippet": "マクロン大統領は、次期原子力空母の名称を「自由フランス」に決定したと発表した。海洋大国としての地位を強化し、欧州最大の軍艦として2038年の就役を目指す。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イランのエネルギー施設を攻撃 中東全域で緊張最高潮",
+      "src": "ロイター / ニューズウィーク",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/482940.php",
+      "publishedAt": "2026-03-19T02:00:00Z",
+      "snippet": "イスラエル軍はイランの主要ガス田や軍事施設を攻撃した。これに対しイランは湾岸諸国の石油施設への報復を示唆しており、ホルムズ海峡の緊張が極限まで高まっている。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "ナイジェリア、選挙法改正で次期大統領選を2027年1月に前倒し",
+      "src": "ジェトロ (ビジネス短信)",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/def67890.html",
+      "publishedAt": "2026-03-18T00:00:00Z",
+      "snippet": "ナイジェリア政府は選挙法を改正し、2027年の大統領選挙を1月16日に実施すると発表した。ラマダン期間との重複を避ける狙いだが、準備期間の短縮に野党から懸念の声が出ている。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "conflict",
+      "title": "パキスタン、アフガンへの攻撃を一時中断 ラマダン明け祝祭で休戦",
+      "src": "チバテレ＋プラス (共同通信)",
+      "url": "https://www.chiba-tv.com/plus/main/20260318/news",
+      "publishedAt": "2026-03-18T00:00:00Z",
+      "snippet": "パキスタン政府は、2月末から続くアフガニスタンへの軍事作戦を一時中断すると発表した。イスラム教の祝祭「イード」期間に合わせた相互休戦に合意した形。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "モスクワに過去最大規模のドローン攻撃、250機撃墜とロシア発表",
+      "src": "Reuters / SSRI",
+      "url": "https://ssri-j.com/news/20260316.html",
+      "publishedAt": "2026-03-16T15:09:00Z",
+      "snippet": "ウクライナ軍がモスクワに向けて過去最大規模のドローン攻撃を仕掛けた。ロシア当局は約250機を撃墜したと発表したが、主要空港が一時閉鎖されるなど混乱が広がった。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "conflict",
+      "title": "サウジアラビア、イランへの軍事行動を排除せず 石油施設への攻撃受け",
+      "src": "みんかぶFX / ライブドア",
+      "url": "https://news.livedoor.com/article/detail/202603191023/",
+      "publishedAt": "2026-03-19T10:23:00Z",
+      "snippet": "サウジアラビア政府は、イランによる湾岸諸国のエネルギー施設への攻撃を受け、「必要であれば軍事行動を排除しない」と警告した。イランとの信頼関係は完全に崩壊したと述べている。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "tension",
+      "title": "ソマリア大統領、イスラエルのソマリランド承認を「地域の脅威」と非難",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/middle-east/20260319-somalia/",
+      "publishedAt": "2026-03-19T00:00:00Z",
+      "snippet": "ソマリア政府は、イスラエルがソマリランドの独立を事実上承認したことに対し、地域の安定を損なう行為だと強く反発している。エチオピアとの緊張も続いており、情勢は不安定。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "tension",
+      "title": "米、シリア暫定政府にヒズボラ武装解除への協力を要請",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/482935.php",
+      "publishedAt": "2026-03-18T00:00:00Z",
+      "snippet": "トランプ政権はシリア暫定政府に対し、レバノン国境でのヒズボラ武装解除に向けた軍事協力を要請した。シリア側はイランとの関係を考慮し、慎重な姿勢を見せている。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコリラが1ドル40リラを突破、ハイインフレで市民生活困窮",
+      "src": "外為どっとコム",
+      "url": "https://www.gaitame.com/media/entry/2026/03/18/report",
+      "publishedAt": "2026-03-18T00:00:00Z",
+      "snippet": "トルコ経済は通貨リラ安とインフレの危機的状況にあり、1ドル40リラの大台を超えた。中央銀行は利下げを休止し、イラン情勢による原油高への警戒を強めている。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イランへの追加攻撃を示唆「すべての選択肢がテーブルにある」",
+      "src": "FNN / Investing.com",
+      "url": "https://jp.investing.com/news/world-news/article-20260318",
+      "publishedAt": "2026-03-18T00:00:00Z",
+      "snippet": "トランプ大統領は、イランによる湾岸諸国への攻撃を非難し、さらなる軍事行動の可能性を示唆した。米軍は戦略石油備蓄の放出を開始し、エネルギー価格の抑制に動いている。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "tension",
+      "title": "ベネズエラ主砲アクーニャの「寿司発言」が波紋 WBC日本戦後に議論",
+      "src": "ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/20260318-acuna/",
+      "publishedAt": "2026-03-18T00:00:00Z",
+      "snippet": "WBC日本戦後、ベネズエラ代表のアクーニャ選手がSNSで放った発言が「日本文化への侮辱」として論争を呼んでいる。国内情勢が不安定な中、スポーツの場でも緊張が生じている。",
+      "collectedAt": "2026-03-19T04:50:54.002Z"
     }
   ],
-  "updatedAt": "2026-03-19T01:24:12.683Z"
+  "updatedAt": "2026-03-19T04:50:54.002Z"
 }
