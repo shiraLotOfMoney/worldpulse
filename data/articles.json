@@ -171,16 +171,6 @@
       "collectedAt": "2026-03-18T09:45:13.689Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ、1日2000機のドローン生産能力を誇示、中東へ専門家派遣",
-      "src": "熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260318-ukraine-drones/",
-      "publishedAt": "2026-03-18T05:11:00Z",
-      "snippet": "ゼレンスキー大統領は、ウクライナが「ドローンの実験場」として高度な技術を蓄積したと述べ、1日2000機の生産能力を背景に同盟国への供給と支援を呼びかけた。",
-      "collectedAt": "2026-03-18T09:45:13.689Z"
-    },
-    {
       "countryCode": "826",
       "cat": "political",
       "title": "ゼレンスキー大統領が英議会で演説、中東情勢へのドローン技術活用を提案",
@@ -318,16 +308,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/525689.php",
       "publishedAt": "2026-03-18T17:25:00Z",
       "snippet": "パキスタンとアフガニスタンは、ラマダン明けの祝祭「イード」期間中、互いへの軍事作戦を一時停止すると発表した。両国間では国境紛争が激化しており、これまでに320人以上の死者が出ている。",
-      "collectedAt": "2026-03-18T21:28:28.568Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "political",
-      "title": "アルゼンチンがWHO脱退を発表、米トランプ政権に追随",
-      "src": "共同通信 / nippon.com",
-      "url": "https://www.nippon.com/ja/news/fnn202603180611/",
-      "publishedAt": "2026-03-18T06:11:00Z",
-      "snippet": "アルゼンチンのキルノ外相は17日、世界保健機関（WHO）からの脱退を発表した。ミレイ大統領はトランプ米大統領を信奉しており、1月に脱退を完了した米国に足並みを揃えた形だ。",
       "collectedAt": "2026-03-18T21:28:28.568Z"
     },
     {
@@ -1939,7 +1919,157 @@
       "publishedAt": "2026-03-19T18:00:00Z",
       "snippet": "WBCでの歴史的勝利を受け、ロドリゲス暫定大統領が翌日を祝日に指定。米国は経済再建支援のため、凍結資産の解除を含む追加制裁の緩和を検討中。",
       "collectedAt": "2026-03-21T04:24:01.418Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "パキスタンとアフガニスタンの軍事衝突、中東・南アジア情勢に緊張",
+      "src": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/866421",
+      "publishedAt": "2026-03-21T06:00:00Z",
+      "snippet": "アフガニスタンのタリバン政権とパキスタン軍の間で国境付近のトルカム検問所などで軍事衝突が発生。イラン情勢の影で「もう1つの戦争」として地域不安が高まっている。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン、記録的な穀物輸出で経済に追い風",
+      "src": "Ocean Mafia",
+      "url": "https://oceanmafia.com/argentina-grain-exports-surge-2026/",
+      "publishedAt": "2026-03-20T10:00:00Z",
+      "snippet": "アルゼンチンは今シーズン、記録的なヒマワリ輸出とトウモロコシ販売により、過去数年で最大の収穫量を記録。中東紛争による運送料上昇の懸念はあるが、輸出は堅調に推移している。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル・モロ上院議員が自由党（PL）へ移籍、州知事選出馬へ",
+      "src": "ブラジル日報",
+      "url": "https://brasilnippou.com/2026/03/21/moro-pl-join/",
+      "publishedAt": "2026-03-21T09:00:00Z",
+      "snippet": "セルジオ・モロ上院議員が所属政党を離脱し、自由党（PL）へ移籍してパラナ州知事選に出馬する意向を固めた。右派勢力の再編が加速している。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "tension",
+      "title": "中国広東省で住民と警察が衝突、火葬場建設計画に抗議",
+      "src": "埼玉新聞",
+      "url": "https://www.saitama-np.co.jp/articles/china-protest-20260321",
+      "publishedAt": "2026-03-21T11:57:00Z",
+      "snippet": "広東省信宜市で火葬場の建設計画に反対する数百人の住民が抗議活動を行い、警官隊と衝突。警察は放水車を出動させ鎮圧にあたった。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "political",
+      "title": "ドイツ国防相が訪日へ、安保連携強化とイラン情勢を協議",
+      "src": "埼玉新聞",
+      "url": "https://www.saitama-np.co.jp/articles/germany-japan-security-20260321",
+      "publishedAt": "2026-03-21T15:24:00Z",
+      "snippet": "ドイツのピストリウス国防相が21日から訪日。小泉進次郎防衛相との会談で、インド太平洋地域での演習拡大や緊迫するイラン情勢について協議する予定。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン最高指導者モジタバ師、新年声明で「抵抗経済」を強調",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260321-iran-leader-message/",
+      "publishedAt": "2026-03-21T10:00:00Z",
+      "snippet": "新最高指導者のモジタバ・ハメネイ師がノウルーズ（新年）の声明を発表。米イスラエルとの戦争に対し徹底抗戦の構えを見せ、「抵抗経済」による団結を呼びかけた。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "高市首相、トランプ大統領と会談し「戦略的投資」第2弾に合意",
+      "src": "Sustainable Japan",
+      "url": "https://sustainablejapan.jp/2026/03/21/japan-us-investment/12345",
+      "publishedAt": "2026-03-21T09:00:00Z",
+      "snippet": "高市早苗首相が訪米しトランプ大統領と会談。エネルギー分野などへの11.5兆円規模の対米投資を含む「戦略的投資イニシアティブ」の継続で合意した。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "tension",
+      "title": "韓国、イランによるホルムズ海峡封鎖を非難する共同声明に参加",
+      "src": "埼玉新聞",
+      "url": "https://www.saitama-np.co.jp/articles/korea-hormuz-statement-20260321",
+      "publishedAt": "2026-03-21T00:21:00Z",
+      "snippet": "韓国政府は、イランによるホルムズ海峡の事実上の封鎖を非難する日米欧など7カ国の共同声明に加わることを表明。国際海運の安全確保を求めた。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "ナイジェリア、原油高サイクルの恩恵で経済復活の兆し",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy/nigeria-oil-windfall-2026",
+      "publishedAt": "2026-03-21T13:48:00Z",
+      "snippet": "中東情勢に伴う原油価格の高騰により、産油国ナイジェリアが多大な恩恵を受けている。政府はこれを機に長年遅れていた構造改革を推進する構えだ。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "economic",
+      "title": "ロシア中銀が政策金利を15％に引き下げ、中東情勢を注視",
+      "src": "Reuters / Newsweek",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/russia-rate-cut.php",
+      "publishedAt": "2026-03-21T05:14:00Z",
+      "snippet": "ロシア中央銀行は政策金利を15％に引き下げた。中東での軍事衝突による原油価格上昇がロシア経済の支えとなる一方、不確実性も高まっていると指摘した。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "conflict",
+      "title": "サウジアラビア、イランからのドローン51機とミサイル42発を迎撃",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_998877/",
+      "publishedAt": "2026-03-21T12:00:00Z",
+      "snippet": "サウジ防空当局は、イラン側から発射された大量の無人機とミサイルを一晩で迎撃。湾岸全域で航空作戦が激化しており、緊張が極限に達している。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ゼレンスキー大統領、ロシア軍の「春の攻勢」を撃退したと主張",
+      "src": "nippon.com / 共同通信",
+      "url": "https://www.nippon.com/ja/news/fnn202603210823/",
+      "publishedAt": "2026-03-21T08:23:00Z",
+      "snippet": "ウクライナのゼレンスキー大統領は、東部ドネツク州などで準備されていたロシア軍の春の攻勢を「撃退した」と主張。ロシア側の進軍速度が鈍化しているとの見方を示した。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "conflict",
+      "title": "イギリス政府、対イラン攻撃のための米軍基地使用を承認",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/uk-base-approval-iran-20260321",
+      "publishedAt": "2026-03-21T08:57:00Z",
+      "snippet": "イギリス政府は、ホルムズ海峡で船舶攻撃を行うイランの拠点を叩くため、米軍による英軍基地の使用を承認。トランプ大統領は「対応が遅すぎる」と批判している。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イラン戦争の「停戦は望まない」と明言",
+      "src": "Benzinga Japan",
+      "url": "https://jp.benzinga.com/news/26/03/21/trump-iran-war-no-ceasefire/",
+      "publishedAt": "2026-03-21T10:00:00Z",
+      "snippet": "トランプ米大統領は記者団に対し、イランへの軍事作戦について「相手を壊滅させている最中に停戦はありえない」と述べ、当面攻撃を継続する考えを強調した。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "ベネズエラがWBC初優勝、米国内での視聴者数も過去最高を記録",
+      "src": "KFB福島放送 / FOXスポーツ",
+      "url": "https://www.kfb.co.jp/news/world/20260320-wbc-venezuela-win/",
+      "publishedAt": "2026-03-20T10:00:00Z",
+      "snippet": "第6回WBC決勝でベネズエラがアメリカを破り初優勝。米国内の放送でも過去最高の視聴者数を記録し、野球人気の高まりを証明した。",
+      "collectedAt": "2026-03-21T06:34:05.571Z"
     }
   ],
-  "updatedAt": "2026-03-21T04:24:01.418Z"
+  "updatedAt": "2026-03-21T06:34:05.571Z"
 }
