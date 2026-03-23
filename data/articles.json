@@ -21,16 +21,6 @@
       "collectedAt": "2026-03-09T04:47:59.518Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、トランプ大統領と会談 イラン情勢の早期沈静化を要請",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/politics/20260320-OYT1T50001/",
-      "publishedAt": "2026-03-20T05:45:00Z",
-      "snippet": "ワシントンを訪問中の高市首相はトランプ大統領と会談。ホルムズ海峡の安全確保の重要性を確認しつつ、日本の法律の範囲内で可能な貢献策を詳細に説明した。",
-      "collectedAt": "2026-03-20T06:44:33.574Z"
-    },
-    {
       "countryCode": "408",
       "cat": "tension",
       "title": "金正恩氏、娘と共に新型戦車の軍事演習を視察 夜間戦闘能力を強調",
@@ -838,16 +828,6 @@
       "url": "https://www.fnn.jp/articles/-/20260320-israel-iran/",
       "publishedAt": "2026-03-20T07:45:00Z",
       "snippet": "イスラエルのネタニヤフ首相は、18日に行ったイランの世界最大級の天然ガス田への攻撃はイスラエルが単独で実施したと発表した。トランプ米大統領からの自制要請を受け、さらなる攻撃は一時的に控える意向を示した。",
-      "collectedAt": "2026-03-22T01:24:08.218Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "tension",
-      "title": "日本など6カ国首脳、イランによるホルムズ海峡封鎖を強く非難する共同声明",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260320-joint-statement/",
-      "publishedAt": "2026-03-20T06:17:00Z",
-      "snippet": "日本、イギリス、フランス、ドイツ、イタリア、オランダの6カ国首脳は19日、共同声明を発表した。イランによる商船やエネルギー施設への攻撃、およびホルムズ海峡の事実上の封鎖を「最も強い言葉」で非難し、即時停止を求めた。",
       "collectedAt": "2026-03-22T01:24:08.218Z"
     },
     {
@@ -2059,7 +2039,137 @@
       "publishedAt": "2026-03-23T04:10:00Z",
       "snippet": "親イラン武装組織フーシ派は、イスラエルに関連すると主張する船舶をドローンで攻撃。米英軍による警戒が続いている。",
       "collectedAt": "2026-03-23T04:58:19.098Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "tension",
+      "title": "中国が世界30カ国で123の偽ニュースサイトを運営と報告",
+      "src": "笹川平和財団",
+      "url": "https://www.spf.org/iina/articles/china_disinformation_2026.html",
+      "publishedAt": "2026-03-23T09:00:00Z",
+      "snippet": "中国が「ペーパーウォール」と呼ばれるキャンペーンを通じ、世界各地でローカルメディアを模倣した偽サイトを運営し、世論工作を行っている実態が報告された。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス憲法評議会、2026年予算法を承認",
+      "src": "在仏日本商工会議所",
+      "url": "https://www.ccijf.asso.fr/news/2026-budget-law/",
+      "publishedAt": "2026-03-20T12:00:00Z",
+      "snippet": "フランスの憲法評議会は、2026年度の予算法案を大筋で承認。中東情勢を受けたエネルギー対策費などが盛り込まれている。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イスラエルがイランの核施設を攻撃、イランはミサイルで報復",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260322-OYT1T50045/",
+      "publishedAt": "2026-03-22T05:00:00Z",
+      "snippet": "イスラエル軍がイラン中部ナタンツの核施設を攻撃。イランは報復としてイスラエル南部のディモナ核開発拠点をミサイルで攻撃し、緊張が極限に達している。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、日米首脳会談を終え帰国 ホルムズ海峡対応を協議",
+      "src": "日テレNEWS",
+      "url": "https://news.ntv.co.jp/category/politics/20260322-123",
+      "publishedAt": "2026-03-22T21:00:00Z",
+      "snippet": "高市早苗首相がトランプ大統領との会談を終えて帰国。イランによるホルムズ海峡封鎖への対応として、自衛隊艦艇の派遣要請に対する検討状況が注目されている。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "political",
+      "title": "金正恩氏、北朝鮮の国務委員長に再任 最高人民会議が開催",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260323-OYT1T50111/",
+      "publishedAt": "2026-03-23T11:10:00Z",
+      "snippet": "北朝鮮の最高人民会議で金正恩氏が国務委員長に再任。韓国を「敵対国家」と規定する憲法改正案が議論されている。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "tension",
+      "title": "米軍、韓国配備のTHAADを中東へ搬出 イラン情勢緊迫で",
+      "src": "ハナタス",
+      "url": "https://hanatas.jp/news/20260321-korea-thaad/",
+      "publishedAt": "2026-03-21T09:00:00Z",
+      "snippet": "イランとの戦争激化を受け、米国は韓国に配備していたTHAADミサイル防衛システムの一部を中東へ移動。韓国国内では安保上の空白を懸念する声が出ている。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシアのプリモルスク港にドローン攻撃、燃料タンクが損傷",
+      "src": "みんかぶ",
+      "url": "https://minkabu.jp/news/20260323-1217",
+      "publishedAt": "2026-03-23T12:17:00Z",
+      "snippet": "ロシア北西部のプリモルスク港がドローン攻撃を受け、燃料タンクが損傷。ウクライナ軍による越境攻撃の一環とみられる。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジアラビア、イラン軍関係者を追放 攻撃を「断固非難」",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_20260322/",
+      "publishedAt": "2026-03-22T10:00:00Z",
+      "snippet": "サウジアラビア政府は、イランによる地域攻撃を非難し、イラン大使館の軍事担当官らをペルソナ・ノン・グラータとして追放した。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "political",
+      "title": "ソマリア元内相が大統領選出馬を表明、現職との対立鮮明に",
+      "src": "Shabelle Media Network",
+      "url": null,
+      "publishedAt": "2026-03-21T15:00:00Z",
+      "snippet": "ソマリアの元内務大臣が大統領選挙への出馬を表明。ハッサン・シェイク大統領との政治的対立が激化している。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン軍、ハルツームを奪還するもダルフールでRSFが猛攻",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/middle-east/article_20260106/",
+      "publishedAt": "2026-03-22T08:00:00Z",
+      "snippet": "スーダン国軍（SAF）が首都ハルツームを奪還したが、即応支援部隊（RSF）はダルフール地方のエル・ファッシャーを占領し、凄惨な暴行を続けている。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "トルコ外相、米イラン戦争の収束に向け各国と電話会談",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260322-OYT1T50122/",
+      "publishedAt": "2026-03-22T10:00:00Z",
+      "snippet": "トルコのフィダン外相は、イランのアラグチ外相や米国高官と相次いで会談。戦闘の激化を食い止めるための外交努力を続けている。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "political",
+      "title": "ウクライナと米国の和平協議が終了、ロシアは欠席",
+      "src": "ニューズウィーク",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/351235.php",
+      "publishedAt": "2026-03-23T09:50:00Z",
+      "snippet": "フロリダ州で行われたウクライナと米国の2日間にわたる和平協議が終了。ロシアは招待されず、今後の支援継続と停戦条件が話し合われた。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イランに48時間の最後通告「海峡を開放せよ」",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/middle-east/article_20260323/",
+      "publishedAt": "2026-03-23T06:00:00Z",
+      "snippet": "トランプ米大統領は、イランに対し48時間以内にホルムズ海峡を完全開放しなければ、イラン国内の全発電所を破壊すると警告した。",
+      "collectedAt": "2026-03-23T07:00:48.219Z"
     }
   ],
-  "updatedAt": "2026-03-23T04:58:19.098Z"
+  "updatedAt": "2026-03-23T07:00:48.219Z"
 }
