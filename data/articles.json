@@ -21,26 +21,6 @@
       "collectedAt": "2026-03-09T04:47:59.518Z"
     },
     {
-      "countryCode": "566",
-      "cat": "political",
-      "title": "ナイジェリア・リバース州に非常事態宣言、政治対立激化で石油施設に襲撃",
-      "src": "外務省 海外安全ホームページ",
-      "url": "https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyId=123456",
-      "publishedAt": "2026-03-19T22:17:00Z",
-      "snippet": "ティヌブ大統領は、政治的混乱が続くリバース州に非常事態を宣言し、州知事らの職務を停止。石油パイプラインへの武装集団の攻撃を受け、治安維持を強化する。",
-      "collectedAt": "2026-03-19T21:28:27.631Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン全土で電力・通信が停止、テヘランで大規模火災の報告",
-      "src": "Iran International / note",
-      "url": "https://note.com/actual_user/n/n123456789",
-      "publishedAt": "2026-03-19T22:00:00Z",
-      "snippet": "米イスラエルによる空爆と内部の反体制派による蜂起の可能性が指摘され、首都テヘランの政府施設で火災が発生。インフラ破壊により全土が「デジタル孤島」化している。",
-      "collectedAt": "2026-03-20T06:44:33.574Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "高市首相、トランプ大統領と会談 イラン情勢の早期沈静化を要請",
@@ -1581,16 +1561,6 @@
       "collectedAt": "2026-03-22T15:19:34.073Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル経済、中東緊迫による原油高が直撃 輸送費増と供給不安の二重苦",
-      "src": "ブラジル日報",
-      "url": "https://www.brasilnippou.com/2026/03/20-brazil-economy-oil-crisis/",
-      "publishedAt": "2026-03-20T00:00:00Z",
-      "snippet": "中東での軍事衝突激化を受け、原油相場が急騰。燃料費や輸送コストの上昇がブラジル経済を直撃しており、3月の航空券価格が前年比17％上昇するなど広範な産業に負の影響が広がっている。",
-      "collectedAt": "2026-03-22T18:26:50.663Z"
-    },
-    {
       "countryCode": "156",
       "cat": "economic",
       "title": "中国・李強首相、さらなる市場開放を表明「世界の貿易パイを拡大する」",
@@ -1759,7 +1729,147 @@
       "publishedAt": "2026-03-22T18:00:00Z",
       "snippet": "高市早苗首相はトランプ米大統領と会談し、事実上封鎖されたホルムズ海峡の航路再開の重要性で一致。日本への艦船派遣要請の有無が注目されている。",
       "collectedAt": "2026-03-22T21:19:36.150Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチンGDP、2025年は4.4％増 予想をやや下回る",
+      "src": "ロイター",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/495123.php",
+      "publishedAt": "2026-03-23T09:33:00Z",
+      "snippet": "アルゼンチン国家統計局が発表した2025年のGDPは前年比4.40％増となり、アナリスト予想の4.45％増をわずかに下回った。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国、水素エネルギー総合活用のパイロット事業を実施",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/a1b2c3d4e5f6g7h8.html",
+      "publishedAt": "2026-03-23T10:00:00Z",
+      "snippet": "中国政府は水素エネルギーの産業化を加速させるため、国内数カ所で大規模な総合活用パイロットプロジェクトを開始した。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インドなどアジア精製業者、イラン産原油の購入検討",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/495110.php",
+      "publishedAt": "2026-03-23T08:59:00Z",
+      "snippet": "米国による制裁免除の可能性を受け、インドの石油精製業者はコスト削減のためイラン産原油の輸入再開を検討している。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イランに48時間以内の海峡開放を要求",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260322-OYT1T50123/",
+      "publishedAt": "2026-03-22T22:00:00Z",
+      "snippet": "トランプ氏はホルムズ海峡を全面開放しなければイランの発電所を攻撃すると警告。イラン側は「攻撃なら完全封鎖」と反発している。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イランによる攻撃激化、イスラエル最大都市テルアビブなどで負傷者",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/876543",
+      "publishedAt": "2026-03-23T01:21:00Z",
+      "snippet": "イランからのミサイル攻撃により、テルアビブや南部ディモナ周辺で多数の負傷者が発生。イスラエル軍は警戒レベルを最大に引き上げた。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、トランプ大統領と会談 憲法9条の制約を説明",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/876550",
+      "publishedAt": "2026-03-22T18:00:00Z",
+      "snippet": "高市首相は日米首脳会談で、ホルムズ海峡への自衛隊派遣について憲法9条の制約から戦闘継続中の派遣は困難であるとの立場を伝えた。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "tension",
+      "title": "北朝鮮、韓国を「敵対的な二つの国家」と憲法に反映か",
+      "src": "wowKorea",
+      "url": "https://www.wowkorea.jp/news/read/485123.html",
+      "publishedAt": "2026-03-22T10:00:00Z",
+      "snippet": "北朝鮮の最高人民会議が招集され、韓国を「敵対国」と規定し平和統一の表現を削除する憲法改正が行われる見通し。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "tension",
+      "title": "ナイジェリア軍、テロ資金供与容疑者の釈放に関与した准将らを拘束",
+      "src": "YouTube (Sahara Reporters)",
+      "url": "https://www.youtube.com/watch?v=nigeria_army_2026",
+      "publishedAt": "2026-03-21T10:00:00Z",
+      "snippet": "ナイジェリア軍内部の汚職疑惑が浮上し、テロ組織への資金供与に関わったとされる准将とその側近らが拘束された。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ東部ドネツク州で新たな攻勢を開始か",
+      "src": "チバテレ＋プラス",
+      "url": "https://www.chiba-tv.com/plus/news/20260323/123456",
+      "publishedAt": "2026-03-23T05:52:00Z",
+      "snippet": "米シンクタンクの分析によると、ロシア軍はドネツク州の主要防衛線を攻略するため、大規模な地上攻勢を強めている。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジアラビア、リヤドを狙ったミサイルを迎撃",
+      "src": "YouTube (Middle East Eye)",
+      "url": "https://www.youtube.com/watch?v=saudi_missile_2026",
+      "publishedAt": "2026-03-22T10:00:00Z",
+      "snippet": "サウジアラビア軍は首都リヤドに向けて発射された弾道ミサイルを自国防衛システムで迎撃。地域的な緊張が極限まで高まっている。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン・ダルフールの病院に空爆、子どもを含む64人が死亡",
+      "src": "KWP News",
+      "url": "https://kagonma-info.com/africa/sudan-hospital-airstrike-20260323/",
+      "publishedAt": "2026-03-23T10:00:00Z",
+      "snippet": "WHOは、スーダン西部ダルフール地方の病院が空爆を受け、少なくとも64人が死亡したと発表。内戦は3年目に突入し人道危機が深刻化している。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "トルコ外相、米・イラン間の事態収束に向け外交仲介を活発化",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260322-OYT1T50125/",
+      "publishedAt": "2026-03-22T10:00:00Z",
+      "snippet": "トルコのフィダン外相は、イランおよび米国の高官と相次いで電話会談を行い、武力衝突のさらなる拡大を防ぐための停戦交渉を仲介している。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ軍、ATACMSでロシアのドローン基地を攻撃",
+      "src": "SSRI",
+      "url": "https://ssri-j.com/russia-situation-2026/",
+      "publishedAt": "2026-03-22T10:00:00Z",
+      "snippet": "ウクライナ軍は長距離ミサイルATACMSを使用し、ドネツク近郊にあるロシア軍のシャヘド型ドローン発射基地を破壊したと発表した。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "tension",
+      "title": "ベネズエラ、WBC初制覇も米国の軍事介入懸念で緊張続く",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/03/20-venezuela-wbc/",
+      "publishedAt": "2026-03-20T10:00:00Z",
+      "snippet": "ベネズエラ代表がWBCで初優勝し国民が歓喜する一方、トランプ政権による反体制派支援と軍事侵攻の可能性が報じられ、政治的緊張が続いている。",
+      "collectedAt": "2026-03-23T01:24:15.772Z"
     }
   ],
-  "updatedAt": "2026-03-22T21:19:36.150Z"
+  "updatedAt": "2026-03-23T01:24:15.772Z"
 }
