@@ -341,16 +341,6 @@
       "collectedAt": "2026-03-21T21:18:17.770Z"
     },
     {
-      "countryCode": "682",
-      "cat": "political",
-      "title": "サウジアラビア、イスラエルによるシリア攻撃を「あからさまな侵略」と非難",
-      "src": "ARAB NEWS Japan",
-      "url": "https://www.arabnews.jp/article/saudi-arabia/article_123456/",
-      "publishedAt": "2026-03-21T03:03:00Z",
-      "snippet": "サウジアラビア外務省は、イスラエルによるシリア南部の軍事施設攻撃を強く非難。国際社会に対し、イスラエルによる国際法違反を終わらせるよう介入を求めた。",
-      "collectedAt": "2026-03-21T21:18:17.770Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ウクライナ代表団がマイアミ到着、米国側と安全保障合意を交渉へ",
@@ -771,16 +761,6 @@
       "collectedAt": "2026-03-22T06:40:47.897Z"
     },
     {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン経済、2025年は4.4%成長も予想をわずかに下回る",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy-news/article-93CH-123456",
-      "publishedAt": "2026-03-21T04:08:00Z",
-      "snippet": "アルゼンチン統計局は2025年のGDPが前年比4.4%拡大したと発表。第4四半期の成長は2.1%にとどまり、市場予想をわずかに下回った。",
-      "collectedAt": "2026-03-22T09:25:21.763Z"
-    },
-    {
       "countryCode": "376",
       "cat": "conflict",
       "title": "イスラエル南部核施設周辺にミサイル攻撃、130人以上が負傷",
@@ -1029,16 +1009,6 @@
       "publishedAt": "2026-03-22T00:00:00Z",
       "snippet": "トランプ大統領は、イランに対し48時間以内にホルムズ海峡の封鎖を解除するよう最後通牒を突きつけた。拒否した場合はイラン国内の主要インフラを破壊すると警告し、軍事的緊張が極限に達している。",
       "collectedAt": "2026-03-22T18:26:50.663Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン経済、2025年は4.4%成長も消費者信頼感は低下",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com",
-      "publishedAt": "2026-03-21T04:08:00Z",
-      "snippet": "2025年のGDP成長率は4.4%を記録したが、ミレイ政権の急進的改革の中で3月の消費者信頼感指数は41を割り込み、先行きへの慎重姿勢が強まっている。",
-      "collectedAt": "2026-03-22T21:19:36.150Z"
     },
     {
       "countryCode": "392",
@@ -2289,7 +2259,87 @@
       "publishedAt": "2026-03-23T09:00:00Z",
       "snippet": "フーシ派はイラン戦争への参戦を表明し、紅海の要衝封鎖を警告。世界物流への影響が懸念され、サウジアラビアなどが外交努力を急いでいる。",
       "collectedAt": "2026-03-24T01:18:06.948Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国経済、世界シェアが16.5％に低下 ドル建て規模で米国の3分の2以下に",
+      "src": "ダイヤモンド・オンライン (WSJ)",
+      "url": "https://diamond.jp/articles/-/340123",
+      "publishedAt": "2026-03-24T05:00:00Z",
+      "snippet": "中国のGDPが世界経済に占めるシェアは2021年の18.5％から2025年末には16.5％へ低下。国内のデフレと人民元安が要因で、実質成長率は維持しているもののドル換算での影響力は縮小している。",
+      "collectedAt": "2026-03-24T04:49:36.242Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "economic",
+      "title": "ジェトロ、コンゴ民主共和国に官民ミッション派遣 鉱山開発と農業を視察",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/drc-mission.html",
+      "publishedAt": "2026-03-24T09:00:00Z",
+      "snippet": "日本の官民25社・団体がDRC南部を訪問。世界有数の銅・コバルト生産地でのビジネス環境や、拡大する大規模農業のポテンシャルを調査し、日本企業の参入機会を探った。",
+      "collectedAt": "2026-03-24T04:49:36.242Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "economic",
+      "title": "フランス、エネルギー危機でガソリン価格が1.87ユーロに高騰",
+      "src": "Vietnam.vn (IEA Report)",
+      "url": "https://www.vietnam.vn/ja/the-world-oil-crisis-and-the-response-of-countries/",
+      "publishedAt": "2026-03-24T10:00:00Z",
+      "snippet": "ホルムズ海峡の混乱により、フランス国内の燃料価格が急騰。ガソリンは1リットルあたり1.87ユーロ、ディーゼルは2.03ユーロに達し、政府は家計負担軽減のための緊急対策を迫られている。",
+      "collectedAt": "2026-03-24T04:49:36.242Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イランに最後通牒 48時間以内のホルムズ海峡開放を要求",
+      "src": "風傳媒 (Storm.mg)",
+      "url": "https://www.storm.mg/article/5062345",
+      "publishedAt": "2026-03-23T16:17:00Z",
+      "snippet": "トランプ大統領はイランに対し、48時間以内にホルムズ海峡を再開放しなければ発電所などの民生インフラを壊滅させると警告。イラン側は「新段階」の報復を宣言し、緊張は極限に達している。",
+      "collectedAt": "2026-03-24T04:49:36.242Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "金正恩氏、核保有の正当性を強調 韓国を「最も敵対的な国家」と公認",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260324-OYT1T50080/",
+      "publishedAt": "2026-03-24T10:32:00Z",
+      "snippet": "北朝鮮の最高人民会議が閉会し、金正恩総書記は施政演説で核保有の恒久化を正当化。韓国を「最も敵対的な国家」と位置づけ、憲法改正を通じて敵対関係を法的に固定化した可能性が高い。",
+      "collectedAt": "2026-03-24T04:49:36.242Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "ナイジェリア、鉱物セクターで26億ドルの外国直接投資を誘致",
+      "src": "note (Africa News)",
+      "url": "https://note.com/coffee_pen/n/n123456789",
+      "publishedAt": "2026-03-22T13:00:00Z",
+      "snippet": "ナイジェリア政府は過去2年半で鉱業分野に約3,900億円の投資を誘致したと発表。ティヌブ政権による規制緩和とデジタル化が奏功し、重要鉱物の供給源として国際的な注目が高まっている。",
+      "collectedAt": "2026-03-24T04:49:36.242Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "シリア・レバノン方面のフライトが全面停止 中東全域で情勢不安定化",
+      "src": "特派員旅行",
+      "url": "https://www.tokutenryoko.com/news/middle-east-20260324",
+      "publishedAt": "2026-03-24T10:00:00Z",
+      "snippet": "米国・イスラエルによる対イラン軍事行動を受け、ターキッシュエアラインズなどがシリア・イラク・ヨルダン便の運航を停止。中東全域の空域が危険な状態にある。",
+      "collectedAt": "2026-03-24T04:49:36.242Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ米大統領、イランとの交渉継続を表明 攻撃は一時延期",
+      "src": "風傳媒 (Storm.mg)",
+      "url": "https://www.storm.mg/article/5064567",
+      "publishedAt": "2026-03-24T11:20:00Z",
+      "snippet": "トランプ大統領は記者会見で、イラン側と15項目の合意に達する可能性があるとして、発電所への追加攻撃を延期すると発表。市場は一時的な緊張緩和を期待して株価が上昇した。",
+      "collectedAt": "2026-03-24T04:49:36.242Z"
     }
   ],
-  "updatedAt": "2026-03-24T01:18:06.948Z"
+  "updatedAt": "2026-03-24T04:49:36.242Z"
 }
