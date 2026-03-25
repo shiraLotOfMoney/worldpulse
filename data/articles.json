@@ -61,36 +61,6 @@
       "collectedAt": "2026-03-22T04:48:46.026Z"
     },
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国、不動産不況の長期化で成長目標達成に暗雲",
-      "src": "Reuters Japan",
-      "url": "https://jp.reuters.com/economy/china-gdp-2026",
-      "publishedAt": "2026-03-22T05:00:00Z",
-      "snippet": "中国政府はハイテク産業への投資を強化しているが、消費の低迷と不動産市場の冷え込みが経済全体の重荷となっている。",
-      "collectedAt": "2026-03-22T06:40:47.897Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "日本、歴史的な円安水準が続き物価高騰が家計を圧迫",
-      "src": "NHK",
-      "url": "https://www3.nhk.or.jp/news/economy/japan-yen-2026",
-      "publishedAt": "2026-03-22T06:00:00Z",
-      "snippet": "為替市場での円安進行を受け、政府・日銀による介入への警戒感が高まっている。輸入食品やエネルギー価格の上昇が止まらない。",
-      "collectedAt": "2026-03-22T06:40:47.897Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、ウクライナ東部で攻勢を強めるも戦線は膠着",
-      "src": "Yomiuri Shimbun",
-      "url": "https://www.yomiuri.co.jp/world/russia-ukraine-war-2026",
-      "publishedAt": "2026-03-22T05:30:00Z",
-      "snippet": "プーチン大統領は「目標達成まで戦う」と強調。ドネツク州での激しい戦闘が続いているが、決定的な突破口は見えていない。",
-      "collectedAt": "2026-03-22T06:40:47.897Z"
-    },
-    {
       "countryCode": "376",
       "cat": "conflict",
       "title": "イスラエル南部核施設周辺にミサイル攻撃、130人以上が負傷",
@@ -648,16 +618,6 @@
       "url": "https://www.spf.org/iina/articles/china_disinformation_2026.html",
       "publishedAt": "2026-03-23T09:00:00Z",
       "snippet": "中国が「ペーパーウォール」と呼ばれるキャンペーンを通じ、世界各地でローカルメディアを模倣した偽サイトを運営し、世論工作を行っている実態が報告された。",
-      "collectedAt": "2026-03-23T07:00:48.219Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イスラエルがイランの核施設を攻撃、イランはミサイルで報復",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260322-OYT1T50045/",
-      "publishedAt": "2026-03-22T05:00:00Z",
-      "snippet": "イスラエル軍がイラン中部ナタンツの核施設を攻撃。イランは報復としてイスラエル南部のディモナ核開発拠点をミサイルで攻撃し、緊張が極限に達している。",
       "collectedAt": "2026-03-23T07:00:48.219Z"
     },
     {
@@ -2639,7 +2599,157 @@
       "publishedAt": "2026-03-24T23:47:00Z",
       "snippet": "ベネズエラのロドリゲス暫定大統領は、米国に外交団を派遣すると発表。米軍に拘束されたマドゥロ氏の処遇や今後の政権移行について協議する意向だ。",
       "collectedAt": "2026-03-25T04:50:43.233Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチンGDP、2025年は4.4％増 予想をわずかに下回る",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/518234.php",
+      "publishedAt": "2026-03-23T00:33:00Z",
+      "snippet": "2025年の実質GDP成長率は4.40％となり、市場予想の4.45％をわずかに下回った。ミレイ政権下での経済改革が続く中、第4四半期の伸びも鈍化している。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル政府、輸出産業支援に150億レアル規模の「主権計画」第2弾を検討",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/03/25-123456",
+      "publishedAt": "2026-03-25T05:00:00Z",
+      "snippet": "中東情勢の悪化や貿易摩擦による輸出企業への打撃を緩和するため、ルーラ政権は最大150億レアルの信用供与パッケージを策定している。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー議会が5年ぶりに再開、3月30日から大統領選出手続き開始へ",
+      "src": "ミャンマーニュース",
+      "url": "https://www.myanmar-news.asia/news_asdfgh",
+      "publishedAt": "2026-03-22T08:30:00Z",
+      "snippet": "軍事クーデター後、軍系勢力が大半を占める議会が再開。3月末から新たな大統領選出プロセスが始まるが、民主派の排除は続いている。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン最高指導者モジタバ師、戦闘終結に向けた米国との交渉を許可か",
+      "src": "日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/international/negotiation-iran-us",
+      "publishedAt": "2026-03-24T16:17:00Z",
+      "snippet": "米国・イスラエルとの交戦が続く中、イランの最高指導者が事態沈静化に向けた交渉を容認したとの報道。パキスタンが仲介役に浮上している。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、中東情勢受け石油備蓄の放出を開始 邦人保護に全力",
+      "src": "首相官邸 / 読売新聞",
+      "url": "https://www.yomiuri.co.jp/politics/20260324-OYT1T50123/",
+      "publishedAt": "2026-03-24T10:00:00Z",
+      "snippet": "高市総理は関係閣僚会議で、原油価格高騰を抑えるため国家備蓄の放出を指示。イラン・イスラエルからの邦人退避が完了したことも報告した。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "political",
+      "title": "北朝鮮・金正恩氏が国務委員長に3選、最高人民会議で再選出",
+      "src": "KAB 熊本朝日放送 / 朝鮮中央通信",
+      "url": "https://www.kab.co.jp/news/20260323-northkorea/",
+      "publishedAt": "2026-03-23T14:01:00Z",
+      "snippet": "最高人民会議にて金正恩総書記が国家元首にあたる国務委員長に再び選出された。同時にミサイル増産と新5カ年計画の推進を指示している。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "ナイジェリア、過去2年半で鉱物セクターに26億ドルの外資誘致に成功",
+      "src": "Frontier Africa / note",
+      "url": "https://note.com/africa_news/n/n1234567890",
+      "publishedAt": "2026-03-22T15:00:00Z",
+      "snippet": "ティヌブ政権の鉱業改革により、固体鉱物分野への直接投資が急増。重要鉱物の供給源として国際的な注目が高まっている。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン首相、米国とイランの停戦協議をイスラマバードで開催する用意",
+      "src": "AFPBB News / Newsweek",
+      "url": "https://www.afpbb.com/articles/-/3567901",
+      "publishedAt": "2026-03-24T18:00:00Z",
+      "snippet": "シャリフ首相は、中東での戦争終結に向けた米イラン間の直接対話を促進する意向を表明。両国と深い関係を持つパキスタンが仲介役として動いている。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ各地に過去最大規模のドローン攻撃 556機を投入",
+      "src": "読売新聞 / ロイター",
+      "url": "https://www.yomiuri.co.jp/world/20260325-OYT1T50045/",
+      "publishedAt": "2026-03-25T10:25:00Z",
+      "snippet": "ロシア軍は24日、日中に大規模な無人機攻撃を実施。ウクライナの産科病院や世界遺産地区が被害を受け、民間人に多数の死傷者が出ている。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "tension",
+      "title": "ソマリアで深刻な飢餓と結核の二重苦、650万人が食料不安に直面",
+      "src": "国境なき医師団 (MSF)",
+      "url": "https://www.msf.or.jp/news/detail/somalia-tb-hunger-2026",
+      "publishedAt": "2026-03-24T10:00:00Z",
+      "snippet": "干ばつと紛争の影響で食料支援が途絶え、結核患者が栄養失調で治療を継続できない危機的状況にある。MSFは早急な支援再開を訴えている。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦で無人機攻撃が急増、3月だけで民間人277人が犠牲に",
+      "src": "Arab News Japan / 国連発表",
+      "url": "https://www.arabnews.jp/article/sudan-drone-attack-2026",
+      "publishedAt": "2026-03-24T13:00:00Z",
+      "snippet": "国連はスーダンでのドローン使用の急増を指摘。病院への攻撃で子供を含む多数が死亡しており、世界最大の飢餓・避難民危機が続いている。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "イラクからシリアの米軍基地にロケット弾7発、イラン戦争開始後初の越境攻撃",
+      "src": "Newsweek Japan / ロイター",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/518240.php",
+      "publishedAt": "2026-03-23T15:00:00Z",
+      "snippet": "イラク北部からシリア北東部の米軍基地に向けてロケット弾が発射された。米国・イスラエルによる対イラン作戦開始以降、初の越境攻撃とされる。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナに過去最大規模のドローン攻撃、世界遺産の教会も被害",
+      "src": "khb東日本放送 / ウクルインフォルム",
+      "url": "https://www.khb-tv.co.jp/news/15200000",
+      "publishedAt": "2026-03-25T08:55:00Z",
+      "snippet": "ロシア軍が24時間で約1000機の無人機を投入。西部リビウの聖アンドレイ教会が直撃を受け火災が発生するなど、文化遺産への被害も拡大している。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ米大統領、イランに48時間以内のホルムズ海峡開放を要求",
+      "src": "The HEADLINE / ロイター",
+      "url": "https://theheadline.jp/articles/20260323-trump-iran",
+      "publishedAt": "2026-03-23T11:00:00Z",
+      "snippet": "トランプ大統領はイランに対し、封鎖されたホルムズ海峡の即時開放を要求。応じない場合はエネルギー施設へのさらなる攻撃を示唆し、緊張が極限に達している。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "conflict",
+      "title": "米軍によるベネズエラ攻撃で80人以上死亡、マドゥロ政権は「拉致」と批判",
+      "src": "Wikipedia / 共同通信",
+      "url": "https://ja.wikipedia.org/wiki/2026年アメリカ合衆国によるベネズエラ攻撃",
+      "publishedAt": "2026-03-24T05:21:00Z",
+      "snippet": "米軍がベネズエラの戦略拠点を攻撃し、民間人を含む多数が犠牲となった。マドゥロ大統領の拘束を巡り、軍は「あらゆる能力で防衛する」と声明。",
+      "collectedAt": "2026-03-25T06:54:30.051Z"
     }
   ],
-  "updatedAt": "2026-03-25T04:50:43.233Z"
+  "updatedAt": "2026-03-25T06:54:30.051Z"
 }
