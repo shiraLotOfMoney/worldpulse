@@ -51,16 +51,6 @@
       "collectedAt": "2026-03-23T01:24:15.772Z"
     },
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナ東部ドネツク州で新たな攻勢を開始か",
-      "src": "チバテレ＋プラス",
-      "url": "https://www.chiba-tv.com/plus/news/20260323/123456",
-      "publishedAt": "2026-03-23T05:52:00Z",
-      "snippet": "米シンクタンクの分析によると、ロシア軍はドネツク州の主要防衛線を攻略するため、大規模な地上攻勢を強めている。",
-      "collectedAt": "2026-03-23T01:24:15.772Z"
-    },
-    {
       "countryCode": "729",
       "cat": "conflict",
       "title": "スーダン・ダルフールの病院に空爆、子どもを含む64人が死亡",
@@ -108,16 +98,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/351235.php",
       "publishedAt": "2026-03-23T09:50:00Z",
       "snippet": "フロリダ州で行われたウクライナと米国の2日間にわたる和平協議が終了。ロシアは招待されず、今後の支援継続と停戦条件が話し合われた。",
-      "collectedAt": "2026-03-23T07:00:48.219Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ大統領、イランに48時間の最後通告「海峡を開放せよ」",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/middle-east/article_20260323/",
-      "publishedAt": "2026-03-23T06:00:00Z",
-      "snippet": "トランプ米大統領は、イランに対し48時間以内にホルムズ海峡を完全開放しなければ、イラン国内の全発電所を破壊すると警告した。",
       "collectedAt": "2026-03-23T07:00:48.219Z"
     },
     {
@@ -248,16 +228,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/china-li-qiang.php",
       "publishedAt": "2026-03-23T10:05:00Z",
       "snippet": "北京で開催されたフォーラムで、李強首相は経済のさらなる開放を表明。不動産不況や消費低迷が続く中、外資誘致を強化する姿勢を示した。",
-      "collectedAt": "2026-03-23T15:54:35.106Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン革命防衛隊、米国の制裁に対し「電力インフラへの報復」を警告",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260323-iran",
-      "publishedAt": "2026-03-23T06:00:00Z",
-      "snippet": "米国によるイラン国内施設への攻撃を受け、革命防衛隊は「電力には電力で報復する」と声明。ホルムズ海峡の封鎖継続も示唆している。",
       "collectedAt": "2026-03-23T15:54:35.106Z"
     },
     {
@@ -2681,16 +2651,6 @@
       "collectedAt": "2026-03-26T05:02:05.899Z"
     },
     {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジ、米イラン戦争継続なら原油1バレル180ドル超えを想定",
-      "src": "みんかぶ",
-      "url": "https://minkabu.jp/news/2026032301",
-      "publishedAt": "2026-03-23T07:00:00Z",
-      "snippet": "サウジアラビアは紛争の長期化による原油価格の暴騰を予測。巨額利益の一方で、世界的な景気後退による需要崩壊のリスクを懸念している。",
-      "collectedAt": "2026-03-26T05:02:05.899Z"
-    },
-    {
       "countryCode": "729",
       "cat": "conflict",
       "title": "スーダンで無人機攻撃により民間人500人以上が死亡、国連が発表",
@@ -2719,7 +2679,67 @@
       "publishedAt": "2026-03-25T17:55:00Z",
       "snippet": "ロシア軍によるミサイル・ドローン攻撃でウクライナ北部の電力施設が損壊。チェルニヒウ州を中心に大規模な停電が発生し、市民生活に影響が出ている。",
       "collectedAt": "2026-03-26T05:02:05.899Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "メルコスル・EU自由貿易協定、2026年5月1日から暫定発効へ",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/0326-11mercosur-eu.html",
+      "publishedAt": "2026-03-26T00:00:00Z",
+      "snippet": "南米共同市場とEUのFTAが5月に暫定適用。ブラジル産ブドウの関税が即時撤廃されるなど、農業輸出の拡大が期待されている。",
+      "collectedAt": "2026-03-26T07:00:27.877Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "conflict",
+      "title": "ミャンマー軍、民間航空燃料を強制接収 抵抗勢力への空爆継続のためか",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news-20260324-military-fuel",
+      "publishedAt": "2026-03-24T00:00:00Z",
+      "snippet": "ミャンマー国軍が深刻な燃料不足を背景に民間用航空燃料を接収。少数民族武装勢力との戦闘が続く中、空爆能力の維持を図っている。",
+      "collectedAt": "2026-03-26T07:00:27.877Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス統一地方選挙、社会党が主要都市を維持 極右も中小都市で躍進",
+      "src": "みずほリサーチ&テクノロジーズ",
+      "url": "https://www.mizuho-rt.co.jp/publication/report/2026/france-election.html",
+      "publishedAt": "2026-03-25T00:00:00Z",
+      "snippet": "3月に実施された地方選挙で、社会党がパリなどで勝利。一方で極右・国民連合が中小都市で勢力を拡大し、2027年大統領選への影響が注目される。",
+      "collectedAt": "2026-03-26T07:00:27.877Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "economic",
+      "title": "ロシアの原油輸出港、ウクライナの攻撃で能力の40%が停止",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260326-russia-oil-port/",
+      "publishedAt": "2026-03-26T00:00:00Z",
+      "snippet": "ウクライナ軍の無人機がロシア西部のウスチルガ港を攻撃。主要な原油輸出拠点が火災に見舞われ、ロシアの石油収入に大きな打撃を与えている。",
+      "collectedAt": "2026-03-26T07:00:27.877Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシア軍、無人機1000機でウクライナを大規模攻撃 産科病院も標的に",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260325-ukraine-attack/",
+      "publishedAt": "2026-03-25T10:25:00Z",
+      "snippet": "ロシア軍が過去最多の無人機を投入し、ウクライナ全土を攻撃。ゼレンスキー大統領は「ロシアに戦争終結の意思がない証拠」と非難し、支援を訴えた。",
+      "collectedAt": "2026-03-26T07:00:27.877Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "economic",
+      "title": "ベネズエラ原油生産量、3月に日量110万バレルへ増加",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy/venezuela-oil-production-2026-0326",
+      "publishedAt": "2026-03-26T02:14:00Z",
+      "snippet": "国営石油会社PDVSAのデータにより、原油生産が回復傾向にあることが判明。米国の対イラン制裁強化に伴う代替供給源としての存在感が高まっている。",
+      "collectedAt": "2026-03-26T07:00:27.877Z"
     }
   ],
-  "updatedAt": "2026-03-26T05:02:05.899Z"
+  "updatedAt": "2026-03-26T07:00:27.877Z"
 }
