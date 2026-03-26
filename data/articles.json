@@ -61,16 +61,6 @@
       "collectedAt": "2026-03-23T21:29:40.222Z"
     },
     {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領、イランとの「全面解決」に向けた5日間の猶予を表明",
-      "src": "みんかぶFX",
-      "url": "https://fx.minkabu.jp/news/123456",
-      "publishedAt": "2026-03-23T20:30:00Z",
-      "snippet": "トランプ氏はイランとの協議が極めて良好であるとし、軍事攻撃を一時延期。外交による事態打開に含みを持たせた。",
-      "collectedAt": "2026-03-23T21:29:40.222Z"
-    },
-    {
       "countryCode": "156",
       "cat": "economic",
       "title": "中国経済、世界シェアが16.5％に低下 ドル建て規模で米国の3分の2以下に",
@@ -2459,7 +2449,127 @@
       "publishedAt": "2026-03-26T22:56:00Z",
       "snippet": "イランを後ろ盾とするフーシ派は、米国・イスラエルによるイラン攻撃を受け、必要に応じて参戦する用意があると発表。紅海での海運リスクが再び高まっている。",
       "collectedAt": "2026-03-26T18:56:05.826Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン1月の経済活動、1.9%成長で予想を上回る",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economic-indicators/article-934567",
+      "publishedAt": "2026-03-26T21:00:00Z",
+      "snippet": "アルゼンチン国家統計局は1月の経済活動が前年比1.9%拡大したと発表。インフレ率は依然として高く、年末までに1ドル1700ペソに達するとの予測も出ている。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジルのインフレ率が3.9%に低下、2024年半ば以来の低水準",
+      "src": "Reuters / Investing.com",
+      "url": "https://jp.investing.com/news/economic-indicators/article-934568",
+      "publishedAt": "2026-03-26T22:00:00Z",
+      "snippet": "3月前半のインフレ率は3.9%に減速したが、世界的なエネルギー価格の上昇により低下は短命に終わる可能性がある。また、リオ州前知事の被選挙権剥奪など政治的混乱も続く。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "political",
+      "title": "ドイツ・メルツ首相、ウクライナへの長距離兵器支援を強調",
+      "src": "ウクルインフォルム",
+      "url": "https://www.ukrinform.jp/rubric-ato/20260326",
+      "publishedAt": "2026-03-26T16:00:00Z",
+      "snippet": "フリードリヒ・メルツ首相は、ウクライナが自国で「タウルス」より効果的な長距離兵器を生産していると発言。国内では燃料高騰対策として追加支援策を検討中。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、米国の15項目停戦案を拒否し5項目を逆提案",
+      "src": "The HEADLINE / 日経新聞",
+      "url": "https://www.theheadline.jp/articles/20260326",
+      "publishedAt": "2026-03-26T18:00:00Z",
+      "snippet": "イランは米国が提示した停戦案を拒否。ホルムズ海峡の「主権」確保など5項目を逆提案した。イスラエルによるテヘラン攻撃を受け、緊張は最高潮に達している。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "高市首相、国家備蓄石油の放出を開始　イラン情勢受け",
+      "src": "自由民主党 / TBS NEWS DIG",
+      "url": "https://www.jimin.jp/news/policy/20260325.html",
+      "publishedAt": "2026-03-26T13:00:00Z",
+      "snippet": "高市早苗首相は中東情勢の緊迫化を受け、26日から国家備蓄石油の放出を開始。電気・ガス料金の急騰を抑え、経済への影響を最小限にする方針を強調した。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "political",
+      "title": "北朝鮮・金正恩氏、ベラルーシ大統領と会談　友好条約に署名",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/123456",
+      "publishedAt": "2026-03-26T17:00:00Z",
+      "snippet": "平壌を初訪問したベラルーシのルカシェンコ大統領と金正恩総書記が会談。パートナーシップ強化を明記した条約に署名。日本との首脳会談については拒否姿勢を維持。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国・李在明大統領、不動産投機への厳格制裁を指示",
+      "src": "朝鮮日報 / 聯合ニュース",
+      "url": "https://www.chosunonline.com/site/data/html_dir/2026/03/24/12345.html",
+      "publishedAt": "2026-03-24T11:00:00Z",
+      "snippet": "李在明大統領は閣議で不動産市場の混乱を招く行為を厳罰に処すと表明。北朝鮮が南北関係を「敵対的2国家」と規定したことに対し、平和共存の努力を続けると述べた。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、2026年を「AI元年」と宣言",
+      "src": "Velleity Note",
+      "url": "https://velleity-note.blog/2026/03/26/saudi-ai/",
+      "publishedAt": "2026-03-26T08:00:00Z",
+      "snippet": "サウジ内閣が2026年を「人工知能の年」に指定。脱石油戦略の一環として91億ドルを投資。一方、ゼレンスキー大統領が26日にサウジを訪問し和平支援を要請。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦3年目、ドローン攻撃激化で死者500人超",
+      "src": "note / ReliefWeb",
+      "url": "https://note.com/ehime_it_lab/n/n123456789",
+      "publishedAt": "2026-03-24T12:00:00Z",
+      "snippet": "国軍とRSFの戦闘が激化。1月以降のドローン攻撃で500人以上の民間人が死亡。医療崩壊と深刻な食料不足により、世界最大の避難民危機となっている。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "イギリス政府、政党への仮想通貨寄付を全面禁止",
+      "src": "Crypto Trillion / BBC",
+      "url": "https://www.gfa.co.jp/news/20260326",
+      "publishedAt": "2026-03-26T12:00:00Z",
+      "snippet": "スターマー政権は外国の金融干渉を防ぐため、仮想通貨による政治寄付を禁止。また、国立博物館での外国人有料化検討など、財政再建策も浮上している。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イラン停戦案拒否を受け「決着」を強調",
+      "src": "The HEADLINE / 日経新聞",
+      "url": "https://www.theheadline.jp/articles/20260321",
+      "publishedAt": "2026-03-26T19:00:00Z",
+      "snippet": "トランプ政権はイランへの軍事行動を継続。ガソリン価格高騰で支持率は36%に低下したが、海兵隊数千人の追加派遣を検討。ベネズエラのマドゥロ拘束に続く成果を狙う。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "tension",
+      "title": "イエメン・フーシ派、イラン戦争への参戦準備を表明",
+      "src": "Yahoo!ファイナンス / CNN",
+      "url": "https://finance.yahoo.co.jp/news/detail/20260326-12345678",
+      "publishedAt": "2026-03-26T22:56:00Z",
+      "snippet": "フーシ派は「必要ならイラン戦争に参加する」と表明。バブルマンデブ海峡の掌握を警告しており、新たな海運リスクと原油価格への影響が懸念されている。",
+      "collectedAt": "2026-03-26T21:24:43.981Z"
     }
   ],
-  "updatedAt": "2026-03-26T18:56:05.826Z"
+  "updatedAt": "2026-03-26T21:24:43.981Z"
 }
