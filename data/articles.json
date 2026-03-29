@@ -81,16 +81,6 @@
       "collectedAt": "2026-03-26T05:02:05.899Z"
     },
     {
-      "countryCode": "862",
-      "cat": "economic",
-      "title": "ベネズエラ原油生産量、3月に日量110万バレルへ増加",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy/venezuela-oil-production-2026-0326",
-      "publishedAt": "2026-03-26T02:14:00Z",
-      "snippet": "国営石油会社PDVSAのデータにより、原油生産が回復傾向にあることが判明。米国の対イラン制裁強化に伴う代替供給源としての存在感が高まっている。",
-      "collectedAt": "2026-03-26T07:00:27.877Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ジェトロ、ミャンマーを含むアジア最新情勢リストを更新",
@@ -129,16 +119,6 @@
       "publishedAt": "2026-03-26T08:00:00Z",
       "snippet": "ボルノ州の州都マイドゥグリで市場や病院を狙った自爆テロが発生し、23人が死亡。ボコ・ハラム（JAS）の活動再活発化が懸念されている。",
       "collectedAt": "2026-03-26T09:55:17.685Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、2026年度予算の年度内成立を断念　暫定予算編成へ",
-      "src": "読売新聞 / 東洋経済オンライン",
-      "url": "https://www.yomiuri.co.jp/politics/20260326-OYT1T50001/",
-      "publishedAt": "2026-03-26T05:00:00Z",
-      "snippet": "衆院選大勝後の高市政権だが、参院の審議遅延により本予算の年度内成立が困難に。中東情勢緊迫を受け、石油備蓄の放出やガソリン価格抑制策を打ち出す一方、自衛官による中国大使館侵入事件が外交問題化している。",
-      "collectedAt": "2026-03-26T12:56:17.917Z"
     },
     {
       "countryCode": "826",
@@ -2101,16 +2081,6 @@
       "collectedAt": "2026-03-28T18:29:59.096Z"
     },
     {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン1月の経済活動、1.9%成長で予想を上回る",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy-news/article-987654",
-      "publishedAt": "2026-03-26T04:06:00Z",
-      "snippet": "アルゼンチンの1月の経済活動は前年比1.9%拡大し、市場予想の1.6%を上回った。ミレイ大統領は急進的な経済改革を継続している。",
-      "collectedAt": "2026-03-28T21:23:11.635Z"
-    },
-    {
       "countryCode": "376",
       "cat": "conflict",
       "title": "イスラエル軍、イラン中部の核施設を空爆 報復の連鎖止まらず",
@@ -2219,7 +2189,27 @@
       "publishedAt": "2026-03-28T14:49:00Z",
       "snippet": "親イラン武装組織フーシ派がイスラエル南部を標的に弾道ミサイルを発射。イランへの攻撃が続く限り作戦を継続すると宣言し、紅海の航行リスクが極限に達している。",
       "collectedAt": "2026-03-29T01:45:41.286Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国東部でM23反政府勢力による攻撃が継続",
+      "src": "NHK",
+      "url": null,
+      "publishedAt": "2026-03-28T00:00:00Z",
+      "snippet": "DRC東部でM23反政府勢力と政府軍の戦闘が激化しており、数千人の市民が住居を追われている。",
+      "collectedAt": "2026-03-29T05:06:18.089Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "アメリカ、中東戦争拡大阻止のため地上部隊1万人派遣へ",
+      "src": "オリーブ山通信",
+      "url": "https://mtolive.net/2026-03-27-news/",
+      "publishedAt": "2026-03-27T00:00:00Z",
+      "snippet": "イスラエルと周辺勢力の緊張が高まる中、米国が地上部隊1万人の派遣を決定。UAEも参加の可能性があると報じられた。",
+      "collectedAt": "2026-03-29T05:06:18.089Z"
     }
   ],
-  "updatedAt": "2026-03-29T01:45:41.286Z"
+  "updatedAt": "2026-03-29T05:06:18.089Z"
 }
