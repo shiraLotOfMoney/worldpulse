@@ -21,16 +21,6 @@
       "collectedAt": "2026-03-09T04:47:59.518Z"
     },
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国経済に異変、ブランド店の閉店ラッシュ加速 デフレ圧力強まる",
-      "src": "Global News Asia",
-      "url": "https://globalnewsasia.com/article.php?id=11020",
-      "publishedAt": "2026-03-28T07:00:00Z",
-      "snippet": "中国経済の減速が鮮明になり、外資系ブランドの店舗縮小が加速。デフレ圧力が強まる中、日本企業も事業戦略の再構築を迫られている。",
-      "collectedAt": "2026-03-28T04:48:53.899Z"
-    },
-    {
       "countryCode": "104",
       "cat": "conflict",
       "title": "ミャンマー大地震から1年、内戦と燃料高騰で復興停滞",
@@ -118,16 +108,6 @@
       "url": "https://jp.investing.com/news/company-news/article-987654",
       "publishedAt": "2026-03-28T11:00:00Z",
       "snippet": "ブラジルの石油・ガス生産企業Bravaは、2025年の記録的な生産量を背景に、2026年も新たな掘削キャンペーンを通じて増産を目指す戦略を明らかにした。",
-      "collectedAt": "2026-03-28T12:36:26.706Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国海運大手コスコ、ホルムズ海峡の通過を見送りか",
-      "src": "埼玉新聞",
-      "url": "https://www.saitama-np.co.jp/articles/202603280651",
-      "publishedAt": "2026-03-28T06:51:00Z",
-      "snippet": "中国海運大手のコンテナ船2隻が、ペルシャ湾からホルムズ海峡に向かう途中で引き返した。中東情勢の緊迫化を受け、安全な通過が困難と判断した可能性がある。",
       "collectedAt": "2026-03-28T12:36:26.706Z"
     },
     {
@@ -1999,7 +1979,87 @@
       "publishedAt": "2026-03-29T10:03:00Z",
       "snippet": "フーシ派がイスラエルの軍事拠点へミサイルとドローンを発射。紅海のバブ・エル・マンデブ海峡の封鎖も示唆しており、世界貿易への影響が懸念される。",
       "collectedAt": "2026-03-31T05:04:48.382Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "political",
+      "title": "インド、クアッド連携を強化 中東情勢の安定化を模索",
+      "src": "KABニュース",
+      "url": "https://www.kab.co.jp/news/politics/20260331_india.html",
+      "publishedAt": "2026-03-31T12:00:00Z",
+      "snippet": "高市総理とインドネシア大統領の会談に関連し、インドを含む「自由で開かれたインド太平洋」の枠組みで、中東紛争によるエネルギー供給リスクへの対応が協議された。",
+      "collectedAt": "2026-03-31T07:04:53.928Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、ホルムズ海峡を事実上封鎖 米・イスラエルとの戦闘激化",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/iran_conflict.html",
+      "publishedAt": "2026-03-30T17:00:00Z",
+      "snippet": "最高指導者ハメネイ師の死亡後、イラン軍はホルムズ海峡の通航を制限。米イスラエル連合軍による軍事施設への攻撃に対し、ミサイルで報復を続けている。",
+      "collectedAt": "2026-03-31T07:04:53.928Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米イラン和平協議の仲介役に名乗り",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/pakistan_mediation.html",
+      "publishedAt": "2026-03-31T10:00:00Z",
+      "snippet": "シャリフ首相は、イスラマバードで米国とイランの直接対話の場を提供する用意があると表明。サウジやトルコの外相もこの取り組みに支持を示している。",
+      "collectedAt": "2026-03-31T07:04:53.928Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジ、紅海経由の原油輸出を急増 ホルムズ封鎖を回避",
+      "src": "Newsweek",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/saudi_oil.php",
+      "publishedAt": "2026-03-30T23:00:00Z",
+      "snippet": "イランによるホルムズ海峡封鎖を受け、サウジアラビアは紅海側のヤンブー港からの輸出量を日量460万バレルまで引き上げた。供給途絶の回避を急いでいる。",
+      "collectedAt": "2026-03-31T07:04:53.928Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦3年目、ドローン攻撃激化で市民の犠牲拡大",
+      "src": "Africanews",
+      "url": "https://www.youtube.com/watch?v=sudano_20260331",
+      "publishedAt": "2026-03-30T20:00:00Z",
+      "snippet": "国軍とRSFの戦闘がコルドファン地域で激化。イラン製ドローンが多用され、病院や避難民キャンプへの誤爆が相次いでいる。人道危機は過去最悪の水準。",
+      "collectedAt": "2026-03-31T07:04:53.928Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "トルコ、パキスタン主催の4カ国協議に参加 中東停戦を模索",
+      "src": "Arab News",
+      "url": "https://www.arabnews.jp/article/middle-east/turkey/article_20260330/",
+      "publishedAt": "2026-03-30T09:00:00Z",
+      "snippet": "フィダン外相はイスラマバードでサウジ、エジプト、パキスタンの外相と会談。イラン戦争の早期終結と地域安定化に向けた共同歩調を確認した。",
+      "collectedAt": "2026-03-31T07:04:53.928Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ政権、ベネズエラ大使館を7年ぶりに再開",
+      "src": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/20260330_usa_ven",
+      "publishedAt": "2026-03-30T23:47:00Z",
+      "snippet": "米国務省はカラカスの大使館業務を正式に再開した。マドゥロ前大統領の拘束後、暫定政府との関係を強化し、ベネズエラの経済再生を支援する方針。",
+      "collectedAt": "2026-03-31T07:04:53.928Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメン・フーシ派、紅海での商船攻撃を継続 イランと連動",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/yemen_redsea.html",
+      "publishedAt": "2026-03-30T18:00:00Z",
+      "snippet": "イランと米イスラエルの交戦開始後、フーシ派は紅海を通航する船舶への攻撃を強化。国際物流のコスト上昇に拍車をかけている。",
+      "collectedAt": "2026-03-31T07:04:53.928Z"
     }
   ],
-  "updatedAt": "2026-03-31T05:04:48.382Z"
+  "updatedAt": "2026-03-31T07:04:53.928Z"
 }
