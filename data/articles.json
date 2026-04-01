@@ -81,16 +81,6 @@
       "collectedAt": "2026-03-29T09:29:57.918Z"
     },
     {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米国とイランの停戦仲介に乗り出す",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260329-OYT1T50345/",
-      "publishedAt": "2026-03-29T06:00:00Z",
-      "snippet": "パキスタン政府はイランと協議し、船舶20隻のホルムズ海峡通過許可を取り付けた。イスラマバードで4カ国外相会談を開催し、緊張緩和を主導する。",
-      "collectedAt": "2026-03-29T09:29:57.918Z"
-    },
-    {
       "countryCode": "643",
       "cat": "economic",
       "title": "ロシア、ガソリン輸出禁止を再導入へ 石油施設への攻撃受け",
@@ -98,16 +88,6 @@
       "url": "https://news.livedoor.com/article/detail/26123456/",
       "publishedAt": "2026-03-29T12:06:00Z",
       "snippet": "ウクライナによる製油所へのドローン攻撃が相次ぎ、ロシア国内の燃料供給が逼迫。政府は国内価格の安定を図るため、ガソリンの輸出禁止措置を検討している。",
-      "collectedAt": "2026-03-29T09:29:57.918Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "political",
-      "title": "サウジ外相、パキスタンでの中東情勢4者会談に出席へ",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260329-OYT1T50456/",
-      "publishedAt": "2026-03-29T07:00:00Z",
-      "snippet": "サウジアラビアの外相は、イラン情勢の沈静化を目指すためパキスタンを訪問。エジプト、トルコと共に地域安定化に向けた外交努力を強化する。",
       "collectedAt": "2026-03-29T09:29:57.918Z"
     },
     {
@@ -119,16 +99,6 @@
       "publishedAt": "2026-03-29T08:00:00Z",
       "snippet": "トルコはパキスタン主導の停戦仲介案を支持。イラン・米国間の緊張緩和と、ホルムズ海峡の安全確保に向けた外交的解決を模索している。",
       "collectedAt": "2026-03-29T09:29:57.918Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国が第15次5カ年計画を始動、がん治療薬の原料量産に世界初成功",
-      "src": "note (やなさん)",
-      "url": "https://note.com/yanasan/n/n123456789",
-      "publishedAt": "2026-03-29T07:00:00Z",
-      "snippet": "中国は2026年から第15次5カ年計画を開始。医療分野では、がん細胞を破壊するアルファ同位体の量産化に世界で初めて成功したと報じられた。",
-      "collectedAt": "2026-03-29T12:36:59.681Z"
     },
     {
       "countryCode": "364",
@@ -2189,7 +2159,127 @@
       "publishedAt": "2026-03-30T09:00:00Z",
       "snippet": "フーシ派がイランへの連帯を示し参戦。紅海とホルムズ海峡の「二正面封鎖」リスクが高まり、世界経済に緊張。",
       "collectedAt": "2026-04-01T05:18:00.487Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル・ルラ大統領、10月の大統領選でアルキミン副大統領を再指名",
+      "src": "Reuters Japan",
+      "url": "https://jp.reuters.com/world/brazil/lula-renominates-alckmin-2026-03-31/",
+      "publishedAt": "2026-03-31T15:00:00Z",
+      "snippet": "ルラ大統領は2026年10月の大統領選に向け、現職のアルキミン副大統領を再びペアとして指名した。中東情勢によるインフレ懸念が経済の課題となっている。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー大統領候補にミンアウンフライン前総司令官を選出",
+      "src": "テレビ朝日",
+      "url": "https://news.tv-asahi.co.jp/news_international/articles/000343210.html",
+      "publishedAt": "2026-03-31T12:00:00Z",
+      "snippet": "ミャンマー下院は31日、大統領候補にミンアウンフライン前国軍総司令官を選出した。事実上の国軍支配が継続する見通し。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国3月製造業PMI、50.4に上昇し3ヶ月ぶり景気拡大",
+      "src": "日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGM311230R30C26A3000000/",
+      "publishedAt": "2026-03-31T09:30:00Z",
+      "snippet": "中国国家統計局が発表した3月の製造業PMIは50.4となり、景況感の境目である50を3ヶ月ぶりに上回った。内需の回復が緩やかに進んでいる。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "economic",
+      "title": "フランス、4月1日から福祉手当引き上げと所得税申告開始",
+      "src": "Sortiraparis",
+      "url": "https://www.sortiraparis.com/ja/news/in-paris/articles/311234",
+      "publishedAt": "2026-03-31T18:00:00Z",
+      "snippet": "フランスでは4月1日よりRSA（積極的扶助所得）などの福祉手当が0.9%引き上げられる。また、2025年分の所得税申告が4月9日から開始される。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、中東紛争によるエネルギー高騰で新年度成長率に下方リスク",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/489123.php",
+      "publishedAt": "2026-03-30T10:32:00Z",
+      "snippet": "インド政府は月報で、2026年度の成長率予想（7.0-7.4%）について、中東での戦争に伴う原油高が下押し要因になる可能性があると指摘した。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン革命防衛隊、米IT・AI企業18社への報復を予告",
+      "src": "熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/national/202604011214.html",
+      "publishedAt": "2026-04-01T12:14:00Z",
+      "snippet": "イラン革命防衛隊は、指導者暗殺に関与したとしてグーグルやアップルなどの米企業リストを公表し、4月1日以降に破壊工作を行うと警告した。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "外務省に「日印経済室」を新設、インドへの投資を後押し",
+      "src": "khb東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/15678901",
+      "publishedAt": "2026-04-01T12:32:00Z",
+      "snippet": "日本政府は4月1日付で、インドとの経済関係を専門に扱う部署を外務省内に新設した。半導体やAI分野での協力を加速させる狙い。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国政府、中東情勢悪化でナフサの輸出を原則禁止に",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/def67890.html",
+      "publishedAt": "2026-03-31T11:00:00Z",
+      "snippet": "韓国政府は3月27日より、中東での戦争による需給不安に対応するため、石油製品ナフサの輸出を原則的に制限する緊急措置を施行した。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラムコ、2026年第1四半期に218億ドルの巨額配当を発表",
+      "src": "note (中東投資ニュース)",
+      "url": "https://note.com/middleeast_invest/n/n123456789",
+      "publishedAt": "2026-03-31T20:00:00Z",
+      "snippet": "サウジアラムコは、原油価格の変動にもかかわらず強気の配当維持を決定した。一方でホルムズ海峡の混乱によりアジア向け供給は削減されている。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英チャールズ国王、4月下旬に国賓として初訪米へ",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/987123",
+      "publishedAt": "2026-03-31T17:00:00Z",
+      "snippet": "イギリス王室は、チャールズ国王夫妻が4月27日から30日までアメリカを国賓訪問すると発表した。トランプ大統領が招待した。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、対イラン軍事作戦は「2〜3週間以内」に終了と表明",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260401-OYT1T50111/",
+      "publishedAt": "2026-04-01T07:00:00Z",
+      "snippet": "トランプ米大統領は、イランの核開発阻止という目標は達成されたとして、軍事作戦を数週間以内に終結させる見通しを語った。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメンのフーシ派、イスラエルへのミサイル攻撃で戦争参戦を表明",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3567890",
+      "publishedAt": "2026-03-29T11:00:00Z",
+      "snippet": "イエメンのフーシ派は28日、イスラエルに向けてミサイルとドローンを発射し、イランを支援する形での直接参戦を正式に表明した。",
+      "collectedAt": "2026-04-01T07:10:54.784Z"
     }
   ],
-  "updatedAt": "2026-04-01T05:18:00.487Z"
+  "updatedAt": "2026-04-01T07:10:54.784Z"
 }
