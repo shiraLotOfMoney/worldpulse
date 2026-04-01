@@ -21,26 +21,6 @@
       "collectedAt": "2026-03-09T04:47:59.518Z"
     },
     {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "ホルムズ海峡回避ルートの原油タンカーが日本に到着、イラン攻撃開始後初",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260329-00002",
-      "publishedAt": "2026-03-29T17:48:00Z",
-      "snippet": "イラン情勢悪化でホルムズ海峡が封鎖される中、サウジアラビアの紅海側を経由した原油10万キロリットルが愛媛県今治市に到着した。",
-      "collectedAt": "2026-03-29T12:36:59.681Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタンで中東情勢を巡る4カ国外相会談、米イラン停戦を仲介",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260329-OYT1T50001/",
-      "publishedAt": "2026-03-29T18:15:00Z",
-      "snippet": "パキスタンはトルコ、サウジアラビア、エジプトの外相を招き、イラン情勢の緊張緩和に向けた協議を開始。イランはパキスタン船舶の海峡通過を許可した。",
-      "collectedAt": "2026-03-29T12:36:59.681Z"
-    },
-    {
       "countryCode": "356",
       "cat": "economic",
       "title": "インドのガス輸送タンカー2隻がホルムズ海峡を無事通過",
@@ -71,16 +51,6 @@
       "collectedAt": "2026-03-29T21:25:12.839Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "日本代表、スコットランドに勝利しFIFAランク18位に浮上",
-      "src": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/20260329-fifarank/",
-      "publishedAt": "2026-03-29T18:00:00Z",
-      "snippet": "サッカー日本代表がアウェーでスコットランドを撃破。最新ランクで順位を1つ上げ、次戦のイングランド戦に向けて期待が高まっている。",
-      "collectedAt": "2026-03-29T21:25:12.839Z"
-    },
-    {
       "countryCode": "643",
       "cat": "conflict",
       "title": "ロシアの「影の艦隊」タンカー、黒海でドローン攻撃を受け損傷",
@@ -99,26 +69,6 @@
       "publishedAt": "2026-03-30T00:00:00Z",
       "snippet": "サウジ、トルコ、エジプト、パキスタンの外相が会合を持ち、拡大する中東紛争の収束に向けた外交的解決策を模索している。",
       "collectedAt": "2026-03-29T21:25:12.839Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "イエメン・フーシ派が対イスラエル参戦を公式宣言",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3512346",
-      "publishedAt": "2026-03-29T16:31:00Z",
-      "snippet": "イランを支持するフーシ派がイスラエルへのミサイル攻撃を実施。中東紛争開始から1か月、戦火が紅海周辺まで拡大する懸念が強まっている。",
-      "collectedAt": "2026-03-29T21:25:12.839Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "tension",
-      "title": "ミャンマー地震から1年、食料不安が再燃",
-      "src": "ミャンマーニュース",
-      "url": "http://www.myanmar-news.asia/news_asI89z0p.html",
-      "publishedAt": "2026-03-29T17:00:00Z",
-      "snippet": "ミャンマー地震の発生から1年が経過しましたが、世界的な情勢不安の影響で被災地の食料不足が深刻化し、新たな人道危機に直面しています。",
-      "collectedAt": "2026-03-30T01:47:26.015Z"
     },
     {
       "countryCode": "586",
@@ -328,16 +278,6 @@
       "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
       "publishedAt": "2026-03-30T18:00:00Z",
       "snippet": "イスラエル軍によるテヘラン攻撃を受け、イランは多数のミサイルを発射。ホルムズ海峡の事実上の封鎖も継続し、世界経済に混乱を招いている。",
-      "collectedAt": "2026-03-30T12:59:16.160Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "中東紛争後初のサウジ原油タンカーが日本到着、紅海ルート経由で",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/economy/20260329-OYT1T50045/",
-      "publishedAt": "2026-03-29T17:00:00Z",
-      "snippet": "ホルムズ海峡封鎖の影響で供給不安が続く中、サウジアラビア西部のヤンブー港を出港したタンカーが愛媛県に到着。供給網の多層化が急務となっている。",
       "collectedAt": "2026-03-30T12:59:16.160Z"
     },
     {
@@ -2179,7 +2119,47 @@
       "publishedAt": "2026-04-01T08:04:00Z",
       "snippet": "フーシ派は、イランやヒズボラと共同でイスラエルに対し弾道ミサイル攻撃を実施したと主張。バブ・エル・マンデブ海峡の封鎖も示唆している。",
       "collectedAt": "2026-04-01T16:03:16.991Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、レバノン南部を占領し「緩衝地帯」設置を発表",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/2026-03-30",
+      "publishedAt": "2026-03-30T12:00:00Z",
+      "snippet": "ヒズボラへの対抗としてレバノン南部の大部分を軍事占領。イランとの戦争が拡大する中、イエメンのフーシ派からもミサイル攻撃を受けている。",
+      "collectedAt": "2026-04-01T18:50:10.331Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ゼレンスキー大統領、復活祭に合わせた停戦提案を米国と協議へ",
+      "src": "ウクルインフォルム",
+      "url": "https://www.ukrinform.jp/rubric-ato/20260401-truce.html",
+      "publishedAt": "2026-04-01T10:40:00Z",
+      "snippet": "ロシアとの戦争が続く中、一時的な休戦を提案。また、日本から社会支出向けに約13億ドルの融資を受領したことを明らかにした。",
+      "collectedAt": "2026-04-01T18:50:10.331Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イランとの「真剣な協議」を強調しつつ軍事圧力を継続",
+      "src": "Japan In-depth",
+      "url": "https://japan-indepth.jp/?p=20260401",
+      "publishedAt": "2026-04-01T12:00:00Z",
+      "snippet": "SNSで交渉の進展を主張する一方、合意がなければ油田を破壊すると警告。政権内では作戦目標の修正を巡り混乱も生じている。",
+      "collectedAt": "2026-04-01T18:50:10.331Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "tension",
+      "title": "フーシ派、イランと連帯しバブ・エル・マンデブ海峡の封鎖を示唆",
+      "src": "テレ朝NEWS",
+      "url": "https://news.tv-asahi.co.jp/news_international/articles/20260331",
+      "publishedAt": "2026-03-31T19:00:00Z",
+      "snippet": "イランへの攻撃激化を受け、フーシ派が参戦を表明。世界の石油輸送の要衝での攻撃再開を警告しており、エネルギー市場のさらなる混乱が懸念される。",
+      "collectedAt": "2026-04-01T18:50:10.331Z"
     }
   ],
-  "updatedAt": "2026-04-01T16:03:16.991Z"
+  "updatedAt": "2026-04-01T18:50:10.331Z"
 }
