@@ -2499,7 +2499,167 @@
       "publishedAt": "2026-04-02T05:51:00Z",
       "snippet": "イランに連帯するフーシ派が海峡封鎖を警告。周辺海域では船舶の通行が激減しており、世界のエネルギー市場への影響が懸念されている。",
       "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "パキスタンとアフガニスタン、中国の仲介で停戦交渉を開始",
+      "src": "AP通信 (Vietnam.vn経由)",
+      "url": "https://www.vietnam.vn/ja/pakistan-va-afghanistan-dang-dam-phan-huong-toi-lenh-ngung-ban-sau-nhieu-tuan-giao-tranh/",
+      "publishedAt": "2026-04-03T00:00:00Z",
+      "snippet": "パキスタン政府とタリバン政権の代表が中国のウルムチで会談し、数週間にわたる国境紛争の停戦に向けた協議を行った。中国が仲介役を務めている。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "中東情勢悪化による原油高、ブラジルはバイオ燃料の「盾」で影響緩和",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/04/03-brazil-energy.html",
+      "publishedAt": "2026-04-03T08:00:00Z",
+      "snippet": "イラン紛争による世界的な石油価格高騰の中、ブラジルは普及しているエタノール燃料によりガソリン価格の上昇を5％に抑え、エネルギー安全保障を確保している。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー大統領選、ミン・アウン・フライン前総司令官が当選確実",
+      "src": "新華社 (Xinhua)",
+      "url": "https://english.news.cn/20260403/myanmar-election-result/index.html",
+      "publishedAt": "2026-04-03T13:53:00Z",
+      "snippet": "国軍主導で行われた総選挙の結果、ミン・アウン・フライン氏が過半数の票を獲得し大統領に選出される見通し。民主派は「偽の選挙」と批判を強めている。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国3月の製造業PMI、50.4に改善 需要回復で分岐点上回る",
+      "src": "ロイター (Newsweek Japan)",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/03/31-china-pmi.php",
+      "publishedAt": "2026-03-31T15:00:00Z",
+      "snippet": "中国国家統計局が発表した3月の製造業購買担当者景気指数（PMI）は50.4となり、景況改善の分岐点である50を上回った。内需の回復が寄与した。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "マクロン仏大統領が訪韓、ホルムズ海峡の安全確保で協力合意",
+      "src": "亜洲日報",
+      "url": "https://www.ajunews.com/view/20260403141521000",
+      "publishedAt": "2026-04-03T14:15:00Z",
+      "snippet": "マクロン大統領は韓国を訪問し、両国関係を「グローバル戦略的パートナーシップ」に格上げ。中東情勢緊迫化を受け、海上輸送路の確保に向けた協力を確認した。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ主要5研究所、2026年の経済成長予測を大幅下方修正",
+      "src": "Livedoor ニュース",
+      "url": "https://news.livedoor.com/article/detail/20260401-germany-economy/",
+      "publishedAt": "2026-04-01T09:00:00Z",
+      "snippet": "中東情勢に伴うエネルギー価格高騰を受け、ドイツの主要経済研究所は2026年の成長予測を引き下げた。回復の勢いが鈍化していると警告している。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド・ルピーが上昇、中銀の措置とイラン情勢注視でアジア通貨は様子見",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/forex-news/article-987654",
+      "publishedAt": "2026-04-03T11:00:00Z",
+      "snippet": "インド準備銀行（RBI）の介入によりルピーが上昇。投資家は緊迫するイラン情勢がアジア市場に与える影響を慎重に見極めている。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "米・イスラエル軍、イラン首都郊外の主要な橋を攻撃 8人死亡",
+      "src": "CNN.co.jp",
+      "url": "https://www.cnn.co.jp/world/20260403-iran-attack-bridge.html",
+      "publishedAt": "2026-04-03T13:28:00Z",
+      "snippet": "イラン北部で米・イスラエル連合軍による空爆があり、主要なインフラが破壊された。最高指導者ハメネイ師殺害後の報復合戦が激化している。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "ハマス、イスラエル軍のガザ完全撤退なしの武装解除協議を拒否",
+      "src": "ロイター (時事通信経由)",
+      "url": "https://www.jiji.com/jc/article?k=2026040300789",
+      "publishedAt": "2026-04-03T14:23:00Z",
+      "snippet": "パレスチナ自治区ガザの和平計画を巡り、ハマスはイスラエル軍の完全撤退が保証されない限り、武装解除の議論には応じない姿勢を仲介国に伝えた。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、中東情勢踏まえ節電要請を「排除せず」 衆院本会議で答弁",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026040300567",
+      "publishedAt": "2026-04-03T12:00:00Z",
+      "snippet": "高市早苗首相は衆院本会議で、イラン情勢に伴う原油供給不安を受け、国民への節電要請を行う可能性に言及。エネルギー危機の回避に全力を挙げる考えを示した。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国・李在明大統領、イラン情勢受け2.7兆円規模の補正予算を提案",
+      "src": "KFB福島放送 (ANN)",
+      "url": "https://www.kfb.co.jp/news/national/ann_20260402_001.html",
+      "publishedAt": "2026-04-02T15:08:00Z",
+      "snippet": "韓国の李在明大統領は、原油高による国民負担を軽減するため、低所得層への給付金を含む大規模な補正予算案を国会に提出し、迅速な可決を求めた。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "tension",
+      "title": "トランプ米大統領、ナイジェリアへの地上部隊派遣の可能性を示唆",
+      "src": "日本安全保障戦略研究所 (SSRI)",
+      "url": "https://www.ssri-j.com/news/africa/20260402-nigeria.html",
+      "publishedAt": "2026-04-02T06:12:00Z",
+      "snippet": "トランプ大統領はナイジェリアでのキリスト教徒殺害を問題視し、治安回復のために米軍派遣や空爆を行う準備があると言及した。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米国とイランの対話仲介の場として浮上 イスラマバードで外相会談",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_20260331_pakistan/",
+      "publishedAt": "2026-03-31T10:00:00Z",
+      "snippet": "パキスタン、サウジアラビア、トルコ、エジプトの外相が会談。パキスタンが米国とイランの緊張緩和に向けた主要な外交チャンネルとなることで合意した。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ東部・南部への航空攻撃を継続 各地で死傷者",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-ato/20260401-ukraine-war-update.html",
+      "publishedAt": "2026-04-01T10:00:00Z",
+      "snippet": "ロシア軍は4月1日から2日にかけてウクライナ各地への空爆を継続。ゼレンスキー大統領は米国代表者とオンラインで和平交渉の可能性を協議した。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英国、ホルムズ海峡の「即時かつ無条件」開放をイランに要求",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260403-OYT1T50045/",
+      "publishedAt": "2026-04-03T09:45:00Z",
+      "snippet": "クーパー外相は有志国会合の議長声明を発表。イランによる海峡封鎖を非難し、即時開放を求めた。封鎖継続なら追加制裁も検討する構え。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ米大統領、NATO離脱を「絶対的に検討」 欧州の協力拒否に反発",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/kimura/2026/04/nato-trump.php",
+      "publishedAt": "2026-04-03T11:05:00Z",
+      "snippet": "トランプ大統領は、欧州同盟国が対イラン軍事作戦への協力を拒んでいることに激怒。NATOからの離脱を真剣に検討しているとロイター通信に語った。",
+      "collectedAt": "2026-04-03T07:00:13.256Z"
     }
   ],
-  "updatedAt": "2026-04-03T05:00:20.265Z"
+  "updatedAt": "2026-04-03T07:00:13.256Z"
 }
