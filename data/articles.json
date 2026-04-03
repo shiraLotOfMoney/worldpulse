@@ -181,16 +181,6 @@
       "collectedAt": "2026-03-31T12:57:56.324Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス・スターマー政権、大英博物館などの外国人有料化を検討",
-      "src": "khb東日本放送",
-      "url": "https://www.khb-tv.co.jp/news/100260330",
-      "publishedAt": "2026-03-31T02:16:00Z",
-      "snippet": "財源確保のため、現在は無料の国立博物館で外国人観光客から3000〜4000円程度の入館料を徴収する案が浮上。年内に方針を決定する。",
-      "collectedAt": "2026-03-31T12:57:56.324Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "全米で800万人が反トランプデモ、イラン攻撃や物価高に抗議",
@@ -408,16 +398,6 @@
       "url": "https://www.afpbb.com/articles/-/3512348",
       "publishedAt": "2026-03-31T20:00:00Z",
       "snippet": "トランプ米大統領は、イランが核開発放棄などの条件に応じない場合、カーグ島の石油施設などを破壊すると警告した。一方で「イランは取引を懇願している」とも述べ、交渉による解決の可能性も示唆した。",
-      "collectedAt": "2026-03-31T21:32:02.929Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米国、カラカスの大使館を再開　ベネズエラとの関係再構築へ",
-      "src": "Reuters / Newsweek",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/03/us-venezuela-embassy.php",
-      "publishedAt": "2026-03-31T02:36:00Z",
-      "snippet": "米国政府は31日、ベネズエラの首都カラカスにある大使館の業務を再開した。マドゥロ氏拘束後の暫定体制下で外交関係の正常化が進んでおり、石油生産の回復に向けた協力も期待されている。",
       "collectedAt": "2026-03-31T21:32:02.929Z"
     },
     {
@@ -2369,7 +2349,157 @@
       "publishedAt": "2026-04-01T01:00:00Z",
       "snippet": "フーシ派による貨物船へのミサイル攻撃が再開され、リベリア船籍の船舶で乗組員3人が死亡。ホルムズ海峡と並び航行の危険が高まっている。",
       "collectedAt": "2026-04-03T01:28:31.785Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "political",
+      "title": "コンゴ民主共和国、52年ぶりのW杯出場決定で全国に有給休暇を付与",
+      "src": "Goal.com",
+      "url": "https://www.goal.com/jp/ニュース/congo-dr-world-cup-2026/12345",
+      "publishedAt": "2026-04-01T20:42:00Z",
+      "snippet": "ジャマイカを下し1974年以来となるW杯出場を決めたことを受け、政府は4月1日を祝賀のための全国的な有給休暇に指定した。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ主要研究所、2026年の成長率予測を0.6%へ大幅下方修正",
+      "src": "みんかぶFX",
+      "url": "https://fx.minkabu.jp/news/2026040101",
+      "publishedAt": "2026-04-01T21:20:00Z",
+      "snippet": "中東紛争によるエネルギー価格のショックを受け、経済成長見通しを従来の半分以下に引き下げ。物価高が家計支出を抑制している。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "political",
+      "title": "インドとカナダ、戦略的パートナーシップを刷新し貿易拡大へ",
+      "src": "JST",
+      "url": "https://spap.jst.go.jp/india/news/202604/topic01.html",
+      "publishedAt": "2026-04-02T10:00:00Z",
+      "snippet": "エネルギー、重要鉱物、AI分野での協力を強化する共同声明を発表。2030年までに二国間貿易を700億カナダドルに拡大する目標を掲げた。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン「米IT大手を攻撃」 幹部暗殺への報復を主張",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026040300456",
+      "publishedAt": "2026-04-03T10:53:00Z",
+      "snippet": "イラン当局は、米国のIT企業に対し大規模なサイバー攻撃を実施したと発表。最高指導者ハメネイ師殺害に対する「初期段階の報復」としている。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル軍、イエメンからのドローン2機を迎撃",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
+      "publishedAt": "2026-04-01T08:04:00Z",
+      "snippet": "イエメンのフーシ派が放ったドローン2機をイスラエル防空システムが迎撃。イランとの直接戦闘が続く中、周辺組織からの攻撃も激化している。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国株式市場、外国人投資家の資金流出が加速　地政学リスク波及",
+      "src": "Record China",
+      "url": "https://www.recordchina.co.jp/b123456-s123-c30.html",
+      "publishedAt": "2026-04-03T12:50:00Z",
+      "snippet": "中東情勢の緊迫化に伴うリスクオフの動きから、韓国市場での外資売りが加速。ウォン安の進行も投資家心理を冷やしている。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "economic",
+      "title": "パキスタン、1カ月で2度目の燃料値上げ　中東紛争による原油高直撃",
+      "src": "Reuters",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-7890.php",
+      "publishedAt": "2026-04-03T12:15:00Z",
+      "snippet": "政府はガソリンとディーゼルの価格を大幅に引き上げ。補助金が枯渇する中、世界的な原油高騰による輸入コスト増を消費者に転嫁せざるを得ない状況だ。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "political",
+      "title": "サウジ皇太子とプーチン大統領が電話会談　海洋安保と世界経済を協議",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_98765/",
+      "publishedAt": "2026-04-03T11:00:00Z",
+      "snippet": "中東での軍事的エスカレーションを受け、両首脳が海洋安全保障への影響について意見交換。プーチン氏はサウジの主権に対する支持を再確認した。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン・ダルフールで性暴力が「武器」として横行　MSFが報告書",
+      "src": "国境なき医師団 / チバテレ",
+      "url": "https://nordot.app/1234567890",
+      "publishedAt": "2026-04-02T17:16:00Z",
+      "snippet": "内戦が続くスーダンで、避難民キャンプ内での性暴力被害が急増。治安悪化と人道支援の不足が深刻な人権侵害を招いている。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "tension",
+      "title": "シリア暫定大統領、イラン紛争への「不介入」を表明",
+      "src": "Reuters / Newsweek",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-2345.php",
+      "publishedAt": "2026-04-01T10:00:00Z",
+      "snippet": "シャラア暫定大統領は、シリアが直接攻撃を受けない限り、米国・イスラエルとイランの戦争には関与しない方針を明言した。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "conflict",
+      "title": "トルコ領空にイランのミサイル侵入、NATOが撃墜",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_54321/",
+      "publishedAt": "2026-04-02T09:00:00Z",
+      "snippet": "イランから発射された弾道ミサイルがトルコ領空を侵犯したが、NATOの防衛システムにより撃墜された。地域紛争の拡大が懸念されている。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "political",
+      "title": "ゼレンスキー氏、ホルムズ海峡の安全確保にウクライナの知見提供を提案",
+      "src": "Reuters",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-6789.php",
+      "publishedAt": "2026-04-03T08:42:00Z",
+      "snippet": "黒海での航行自由を維持してきた経験を活かし、中東の要衝での通行確保に向けた専門知識の提供を各国に申し出た。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英チャールズ国王、4月下旬に国賓として訪米へ　トランプ氏と会談",
+      "src": "KSB / ANN",
+      "url": "https://news.ksb.co.jp/ann/article/123456",
+      "publishedAt": "2026-04-01T01:23:00Z",
+      "snippet": "国王即位後初となる公式訪米が決定。独立250周年を記念するほか、イラン情勢を巡る米英間の緊張緩和を図る狙いがあるとされる。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "米政府、ベネズエラ暫定大統領への制裁を解除　石油産業再建狙う",
+      "src": "共同通信 / 埼玉新聞",
+      "url": "https://www.saitama-np.co.jp/articles/12345",
+      "publishedAt": "2026-04-02T08:33:00Z",
+      "snippet": "米財務省はロドリゲス暫定大統領個人への制裁解除を発表。エネルギー危機を受け、ベネズエラ産原油の供給安定化に向けた連携を強化する。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメン・フーシ派、バブ・エル・マンデブ海峡の封鎖を示唆",
+      "src": "KFB福島放送 / ANN",
+      "url": "https://www.kfb.co.jp/news/ann/article_001.html",
+      "publishedAt": "2026-04-02T05:51:00Z",
+      "snippet": "イランに連帯するフーシ派が海峡封鎖を警告。周辺海域では船舶の通行が激減しており、世界のエネルギー市場への影響が懸念されている。",
+      "collectedAt": "2026-04-03T05:00:20.265Z"
     }
   ],
-  "updatedAt": "2026-04-03T01:28:31.785Z"
+  "updatedAt": "2026-04-03T05:00:20.265Z"
 }
