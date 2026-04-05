@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタンとアフガニスタンが中国で停戦協議を開始",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/533456.php",
-      "publishedAt": "2026-04-02T08:50:00Z",
-      "snippet": "軍事衝突が続くパキスタンとアフガニスタンのタリバン暫定政権が、中国の仲介により新疆ウイグル自治区ウルムチで協議を開始した。停戦の可能性や国境検問所の再開が焦点となっている。",
-      "collectedAt": "2026-04-02T01:26:23.002Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米政府、ベネズエラ暫定大統領への制裁を解除　石油産業再建狙う",
-      "src": "埼玉新聞 (共同通信)",
-      "url": "https://www.saitama-np.co.jp/articles/202604020833",
-      "publishedAt": "2026-04-02T08:33:00Z",
-      "snippet": "米財務省はロドリゲス暫定大統領への個人制裁を解除。中東危機による原油不足を受け、資源豊富なベネズエラとの協調を深め、石油供給の安定化を図る狙いがある。",
-      "collectedAt": "2026-04-02T01:26:23.002Z"
-    },
-    {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インド、入国カードを電子版「e-Arrival Card」へ完全移行",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/11255c82611ce845.html",
-      "publishedAt": "2026-04-02T09:00:00Z",
-      "snippet": "2026年4月1日より、すべての外国人入国者に対し電子版入国カードの提出が義務化された。到着前72時間以内の登録が必要となり、紙のカードは廃止された。",
-      "collectedAt": "2026-04-02T07:03:24.343Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン、トランプ米大統領の演説直後にイスラエルへミサイル報復攻撃",
@@ -41,16 +11,6 @@
       "collectedAt": "2026-04-02T07:03:24.343Z"
     },
     {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー連邦議会、4月3日に大統領選出の議員投票を実施へ",
-      "src": "Livedoor News (共同通信)",
-      "url": "https://news.livedoor.com/article/detail/20260402001/",
-      "publishedAt": "2026-04-02T08:00:00Z",
-      "snippet": "ミャンマー連邦議会は2日の協議で、新大統領選出のための投票を3日に行うことを決定。ミンアウンフライン前総司令官が有力視されている。",
-      "collectedAt": "2026-04-02T09:53:55.410Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "高市総理、石油確保に万全を期す考え「あらゆる可能性を排除しない」",
@@ -58,16 +18,6 @@
       "url": "https://www.fnn.jp/articles/-/2026040201",
       "publishedAt": "2026-04-02T09:41:00Z",
       "snippet": "中東情勢緊迫化による原油高騰を受け、高市首相は衆院本会議で「必要な量は確保している」としつつ、国民への節電要請などあらゆる対策を検討する姿勢を示した。",
-      "collectedAt": "2026-04-02T09:53:55.410Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦が3年目に突入、深刻な食料不足と性暴力の蔓延が報告される",
-      "src": "国境なき医師団 (MSF)",
-      "url": "https://www.msf.or.jp/news/detail/20260402.html",
-      "publishedAt": "2026-04-02T08:00:00Z",
-      "snippet": "国軍とRSFの戦闘が続くスーダンで、避難民キャンプ内での性暴力被害が急増。WFPの支援も枯渇しており、人道危機が極限に達している。",
       "collectedAt": "2026-04-02T09:53:55.410Z"
     },
     {
@@ -81,16 +31,6 @@
       "collectedAt": "2026-04-02T09:53:55.410Z"
     },
     {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米財務省、ベネズエラのロドリゲス暫定大統領に対する制裁を解除",
-      "src": "埼玉新聞 (共同通信)",
-      "url": "https://www.saitama-np.co.jp/articles/2026040201",
-      "publishedAt": "2026-04-02T08:33:00Z",
-      "snippet": "米国はベネズエラの石油産業立て直しと安定化を目指し、ロドリゲス暫定政権との連携を強化。長年閉鎖されていた米大使館も再開された。",
-      "collectedAt": "2026-04-02T09:53:55.410Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ミャンマー連邦議会、3日に大統領選出へ ミンアウンフライン氏が有力",
@@ -98,26 +38,6 @@
       "url": "https://news.livedoor.com/article/detail/20260402-myanmar-election/",
       "publishedAt": "2026-04-02T11:00:00Z",
       "snippet": "ミャンマー議会は2日、新大統領選出の投票を3日に実施することを決定。前国軍総司令官のミンアウンフライン氏が選出される公算が大きい。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "マクロン仏大統領、対イラン作戦への不参加を表明し訪日日程を終了",
-      "src": "NHK / AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3567895",
-      "publishedAt": "2026-04-02T08:00:00Z",
-      "snippet": "日本を訪問したマクロン大統領は、米国主導の対イラン軍事作戦には参加していないと明言。2日に離日し、次の訪問国である韓国へ向かった。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン軍、米イスラエルの攻撃に対し「壊滅的な報復」を警告",
-      "src": "ロイター / AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3567888",
-      "publishedAt": "2026-04-02T07:00:00Z",
-      "snippet": "トランプ米大統領の「石器時代に戻す」との脅迫に対し、イラン軍は米軍基地やイスラエルへの大規模な攻撃を実施する準備があると反論した。",
       "collectedAt": "2026-04-02T12:54:08.614Z"
     },
     {
@@ -141,16 +61,6 @@
       "collectedAt": "2026-04-02T12:54:08.614Z"
     },
     {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮、新型5000トン級「北朝鮮版イージス艦」の建造を加速",
-      "src": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/20260402-north-korea-ship/",
-      "publishedAt": "2026-04-02T09:00:00Z",
-      "snippet": "金正恩委員長の海軍強化構想に基づき、核打撃能力を備えた新型駆逐艦の3号艦建造が急速に進んでいることが確認された。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
-    },
-    {
       "countryCode": "566",
       "cat": "economic",
       "title": "SBIやJICA、ナイジェリアの急成長EC「Chowdeck」などへ出資",
@@ -161,16 +71,6 @@
       "collectedAt": "2026-04-02T12:54:08.614Z"
     },
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、米国のイラン注力の隙にウクライナへの新攻勢を計画か",
-      "src": "ブルームバーグ / みんかぶFX",
-      "url": "https://fx.minkabu.jp/news/20260402-russia-ukraine",
-      "publishedAt": "2026-04-02T07:35:00Z",
-      "snippet": "トランプ政権が中東での戦争にリソースを割いている間に、ロシア軍がウクライナ北部や東部で新たな大規模軍事作戦の準備を進めていると報じられた。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
-    },
-    {
       "countryCode": "682",
       "cat": "economic",
       "title": "サウジアラビア、ホルムズ封鎖受け紅海経由の原油輸出を日量500万バレルに拡大",
@@ -178,16 +78,6 @@
       "url": "https://kabutan.jp/news/?&b=n202604020987",
       "publishedAt": "2026-04-02T21:20:00Z",
       "snippet": "イランによるホルムズ海峡封鎖を受け、サウジアラビアは東西パイプラインをフル稼働させ、輸出ルートを西海岸の紅海側へ劇的にシフトさせている。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "political",
-      "title": "米軍、シリアの戦略拠点アル・タンフ基地から撤退し暫定政府へ移管",
-      "src": "住友商事グローバルリサーチ",
-      "url": "https://www.scgr.co.jp/report/flash/20260402_syria",
-      "publishedAt": "2026-04-02T09:00:00Z",
-      "snippet": "米中央軍はシリア・イラク国境の重要拠点をシリア暫定政府軍に引き渡した。トランプ政権による中東米軍再編の一環とみられる。",
       "collectedAt": "2026-04-02T12:54:08.614Z"
     },
     {
@@ -208,16 +98,6 @@
       "url": "https://www.jetro.go.jp/biznews/2026/04/usa-iran-speech.html",
       "publishedAt": "2026-04-02T11:00:00Z",
       "snippet": "トランプ大統領はホワイトハウスで演説し、イランの核・ミサイル能力を破壊したと主張。新指導部との合意がなければ更なる攻撃を行うと警告した。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米財務省、ベネズエラのロドリゲス暫定大統領への制裁を解除",
-      "src": "共同通信 / ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/20260402-venezuela-sanctions/",
-      "publishedAt": "2026-04-02T08:51:00Z",
-      "snippet": "トランプ政権はベネズエラの石油産業立て直しと安定化を狙い、協調路線を取るロドリゲス暫定大統領個人への制裁を解除し、外交関係を正常化させた。",
       "collectedAt": "2026-04-02T12:54:08.614Z"
     },
     {
@@ -308,16 +188,6 @@
       "url": "https://www.fnn.jp/articles/-/1524568",
       "publishedAt": "2026-04-02T15:15:00Z",
       "snippet": "トランプ氏はホワイトハウスで演説し、イランの軍事能力解体が順調に進んでいると主張。ガソリン価格高騰は「一時的」とし、強硬姿勢を崩していない。",
-      "collectedAt": "2026-04-02T15:54:19.441Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米政府、ベネズエラ暫定大統領ロドリゲス氏への個人制裁を解除",
-      "src": "ロイター / ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/522589.php",
-      "publishedAt": "2026-04-02T09:06:00Z",
-      "snippet": "トランプ政権は、マドゥロ氏拘束後に発足した暫定政府のロドリゲス氏に対する制裁を解除。石油産業の立て直しに向けた連携を強化する。",
       "collectedAt": "2026-04-02T15:54:19.441Z"
     },
     {
@@ -421,16 +291,6 @@
       "collectedAt": "2026-04-02T21:30:32.236Z"
     },
     {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米政府、ベネズエラのロドリゲス暫定大統領への制裁を解除",
-      "src": "Reuters",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-venezuela.php",
-      "publishedAt": "2026-04-02T09:06:00Z",
-      "snippet": "トランプ政権はベネズエラのロドリゲス暫定大統領個人への制裁を解除。資源豊富な同国の石油産業立て直しと関係正常化を狙う。",
-      "collectedAt": "2026-04-02T21:30:32.236Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ミャンマーで政変後初の総選挙、軍系政党が過半数獲得",
@@ -448,16 +308,6 @@
       "url": "https://www.jetro.go.jp/biznews/2026/04/example-france-gdp.html",
       "publishedAt": "2026-04-02T11:00:00Z",
       "snippet": "フランス銀行は、エネルギー価格の上昇や中東情勢の地政学リスクを理由に、2026年のGDP成長率予測を0.1ポイント引き下げた。",
-      "collectedAt": "2026-04-03T01:28:31.785Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン大統領、対イスラエル戦争を終結させる用意があると表明",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_20260402/",
-      "publishedAt": "2026-04-02T08:00:00Z",
-      "snippet": "イランのペゼシュキアン大統領は、特定の条件下でイスラエルとの紛争を終結させる用意があると述べ、緊張緩和の兆しを見せている。",
       "collectedAt": "2026-04-03T01:28:31.785Z"
     },
     {
@@ -541,16 +391,6 @@
       "collectedAt": "2026-04-03T05:00:20.265Z"
     },
     {
-      "countryCode": "792",
-      "cat": "conflict",
-      "title": "トルコ領空にイランのミサイル侵入、NATOが撃墜",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_54321/",
-      "publishedAt": "2026-04-02T09:00:00Z",
-      "snippet": "イランから発射された弾道ミサイルがトルコ領空を侵犯したが、NATOの防衛システムにより撃墜された。地域紛争の拡大が懸念されている。",
-      "collectedAt": "2026-04-03T05:00:20.265Z"
-    },
-    {
       "countryCode": "804",
       "cat": "political",
       "title": "ゼレンスキー氏、ホルムズ海峡の安全確保にウクライナの知見提供を提案",
@@ -558,16 +398,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-6789.php",
       "publishedAt": "2026-04-03T08:42:00Z",
       "snippet": "黒海での航行自由を維持してきた経験を活かし、中東の要衝での通行確保に向けた専門知識の提供を各国に申し出た。",
-      "collectedAt": "2026-04-03T05:00:20.265Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米政府、ベネズエラ暫定大統領への制裁を解除　石油産業再建狙う",
-      "src": "共同通信 / 埼玉新聞",
-      "url": "https://www.saitama-np.co.jp/articles/12345",
-      "publishedAt": "2026-04-02T08:33:00Z",
-      "snippet": "米財務省はロドリゲス暫定大統領個人への制裁解除を発表。エネルギー危機を受け、ベネズエラ産原油の供給安定化に向けた連携を強化する。",
       "collectedAt": "2026-04-03T05:00:20.265Z"
     },
     {
@@ -761,16 +591,6 @@
       "collectedAt": "2026-04-03T09:46:31.278Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ゼレンスキー大統領、ホルムズ海峡の安全確保で専門知識の提供を申し出",
-      "src": "ロイター",
-      "url": "https://jp.reuters.com/world/ukraine/zelenskiy-hormuz-expertise-2026-04-02/",
-      "publishedAt": "2026-04-02T08:42:00Z",
-      "snippet": "ウクライナのゼレンスキー大統領は、黒海での航行維持の経験を活かし、封鎖状態にあるホルムズ海峡の通行再開に向けた専門知識を国際社会に提供すると表明した。",
-      "collectedAt": "2026-04-03T09:46:31.278Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、NATO離脱を「絶対的に検討」 欧州の非協力に不満",
@@ -778,16 +598,6 @@
       "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104144.php",
       "publishedAt": "2026-04-03T11:05:00Z",
       "snippet": "トランプ米大統領は、イラン戦争への協力を拒否するNATO加盟国を批判し、離脱を真剣に検討していると述べた。また、エプスタイン問題への対応を巡りボンディ司法長官を解任した。",
-      "collectedAt": "2026-04-03T09:46:31.278Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米国、ベネズエラのロドリゲス暫定大統領に対する制裁を解除",
-      "src": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026040200718",
-      "publishedAt": "2026-04-02T07:18:00Z",
-      "snippet": "米政府は、マドゥロ氏拘束後に就任したベネズエラのロドリゲス暫定大統領への制裁を解除した。カラカスの米大使館も業務を再開し、外交関係の修復が進んでいる。",
       "collectedAt": "2026-04-03T09:46:31.278Z"
     },
     {
@@ -928,16 +738,6 @@
       "url": "https://www.kab.co.jp/news/ann/20260403-001/",
       "publishedAt": "2026-04-03T19:38:00Z",
       "snippet": "イラン最大の橋を破壊したことを示唆し、次は発電所を標的にすると宣言。イランが合意に応じなければ「何も残らなくなる」と極めて強い言葉で威嚇した。",
-      "collectedAt": "2026-04-03T12:43:13.941Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米政府、ベネズエラのロドリゲス暫定大統領への制裁を解除",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026040200345",
-      "publishedAt": "2026-04-02T07:18:00Z",
-      "snippet": "マドゥロ氏拘束後に就任したロドリゲス暫定大統領に対し、米財務省が制裁解除を発表。対米協調路線への転換を歓迎し、エネルギー分野での協力深化を目指す。",
       "collectedAt": "2026-04-03T12:43:13.941Z"
     },
     {
@@ -1131,16 +931,6 @@
       "collectedAt": "2026-04-03T18:37:04.631Z"
     },
     {
-      "countryCode": "4",
-      "cat": "tension",
-      "title": "パキスタンとアフガニスタン、中国の仲介で停戦協議を開始",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104132.php",
-      "publishedAt": "2026-04-02T08:50:00Z",
-      "snippet": "軍事衝突が続くパキスタンとアフガニスタンのタリバン暫定政権が、中国のウルムチで停戦に向けた実務者協議を開始した。国境検問所の再開などが焦点となっている。",
-      "collectedAt": "2026-04-03T21:26:27.471Z"
-    },
-    {
       "countryCode": "32",
       "cat": "economic",
       "title": "アルゼンチンの貧困率、2025年末に7年ぶりの低水準を記録",
@@ -1148,16 +938,6 @@
       "url": "https://www.brasilnippou.com/2026/04/02-21-argentina-poverty/",
       "publishedAt": "2026-04-02T10:00:00Z",
       "snippet": "ミレイ政権の経済改革により、アルゼンチンの貧困率は2018年以来の低水準まで改善した。経済回復の兆しが政権にとって追い風となっている。",
-      "collectedAt": "2026-04-03T21:26:27.471Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル大統領、次期最高裁判事にメシアス氏を正式指名",
-      "src": "ブラジル日報",
-      "url": "https://www.brasilnippou.com/2026/04/02-11-brazil-stf/",
-      "publishedAt": "2026-04-02T09:00:00Z",
-      "snippet": "ルーラ大統領は、空席となっていた最高裁判事の候補に連邦総弁護庁（AGU）長官のジョルジェ・メシアス氏を指名した。司法への影響力強化を狙う。",
       "collectedAt": "2026-04-03T21:26:27.471Z"
     },
     {
@@ -1268,16 +1048,6 @@
       "url": "https://www.kab.co.jp/news/article/?id=20260403001",
       "publishedAt": "2026-04-03T10:00:00Z",
       "snippet": "2027年度予算案で、前年度比4割増の1.5兆ドルの国防費を計上。対イラン軍事作戦の継続と軍備増強を鮮明にしている。また、ボンディ司法長官を電撃解任した。",
-      "collectedAt": "2026-04-03T21:26:27.471Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米政府、ベネズエラ暫定大統領への制裁を解除 外交関係修復へ",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026040200256",
-      "publishedAt": "2026-04-02T07:18:00Z",
-      "snippet": "米財務省は、マドゥロ氏拘束後に就任したロドリゲス暫定大統領への制裁解除を発表。対米協調路線への転換を評価し、エネルギー分野での協力を深める。",
       "collectedAt": "2026-04-03T21:26:27.471Z"
     },
     {
@@ -1581,16 +1351,6 @@
       "collectedAt": "2026-04-04T06:51:31.827Z"
     },
     {
-      "countryCode": "180",
-      "cat": "conflict",
-      "title": "コンゴ民主共和国東部でM23の攻勢激化　2660万人が食料不安に",
-      "src": "国連WFP",
-      "url": "https://ja.wfp.org/news/drc-humanitarian-crisis-2026",
-      "publishedAt": "2026-04-02T09:00:00Z",
-      "snippet": "コンゴ民主共和国東部で武装勢力M23による攻撃が続き、人道危機が深刻化している。WFPは2026年初頭までに2660万人が深刻な飢餓に直面すると警告した。",
-      "collectedAt": "2026-04-04T06:51:31.827Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "高市首相、フランスのマクロン大統領と首脳会談　中東情勢で連携確認",
@@ -1701,16 +1461,6 @@
       "collectedAt": "2026-04-04T06:51:31.827Z"
     },
     {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米政府、ベネズエラ暫定大統領への制裁を解除　石油協力深める",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026040200189",
-      "publishedAt": "2026-04-02T07:18:00Z",
-      "snippet": "米財務省は1日、ベネズエラのロドリゲス暫定大統領に対する制裁を解除した。マドゥロ氏拘束後の暫定政権と協力し、エネルギー供給の安定化を図る狙い。",
-      "collectedAt": "2026-04-04T06:51:31.827Z"
-    },
-    {
       "countryCode": "4",
       "cat": "tension",
       "title": "アフガニスタン北部でM5.8の地震、少なくとも8人死亡",
@@ -1788,16 +1538,6 @@
       "url": "https://www.kab.co.jp/news/202604021508",
       "publishedAt": "2026-04-02T15:08:00Z",
       "snippet": "李在明大統領は原油高騰による国民負担を軽減するため、低所得層への給付金を含む緊急経済対策予算案の早期可決を国会に求めた。",
-      "collectedAt": "2026-04-04T12:37:15.641Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "tension",
-      "title": "パキスタンとアフガニスタン、中国の仲介で停戦協議を開始",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/489012.php",
-      "publishedAt": "2026-04-02T08:50:00Z",
-      "snippet": "国境付近での軍事衝突を受け、両国は中国・ウルムチで協議を開始。停戦の可能性や検問所の再開が焦点となっている。",
       "collectedAt": "2026-04-04T12:37:15.641Z"
     },
     {
@@ -2021,16 +1761,6 @@
       "collectedAt": "2026-04-04T15:24:13.549Z"
     },
     {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米財務省、ベネズエラのロドリゲス暫定大統領に対する制裁を解除",
-      "src": "埼玉新聞",
-      "url": "https://www.saitama-np.co.jp/articles/20260402/0833",
-      "publishedAt": "2026-04-02T08:33:00Z",
-      "snippet": "米財務省は1日、ベネズエラのロドリゲス暫定大統領への制裁解除を発表。石油産業の立て直しに向けた協調路線を模索する。",
-      "collectedAt": "2026-04-04T15:24:13.549Z"
-    },
-    {
       "countryCode": "4",
       "cat": "political",
       "title": "アフガニスタン北部でM5.8の地震、8人死亡 カブールでも強い揺れ",
@@ -2038,16 +1768,6 @@
       "url": "https://www.vietnam.vn/ja/dong-dat-rung-chuyen-khu-vuc-afghanistan-pakistan-it-nhat-8-nguoi-thiet-mang-434197.html",
       "publishedAt": "2026-04-04T00:00:00Z",
       "snippet": "2026年4月3日夜、アフガニスタン北部を震源とするマグニチュード5.8の地震が発生し、カブール州などで家屋が倒壊、少なくとも8人が死亡した。",
-      "collectedAt": "2026-04-04T18:30:35.134Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "political",
-      "title": "パキスタンとアフガニスタン、中国の仲介で停戦交渉を開始",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-1234.php",
-      "publishedAt": "2026-04-02T08:50:00Z",
-      "snippet": "軍事衝突が続くパキスタンとアフガニスタンのタリバン政権が、中国のウルムチで停戦に向けた協議を開始した。国境検問所の再開などが焦点となっている。",
       "collectedAt": "2026-04-04T18:30:35.134Z"
     },
     {
@@ -2088,16 +1808,6 @@
       "url": "https://www.jimin.jp/news/policy/2026/04/03/208000.html",
       "publishedAt": "2026-04-03T00:00:00Z",
       "snippet": "日本の高市首相はフランスを訪問し、マクロン大統領と会談。中東情勢やウクライナ支援での連携を確認し、両国のパートナーシップを強調した。",
-      "collectedAt": "2026-04-04T18:30:35.134Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツの2026年成長率予測を0.6%に下方修正 エネルギー高騰が打撃",
-      "src": "ドイツニュースダイジェスト",
-      "url": "https://www.newsdigest.de/news/germany/2026-growth-forecast-lowered/",
-      "publishedAt": "2026-04-02T08:00:00Z",
-      "snippet": "ドイツの主要経済研究所は、中東紛争に伴うエネルギー価格高騰を受け、2026年の実質GDP成長率予測を0.6%に大幅に引き下げた。",
       "collectedAt": "2026-04-04T18:30:35.134Z"
     },
     {
@@ -2198,16 +1908,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260404-OYT1T50456/",
       "publishedAt": "2026-04-04T00:00:00Z",
       "snippet": "トランプ米政権は、国防費を42%増額する予算教書を提出した。次世代ミサイル防衛や「トランプ級戦艦」の建造など、軍事力の圧倒的強化を目指す。",
-      "collectedAt": "2026-04-04T18:30:35.134Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米政府、ベネズエラ暫定大統領への個人制裁を解除 石油安定化狙う",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/venezuela-sanctions-lifted.php",
-      "publishedAt": "2026-04-02T09:06:00Z",
-      "snippet": "トランプ米政権は、ベネズエラのロドリゲス暫定大統領への個人制裁を解除した。資源豊富な同国の安定と石油産業の立て直しを支援する狙い。",
       "collectedAt": "2026-04-04T18:30:35.134Z"
     },
     {
@@ -2319,16 +2019,6 @@
       "publishedAt": "2026-04-03T16:10:00Z",
       "snippet": "トルコの3月消費者物価指数は前月比1.94%上昇。インフレ率はピークを過ぎたものの、市民の生活実感との乖離は依然として大きい。",
       "collectedAt": "2026-04-04T21:24:37.454Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン3月の税収が減少、年初の好調から一転し経済停滞の兆候か",
-      "src": "FXニュース速報",
-      "url": "https://arvo.net/fx-news/argentina-tax-revenue-202604/",
-      "publishedAt": "2026-04-02T09:00:00Z",
-      "snippet": "3月の税収が16兆71億ペソに達し、前月のピークから減少した。投資家はこれが一時的な変動か、景気後退の始まりか注視している。",
-      "collectedAt": "2026-04-05T01:45:22.933Z"
     },
     {
       "countryCode": "76",
@@ -2671,16 +2361,6 @@
       "collectedAt": "2026-04-05T06:56:59.405Z"
     },
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国、2026年の経済成長率目標を4.5〜5％に設定　景気は「弱い動き」",
-      "src": "三菱UFJリサーチ&コンサルティング",
-      "url": "https://www.murc.jp/report/rc/economy/china/china_260402/",
-      "publishedAt": "2026-04-02T09:00:00Z",
-      "snippet": "中国政府は2026年の成長率目標を数十年ぶりの低水準となる4.5〜5％と発表した。3月のPMIは50を上回ったが、不動産不況や消費低迷により景気判断は「弱い動き」に据え置かれた。",
-      "collectedAt": "2026-04-05T06:56:59.405Z"
-    },
-    {
       "countryCode": "180",
       "cat": "conflict",
       "title": "コンゴ民主共和国、東部でM23との戦闘激化　2600万人が食料不安に",
@@ -2839,7 +2519,187 @@
       "publishedAt": "2026-04-05T09:00:00Z",
       "snippet": "フーシ派がイランとの連帯を強め、イスラエルへのミサイル攻撃を開始した。ホルムズ海峡に続きバブ・エル・マンデブ海峡も封鎖される恐れがあり、世界の石油供給に深刻な脅威を与えている。",
       "collectedAt": "2026-04-05T06:56:59.405Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル、即時決済システム「Pix」のグローバル展開を計画 米国は批判",
+      "src": "Bitcoin News",
+      "url": "https://jp.bitcoin.com/2026/04/05/brazil-pix-globalization/",
+      "publishedAt": "2026-04-05T00:45:00Z",
+      "snippet": "ブラジル中央銀行は、国内で普及している決済システムPixの国際版「International Pix」の立ち上げを計画。米国は既存の民間手段を不利にすると批判している。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー新大統領に国軍トップのミンアウンフライン氏が選出",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/104105",
+      "publishedAt": "2026-04-03T22:46:00Z",
+      "snippet": "ミャンマー議会は3日、国軍トップのミンアウンフライン前総司令官を大統領に選出。2021年のクーデター以降続く軍政支配が確定した。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国、パキスタンとアフガニスタンの和平交渉進展を評価",
+      "src": "Vietnam.vn (AP通信引用)",
+      "url": "https://www.vietnam.vn/ja/china-comments-on-pakistan-afghanistan-peace-talks/",
+      "publishedAt": "2026-04-05T10:00:00Z",
+      "snippet": "中国外務省は、ウルムチで実施されているパキスタンとアフガニスタンのタリバン政権との和平交渉が着実に進展していると発表。中国が仲介役を務めている。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "political",
+      "title": "コンゴ民主共和国、52年ぶりのW杯出場決定後に自国選手を拘束か",
+      "src": "Goal.com 日本版",
+      "url": "https://www.goal.com/jp/news/congo-dr-detains-players-after-wc-qualification/104114",
+      "publishedAt": "2026-04-03T12:00:00Z",
+      "snippet": "2026年W杯出場を決めたコンゴ民主共和国で、サッカー連盟が選手の欧州クラブへの復帰を許可せず拘束しているとの異例の事態が報じられている。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "マクロン仏大統領、日本と韓国を訪問へ ホルムズ海峡問題で連携確認",
+      "src": "オリーブ山通信",
+      "url": "https://mtolive.net/hormuz-strait-crisis-macron-visit-japan-korea/",
+      "publishedAt": "2026-04-04T15:00:00Z",
+      "snippet": "フランスのマクロン大統領が日本と韓国を訪問。トランプ米大統領の武力による海峡奪還案に対し、外交的解決の必要性を訴え連携を模索する。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、4月から16年ぶりの国勢調査を実施へ デジタル化が焦点",
+      "src": "ジェトロ（JETRO）",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/104104.html",
+      "publishedAt": "2026-04-03T10:00:00Z",
+      "snippet": "インド政府は2026年4月から住宅調査を開始し、約16年ぶりとなる国勢調査を実施。スマホ等を用いたデジタル化とカースト情報の収集が特徴。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、米軍F-15E戦闘機を撃墜と発表 革命防衛隊の新型防空システム使用",
+      "src": "TBS NEWS DIG / ライブドア",
+      "url": "https://news.livedoor.com/article/detail/104147/",
+      "publishedAt": "2026-04-05T10:29:00Z",
+      "snippet": "イラン軍当局は、3日に革命防衛隊の新型防空システムが米軍の最新鋭戦闘機を撃墜したと主張。米側も乗員1人の救出と1人の行方不明を認めている。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イエメンからのミサイル攻撃を迎撃 テルアビブでサイレン",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/104113/",
+      "publishedAt": "2026-04-05T01:00:00Z",
+      "snippet": "4日、イエメンのフーシ派が発射したミサイルがテルアビブ周辺に飛来し、迎撃された。イランの最後通牒拒否を受け、中東全域で緊張が極限に達している。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、フランスのマクロン大統領と首脳会談 エネルギー外交で連携",
+      "src": "自由民主（自民党機関紙）",
+      "url": "https://www.jimin.jp/news/policy/2026/04/104149.html",
+      "publishedAt": "2026-04-03T15:00:00Z",
+      "snippet": "高市総理は来日したマクロン大統領と会談し、中東情勢緊迫化を受けた重要物資の安定供給確保や、ホルムズ海峡の通航再開に向けた外交努力で一致した。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "political",
+      "title": "金正恩総書記、平壌のペットショップを視察 経済成長を誇示か",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/104113",
+      "publishedAt": "2026-04-03T19:46:00Z",
+      "snippet": "金総書記が娘のジュエ氏と共に平壌のペットショップを視察。軍事アピールだけでなく、レジャーを楽しめる経済的余裕を内外に示す狙いがあるとみられる。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国で「有料ゴミ袋不足」の偽情報拡散 李大統領が厳正対処を指示",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260405-104135/",
+      "publishedAt": "2026-04-05T11:00:00Z",
+      "snippet": "中東情勢悪化に伴う原料不足の不安を煽る「ゴミ袋不足」の偽ニュースがSNSで拡散し、買い占めが発生。李在明大統領は「悪意ある偽ニュース」と非難した。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "ナイジェリア、石油生産量が日量184万バレルに増加 徴収一元化が奏功",
+      "src": "IDEA TV / note",
+      "url": "https://note.com/coffee_pen/n/n104129",
+      "publishedAt": "2026-04-04T12:00:00Z",
+      "snippet": "ナイジェリアの石油ロイヤリティ収入が88%急増。徴収の一元化と生産量の回復（日量184万バレル）が財政課題の解決に寄与している。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "conflict",
+      "title": "パキスタンとアフガニスタンで豪雨災害、両国で121人が死亡",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/104106",
+      "publishedAt": "2026-04-05T13:00:00Z",
+      "snippet": "2週間続く豪雨により、パキスタンとアフガニスタンの国境地帯で洪水や土砂崩れが発生し、計121人が死亡。インフラにも甚大な被害が出ている。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍の3月死傷者、侵攻後最多の3万5千人超 ウクライナ発表",
+      "src": "ABEMA TIMES / ライブドア",
+      "url": "https://news.livedoor.com/article/detail/104104/",
+      "publishedAt": "2026-04-05T11:11:00Z",
+      "snippet": "ゼレンスキー大統領は、3月のロシア軍死傷者が3万5千人以上に達し、侵攻開始以来最悪の水準になったと発表。主にドローン攻撃による損失としている。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "economic",
+      "title": "ソマリア、30年以上ぶりに自国旗を掲げた船舶を登録 海運復活へ",
+      "src": "Africa News Highlights",
+      "url": "https://www.youtube.com/watch?v=104108",
+      "publishedAt": "2026-04-03T16:05:00Z",
+      "snippet": "ソマリア政府は30年以上ぶりに自国旗の下で船舶を登録。内戦からの復興と海事セクターの活性化に向けた重要な経済的節目となった。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダンの病院にRSFが攻撃、サウジアラビアが「国際法違反」と非難",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/104146/",
+      "publishedAt": "2026-04-05T02:04:00Z",
+      "snippet": "スーダン白ナイル州の病院が即応支援部隊（RSF）の攻撃を受け、医療スタッフに死傷者が出た。サウジ外務省は「正当化できない非難されるべき行為」と声明。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "トルコ・ウクライナ首脳会談、黒海の安全保障と和平努力を協議",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/104109",
+      "publishedAt": "2026-04-05T13:54:00Z",
+      "snippet": "エルドアン大統領はゼレンスキー大統領とイスタンブールで会談。黒海での航行安全確保や、ロシアとの和平交渉再開に向けたトルコの仲介案を協議した。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イランに「地獄まで48時間」と最後通牒",
+      "src": "FNN / khb東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/104141",
+      "publishedAt": "2026-04-05T09:23:00Z",
+      "snippet": "トランプ大統領はSNSで、イランが合意に応じなければ「48時間後にあらゆる地獄が降り注ぐ」と警告。期限は日本時間7日午前9時とされる。",
+      "collectedAt": "2026-04-05T09:32:15.750Z"
     }
   ],
-  "updatedAt": "2026-04-05T06:56:59.405Z"
+  "updatedAt": "2026-04-05T09:32:15.750Z"
 }
