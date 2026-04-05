@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "スターマー英首相、ホルムズ海峡再開に向け35カ国会合を主催へ",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/international/20260401-001.html",
-      "publishedAt": "2026-04-01T21:32:00Z",
-      "snippet": "イギリス政府は今週後半、ホルムズ海峡の航行安全を確保するための外相級会合を開催する。日本を含む有志国と連携し、イランへの外交圧力を強める狙い。",
-      "collectedAt": "2026-04-01T12:59:59.680Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナ東部ルハンシク州を完全制圧と発表",
-      "src": "KAB ONLINE",
-      "url": "https://www.kab.co.jp/news/international/20260401-002/",
-      "publishedAt": "2026-04-01T23:59:00Z",
-      "snippet": "ロシア国防省は1日、ルハンシク州全土を「解放」したと発表。ウクライナ側は戦闘継続を主張しており、情報は錯綜している。",
-      "collectedAt": "2026-04-01T16:03:16.991Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、ホルムズ海峡再開に向け35カ国会合を主催へ",
-      "src": "KAB ONLINE",
-      "url": "https://www.kab.co.jp/news/international/20260401-001/",
-      "publishedAt": "2026-04-01T21:32:00Z",
-      "snippet": "イギリスのスターマー首相は、イランによるホルムズ海峡封鎖を解除するための外交的措置を協議する外相級会合を今週後半に開催すると発表した。",
-      "collectedAt": "2026-04-01T16:03:16.991Z"
-    },
-    {
       "countryCode": "4",
       "cat": "conflict",
       "title": "パキスタンとアフガニスタンが中国で停戦協議を開始",
@@ -51,16 +21,6 @@
       "collectedAt": "2026-04-02T01:26:23.002Z"
     },
     {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、米国の停戦主張を否定　ホルムズ海峡の封鎖継続",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260401-OYT1T50456/",
-      "publishedAt": "2026-04-01T23:00:00Z",
-      "snippet": "トランプ米大統領が「イラン側から停戦要請があった」と投稿したのに対し、イラン外務省は「虚偽で根拠がない」と否定。軍事衝突開始から1ヶ月が経過したが、終結の兆しは見えない。",
-      "collectedAt": "2026-04-02T01:26:23.002Z"
-    },
-    {
       "countryCode": "862",
       "cat": "political",
       "title": "米政府、ベネズエラ暫定大統領への制裁を解除　石油産業再建狙う",
@@ -69,26 +29,6 @@
       "publishedAt": "2026-04-02T08:33:00Z",
       "snippet": "米財務省はロドリゲス暫定大統領への個人制裁を解除。中東危機による原油不足を受け、資源豊富なベネズエラとの協調を深め、石油供給の安定化を図る狙いがある。",
       "collectedAt": "2026-04-02T01:26:23.002Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国の2025年第4四半期GDPは4.5%成長、中東紛争によるエネルギー価格高騰が重石",
-      "src": "三井住友DSアセットマネジメント",
-      "url": "https://www.smd-am.co.jp/market/report/20260402",
-      "publishedAt": "2026-04-02T00:00:00Z",
-      "snippet": "中国の経済成長は前年同期比4.5%と、前期の4.8%から鈍化。イラン戦争に伴う原油価格上昇が製造業のコストを押し上げ、景気回復の足かせとなっている。",
-      "collectedAt": "2026-04-02T07:03:24.343Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "tension",
-      "title": "パリの米系銀行で爆破未遂事件、仏検察「親イラン系組織関与」の可能性を捜査",
-      "src": "KFB福島放送",
-      "url": "https://www.kfb.co.jp/news/world/20260401",
-      "publishedAt": "2026-04-01T23:59:00Z",
-      "snippet": "パリ市内の米系銀行を狙った爆破未遂が発生。フランス検察は、中東での米イスラエルによるイラン攻撃に反発する親イラン勢力によるテロの可能性があるとみて警戒を強めている。",
-      "collectedAt": "2026-04-02T07:03:24.343Z"
     },
     {
       "countryCode": "356",
@@ -108,16 +48,6 @@
       "url": "https://www.afpbb.com/articles/-/20260402",
       "publishedAt": "2026-04-02T12:07:00Z",
       "snippet": "トランプ氏がイラン攻撃の戦略目標達成を宣言した直後、イランはイスラエルへ向け3波にわたるミサイル攻撃を実施。イスラエル軍は迎撃システムを作動させたと発表した。",
-      "collectedAt": "2026-04-02T07:03:24.343Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア国防省、ウクライナ東部ルハンスク州の「完全解放」を宣言",
-      "src": "khb東日本放送",
-      "url": "https://www.khb-tv.co.jp/news/world/20260401",
-      "publishedAt": "2026-04-01T23:59:00Z",
-      "snippet": "ロシア軍は1日、ルハンスク州全域を制圧したと発表。一方、ウクライナ側は一部地域での支配維持を主張しており、和平交渉を有利に進めるための情報戦との見方も出ている。",
       "collectedAt": "2026-04-02T07:03:24.343Z"
     },
     {
@@ -161,16 +91,6 @@
       "collectedAt": "2026-04-02T09:53:55.410Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、ホルムズ海峡の航行再開に向け35カ国会合を主催へ",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/2026040108",
-      "publishedAt": "2026-04-01T21:32:00Z",
-      "snippet": "イギリスはイランによる海峡封鎖に対し、日本を含む35カ国の外相級会合を今週開催すると発表。外交的措置による通航再開を目指す。",
-      "collectedAt": "2026-04-02T09:53:55.410Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ大統領、イランを「石器時代に戻す」と警告　攻撃継続を宣言",
@@ -189,16 +109,6 @@
       "publishedAt": "2026-04-02T08:33:00Z",
       "snippet": "米国はベネズエラの石油産業立て直しと安定化を目指し、ロドリゲス暫定政権との連携を強化。長年閉鎖されていた米大使館も再開された。",
       "collectedAt": "2026-04-02T09:53:55.410Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタンとアフガニスタン、中国の仲介で停戦協議を開始",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104188.php",
-      "publishedAt": "2026-04-01T23:50:00Z",
-      "snippet": "軍事衝突が続くパキスタンとアフガニスタンのタリバン暫定政権が、中国の仲介により新疆ウイグル自治区で停戦に向けた協議を開始した。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
     },
     {
       "countryCode": "104",
@@ -311,16 +221,6 @@
       "collectedAt": "2026-04-02T12:54:08.614Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、ホルムズ海峡再開に向け35カ国外相会合を招集",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260402-uk-hormuz",
-      "publishedAt": "2026-04-02T00:12:00Z",
-      "snippet": "イギリスは対イラン戦争には参加しない方針を堅持しつつ、世界経済への影響を抑えるため、日本を含む有志国と海峡の安全航行確保を協議する。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ米大統領、対イラン作戦の成果を強調「2〜3週間で合意目指す」",
@@ -418,16 +318,6 @@
       "url": "https://www.ukrinform.jp/rubric-polytics/3847145-toranpu-mi-da-tong-ling-ou-zhouga-horumuzu-hai-xia-feng-suo-jie-chuwo-zhi-yuan-shinakerebaukurainaheno-wu-qi-gong-yuwo-ting-zhirusurukotowo-shi-zuo.html",
       "publishedAt": "2026-04-02T11:49:00Z",
       "snippet": "トランプ氏は、欧州諸国がホルムズ海峡の開放に協力しない場合、ウクライナへの支援を打ち切ると脅した。ウクライナ側は強い懸念を表明している。",
-      "collectedAt": "2026-04-02T15:54:19.441Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、ホルムズ海峡再開に向け35カ国会合を主催へ",
-      "src": "熊本朝日放送 / ARAB NEWS",
-      "url": "https://www.kab.co.jp/news/20260401-uk-hormuz-meeting/",
-      "publishedAt": "2026-04-01T21:32:00Z",
-      "snippet": "スターマー首相は、イランによる海峡封鎖を解除するための外交的・政治的措置を検討する多国間会合を2日に開催すると発表。日本も参加予定。",
       "collectedAt": "2026-04-02T15:54:19.441Z"
     },
     {
@@ -921,16 +811,6 @@
       "collectedAt": "2026-04-03T09:46:31.278Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、ホルムズ海峡再開に向け35カ国外相会合を主催",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/876543",
-      "publishedAt": "2026-04-02T00:12:00Z",
-      "snippet": "イギリスのスターマー首相は、イランによるホルムズ海峡封鎖を解除するため、日本を含む35カ国による外相級会合をオンラインで開催すると発表した。",
-      "collectedAt": "2026-04-03T09:46:31.278Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、NATO離脱を「絶対的に検討」 欧州の非協力に不満",
@@ -1381,16 +1261,6 @@
       "collectedAt": "2026-04-03T21:26:27.471Z"
     },
     {
-      "countryCode": "566",
-      "cat": "tension",
-      "title": "ナイジェリア、治安悪化で全国規模の緊急事態宣言が継続",
-      "src": "NEWT",
-      "url": "https://newt.net/mag/9871234560",
-      "publishedAt": "2026-04-02T00:00:00Z",
-      "snippet": "イスラム過激派や武装集団による暴力が激化しており、2025年11月に宣言された治安上の緊急事態が続いている。2027年の総選挙を控え政治的緊張も高まっている。",
-      "collectedAt": "2026-04-03T21:26:27.471Z"
-    },
-    {
       "countryCode": "586",
       "cat": "tension",
       "title": "パキスタン、アフガニスタンとの停戦協議に「希望の光」",
@@ -1428,16 +1298,6 @@
       "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104135.php",
       "publishedAt": "2026-04-03T19:00:00Z",
       "snippet": "ウクライナ軍がロシアの攻勢を阻止し、戦況が改善しているとの認識を示した。一方、北部スーミ州ではロシア軍の空爆により民間人に死傷者が出ている。",
-      "collectedAt": "2026-04-03T21:26:27.471Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英首相、ホルムズ海峡の安全確保に向け35カ国外相会合を招集",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/867012",
-      "publishedAt": "2026-04-02T00:12:00Z",
-      "snippet": "スターマー首相は、事実上の封鎖状態にあるホルムズ海峡の航行再開を目指し、日本を含む有志国会合を開催すると発表。英国は対イラン軍事作戦には参加しない意向。",
       "collectedAt": "2026-04-03T21:26:27.471Z"
     },
     {
@@ -1931,16 +1791,6 @@
       "collectedAt": "2026-04-04T12:37:15.641Z"
     },
     {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インド、ホルムズ海峡再開に向けた35カ国会合に参加",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/202604012132",
-      "publishedAt": "2026-04-01T21:32:00Z",
-      "snippet": "ホルムズ海峡の事実上の封鎖を受け、インドは英国が主催する通航再開に向けた国際会合に参加。エネルギー安保への影響を懸念している。",
-      "collectedAt": "2026-04-04T12:37:15.641Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン、米IT拠点を攻撃「米イスラエルが降伏するまで続行」",
@@ -2018,16 +1868,6 @@
       "url": "https://www.ukrinform.jp/rubric-defense/3847900-zerenshiki-yu-da-tong-ling-patoriotto-misairu-ni-tsuki-yi-bu-no-guo-to-gong-yu-ni-guan-shite-he-yi.html",
       "publishedAt": "2026-04-03T13:03:00Z",
       "snippet": "防空体制強化のため、複数の国とパトリオット・ミサイルの追加供与で合意した。ロシアの連日の空爆に対抗する狙い。",
-      "collectedAt": "2026-04-04T12:37:15.641Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、ホルムズ海峡再開に向け35カ国会合を主催",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/680126",
-      "publishedAt": "2026-04-02T00:12:00Z",
-      "snippet": "スターマー首相はイラン戦争への直接関与を否定しつつ、封鎖されたホルムズ海峡の安全航行再開に向けた国際的な外交措置を主導する。",
       "collectedAt": "2026-04-04T12:37:15.641Z"
     },
     {
@@ -2531,16 +2371,6 @@
       "collectedAt": "2026-04-04T21:24:37.454Z"
     },
     {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ米大統領、対イラン軍事作戦の継続を表明「2〜3週間で決着」",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/123457.html",
-      "publishedAt": "2026-04-02T00:00:00Z",
-      "snippet": "トランプ大統領は1日の演説で、イランの核・ミサイル能力を破壊したと主張し、今後数週間で目標を完遂させると述べた。NATO離脱の可能性も示唆。",
-      "collectedAt": "2026-04-04T21:24:37.454Z"
-    },
-    {
       "countryCode": "887",
       "cat": "conflict",
       "title": "イエメン・フーシ派、バブ・エル・マンデブ海峡の封鎖を示唆",
@@ -2549,7 +2379,157 @@
       "publishedAt": "2026-04-02T05:51:00Z",
       "snippet": "親イラン武装組織フーシ派が海峡封鎖を警告したことで、紅海を通過する船舶が激減。ジブチ沿岸警備隊が警戒を強めている。",
       "collectedAt": "2026-04-04T21:24:37.454Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン3月の税収が減少、年初の好調から一転し経済停滞の兆候か",
+      "src": "FXニュース速報",
+      "url": "https://arvo.net/fx-news/argentina-tax-revenue-202604/",
+      "publishedAt": "2026-04-02T09:00:00Z",
+      "snippet": "3月の税収が16兆71億ペソに達し、前月のピークから減少した。投資家はこれが一時的な変動か、景気後退の始まりか注視している。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル・ルーラ政権、景気刺激策を打ち出すも支持率低迷で広告戦略強化へ",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/04/03/lula-government-poll/",
+      "publishedAt": "2026-04-03T12:00:00Z",
+      "snippet": "一連の経済対策にもかかわらず政権支持率が伸び悩んでおり、ルーラ大統領は広告予算を増額して世論の巻き返しを図る方針。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル初の原子力潜水艦開発、完成が2037年に先送りへ",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/04/03/brazil-nuclear-sub-delay/",
+      "publishedAt": "2026-04-03T11:00:00Z",
+      "snippet": "半世紀近く続く原潜開発計画が正念場を迎えている。技術的課題と予算制約により、当初の予定から大幅に遅れる見通し。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー新大統領に国軍トップのミンアウンフライン氏を選出",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260403-myanmar-president/",
+      "publishedAt": "2026-04-03T15:00:00Z",
+      "snippet": "ミャンマー議会は3日、クーデター後に実権を握ってきたミンアウンフライン前総司令官を大統領に選出した。軍政支配の継続が確定した。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国共産党、馬興瑞・前新疆ウイグル自治区書記を汚職疑いで調査",
+      "src": "読売新聞",
+      "url": "https://news.livedoor.com/article/detail/20260403-china-corruption/",
+      "publishedAt": "2026-04-03T22:47:00Z",
+      "snippet": "中央規律検査委員会は、政治局員の馬興瑞氏を重大な規律違反の疑いで調査していると発表。習近平指導部による引き締めが続いている。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "political",
+      "title": "コンゴ民主共和国、52年ぶりのW杯出場決定も選手の「出国禁止」で混乱",
+      "src": "Goal.com",
+      "url": "https://www.goal.com/jp/news/congo-dr-world-cup-2026-players-detained/20260403",
+      "publishedAt": "2026-04-03T06:15:00Z",
+      "snippet": "W杯出場権獲得を祝う国内セレモニーのため、サッカー連盟が代表選手の所属クラブへの復帰を認めず、欧州各クラブが法的措置を検討している。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "マクロン仏大統領が訪日、高市総理と安全保障・経済分野の協力強化で一致",
+      "src": "自由民主党",
+      "url": "https://www.jimin.jp/news/parliament/2026/04/03/takaichi-macron-summit.html",
+      "publishedAt": "2026-04-03T10:00:00Z",
+      "snippet": "日仏首脳会談が行われ、「日仏防衛ロードマップ」や重要鉱物に関する協力で合意。高市総理はマクロン氏を「特別なパートナー」と強調した。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン「地獄の門はトランプ氏に開かれる」と反発、48時間以内の停戦要求を拒否",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/20260405-iran-trump-warning/",
+      "publishedAt": "2026-04-05T07:49:00Z",
+      "snippet": "トランプ米大統領の最後通告に対し、イラン側は「事態が悪化すれば地域全体が地獄になる」と警告。ホルムズ海峡の封鎖継続を示唆した。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、ウクライナ戦争で戦死した部隊の埋葬式を4月中旬に開催へ",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/world/2026/04/03/north-korea-burial/",
+      "publishedAt": "2026-04-03T11:00:00Z",
+      "snippet": "ロシアを支援するために派遣され、ウクライナで死亡した兵士を称える博物館が完成間近。金正恩氏が視察し「偉大な英雄主義」と称賛した。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "ナイジェリア大統領府、ティヌブ大統領の空港での被害者面会を擁護",
+      "src": "The Nigerian Voice",
+      "url": "https://www.thenigerianvoice.com/news/2026/04/04/nigeria-latest-news.html",
+      "publishedAt": "2026-04-04T09:00:00Z",
+      "snippet": "プラトー州の攻撃被害者と空港で面会したことへの批判に対し、安全上の懸念と空港の運用制限によるものだと説明。政治的緊張が続いている。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "economic",
+      "title": "ソマリア、30年以上ぶりに自国旗を掲げた船舶を登録、海洋セクター復活へ",
+      "src": "Africa News Highlights",
+      "url": "https://www.youtube.com/watch?v=somalia-vessel-2026",
+      "publishedAt": "2026-04-03T16:05:00Z",
+      "snippet": "内戦以来途絶えていた自国籍船の登録を再開。経済再建に向けた重要な一歩として、ハッサン・シェイク・モハムド大統領が成果を強調した。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "トルコ、パキスタンと共に米・イラン停戦の仲介を継続、外相が会談を模索",
+      "src": "Livedoor News",
+      "url": "https://news.livedoor.com/article/detail/20260404-turkey-iran-talks/",
+      "publishedAt": "2026-04-04T23:04:00Z",
+      "snippet": "トルコは仲介国としてアメリカとイランの戦闘終結に向けた働きかけを強めている。イラン外相はトルコでの協議を否定せず、外交的解決の道を探っている。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ南部ニコポリを無人機で攻撃、民間人5名死亡",
+      "src": "Ukrinform",
+      "url": "https://www.ukrinform.jp/rubric-ato/20260404-nikopol-attack.html",
+      "publishedAt": "2026-04-04T13:12:00Z",
+      "snippet": "FPV無人機による攻撃で商店などが破壊され、14歳の女児を含む多数が負傷。ロシア軍は攻撃戦術を変えながら全土への攻撃を継続している。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ政権、2027年度国防費を42％増の240兆円要求、過去最大規模に",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260404-us-defense-budget/",
+      "publishedAt": "2026-04-04T14:15:00Z",
+      "snippet": "「力による平和」を掲げ、ミサイル防衛システム「ゴールデンドーム」の構築などに巨額予算を投入。他分野の予算は10％削減する方針。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "tension",
+      "title": "イエメン・フーシ派の封鎖示唆でバブエルマンデブ海峡の船舶が激減",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260402-yemen-houthi-blockade/",
+      "publishedAt": "2026-04-02T05:51:00Z",
+      "snippet": "イランと連帯するフーシ派が海峡封鎖を警告したことで、多くの商船が喜望峰経由に迂回。ジブチ沿岸警備隊はパトロールを倍増させている。",
+      "collectedAt": "2026-04-05T01:45:22.933Z"
     }
   ],
-  "updatedAt": "2026-04-04T21:24:37.454Z"
+  "updatedAt": "2026-04-05T01:45:22.933Z"
 }
