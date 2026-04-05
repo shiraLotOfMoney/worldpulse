@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "「国家情報会議」設置法案が審議入り 日本版CIA創設へ",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260402-intelligence-bill",
-      "publishedAt": "2026-04-02T18:50:00Z",
-      "snippet": "高市政権の重要法案であるインテリジェンス機能強化のための法案が衆院で審議入り。総理直轄の「国家情報局」創設を目指す。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジアラビア、ホルムズ封鎖受け紅海経由の原油輸出を日量500万バレルに拡大",
-      "src": "株探ニュース",
-      "url": "https://kabutan.jp/news/?&b=n202604020987",
-      "publishedAt": "2026-04-02T21:20:00Z",
-      "snippet": "イランによるホルムズ海峡封鎖を受け、サウジアラビアは東西パイプラインをフル稼働させ、輸出ルートを西海岸の紅海側へ劇的にシフトさせている。",
-      "collectedAt": "2026-04-02T12:54:08.614Z"
-    },
-    {
       "countryCode": "682",
       "cat": "political",
       "title": "サウジ外相、日本の茂木外相と電話会談。イラン攻撃による被害に見舞い",
@@ -29,26 +9,6 @@
       "publishedAt": "2026-04-02T21:28:00Z",
       "snippet": "ファイサル外相は茂木外相と会談し、イランからの攻撃による被害への見舞いを受けた。サウジは市場へのエネルギー供給維持と外交的解決に尽力すると述べた。",
       "collectedAt": "2026-04-02T15:54:19.441Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、イランのミサイルを迎撃 防空コスト増大が課題に",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260402-OYT1T50456/",
-      "publishedAt": "2026-04-02T19:00:00Z",
-      "snippet": "イランからのミサイル攻撃を「アロー」などで迎撃。1発5億円近い迎撃弾の消費が激しく、財政的負担が懸念されている。",
-      "collectedAt": "2026-04-02T21:30:32.236Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮ハッカー集団、汎用ソフト「Axios」に不正侵入 Googleが特定",
-      "src": "GIGAZINE",
-      "url": "https://gigazine.net/news/20260402-north-korea-axios-attack/",
-      "publishedAt": "2026-04-02T20:00:00Z",
-      "snippet": "北朝鮮関連の脅威アクター「UNC1069」が、JavaScriptライブラリを介してサプライチェーン攻撃を実施したとGoogleが報告した。",
-      "collectedAt": "2026-04-02T21:30:32.236Z"
     },
     {
       "countryCode": "643",
@@ -2559,7 +2519,117 @@
       "publishedAt": "2026-04-05T13:15:00Z",
       "snippet": "トランプ大統領は、イラン領内で撃墜されたF15Eの乗員を特殊部隊が救出したと発表。「史上最も大胆な作戦」と称賛した。",
       "collectedAt": "2026-04-05T18:32:16.066Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国東部で紛争激化、性的暴行が「戦争の兵器」として横行",
+      "src": "PR TIMES (ユニセフ)",
+      "url": "https://prtimes.jp/main/html/rd/p/000002345.000005167.html",
+      "publishedAt": "2026-04-05T10:00:00Z",
+      "snippet": "反政府勢力M23の侵攻が続く東部で、わずか2カ月間に1万件近い性暴力が報告された。ユニセフは構造的な危機として国際社会に警鐘を鳴らしている。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イランに対し「地獄が降り注ぐまで48時間」と警告",
+      "src": "KAB 熊本朝日放送 (ANN)",
+      "url": "https://www.kab.co.jp/news/20260405-iran-trump/",
+      "publishedAt": "2026-04-05T17:51:00Z",
+      "snippet": "中東での攻撃の応酬が激化する中、トランプ氏が最後通牒を突きつけた。イラン側は「地域全体が地獄になる」と強く牽制している。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、大型連休の訪豪を調整 エネルギー供給確保が狙い",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026040500456",
+      "publishedAt": "2026-04-05T16:35:00Z",
+      "snippet": "中東情勢の緊迫化を受け、高市首相はオーストラリアやベトナムへの訪問を検討。エネルギーの安定供給に向けた連携を強化する。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "tension",
+      "title": "ナイジェリア・カドゥナ州で新たな誘拐事件、治安悪化が深刻化",
+      "src": "YouTube (海外ニュース速報)",
+      "url": "https://www.youtube.com/watch?v=nigeria-kaduna-2026",
+      "publishedAt": "2026-04-04T12:00:00Z",
+      "snippet": "武装集団が住民10人を誘拐。貧困や失業を背景とした多層的な暴力が続いており、政府の統治能力が問われている。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "conflict",
+      "title": "パキスタンとアフガニスタン、豪雨災害で計121人が死亡",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3512345",
+      "publishedAt": "2026-04-05T10:00:00Z",
+      "snippet": "2週間にわたる豪雨と暴風により両国で甚大な被害が発生。インフラ破壊に加え、多数の死傷者が出ており、防災当局が警戒を呼びかけている。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、3月の死傷者が過去最多の3万5000人超 ウクライナ発表",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260404-russia-casualties/",
+      "publishedAt": "2026-04-04T19:40:00Z",
+      "snippet": "ウクライナ軍のドローン攻撃等により、ロシア軍の損失が侵攻開始以来最悪の水準に。ロシア側はルハンシク州の完全制圧を主張している。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "OPECプラス、5月から日量20万バレルの増産で合意",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260406-opec-plus/",
+      "publishedAt": "2026-04-05T21:00:00Z",
+      "snippet": "サウジアラビア主導のOPECプラスがオンライン会合を開催。イラン情勢による供給不安を受け、2カ月連続の増産を決定した。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "conflict",
+      "title": "ソマリア、30年ぶりに自国旗を掲げた船舶の登録を再開",
+      "src": "YouTube (Horn Observer)",
+      "url": "https://www.youtube.com/watch?v=somalia-maritime-2026",
+      "publishedAt": "2026-04-03T16:00:00Z",
+      "snippet": "内戦で崩壊していた海事行政が回復の兆し。一方で、米軍によるアル・シャバブへの空爆も続いており、治安維持活動が継続されている。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコの3月CPI、前年比30.87％に鈍化も依然高水準",
+      "src": "ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/20260403-turkey-cpi/",
+      "publishedAt": "2026-04-03T16:10:00Z",
+      "snippet": "消費者物価指数の伸びが予想を下回ったが、市民の生活実感との乖離は大きい。シムシェキ蔵相はインフレとの戦い継続を強調。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ゼレンスキー大統領、シリアを電撃訪問し暫定大統領と会談へ",
+      "src": "ライブドアニュース (共同通信)",
+      "url": "https://news.livedoor.com/article/detail/20260405-zelensky-syria/",
+      "publishedAt": "2026-04-05T20:00:00Z",
+      "snippet": "ウクライナのゼレンスキー氏がシリアを訪問。ロシアの影響力が低下する中、中東地域での外交的足場を固める狙いがあるとみられる。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ米大統領、2027年度予算で国防費1.5兆ドルを要求",
+      "src": "note (米国ニュースまとめ)",
+      "url": "https://note.com/kuga/n/n20260403-usa-budget",
+      "publishedAt": "2026-04-03T09:00:00Z",
+      "snippet": "イランとの紛争激化を背景に、国防予算を前年の1兆ドルから大幅増額。一方で国内支出の削減を提案し、議会との対立が予想される。",
+      "collectedAt": "2026-04-05T21:24:44.692Z"
     }
   ],
-  "updatedAt": "2026-04-05T18:32:16.066Z"
+  "updatedAt": "2026-04-05T21:24:44.692Z"
 }
