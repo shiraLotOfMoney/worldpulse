@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー新大統領にミンアウンフライン前国軍総司令官を選出",
-      "src": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026040300831",
-      "publishedAt": "2026-04-03T18:31:00Z",
-      "snippet": "ミャンマー連邦議会は3日、新大統領にミンアウンフライン前国軍総司令官を選出した。2021年のクーデター後、初めて大統領が選ばれ、親軍政権が本格始動する。",
-      "collectedAt": "2026-04-03T09:46:31.278Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍、イランからのミサイル攻撃を迎撃 テルアビブで被害",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/israel-iran-missile-attack-20260403/",
-      "publishedAt": "2026-04-03T18:00:00Z",
-      "snippet": "イランから発射されたミサイルがイスラエル全土に飛来し、防空システムが稼働した。テルアビブの駅などが破片で被害を受けたが、ネタニヤフ首相は作戦継続を強調している。",
-      "collectedAt": "2026-04-03T09:46:31.278Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコ、3月の消費者物価指数が30.87%上昇 依然として高水準",
-      "src": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/28765432/",
-      "publishedAt": "2026-04-03T16:10:00Z",
-      "snippet": "トルコの3月の消費者物価指数（CPI）は前年同月比30.87%上昇した。インフレ率は鈍化傾向にあるものの、中東情勢によるエネルギー価格上昇が新たな懸念材料となっている。",
-      "collectedAt": "2026-04-03T09:46:31.278Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国共産党理論誌、輸出主導型成長の限界を指摘",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026040300850",
-      "publishedAt": "2026-04-03T16:47:00Z",
-      "snippet": "党理論誌「求是」は、地政学リスクの高まりにより従来の輸出モデルが困難になったと分析。国内消費の拡大による貿易の均衡化へ戦略的調整を進めるべきだと主張した。",
-      "collectedAt": "2026-04-03T12:43:13.941Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス上院、15歳未満のSNS利用禁止法案を可決",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026040300852",
-      "publishedAt": "2026-04-03T16:48:00Z",
-      "snippet": "青少年への悪影響を懸念するマクロン政権の意向を受け、15歳未満のSNS利用を一律禁止する法案が上院を通過。9月1日の施行を目指し下院案との擦り合わせに入る。",
-      "collectedAt": "2026-04-03T12:43:13.941Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "political",
-      "title": "金正恩氏、娘のジュエ氏と共に平壌のペットショップを視察",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026040300945",
-      "publishedAt": "2026-04-03T17:21:00Z",
-      "snippet": "金正恩総書記は娘と共に新興住宅地のペットショップを訪れ、子犬や子猫をなでる様子が報じられた。国民の生活水準向上をアピールする狙いがあるとみられる。",
-      "collectedAt": "2026-04-03T12:43:13.941Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ大統領、イランを「石器時代に逆戻りさせる」と警告",
@@ -78,16 +18,6 @@
       "url": "https://www.recordchina.co.jp/b931234-s25-c30.html",
       "publishedAt": "2026-04-03T18:50:00Z",
       "snippet": "サウジアラビアのプリンス・スルタン空軍基地にある米軍のTHAADシステム中核レーダーが、イランによる攻撃で損傷したことが衛星画像で確認された。",
-      "collectedAt": "2026-04-03T18:37:04.631Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコの3月PPIインフレ、わずかに減速し2.30%上昇",
-      "src": "FXニュース速報",
-      "url": "https://arvo.net/fx-news/20260403-turkey-ppi/",
-      "publishedAt": "2026-04-03T16:00:00Z",
-      "snippet": "トルコの生産者物価指数が前月比2.30%上昇。2月の2.43%から減速し、コスト圧力がわずかに緩和される兆しが見える。",
       "collectedAt": "2026-04-03T18:37:04.631Z"
     },
     {
@@ -109,36 +39,6 @@
       "publishedAt": "2026-04-03T19:38:00Z",
       "snippet": "テヘラン近郊の橋破壊に続き、トランプ氏はさらなるインフラ攻撃を示唆。米軍戦闘機がイラン上空で撃墜されたとの報道も出ている。",
       "collectedAt": "2026-04-03T18:37:04.631Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー新大統領に国軍トップのミンアウンフライン氏が選出",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/867123",
-      "publishedAt": "2026-04-03T18:31:00Z",
-      "snippet": "ミャンマー議会は3日、国軍トップのミンアウンフライン前総司令官を新大統領に選出した。2021年のクーデター以降続く軍政支配が固定化される見通し。",
-      "collectedAt": "2026-04-03T21:26:27.471Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス、15歳未満のSNS禁止法案を上下両院で協議へ",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026040300842",
-      "publishedAt": "2026-04-03T16:48:00Z",
-      "snippet": "フランス上院は15歳未満のSNS利用を禁止する法案を可決した。下院案との擦り合わせを経て、9月の新学期からの施行を目指す。",
-      "collectedAt": "2026-04-03T21:26:27.471Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "トランプ米大統領、イラン最大の橋破壊を表明「次は発電所だ」",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/867105",
-      "publishedAt": "2026-04-03T16:37:00Z",
-      "snippet": "米軍がテヘラン近郊の高速道路の橋を空爆し、トランプ大統領は「二度と使われることはない」と圧力を強めた。イラン側は報復として米IT企業の拠点を攻撃したと発表。",
-      "collectedAt": "2026-04-03T21:26:27.471Z"
     },
     {
       "countryCode": "408",
@@ -178,16 +78,6 @@
       "url": "https://japanese.joins.com/JArticle/316542",
       "publishedAt": "2026-04-04T09:46:00Z",
       "snippet": "マクロン大統領は3日、韓国の李在明大統領と会談し、ホルムズ海峡の安全確保や原子力・半導体分野での協力拡大で合意した。",
-      "collectedAt": "2026-04-04T01:22:39.466Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、米軍F35戦闘機の「撃墜」を主張　米側は否定",
-      "src": "福島放送（全国ニュース）",
-      "url": "https://www.kfb.co.jp/news/national/202604031747.html",
-      "publishedAt": "2026-04-03T17:47:00Z",
-      "snippet": "イランの革命防衛隊は、米軍のF35戦闘機を撃墜したと発表した。一方、トランプ米大統領はイラン最大の橋を破壊した動画を投稿し、早期合意を迫っている。",
       "collectedAt": "2026-04-04T01:22:39.466Z"
     },
     {
@@ -291,16 +181,6 @@
       "collectedAt": "2026-04-04T04:46:27.475Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "日本政府、中東情勢悪化で重要物資確保のタスクフォース設置",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/def789012.html",
-      "publishedAt": "2026-04-03T17:00:00Z",
-      "snippet": "ホルムズ海峡の封鎖を受け、日本政府はエネルギーや原材料の安定供給を確保するためのタスクフォースを設置した。また、訪日中のマクロン仏大統領と首脳会談を行った。",
-      "collectedAt": "2026-04-04T04:46:27.475Z"
-    },
-    {
       "countryCode": "682",
       "cat": "economic",
       "title": "サウジアラビア、高さ70メートルの新F1サーキット建設を継続",
@@ -311,16 +191,6 @@
       "collectedAt": "2026-04-04T04:46:27.475Z"
     },
     {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコ、3月のインフレ率31.4％　中東リスクで利下げ停止",
-      "src": "みんかぶFX",
-      "url": "https://fx.minkabu.jp/news/202604031550",
-      "publishedAt": "2026-04-03T16:00:00Z",
-      "snippet": "トルコの3月消費者物価指数は前年比31.4％となった。中東情勢によるエネルギー価格上昇を受け、中央銀行は利下げを停止し、政策金利を37％に据え置いている。",
-      "collectedAt": "2026-04-04T04:46:27.475Z"
-    },
-    {
       "countryCode": "4",
       "cat": "conflict",
       "title": "アフガニスタン北東部でM5.8の地震、少なくとも8人死亡",
@@ -328,16 +198,6 @@
       "url": "https://www.jiji.com/jc/article?k=2026040400234",
       "publishedAt": "2026-04-04T11:42:00Z",
       "snippet": "アフガニスタン北東部で3日夜にマグニチュード5.8の地震が発生し、カブール州などで少なくとも8人が死亡した。また、中国の仲介によるパキスタンとの和平協議がウルムチで進行中である。",
-      "collectedAt": "2026-04-04T06:51:31.827Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー新大統領にミンアウンフライン氏選出　軍政支配継続へ",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/890123",
-      "publishedAt": "2026-04-03T18:00:00Z",
-      "snippet": "ミャンマー議会は3日、国軍トップのミンアウンフライン前総司令官を大統領に選出した。2021年のクーデター後、初の正式な大統領就任となるが、民主派は反発を強めている。",
       "collectedAt": "2026-04-04T06:51:31.827Z"
     },
     {
@@ -378,16 +238,6 @@
       "url": "https://news.livedoor.com/article/detail/26166847/",
       "publishedAt": "2026-04-04T05:20:00Z",
       "snippet": "2026年4月3日、アフガニスタン北部とパキスタンの一部を強い地震が襲い、少なくとも8人が死亡した。地域に不安が広がっている。",
-      "collectedAt": "2026-04-04T12:37:15.641Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー新大統領に国軍トップのミンアウンフライン氏選出",
-      "src": "日テレNEWS",
-      "url": "https://news.ntv.co.jp/category/international/f288b88295a24b7d92e10bcf6c4b7e53",
-      "publishedAt": "2026-04-03T18:31:00Z",
-      "snippet": "軍事政権トップのミンアウンフライン氏が新大統領に選出された。民主派を排除した選挙結果に基づくもので、強権統治の継続が懸念される。",
       "collectedAt": "2026-04-04T12:37:15.641Z"
     },
     {
@@ -468,26 +318,6 @@
       "url": "https://note.com/middleeast_invest/n/n987654321",
       "publishedAt": "2026-04-04T05:49:00Z",
       "snippet": "サウジアラムコは2025年通算で855億ドルの配当を確定。原油価格の変動に関わらずベース配当を3.5%引き上げ、株主還元を強化する姿勢を示した。",
-      "collectedAt": "2026-04-04T15:24:13.549Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "economic",
-      "title": "ソマリア、30年以上ぶりに自国旗を掲げた船舶を登録 海事復活へ",
-      "src": "YouTube (Horn of Africa Newsstream)",
-      "url": "https://www.youtube.com/watch?v=somalia_news_20260403",
-      "publishedAt": "2026-04-03T16:05:00Z",
-      "snippet": "ソマリア政府は、内戦以来30年以上途絶えていた自国旗による船舶登録を再開。海事産業の復興に向けた象徴的な一歩となった。",
-      "collectedAt": "2026-04-04T15:24:13.549Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダンの病院にドローン攻撃、少なくとも10人が死亡 MSFが非難",
-      "src": "YouTube (Horn of Africa Newsstream)",
-      "url": "https://www.youtube.com/watch?v=sudan_news_20260403",
-      "publishedAt": "2026-04-03T16:05:00Z",
-      "snippet": "スーダン白ナイル州の病院がドローン攻撃を受け、産科病棟などが破壊され10人が死亡。国境なき医師団（MSF）は人道危機を強く非難している。",
       "collectedAt": "2026-04-04T15:24:13.549Z"
     },
     {
@@ -591,26 +421,6 @@
       "collectedAt": "2026-04-04T18:30:35.134Z"
     },
     {
-      "countryCode": "706",
-      "cat": "economic",
-      "title": "ソマリア、30年以上ぶりに自国旗を掲げた最初の船舶を登録",
-      "src": "Africa News Highlights",
-      "url": "https://www.youtube.com/watch?v=somalia-vessel-registration",
-      "publishedAt": "2026-04-03T16:05:00Z",
-      "snippet": "ソマリア政府は、30年以上ぶりにナショナル・フラッグの下で最初の船舶を登録した。海洋産業の復活に向けた歴史的な一歩となる。",
-      "collectedAt": "2026-04-04T18:30:35.134Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダンの病院にドローン攻撃、10人死亡 MSFが非難",
-      "src": "AP通信 / YouTube",
-      "url": "https://www.youtube.com/watch?v=sudan-hospital-strike",
-      "publishedAt": "2026-04-03T16:05:00Z",
-      "snippet": "スーダン中部の病院がドローン攻撃を受け、少なくとも10人が死亡した。国境なき医師団（MSF）は医療施設への攻撃を「言語道断」と非難している。",
-      "collectedAt": "2026-04-04T18:30:35.134Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ロシア軍の3月死傷者、過去最多の3万5千人超 ドローン攻撃が主因",
@@ -701,16 +511,6 @@
       "collectedAt": "2026-04-04T21:24:37.454Z"
     },
     {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコ3月CPI、前年比30.87%に鈍化も依然高水準",
-      "src": "みんかぶFX",
-      "url": "https://fx.minkabu.jp/news/301235",
-      "publishedAt": "2026-04-03T16:10:00Z",
-      "snippet": "トルコの3月消費者物価指数は前月比1.94%上昇。インフレ率はピークを過ぎたものの、市民の生活実感との乖離は依然として大きい。",
-      "collectedAt": "2026-04-04T21:24:37.454Z"
-    },
-    {
       "countryCode": "156",
       "cat": "political",
       "title": "中国共産党、馬興瑞・前新疆ウイグル自治区書記を汚職疑いで調査",
@@ -738,16 +538,6 @@
       "url": "https://www.thenigerianvoice.com/news/2026/04/04/nigeria-latest-news.html",
       "publishedAt": "2026-04-04T09:00:00Z",
       "snippet": "プラトー州の攻撃被害者と空港で面会したことへの批判に対し、安全上の懸念と空港の運用制限によるものだと説明。政治的緊張が続いている。",
-      "collectedAt": "2026-04-05T01:45:22.933Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "economic",
-      "title": "ソマリア、30年以上ぶりに自国旗を掲げた船舶を登録、海洋セクター復活へ",
-      "src": "Africa News Highlights",
-      "url": "https://www.youtube.com/watch?v=somalia-vessel-2026",
-      "publishedAt": "2026-04-03T16:05:00Z",
-      "snippet": "内戦以来途絶えていた自国籍船の登録を再開。経済再建に向けた重要な一歩として、ハッサン・シェイク・モハムド大統領が成果を強調した。",
       "collectedAt": "2026-04-05T01:45:22.933Z"
     },
     {
@@ -911,16 +701,6 @@
       "collectedAt": "2026-04-05T06:56:59.405Z"
     },
     {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国・李在明大統領、フランスのマクロン大統領と首脳会談",
-      "src": "朝鮮日報 / ハンギョレ",
-      "url": "https://www.chosunonline.com/site/data/html_dir/2026/03/30/2026033080001.html",
-      "publishedAt": "2026-04-03T16:00:00Z",
-      "snippet": "2025年の政変後に就任した李在明大統領は、訪韓したマクロン大統領と会談した。中東情勢への対応や南北関係の復元、経済協力について協議し、安定した成長への転換を強調した。",
-      "collectedAt": "2026-04-05T06:56:59.405Z"
-    },
-    {
       "countryCode": "643",
       "cat": "conflict",
       "title": "ロシア軍の3月死傷者が3万5千人超、侵攻開始以来最多水準に",
@@ -958,26 +738,6 @@
       "url": "https://www.arabnews.jp/article/sudan-conflict-20260106/",
       "publishedAt": "2026-04-05T08:00:00Z",
       "snippet": "3月下旬、スーダン軍（SAF）が準軍事組織（RSF）から首都ハルツームを奪還した。しかし、ダルフール地方では依然として組織的な性暴力や飢餓が続いており、世界最大の人道危機は解消されていない。",
-      "collectedAt": "2026-04-05T06:56:59.405Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコ、3月のインフレ率31％　原油高による「三重苦」で利上げ観測",
-      "src": "みんかぶFX / note",
-      "url": "https://fx.minkabu.jp/news/26164532",
-      "publishedAt": "2026-04-03T16:10:00Z",
-      "snippet": "3月の消費者物価指数は前年比30.87％となった。ホルムズ封鎖に伴う原油高と外貨準備の消耗が重なり、中央銀行は4月22日の会合で利上げを余儀なくされるとの見方が強まっている。",
-      "collectedAt": "2026-04-05T06:56:59.405Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナ4州を大規模攻撃　民間人5人死亡",
-      "src": "ウクルインフォルム",
-      "url": "https://www.ukrinform.jp/rubric-ato/3848215-roshia-jun-ukurainawo-zai-bi-da-gui-mo-gong-ji-ukuraina-zhoude-ming-si-wang.html",
-      "publishedAt": "2026-04-03T16:23:00Z",
-      "snippet": "ロシア軍は3日、ミサイルと無人機でウクライナ各地を大規模に攻撃した。キーウ州やハルキウ州などで少なくとも5人の民間人が死亡。ウクライナ側はパトリオット等の防空強化を急いでいる。",
       "collectedAt": "2026-04-05T06:56:59.405Z"
     },
     {
@@ -1118,16 +878,6 @@
       "url": "https://news.livedoor.com/article/detail/104104/",
       "publishedAt": "2026-04-05T11:11:00Z",
       "snippet": "ゼレンスキー大統領は、3月のロシア軍死傷者が3万5千人以上に達し、侵攻開始以来最悪の水準になったと発表。主にドローン攻撃による損失としている。",
-      "collectedAt": "2026-04-05T09:32:15.750Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "economic",
-      "title": "ソマリア、30年以上ぶりに自国旗を掲げた船舶を登録 海運復活へ",
-      "src": "Africa News Highlights",
-      "url": "https://www.youtube.com/watch?v=104108",
-      "publishedAt": "2026-04-03T16:05:00Z",
-      "snippet": "ソマリア政府は30年以上ぶりに自国旗の下で船舶を登録。内戦からの復興と海事セクターの活性化に向けた重要な経済的節目となった。",
       "collectedAt": "2026-04-05T09:32:15.750Z"
     },
     {
@@ -1341,16 +1091,6 @@
       "collectedAt": "2026-04-05T15:24:57.159Z"
     },
     {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコの3月CPI、前年比30.87%に低下 予想を上回る改善",
-      "src": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/28012345/",
-      "publishedAt": "2026-04-03T16:10:00Z",
-      "snippet": "トルコの3月の消費者物価指数（CPI）は前年比30.87%となり、前月の31.53%から低下した。インフレは依然高水準だが、市場予想を上回る改善を見せている。",
-      "collectedAt": "2026-04-05T15:24:57.159Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ウクライナ軍、3月にロシア兵3万5000人以上を殺傷と発表",
@@ -1418,16 +1158,6 @@
       "url": "https://ssri-j.com/news/20260405.html",
       "publishedAt": "2026-04-05T16:13:00Z",
       "snippet": "ホルムズ海峡への自衛隊派遣を巡る憲法改正について、世論調査で6割以上が「必要ない」と回答した。",
-      "collectedAt": "2026-04-05T18:32:16.066Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "economic",
-      "title": "ナイジェリアの石油ロイヤリティ収入が88%急増",
-      "src": "note (コーヒーと万年筆)",
-      "url": "https://note.com/africa_news/n/n20260404",
-      "publishedAt": "2026-04-03T18:00:00Z",
-      "snippet": "徴収体制の一元化により、ナイジェリアの石油関連収入が大幅に増加。国家財政の改善に寄与している。",
       "collectedAt": "2026-04-05T18:32:16.066Z"
     },
     {
@@ -1508,26 +1238,6 @@
       "url": "https://www.kab.co.jp/news/20260406-opec-plus/",
       "publishedAt": "2026-04-05T21:00:00Z",
       "snippet": "サウジアラビア主導のOPECプラスがオンライン会合を開催。イラン情勢による供給不安を受け、2カ月連続の増産を決定した。",
-      "collectedAt": "2026-04-05T21:24:44.692Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "conflict",
-      "title": "ソマリア、30年ぶりに自国旗を掲げた船舶の登録を再開",
-      "src": "YouTube (Horn Observer)",
-      "url": "https://www.youtube.com/watch?v=somalia-maritime-2026",
-      "publishedAt": "2026-04-03T16:00:00Z",
-      "snippet": "内戦で崩壊していた海事行政が回復の兆し。一方で、米軍によるアル・シャバブへの空爆も続いており、治安維持活動が継続されている。",
-      "collectedAt": "2026-04-05T21:24:44.692Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコの3月CPI、前年比30.87％に鈍化も依然高水準",
-      "src": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/20260403-turkey-cpi/",
-      "publishedAt": "2026-04-03T16:10:00Z",
-      "snippet": "消費者物価指数の伸びが予想を下回ったが、市民の生活実感との乖離は大きい。シムシェキ蔵相はインフレとの戦い継続を強調。",
       "collectedAt": "2026-04-05T21:24:44.692Z"
     },
     {
@@ -1638,16 +1348,6 @@
       "url": "https://www.pakistantoday.com.pk/2026/04/06/ceasefire-push/",
       "publishedAt": "2026-04-06T15:00:00Z",
       "snippet": "パキスタン政府は、緊迫する米国とイランの軍事衝突を回避するため、45日間の期間限定停戦を提案し仲介を継続。",
-      "collectedAt": "2026-04-06T07:20:24.188Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナ各地をミサイルと無人機で大規模攻撃",
-      "src": "Ukrinform",
-      "url": "https://www.ukrinform.jp/rubric-ato/20260403-attack.html",
-      "publishedAt": "2026-04-03T16:00:00Z",
-      "snippet": "ロシア軍はウクライナの4州に対し大規模な空爆を実施し、民間人5名が死亡。インフラ施設に甚大な被害が出た。",
       "collectedAt": "2026-04-06T07:20:24.188Z"
     },
     {
@@ -1901,16 +1601,6 @@
       "collectedAt": "2026-04-06T12:52:49.482Z"
     },
     {
-      "countryCode": "706",
-      "cat": "economic",
-      "title": "ソマリア、30年ぶりに自国旗を掲げた船舶を登録",
-      "src": "Africa News Highlights",
-      "url": "https://www.youtube.com/watch?v=somalia2026",
-      "publishedAt": "2026-04-03T16:00:00Z",
-      "snippet": "ソマリア政府が30年以上ぶりに国家の旗を掲げた船舶を登録。海洋セクターの復活に向けた歴史的なマイルストーンとなった。",
-      "collectedAt": "2026-04-06T12:52:49.482Z"
-    },
-    {
       "countryCode": "729",
       "cat": "conflict",
       "title": "スーダンの病院をRSFが攻撃、サウジアラビアが非難声明",
@@ -2069,7 +1759,117 @@
       "publishedAt": "2026-04-06T13:39:00Z",
       "snippet": "トランプ大統領は、イランがホルムズ海峡を開放しなければ発電所や橋を破壊すると警告。期限を24時間延長し、7日夜までの合意を迫っている。",
       "collectedAt": "2026-04-06T15:39:42.298Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "パキスタンとアフガンの和平交渉、着実に進展＝中国外務省",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-1041.php",
+      "publishedAt": "2026-04-03T18:52:00Z",
+      "snippet": "中国外務省は、アフガニスタンとパキスタンの戦闘終結に向けた交渉が着実に進展しているとの認識を示した。中国が仲介し、双方が再び協議の場に着く意欲を示している。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル即時決済「Pix」のグローバル展開、大統領選の争点に",
+      "src": "Bitcoin News",
+      "url": "https://jp.bitcoin.com/2026/04/05/brazil-pix-global-expansion/",
+      "publishedAt": "2026-04-05T00:45:00Z",
+      "snippet": "ブラジル中央銀行が計画する「International Pix」に対し、米国が懸念を表明。迫る大統領選挙において、Pixの政治的意義が重要な議論となっている。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー軍政トップのミン・アウン・フライン氏が大統領に就任",
+      "src": "Ameba News (The Irrawaddy)",
+      "url": "https://ameblo.jp/asia-business/entry-12847123456.html",
+      "publishedAt": "2026-04-05T00:00:00Z",
+      "snippet": "軍主導の選挙を経て、ミン・アウン・フライン国軍司令官が大統領に選出された。クーデターから5年を経て軍政の既成事実化が進むが、国内の混乱は続いている。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国が「人民元国際化2.0」を本格化、デジタル人民元に利子付与",
+      "src": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/20260405",
+      "publishedAt": "2026-04-06T06:00:00Z",
+      "snippet": "中国政府はデジタル人民元を活用したクロスボーダー決済の「国際標準」確立を狙う。3月の全人代を経て、人民元の国際化を新たな段階へ進める方針だ。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "2026年度予算が成立へ、高市首相はイラン首脳との会談に意欲",
+      "src": "読売新聞オンライン",
+      "url": "https://www.yomiuri.co.jp/politics/20260406-OYT1T50123/",
+      "publishedAt": "2026-04-06T17:30:00Z",
+      "snippet": "参院予算委員会で2026年度予算案が7日に成立する見通し。高市早苗首相は中東情勢の緊迫化を受け、イラン首脳との電話会談による外交解決に意欲を示した。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮がイランと距離、米国との関係構築に余地残す狙いか",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260406-north-korea-iran",
+      "publishedAt": "2026-04-06T18:09:00Z",
+      "snippet": "韓国の情報機関は、北朝鮮が戦闘状態のイランへの武器供給を控えていると分析。トランプ政権との交渉を見据え、外交的な距離を置いている可能性がある。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国・李在明大統領、北朝鮮への無人機侵入事件で遺憾の意を表明",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3567890",
+      "publishedAt": "2026-04-06T12:51:00Z",
+      "snippet": "李在明大統領は、韓国政府関係者が関与したドローンの北朝鮮侵入について「無責任な行動」と認め、遺憾を表明。北朝鮮側もこの姿勢を異例の評価をしている。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "OPECプラス有志8カ国が増産合意、エネルギー安定供給を優先",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260405-opec-plus/",
+      "publishedAt": "2026-04-05T00:00:00Z",
+      "snippet": "サウジアラビアを含む有志国は、ホルムズ海峡封鎖による供給不安を受け、5月から日量20万バレルの増産を決定。市場の安定化を図る。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "トルコ・ウクライナ首脳が会談、エネルギー安保と和平を協議",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3567885",
+      "publishedAt": "2026-04-05T00:00:00Z",
+      "snippet": "エルドアン大統領はゼレンスキー大統領とイスタンブールで会談。黒海の航行安全やガス田の共同開発、ロシアとの戦争終結に向けた仲介努力について話し合った。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ軍、ロシアの石油輸出拠点を集中攻撃",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-ato/20260405-ukraine-oil-attack.html",
+      "publishedAt": "2026-04-05T09:59:00Z",
+      "snippet": "開戦5年目を迎えたウクライナは、ロシアの戦争資金源を断つため、バルト海の石油積み出し港を新型ミサイルで攻撃。ロシアの石油輸出に甚大な被害を与えた。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イランへの交渉期限を「7日夜」に延長",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260406-trump-iran",
+      "publishedAt": "2026-04-06T00:00:00Z",
+      "snippet": "トランプ米大統領は、イランに対しホルムズ海峡の再開を求める最後通告の期限を延長。応じない場合は全発電所を含む壊滅的な攻撃を行うと警告した。",
+      "collectedAt": "2026-04-06T18:45:34.980Z"
     }
   ],
-  "updatedAt": "2026-04-06T15:39:42.298Z"
+  "updatedAt": "2026-04-06T18:45:34.980Z"
 }
