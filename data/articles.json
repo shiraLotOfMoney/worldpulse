@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス・マクロン大統領が訪韓、李在明大統領と首脳会談",
-      "src": "中央日報",
-      "url": "https://japanese.joins.com/JArticle/316542",
-      "publishedAt": "2026-04-04T09:46:00Z",
-      "snippet": "マクロン大統領は3日、韓国の李在明大統領と会談し、ホルムズ海峡の安全確保や原子力・半導体分野での協力拡大で合意した。",
-      "collectedAt": "2026-04-04T01:22:39.466Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国・李在明大統領、石破前首相との会談を調整中",
-      "src": "朝鮮日報",
-      "url": "https://www.chosunonline.com/site/data/html_dir/2026/04/04/2026040480001.html",
-      "publishedAt": "2026-04-04T08:40:00Z",
-      "snippet": "李在明大統領は、来週訪韓する日本の石破茂前首相との会談を調整している。シャトル外交の継続と安全保障協力が議題となる見通し。",
-      "collectedAt": "2026-04-04T01:22:39.466Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "イエメン・フーシ派、イスラエルに向け弾道ミサイルを発射",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/04-yemen.php",
-      "publishedAt": "2026-04-04T08:30:00Z",
-      "snippet": "イエメンの武装組織フーシ派が3月末、イスラエルに向けて弾道ミサイルを発射した。イランによるホルムズ海峡封鎖と連動し、中東全域での緊張が高まっている。",
-      "collectedAt": "2026-04-04T01:22:39.466Z"
-    },
-    {
       "countryCode": "4",
       "cat": "tension",
       "title": "アフガニスタン北東部でM5.8の地震、少なくとも8人死亡",
@@ -38,16 +8,6 @@
       "url": "https://www.jiji.com/jc/article?k=2026040400231",
       "publishedAt": "2026-04-04T11:42:00Z",
       "snippet": "アフガニスタン北東部バダフシャン州を震源とするマグニチュード5.8の地震が発生し、カブール州などで少なくとも8人が死亡した。また、中国の仲介によりパキスタンとの停戦協議がウイグル自治区で開始されている。",
-      "collectedAt": "2026-04-04T04:46:27.475Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル・サンパウロで旅客機エンジン爆発、緊急着陸",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/865432",
-      "publishedAt": "2026-04-04T09:00:00Z",
-      "snippet": "サンパウロの空港を離陸直後のデルタ航空機でエンジンが爆発し、火花が飛び散る事故が発生した。機体は空港に引き返し、乗客乗員286人は無事だった。",
       "collectedAt": "2026-04-04T04:46:27.475Z"
     },
     {
@@ -121,16 +81,6 @@
       "collectedAt": "2026-04-04T15:24:13.549Z"
     },
     {
-      "countryCode": "364",
-      "cat": "economic",
-      "title": "イスラエル、イランの鉄鋼生産能力の70%を破壊したと発表",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/356789",
-      "publishedAt": "2026-04-04T08:33:00Z",
-      "snippet": "ネタニヤフ首相は3日、空爆によりイランの鉄鋼生産能力の約70%を破壊したと述べた。ミサイルや無人機の製造能力を著しく阻害したと主張している。",
-      "collectedAt": "2026-04-04T18:30:35.134Z"
-    },
-    {
       "countryCode": "392",
       "cat": "economic",
       "title": "高市総理、石油供給は年内分「確保されている」と強調 ホルムズ緊迫で",
@@ -168,16 +118,6 @@
       "url": "https://www.afpbb.com/articles/-/20260405-iran-trump-warning/",
       "publishedAt": "2026-04-05T07:49:00Z",
       "snippet": "トランプ米大統領の最後通告に対し、イラン側は「事態が悪化すれば地域全体が地獄になる」と警告。ホルムズ海峡の封鎖継続を示唆した。",
-      "collectedAt": "2026-04-05T01:45:22.933Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "political",
-      "title": "ナイジェリア大統領府、ティヌブ大統領の空港での被害者面会を擁護",
-      "src": "The Nigerian Voice",
-      "url": "https://www.thenigerianvoice.com/news/2026/04/04/nigeria-latest-news.html",
-      "publishedAt": "2026-04-04T09:00:00Z",
-      "snippet": "プラトー州の攻撃被害者と空港で面会したことへの批判に対し、安全上の懸念と空港の運用制限によるものだと説明。政治的緊張が続いている。",
       "collectedAt": "2026-04-05T01:45:22.933Z"
     },
     {
@@ -311,16 +251,6 @@
       "collectedAt": "2026-04-05T06:56:59.405Z"
     },
     {
-      "countryCode": "706",
-      "cat": "conflict",
-      "title": "ソマリア内戦、TikTokが氏族間対立を助長　伝統的統治が困難に",
-      "src": "Global Voices 日本語",
-      "url": "https://jp.globalvoices.org/2026/04/04/somalia-tiktok-conflict/",
-      "publishedAt": "2026-04-04T09:00:00Z",
-      "snippet": "長引くソマリア内戦において、TikTokを通じた「クランバトル」が若者の間で流行し、氏族間の対立を煽っている。長老による伝統的な紛争解決メカニズムがデジタル空間で無効化されつつある。",
-      "collectedAt": "2026-04-05T06:56:59.405Z"
-    },
-    {
       "countryCode": "729",
       "cat": "conflict",
       "title": "スーダン軍、首都ハルツームを奪還　内戦開始から3年で転換点か",
@@ -338,16 +268,6 @@
       "url": "https://toyokeizai.net/articles/-/871245",
       "publishedAt": "2026-04-05T11:38:00Z",
       "snippet": "トランプ大統領は4日、イランに対し和平合意かホルムズ海峡開放に応じるよう48時間以内の期限を突きつけた。応じない場合はエネルギー施設への大規模攻撃を示唆しており、期限は日本時間7日午前9時とされる。",
-      "collectedAt": "2026-04-05T06:56:59.405Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "tension",
-      "title": "ベネズエラ反体制派マチャド氏にノーベル平和賞、トランプ政権は軍事介入を示唆",
-      "src": "地平 / 集中出版",
-      "url": "https://chihei.net/articles/venezuela-2026-04",
-      "publishedAt": "2026-04-04T10:00:00Z",
-      "snippet": "ベネズエラの反体制派指導者マチャド氏がノーベル平和賞を受賞した。一方で、トランプ米政権はマドゥロ体制の転覆を狙った軍事侵攻の構えを見せており、南米の緊張が極めて高まっている。",
       "collectedAt": "2026-04-05T06:56:59.405Z"
     },
     {
@@ -1161,16 +1081,6 @@
       "collectedAt": "2026-04-06T12:52:49.482Z"
     },
     {
-      "countryCode": "180",
-      "cat": "conflict",
-      "title": "コンゴ民主共和国東部でM23が主要都市を占領、首都キンシャサへの進軍を予告",
-      "src": "月刊『地平』",
-      "url": "https://chihei.net/articles/drc-crisis-2026-04-04",
-      "publishedAt": "2026-04-04T09:00:00Z",
-      "snippet": "反政府勢力M23がゴマやブカブを占領し、さらに西の首都を目指して進軍を続けている。鉱物資源のサプライチェーンへの影響も懸念されている。",
-      "collectedAt": "2026-04-06T15:39:42.298Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン革命防衛隊の情報部門トップが空爆で死亡、米国とイスラエルを非難",
@@ -1208,16 +1118,6 @@
       "url": "https://www.fnn.jp/articles/-/north-korea-iran-distance-2026-04-06",
       "publishedAt": "2026-04-06T18:09:00Z",
       "snippet": "韓国の国家情報院は、北朝鮮が伝統的な友好国イランへの武器供給や外交メッセージを控えていると報告。トランプ政権との交渉再開を視野に入れている可能性がある。",
-      "collectedAt": "2026-04-06T15:39:42.298Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナ南部ニコポリを無人機攻撃、住民5名が死亡",
-      "src": "ウクルインフォルム",
-      "url": "https://www.ukrinform.jp/rubric-ato/20260404-russian-attack-nikopol.html",
-      "publishedAt": "2026-04-04T10:00:00Z",
-      "snippet": "ロシア軍はFPV無人機を用いてウクライナ南部の住宅地を攻撃。戦勝記念日を前に東部州の「完全解放」をアピールする攻勢を強めている。",
       "collectedAt": "2026-04-06T15:39:42.298Z"
     },
     {
@@ -1441,16 +1341,6 @@
       "collectedAt": "2026-04-06T21:31:44.644Z"
     },
     {
-      "countryCode": "706",
-      "cat": "conflict",
-      "title": "ソマリア内戦、終わる気配なし 国際社会の関心が薄れる中で人道危機が深刻化",
-      "src": "Forbes JAPAN",
-      "url": "https://forbesjapan.com/articles/detail/71234",
-      "publishedAt": "2026-04-04T10:00:00Z",
-      "snippet": "ソマリアではアル・シャバブとの戦闘が依然として続いており、内戦終結の兆しが見えない。ウクライナやイラン情勢に世界の注目が集まる中、ソマリアの人道支援資金が不足し、深刻な飢餓のリスクが高まっている。",
-      "collectedAt": "2026-04-06T21:31:44.644Z"
-    },
-    {
       "countryCode": "760",
       "cat": "political",
       "title": "シリア、対イラン戦争への不介入を表明 ゼレンスキー大統領がダマスカスを電撃訪問",
@@ -1468,16 +1358,6 @@
       "url": "https://www.youtube.com/watch?v=ukr2026apr",
       "publishedAt": "2026-04-05T18:00:00Z",
       "snippet": "ウクライナ軍は独自開発の長距離ミサイルやドローンを駆使し、ロシア軍の防衛線を一部突破した。ゼレンスキー大統領は、西側の制約を受けない国産兵器プログラムにより、ロシアの継戦能力を直接叩く戦略を強化している。",
-      "collectedAt": "2026-04-06T21:31:44.644Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス・スターマー首相に辞任圧力、駐米大使の任命責任を問われる",
-      "src": "BBC Japan / YouTube",
-      "url": "https://www.youtube.com/watch?v=bbcuk2026",
-      "publishedAt": "2026-04-04T09:00:00Z",
-      "snippet": "イギリスのスターマー首相は、駐米大使に任命した人物のスキャンダルを巡り、与野党から激しい辞任要求を受けている。また、トランプ米大統領がNATO離脱を示唆したことに対し、英国政府内では安全保障上の懸念が広がっている。",
       "collectedAt": "2026-04-06T21:31:44.644Z"
     },
     {
@@ -1961,16 +1841,6 @@
       "collectedAt": "2026-04-07T07:06:41.158Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス新連立政権、財政赤字解消に向けた緊急予算を発表",
-      "src": "英国ニュースダイジェスト",
-      "url": "http://www.news-digest.co.uk/news/news/uk-news/12345.html",
-      "publishedAt": "2026-04-04T10:00:00Z",
-      "snippet": "スターマー首相率いる新政権が緊縮財政に踏み切る予算案を提示。中東情勢による家計圧迫への支援策も盛り込む。",
-      "collectedAt": "2026-04-07T07:06:41.158Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、救出作戦漏洩を巡り記者収監の可能性を示唆",
@@ -1979,7 +1849,37 @@
       "publishedAt": "2026-04-07T10:35:00Z",
       "snippet": "イランで撃墜されたF15乗員の救出作戦を報じたメディアに対し、トランプ氏が機密漏洩として情報源の開示を要求。",
       "collectedAt": "2026-04-07T07:06:41.158Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "トランプ大統領、イランに「最後通告」 期限は本日夜",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260407-OYT1T50001/",
+      "publishedAt": "2026-04-07T04:00:00Z",
+      "snippet": "ホルムズ海峡の開放を巡り、トランプ氏が「7日午後8時」を最終期限に設定。合意なき場合は発電所等への壊滅的攻撃を示唆した。",
+      "collectedAt": "2026-04-07T10:01:19.514Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、多弾頭化に向けた「炭素繊維」ICBMを開発中",
+      "src": "埼玉新聞",
+      "url": "https://www.saitama-np.co.jp/articles/20260406",
+      "publishedAt": "2026-04-06T12:00:00Z",
+      "snippet": "韓国情報機関の分析により、北朝鮮が機体軽量化と射程延長、多弾頭化を狙った新型ICBMの開発を進めていることが判明した。",
+      "collectedAt": "2026-04-07T10:01:19.514Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジ「ビジョン2030」が危機、中東戦争で石油輸出激減",
+      "src": "毎日経済",
+      "url": "https://www.mk.co.kr/jp/world/20260406",
+      "publishedAt": "2026-04-06T16:49:00Z",
+      "snippet": "ホルムズ海峡封鎖により輸出量が半減。NEOM等の巨大プロジェクトが再検討段階に入り、15兆ウォン超の歳入欠陥が生じている。",
+      "collectedAt": "2026-04-07T10:01:19.514Z"
     }
   ],
-  "updatedAt": "2026-04-07T07:06:41.158Z"
+  "updatedAt": "2026-04-07T10:01:19.514Z"
 }
