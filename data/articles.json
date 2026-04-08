@@ -131,16 +131,6 @@
       "collectedAt": "2026-04-05T09:32:15.750Z"
     },
     {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダンの病院にRSFが攻撃、サウジアラビアが「国際法違反」と非難",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/104146/",
-      "publishedAt": "2026-04-05T02:04:00Z",
-      "snippet": "スーダン白ナイル州の病院が即応支援部隊（RSF）の攻撃を受け、医療スタッフに死傷者が出た。サウジ外務省は「正当化できない非難されるべき行為」と声明。",
-      "collectedAt": "2026-04-05T09:32:15.750Z"
-    },
-    {
       "countryCode": "792",
       "cat": "political",
       "title": "トルコ・ウクライナ首脳会談、黒海の安全保障と和平努力を協議",
@@ -919,16 +909,6 @@
       "publishedAt": "2026-04-05T12:00:00Z",
       "snippet": "ベネズエラのマドゥロ政権は、中東で米国と対立するイランへの支持を改めて表明した。中国を含めた3カ国による経済・軍事的な連携を深めることで、米国の経済制裁による孤立を回避する動きを強めている。",
       "collectedAt": "2026-04-06T21:31:44.644Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー議会、ミン・アウン・フライン氏を大統領に選出",
-      "src": "東南アジアビジネス最前線",
-      "url": "https://ameblo.jp/asia-business/entry-12847000000.html",
-      "publishedAt": "2026-04-05T04:37:00Z",
-      "snippet": "軍主導の選挙を経て、ミン・アウン・フライン国軍最高司令官が新大統領に選出された。クーデターから約5年、軍による統治体制が形式的に強化された形だ。",
-      "collectedAt": "2026-04-07T01:30:27.901Z"
     },
     {
       "countryCode": "250",
@@ -2239,7 +2219,117 @@
       "publishedAt": "2026-04-07T00:00:00Z",
       "snippet": "イギリスのリーヴス財務相は、中東情勢の悪化に伴うエネルギー価格上昇に対応するため、家計の負担を軽減する新たな支援策を導入すると発表した。",
       "collectedAt": "2026-04-08T01:30:30.583Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "トランプ政権の「ドンロー主義」が南米諸国に波及、アルゼンチン経済への影響懸念",
+      "src": "地経学研究所",
+      "url": "https://instituteofgeoeconomics.org/research/20260408-2/",
+      "publishedAt": "2026-04-08T00:00:00Z",
+      "snippet": "米国が打ち出した「ドンロー主義（新モンロー主義）」により、南米を米国の勢力圏とする動きが加速。アルゼンチンを含む地域経済への介入が強まっている。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "東海道新幹線の線路立ち入りでブラジル国籍の男を逮捕、一部区間で運転見合わせ",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260408-brazil-arrest",
+      "publishedAt": "2026-04-08T09:00:00Z",
+      "snippet": "日本の東海道新幹線の線路内に立ち入ったとして、ブラジル国籍の男が現行犯逮捕された。この影響で新幹線は一部区間で一時運転を見合わせた。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国主導の「国際調停院」が本格稼働、アジア・アフリカ30カ国以上が参加",
+      "src": "笹川平和財団",
+      "url": "https://www.spf.org/iina/articles/20260408_aoki.html",
+      "publishedAt": "2026-04-08T00:00:00Z",
+      "snippet": "国家間紛争を調停で解決する中国主導の「国際調停院」が発足。習近平政権の影響力が強い国々を中心に、米欧主導の秩序への対抗軸を目指す。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ、ロシア製兵器の追加購入を避けるよう米国から警告受ける",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
+      "publishedAt": "2026-04-06T00:00:00Z",
+      "snippet": "ブリンケン米国務長官は、ドイツなどの同盟国に対し、ロシア製兵器の追加購入を避けるべきだと改めて警告し、防衛協力の枠組みを強調した。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イラン攻撃を一時停止することに同意、ホルムズ海峡開放が条件",
+      "src": "KSBニュース",
+      "url": "https://news.ksb.co.jp/article/12345678",
+      "publishedAt": "2026-04-08T07:55:00Z",
+      "snippet": "トランプ米大統領は、イランがホルムズ海峡を開放することを条件に、イスラエルと共に行っている対イラン攻撃を2週間停止することに同意した。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、日本海に向け短距離弾道ミサイル数発を発射、2日連続の挑発",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260408-north-korea-missile",
+      "publishedAt": "2026-04-08T08:50:00Z",
+      "snippet": "北朝鮮が元山付近から日本海に向けて短距離弾道ミサイル数発を発射。韓国大統領を評価する談話を出した翌日の発射となり、敵視政策の継続を示唆した。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国の李在明大統領、北朝鮮へのドローン侵入事件で公式に遺憾の意を表明",
+      "src": "Vietnam.vn / Báo Lao Động",
+      "url": "https://www.vietnam.vn/ja/han-quoc-bay-to-hoi-tiec-vu-uav-xam-nhap-trieu-tien/",
+      "publishedAt": "2026-04-06T00:00:00Z",
+      "snippet": "韓国の李大統領は、1月に発生した北朝鮮領空への無人機侵入について「政府の意図ではない無謀な行動」として遺憾を表明。事態の沈静化を図った。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ南部ニコポリのバスを無人機攻撃、3名死亡",
+      "src": "Ukrinform",
+      "url": "https://www.ukrinform.jp/rubric-ato/3848901-rosia-jun-ukuraina-nan-bunikopori-nobasuwo-gong-ji-ming-si-wang-ming-fu-shang.html",
+      "publishedAt": "2026-04-07T00:00:00Z",
+      "snippet": "ロシア軍がウクライナ南部の民間バスを無人機で攻撃し、3人が死亡、16人が負傷。ドニプロペトロウシク州各地で攻撃が激化している。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦勃発から3年、避難民1400万人の深刻な人道危機続く",
+      "src": "JANIC",
+      "url": "https://www.janic.org/event/sudan20260407/",
+      "publishedAt": "2026-04-07T00:00:00Z",
+      "snippet": "スーダン国軍とRSFの戦闘開始から3年が経過。現在も1100万人が帰還できず、ダルフール地方などで飢饉が確認されるなど、世界最悪級の危機が続いている。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "tension",
+      "title": "トルコのイスラエル総領事館近くで銃撃戦、容疑者3人が死傷",
+      "src": "読売新聞 / リスク対策.com",
+      "url": "https://www.yomiuri.co.jp/world/20260407-OYT1T50124/",
+      "publishedAt": "2026-04-07T20:00:00Z",
+      "snippet": "イスタンブールのイスラエル総領事館付近で武装グループと警察が銃撃戦を展開。容疑者1人が死亡、2人が負傷した。過激派組織ISとの関連が指摘されている。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "tension",
+      "title": "イラン、イエメン沖バベルマンデブ海峡の航行妨害を示唆し米イスラエルを牽制",
+      "src": "埼玉新聞 / 共同通信",
+      "url": "https://www.saitama-np.co.jp/news/2026/04/06/04.html",
+      "publishedAt": "2026-04-06T04:20:00Z",
+      "snippet": "イラン高官は、イエメン沖のバベルマンデブ海峡の重要性を「ホルムズ海峡と同等」とし、航行妨害を検討していると示唆。米イスラエルへの圧力を強めている。",
+      "collectedAt": "2026-04-08T05:06:29.119Z"
     }
   ],
-  "updatedAt": "2026-04-08T01:30:30.583Z"
+  "updatedAt": "2026-04-08T05:06:29.119Z"
 }
