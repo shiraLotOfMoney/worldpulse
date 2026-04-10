@@ -81,16 +81,6 @@
       "collectedAt": "2026-04-07T07:06:41.158Z"
     },
     {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "ムーディーズ、インドの2026年度成長率を6％に引き下げ",
-      "src": "NNAアジア経済ニュース",
-      "url": "https://www.nna.jp/news/1234567",
-      "publishedAt": "2026-04-07T02:00:00Z",
-      "snippet": "中東紛争による原油高と供給網の混乱を受け、格付け会社ムーディーズがインドの新年度成長率予測を下方修正。",
-      "collectedAt": "2026-04-07T07:06:41.158Z"
-    },
-    {
       "countryCode": "792",
       "cat": "economic",
       "title": "トルコ3月CPIは前年比31.4％、イマムオール氏逮捕でリラ急落",
@@ -119,16 +109,6 @@
       "publishedAt": "2026-04-07T10:35:00Z",
       "snippet": "イランで撃墜されたF15乗員の救出作戦を報じたメディアに対し、トランプ氏が機密漏洩として情報源の開示を要求。",
       "collectedAt": "2026-04-07T07:06:41.158Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "トランプ大統領、イランに「最後通告」 期限は本日夜",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260407-OYT1T50001/",
-      "publishedAt": "2026-04-07T04:00:00Z",
-      "snippet": "ホルムズ海峡の開放を巡り、トランプ氏が「7日午後8時」を最終期限に設定。合意なき場合は発電所等への壊滅的攻撃を示唆した。",
-      "collectedAt": "2026-04-07T10:01:19.514Z"
     },
     {
       "countryCode": "156",
@@ -1391,16 +1371,6 @@
       "collectedAt": "2026-04-09T07:13:01.039Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍、ガザの学校付近を空爆し10人以上死亡 停戦交渉中に緊張続く",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
-      "publishedAt": "2026-04-07T02:04:00Z",
-      "snippet": "ガザ地区中央部の難民キャンプにある学校付近でイスラエル軍の空爆があり、避難民ら10人が死亡した。イランとの停戦合意の一方でガザの戦闘は継続している。",
-      "collectedAt": "2026-04-09T07:13:01.039Z"
-    },
-    {
       "countryCode": "392",
       "cat": "economic",
       "title": "日本のテラドローン、ウクライナ企業に出資し迎撃ドローンを世界展開へ",
@@ -2399,7 +2369,157 @@
       "publishedAt": "2026-04-09T14:15:00Z",
       "snippet": "マドゥロ前大統領拘束から3カ月、ロドリゲス暫定政権は経済再建を急いでいる。米国はベネズエラ中央銀行への制裁解除を検討しており、石油産業の外資開放が進んでいる。",
       "collectedAt": "2026-04-10T01:47:53.343Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に進展",
+      "src": "Reuters Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/525341.php",
+      "publishedAt": "2026-04-08T14:41:00Z",
+      "snippet": "中国のウルムチで行われた7日間の協議の結果、アフガニスタンとパキスタンは国境付近での戦闘をエスカレートさせないことで合意し、テロ問題を含む包括的な解決策を模索することを確認した。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン代表、W杯連覇に向け米国で最終調整へ",
+      "src": "Goal.com Japan",
+      "url": "https://www.goal.com/jp/ニュース/argentina-world-cup-preparation-2026/1x2y3z4w5v",
+      "publishedAt": "2026-04-09T10:00:00Z",
+      "snippet": "2026年北中米W杯の開幕を控え、前回王者アルゼンチンは米国でホンジュラス、アイスランドとの親善試合を行う。メッシの去就が注目される中、スカローニ監督は「本人の判断を待つ」と述べている。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル政府、AIと移動データを活用した新たな観光戦略を発表",
+      "src": "トラベルボイス",
+      "url": "https://www.travelvoice.jp/20260410-155234",
+      "publishedAt": "2026-04-10T05:00:00Z",
+      "snippet": "ブラジル政府観光局は、AIを活用して旅行者の動向を分析し、観光客を国内27州に分散させる新計画「Plano Brasis」を策定。訪問者数だけでなく成長の質を重視する方針を示した。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国の金準備が17カ月連続で増加、中東情勢下で外貨準備を多角化",
+      "src": "日本経済新聞",
+      "url": "https://minkabu.jp/news/3875901",
+      "publishedAt": "2026-04-07T17:33:00Z",
+      "snippet": "中国人民銀行は3月末の金保有量が約2313トンに達したと発表。米中対立や中東での紛争リスクに備え、ドル依存を減らし資産の安全性を確保する動きを強めている。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン、ホルムズ海峡の管理強化を示唆も「2週間停戦」に合意",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260410-OYT1T50082/",
+      "publishedAt": "2026-04-10T05:18:00Z",
+      "snippet": "最高指導者モジタバ・ハメネイ師はホルムズ海峡の管理を「新たな段階」に移すと警告したが、トランプ米政権との交渉により、10日からパキスタンで和平協議を開始するための2週間停戦に合意した。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "日本、ホルムズ海峡の安全通航に向けイランと独自合意か",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/876543",
+      "publishedAt": "2026-04-09T16:00:00Z",
+      "snippet": "英海運情報会社ロイズリストは、日本がイランと船舶の安全通航に関する何らかの合意を結んだ国の一つであると指摘。エネルギー供給の安定化に向けた独自の外交努力が注目されている。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、クラスター弾頭搭載の新型ミサイル試験を実施",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260409-OYT1T50110/",
+      "publishedAt": "2026-04-09T11:30:00Z",
+      "snippet": "北朝鮮は「火星11」型ミサイルを用い、広範囲を焦土化するクラスター弾頭の性能試験を行ったと発表。また、電力網を破壊する炭素繊維弾や電磁兵器の試験も同時に実施した。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "ナイジェリアのダンゴテ製油所、イラン戦争による燃料不足の中でフル稼働",
+      "src": "Africa Center",
+      "url": "https://africacenter.org/spotlight/africa-media-review-april-7-2026/",
+      "publishedAt": "2026-04-07T12:00:00Z",
+      "snippet": "アフリカ最大のダンゴテ製油所が日量65万バレルのフル稼働に達した。中東紛争で世界の燃料供給が混乱する中、ナイジェリア国内だけでなく西・東アフリカ諸国への供給拠点としての役割を強めている。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米国・イラン停戦協議をイスラマバードでホスト",
+      "src": "KSBニュース",
+      "url": "https://www.ksb.co.jp/news/20260408-0955",
+      "publishedAt": "2026-04-10T05:00:00Z",
+      "snippet": "仲介役のパキスタン政府は、11日からイスラマバードで米国とイランの直接協議を開催すると発表。米国からはバンス副大統領、イランからはガリバフ国会議長が参加し、恒久的な停戦を模索する。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "tension",
+      "title": "ロシア潜水艦、英周辺海域で海底インフラを調査か　英政府が警告",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/876541",
+      "publishedAt": "2026-04-09T17:00:00Z",
+      "snippet": "イギリス国防省は、ロシアの潜水艦3隻が海底ケーブルやパイプライン付近で不審な活動を行っていたと発表。ヒーリー国防相は「インフラ破壊の試みは重大な結果を招く」とプーチン政権を強く牽制した。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "conflict",
+      "title": "サウジアラビアの主要油田に攻撃、日量60万バレルの減産",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_20260410/",
+      "publishedAt": "2026-04-10T05:18:00Z",
+      "snippet": "サウジアラビアのクライスおよびマニファ油田の施設が攻撃を受け、生産能力が大幅に低下。中東紛争の激化に伴うエネルギーインフラへの攻撃により、国際原油市場のボラティリティが急上昇している。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "economic",
+      "title": "ソマリア、トルコの支援で初の沖合石油掘削を開始",
+      "src": "BBC Japan",
+      "url": "https://www.youtube.com/watch?v=somalia-oil-drilling-2026",
+      "publishedAt": "2026-04-07T08:00:00Z",
+      "snippet": "ソマリア政府はトルコ企業の協力のもと、同国初となる沖合での石油掘削キャンペーンを開始。経済再建の大きな希望となる一方、資源を巡る新たな紛争や地政学的リスクも懸念されている。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦開始から3年、医療施設への攻撃で死者急増",
+      "src": "国境なき医師団",
+      "url": "https://www.msf.or.jp/news/detail/pressrelease/sdn20260410.html",
+      "publishedAt": "2026-04-10T00:00:00Z",
+      "snippet": "2023年4月の開戦から3年が経過し、避難民は1400万人に達した。医療施設への攻撃が常態化しており、4月2日にも病院への攻撃で10人が死亡。国際社会の対応の遅れが批判されている。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシア軍、ザポリッジャ州を航空攻撃　復活祭停戦の目処立たず",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-ato/3849501-rosia-jun-ukuraina-nanbu-zaporijjia-zhouo-gong-ji-si-zhe1ming-fu-shang-zhe4ming.html",
+      "publishedAt": "2026-04-09T15:00:00Z",
+      "snippet": "ロシア軍はザポリッジャ州バラビネを空爆し、住民1人が死亡。プーチン大統領は復活祭に合わせた一時停戦を検討中とされるが、クレムリンは「決定は下されていない」としており、戦闘は継続している。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英首相、トランプ大統領と電話会談　ホルムズ海峡再開へ一致",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/876542",
+      "publishedAt": "2026-04-09T18:00:00Z",
+      "snippet": "スターマー首相はトランプ米大統領と協議し、米イラン停戦を受けてホルムズ海峡の通航を再開させるための「次の段階」に進むことで一致。エネルギー価格高騰に苦しむ国内経済への影響緩和を急ぐ。",
+      "collectedAt": "2026-04-10T05:19:23.577Z"
     }
   ],
-  "updatedAt": "2026-04-10T01:47:53.343Z"
+  "updatedAt": "2026-04-10T05:19:23.577Z"
 }
