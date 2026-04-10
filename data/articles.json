@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "イギリスのサービス業成長が急減速、中東戦争が需要に打撃",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-987654",
-      "publishedAt": "2026-04-07T17:11:00Z",
-      "snippet": "英国の3月サービス業PMIが大幅に低下した。中東紛争による不確実性と燃料価格の上昇が顧客支出を抑制しており、景気後退への懸念が強まっている。",
-      "collectedAt": "2026-04-07T13:02:15.905Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツのサービス業成長が急減速、中東戦争が需要に打撃",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy/germany-pmi-slowdown-2026",
-      "publishedAt": "2026-04-07T16:00:00Z",
-      "snippet": "中東での紛争激化に伴うエネルギー価格高騰と不透明感から、ドイツのサービス部門PMIが大幅に低下。欧州経済の牽引役が苦境に立たされている。",
-      "collectedAt": "2026-04-07T16:07:05.946Z"
-    },
-    {
       "countryCode": "76",
       "cat": "political",
       "title": "ブラジル当局、中国EV大手BYDを「奴隷的労働」リストに掲載",
@@ -38,16 +18,6 @@
       "url": "https://www.fnn.jp/articles/-/20260407456",
       "publishedAt": "2026-04-07T21:39:00Z",
       "snippet": "中東情勢の緊迫化による原油高を受け、中国政府はガソリン価格の引き上げを発表。北京では1リットル205円を超え、市民生活への影響が懸念されている。",
-      "collectedAt": "2026-04-07T18:52:42.046Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍、イランのミサイル施設と石油化学拠点を空爆",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260407789",
-      "publishedAt": "2026-04-07T15:51:00Z",
-      "snippet": "イスラエル軍はイラン南西部の世界最大級の石油化学施設を攻撃し、稼働停止に追い込んだと発表。イラン経済への深刻な打撃を狙ったものとしている。",
       "collectedAt": "2026-04-07T18:52:42.046Z"
     },
     {
@@ -88,26 +58,6 @@
       "url": "https://www.kab.co.jp/news/20260408-france-fuel-crisis/",
       "publishedAt": "2026-04-07T21:00:00Z",
       "snippet": "フランス全土のガソリンスタンドの約18％で燃料が品切れ状態となっています。中東情勢による価格高騰に抗議し、トラック運転手らが高速道路を封鎖する事態も発生しています。",
-      "collectedAt": "2026-04-07T21:37:05.420Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン首相、トランプ氏にイラン交渉期限の2週間延長を要請",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/pakistan-mediation.php",
-      "publishedAt": "2026-04-07T16:00:00Z",
-      "snippet": "パキスタンのシャリフ首相は、トランプ米大統領に対し、対イラン交渉の期限を2週間延長するよう要請しました。仲介役としてホルムズ海峡の封鎖解除を模索しています。",
-      "collectedAt": "2026-04-07T21:37:05.420Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、ウクライナ南部ヘルソンの住宅地を砲撃 死者4名",
-      "src": "ウクルインフォルム通信",
-      "url": "https://www.ukrinform.jp/rubric-ato/20260407-russia-kherson.html",
-      "publishedAt": "2026-04-07T15:50:00Z",
-      "snippet": "ロシア軍がウクライナ南部のヘルソン市住宅地を砲撃し、市民4人が死亡しました。ウクライナ側はエネルギー施設への相互攻撃停止を提案していますが、戦闘は激化しています。",
       "collectedAt": "2026-04-07T21:37:05.420Z"
     },
     {
@@ -371,16 +321,6 @@
       "collectedAt": "2026-04-08T10:01:38.767Z"
     },
     {
-      "countryCode": "760",
-      "cat": "economic",
-      "title": "UAE、シリア復興支援でダマスカス地下鉄建設に20億ドル投資",
-      "src": "note (中東投資30秒ニュース)",
-      "url": "https://note.com/nandeyanen_me/n/n20260407",
-      "publishedAt": "2026-04-07T16:26:00Z",
-      "snippet": "UAEがシリアのインフラ復興を支援するため、20億ドル規模の地下鉄投資を決定。中東諸国によるシリア再統合の動きが加速している。",
-      "collectedAt": "2026-04-08T10:01:38.767Z"
-    },
-    {
       "countryCode": "4",
       "cat": "political",
       "title": "タリバン政権、女性の権利制限をさらに強化 2026年も続く人道危機",
@@ -508,16 +448,6 @@
       "url": "https://www.nikkei.com/article/DGXZQOGM080020_Y6A400C2000000/",
       "publishedAt": "2026-04-08T10:45:00Z",
       "snippet": "総選挙後の「ねじれ現象」により、労働改革や教育改革などの主要政策が停滞。支持率回復に向けた外交成果を模索しています。",
-      "collectedAt": "2026-04-08T19:05:38.012Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "economic",
-      "title": "ナイジェリア、通貨ナイラの下落が止まらず 食料インフレが深刻化",
-      "src": "Reuters",
-      "url": "https://jp.reuters.com/world/africa/nigeria-economy-2026-04-07/",
-      "publishedAt": "2026-04-07T16:00:00Z",
-      "snippet": "ティヌブ大統領の経済改革が難航。外貨不足により輸入コストが急騰し、都市部を中心に抗議デモが頻発しています。",
       "collectedAt": "2026-04-08T19:05:38.012Z"
     },
     {
@@ -998,16 +928,6 @@
       "url": "https://www.jetro.go.jp/biznews/2026/04/29636abeb19fedd3.html",
       "publishedAt": "2026-04-09T09:00:00Z",
       "snippet": "ミャンマー連邦議会は4月3日、ミン・アウン・フライン前国軍司令官を大統領に選出した。総選挙を経て「民政移管」を形作るが、軍政支配の継続に国際社会の反応は分かれている。",
-      "collectedAt": "2026-04-09T10:06:02.773Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国、2026年の実質GDP成長率予測を4.6%と発表",
-      "src": "note (週刊中国政治経済ニュース)",
-      "url": "https://note.com/masakaguchi/n/n123456789",
-      "publishedAt": "2026-04-07T18:00:00Z",
-      "snippet": "中国政府は2026年の経済成長目標を調整。中東情勢の緊迫下でも製造業が回復傾向にあり、輸出が今年初めて増加を記録するなど堅調さを維持している。",
       "collectedAt": "2026-04-09T10:06:02.773Z"
     },
     {
@@ -1601,16 +1521,6 @@
       "collectedAt": "2026-04-09T18:53:54.129Z"
     },
     {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー新大統領にミンアウンフライン氏、軍支配継続へ",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260407-OYT1T50000/",
-      "publishedAt": "2026-04-07T18:00:00Z",
-      "snippet": "国軍主導の総選挙を経て、ミンアウンフライン前総司令官が大統領に選出された。民主派は反発しており、軍による実質的な支配が続く見通し。",
-      "collectedAt": "2026-04-09T21:40:31.312Z"
-    },
-    {
       "countryCode": "156",
       "cat": "political",
       "title": "中国・王毅外相が北朝鮮を訪問、関係強化を表明",
@@ -1908,16 +1818,6 @@
       "url": "https://www.travelvoice.jp/20260410-155234",
       "publishedAt": "2026-04-10T05:00:00Z",
       "snippet": "ブラジル政府観光局は、AIを活用して旅行者の動向を分析し、観光客を国内27州に分散させる新計画「Plano Brasis」を策定。訪問者数だけでなく成長の質を重視する方針を示した。",
-      "collectedAt": "2026-04-10T05:19:23.577Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国の金準備が17カ月連続で増加、中東情勢下で外貨準備を多角化",
-      "src": "日本経済新聞",
-      "url": "https://minkabu.jp/news/3875901",
-      "publishedAt": "2026-04-07T17:33:00Z",
-      "snippet": "中国人民銀行は3月末の金保有量が約2313トンに達したと発表。米中対立や中東での紛争リスクに備え、ドル依存を減らし資産の安全性を確保する動きを強めている。",
       "collectedAt": "2026-04-10T05:19:23.577Z"
     },
     {
@@ -2789,7 +2689,97 @@
       "publishedAt": "2026-04-10T17:00:00Z",
       "snippet": "トランプ大統領はイランとの2週間停戦を「米国の完全勝利」と呼び、自らの軍事圧力が功を奏したと主張した。一方で、エネルギーインフラへの攻撃期限を設定し、さらなる圧力を示唆している。",
       "collectedAt": "2026-04-10T15:45:23.387Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "アフガニスタンとパキスタン、中国の仲介で紛争拡大回避に合意",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/04/08/afghan-pakistan-peace-talks.php",
+      "publishedAt": "2026-04-08T14:41:00Z",
+      "snippet": "中国のウルムチで行われた和平協議により、アフガニスタンとパキスタンは数週間にわたる国境付近での戦闘をエスカレートさせないことで合意した。テロ対策を核心的課題と認識し、包括的な解決策を模索する。",
+      "collectedAt": "2026-04-10T18:41:45.183Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "EU・メルコスル通商協定、2026年5月1日に暫定発効へ",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippo.com.br/2026/04/10/eu-mercosur-fta-start.php",
+      "publishedAt": "2026-04-10T09:00:00Z",
+      "snippet": "EUとメルコスル4カ国（ブラジル、アルゼンチン等）の暫定通商協定が5月1日に発効する。関税撤廃や原産地管理など実務的な貿易自由化が先行して開始される見通し。",
+      "collectedAt": "2026-04-10T18:41:45.183Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン、ホルムズ海峡の「再封鎖」を示唆し米イスラエルを牽制",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260409-OYT1T50089/",
+      "publishedAt": "2026-04-09T12:10:00Z",
+      "snippet": "イランは、イスラエルによるレバノン攻撃を停戦合意違反と非難し、ホルムズ海峡を再び封鎖する用意があると表明した。最高指導者モジタバ氏は「海峡の管理を新たな段階に引き上げる」と警告している。",
+      "collectedAt": "2026-04-10T18:41:45.183Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、レバノンとの直接交渉開始を指示も空爆は継続",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/israel-lebanon-talks.html",
+      "publishedAt": "2026-04-10T00:00:00Z",
+      "snippet": "ネタニヤフ首相はヒズボラの武装解除を目的にレバノンとの直接交渉を指示したが、同時にレバノン各地への空爆も継続している。米国とイランの2週間停戦合意にレバノンは含まれないとの立場を維持している。",
+      "collectedAt": "2026-04-10T18:41:45.183Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジの東西パイプラインに攻撃、原油供給への影響懸念",
+      "src": "みんかぶFX",
+      "url": "https://fx.minkabu.jp/news/20260409-saudi-pipeline-attack",
+      "publishedAt": "2026-04-09T08:53:00Z",
+      "snippet": "サウジアラビアの原油輸出の生命線である東西パイプラインが攻撃を受けた。ホルムズ海峡の封鎖が続く中、このルートが寸断されれば世界の原油供給ひっ迫がさらに強まる恐れがある。",
+      "collectedAt": "2026-04-10T18:41:45.183Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦開始から3年、ドローン攻撃の拡大で民間人被害急増",
+      "src": "国境なき医師団",
+      "url": "https://www.msf.or.jp/news/detail/20260410_sudan_3years.html",
+      "publishedAt": "2026-04-10T00:00:00Z",
+      "snippet": "内戦開始から3年が経過し、避難民は1400万人に達した。最近は双方によるドローン攻撃が激化し、病院や居住地が標的となっている。医療崩壊により予防可能な病気での死者も急増している。",
+      "collectedAt": "2026-04-10T18:41:45.183Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "tension",
+      "title": "シリア、中東全域の紛争激化で人道危機がさらに深化",
+      "src": "国境なき医師団",
+      "url": "https://www.msf.or.jp/news/detail/20260410_middle_east_fund.html",
+      "publishedAt": "2026-04-10T00:00:00Z",
+      "snippet": "米イスラエルとイランの衝突を受け、シリアを含む周辺国でも緊張が高まっている。国境なき医師団は、急増する医療ニーズに対応するため「中東募金」を開始し、シリアでの支援継続を訴えている。",
+      "collectedAt": "2026-04-10T18:41:45.183Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ高官、ロシアとの和平合意に向け「進展している」",
+      "src": "Reuters",
+      "url": "https://jp.reuters.com/world/ukraine/budanov-peace-talks-progress-2026-04-10/",
+      "publishedAt": "2026-04-10T21:50:00Z",
+      "snippet": "ブダノフ大統領府長官は、ロシアとの戦争終結合意に向けた協議が進展しているとの認識を示した。ゼレンスキー大統領も、今後数カ月が外交の行方を左右する重要な局面になると述べている。",
+      "collectedAt": "2026-04-10T18:41:45.183Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イランとの2週間停戦合意を表明",
+      "src": "日テレNEWS",
+      "url": "https://news.ntv.co.jp/category/international/20260408-trump-iran-ceasefire",
+      "publishedAt": "2026-04-08T00:00:00Z",
+      "snippet": "トランプ大統領はSNSで、ホルムズ海峡の開放を条件にイランへの攻撃を2週間停止することに同意したと発表した。パキスタンの仲介によるもので、恒久的解決に向けた協議を促す狙いがある。",
+      "collectedAt": "2026-04-10T18:41:45.183Z"
     }
   ],
-  "updatedAt": "2026-04-10T15:45:23.387Z"
+  "updatedAt": "2026-04-10T18:41:45.183Z"
 }
