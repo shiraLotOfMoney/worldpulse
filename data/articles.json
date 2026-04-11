@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "4",
-      "cat": "political",
-      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に進展",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/524851.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国の仲介により、軍事衝突が続いていたアフガニスタンとパキスタンの間で和平交渉が行われ、停戦に向けた有益な進展があったことが報じられた。",
-      "collectedAt": "2026-04-08T10:01:38.767Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮が2日連続で弾道ミサイル発射、日本海に落下",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/680567",
-      "publishedAt": "2026-04-08T14:26:00Z",
-      "snippet": "北朝鮮は8日午後、元山付近から日本海に向けて短距離弾道ミサイル数発を発射。7日に続く2日連続の発射となり、変則軌道で飛翔した可能性がある。",
-      "collectedAt": "2026-04-08T10:01:38.767Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ、エネルギー価格高騰で製造業の国外流出が加速 経済成長は停滞",
-      "src": "Reuters",
-      "url": "https://jp.reuters.com/business/germany-economy-2026-04-08/",
-      "publishedAt": "2026-04-08T13:20:00Z",
-      "snippet": "脱炭素化への移行コストが重荷となり、ドイツの主要産業である自動車・化学部門の競争力が低下。2026年の成長率予測は下方修正されました。",
-      "collectedAt": "2026-04-08T19:05:38.012Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "日本、参院選を控え与野党の攻防が激化 経済対策が焦点に",
@@ -38,36 +8,6 @@
       "url": "https://www3.nhk.or.jp/news/html/20260408/k1001449012.html",
       "publishedAt": "2026-04-08T19:00:00Z",
       "snippet": "物価高騰への対応と少子化対策の財源確保を巡り、国会では激しい論戦が続いています。岸田政権の支持率は横ばいで推移しています。",
-      "collectedAt": "2026-04-08T19:05:38.012Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、ウクライナ東部で攻勢を強化 兵員不足を背景に動員拡大の懸念",
-      "src": "NHK",
-      "url": "https://www3.nhk.or.jp/news/html/20260408/k1001452345.html",
-      "publishedAt": "2026-04-08T14:00:00Z",
-      "snippet": "プーチン政権は戦時経済体制を維持。欧米の制裁を回避しながら、イランや北朝鮮からの武器調達を継続しています。",
-      "collectedAt": "2026-04-08T19:05:38.012Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジアラビア、ビジョン2030の主要プロジェクト「NEOM」の規模縮小を検討",
-      "src": "日経新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGR080030_Y6A400C2000000/",
-      "publishedAt": "2026-04-08T15:00:00Z",
-      "snippet": "原油価格の低迷を受け、巨額の投資が必要なメガプロジェクトの優先順位を見直し。非石油部門の育成を急いでいます。",
-      "collectedAt": "2026-04-08T19:05:38.012Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコ、中央銀行が追加利上げを決定 インフレ抑制を最優先",
-      "src": "Reuters",
-      "url": "https://jp.reuters.com/economy/turkey-cbrt-2026-04-08/",
-      "publishedAt": "2026-04-08T14:45:00Z",
-      "snippet": "エルドアン大統領は正統派の経済政策を容認。リラ安の阻止と外貨準備の回復を目指していますが、国民の不満は高まっています。",
       "collectedAt": "2026-04-08T19:05:38.012Z"
     },
     {
@@ -91,16 +31,6 @@
       "collectedAt": "2026-04-08T19:05:38.012Z"
     },
     {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "イエメン、フーシ派が紅海での船舶攻撃を継続 停戦合意は遠のく",
-      "src": "朝日新聞",
-      "url": "https://www.asahi.com/articles/ASQ20260408004.html",
-      "publishedAt": "2026-04-08T13:00:00Z",
-      "snippet": "パレスチナ情勢との連動を主張するフーシ派に対し、米英軍が報復空爆を実施。物流への影響が長期化しています。",
-      "collectedAt": "2026-04-08T19:05:38.012Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジル政府、中国BYDを「奴隷的労働」企業リストに掲載",
@@ -108,16 +38,6 @@
       "url": "https://news.livedoor.com/article/detail/20260408BYD/",
       "publishedAt": "2026-04-08T18:22:00Z",
       "snippet": "ブラジル当局は、中国のEV大手BYDを「労働者を奴隷のような環境で働かせた」としてブラックリストに掲載しました。これにより同社は融資制限などの制裁を受ける見通しです。",
-      "collectedAt": "2026-04-09T01:23:16.951Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、米国との2週間停戦に合意 ホルムズ海峡再開へ",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260408-iran-ceasefire/",
-      "publishedAt": "2026-04-08T14:55:00Z",
-      "snippet": "イラン最高国家安全保障会議は、米国との間で2週間の停戦を受け入れると発表しました。パキスタンの仲介により、ホルムズ海峡の段階的な航行再開が模索されています。",
       "collectedAt": "2026-04-09T01:23:16.951Z"
     },
     {
@@ -138,16 +58,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/japan-russia-protest.php",
       "publishedAt": "2026-04-09T09:30:00Z",
       "snippet": "ロシア外務省は、日本の新興企業がウクライナの迎撃ドローン開発企業に出資したことを受け、駐ロシア日本大使を呼び出し「前例のない関係悪化」を招くと強く抗議しました。",
-      "collectedAt": "2026-04-09T01:23:16.951Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "conflict",
-      "title": "北朝鮮、日本海に向け弾道ミサイルを発射 変則軌道の可能性",
-      "src": "防衛省 / ライブドアニュース",
-      "url": "https://www.mod.go.jp/j/press/news/2026/04/08a.html",
-      "publishedAt": "2026-04-08T14:23:00Z",
-      "snippet": "北朝鮮が東岸付近から弾道ミサイル少なくとも1発を発射しました。最高高度60km、飛翔距離700km超と推定され、変則軌道で飛翔した可能性があるとして日米韓で分析中です。",
       "collectedAt": "2026-04-09T01:23:16.951Z"
     },
     {
@@ -201,16 +111,6 @@
       "collectedAt": "2026-04-09T05:04:52.025Z"
     },
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イランと米国が2週間の即時停戦に合意、ホルムズ海峡の通航再開へ",
-      "src": "FNN",
-      "url": "https://www.fnn.jp/articles/-/123456",
-      "publishedAt": "2026-04-08T14:55:00Z",
-      "snippet": "パキスタンの仲介により、米国とイランが2週間の停戦で合意した。イラン側はホルムズ海峡の安全な通行を2週間認めると発表し、10日にパキスタンで最終合意に向けた協議が行われる。",
-      "collectedAt": "2026-04-09T05:04:52.025Z"
-    },
-    {
       "countryCode": "376",
       "cat": "conflict",
       "title": "イスラエル、米イラン停戦合意に「レバノンは含まれない」と主張",
@@ -241,16 +141,6 @@
       "collectedAt": "2026-04-09T05:04:52.025Z"
     },
     {
-      "countryCode": "4",
-      "cat": "political",
-      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に有益な進展",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/521432.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国のウルムチで行われた和平協議で、アフガニスタンとパキスタンは紛争をエスカレートさせないことで合意し、包括的な解決策を模索することで一致した。",
-      "collectedAt": "2026-04-09T07:13:01.039Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ミャンマー新大統領にミンアウンフライン氏、4月10日に就任宣誓へ",
@@ -271,16 +161,6 @@
       "collectedAt": "2026-04-09T07:13:01.039Z"
     },
     {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イランと米国、2週間の停戦で合意 ホルムズ海峡の商船航行を限定容認",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/iran_ceasefire.php",
-      "publishedAt": "2026-04-08T14:55:00Z",
-      "snippet": "数週間にわたる軍事衝突の末、イランと米国が2週間の停戦に合意した。10日にパキスタンで最終合意に向けた協議が行われる予定。",
-      "collectedAt": "2026-04-09T07:13:01.039Z"
-    },
-    {
       "countryCode": "392",
       "cat": "economic",
       "title": "日本のテラドローン、ウクライナ企業に出資し迎撃ドローンを世界展開へ",
@@ -288,16 +168,6 @@
       "url": "https://www.khb-tv.co.jp/news/12345678",
       "publishedAt": "2026-04-09T10:03:00Z",
       "snippet": "日本のテラドローン社がウクライナのドローン開発企業に出資。これに対しロシア政府は日本大使を呼び出し「前例のない関係悪化」と抗議した。",
-      "collectedAt": "2026-04-09T07:13:01.039Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン首相、米イランの「即時かつ全面的な停戦合意」を仲介",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3512345",
-      "publishedAt": "2026-04-08T15:00:00Z",
-      "snippet": "パキスタンのシャリフ首相は、仲介の結果、米国とイランがレバノンを含む全地域での即時停戦に合意したと発表した。10日にイスラマバードで最終協議を行う。",
       "collectedAt": "2026-04-09T07:13:01.039Z"
     },
     {
@@ -319,16 +189,6 @@
       "publishedAt": "2026-04-09T14:15:00Z",
       "snippet": "ベネズエラのロドリゲス暫定大統領は、5月1日に労働者の所得を引き上げると発表。マドゥロ氏拘束後の混乱の中、石油資源の収益を国民に還元する方針。",
       "collectedAt": "2026-04-09T07:13:01.039Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に進展",
-      "src": "Reuters",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/528341.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国のウルムチで行われた和平協議で、アフガニスタンとパキスタンが国境紛争をエスカレートさせないことで合意。2月以来続く軍事衝突の解決に向けた対話継続を確認した。",
-      "collectedAt": "2026-04-09T10:06:02.773Z"
     },
     {
       "countryCode": "104",
@@ -541,16 +401,6 @@
       "collectedAt": "2026-04-09T13:04:47.213Z"
     },
     {
-      "countryCode": "4",
-      "cat": "political",
-      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に進展",
-      "src": "Reuters Japan",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1OWTqr6YtuCD5-X-hJ8ZVMB6q_oAwLaur0nPxnLakT_fkMog99bpmZ-FRTJpnP9LhKUzZxGFtLRlDmsZ7IEPryg_IgQwr1IsT9gDd6OB0s_91EqWAHMv08bbuHquHTNCyum7jYHA32Q2gvmcaMQU-nYoT0xgIgZJI",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国のウルムチで行われた7日間の協議で、両国は国境付近での紛争をエスカレートさせないことで合意し、テロ問題を含む包括的な解決策を模索することを確認した。",
-      "collectedAt": "2026-04-09T16:14:51.544Z"
-    },
-    {
       "countryCode": "32",
       "cat": "economic",
       "title": "エネルギー価格高騰でアルゼンチンの購買力が低下、インフレ加速",
@@ -701,16 +551,6 @@
       "collectedAt": "2026-04-09T16:14:51.544Z"
     },
     {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に「有益な進展」",
-      "src": "Reuters / Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/521557.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国のウルムチで7日間にわたり行われた和平協議で、両国は紛争をエスカレートさせないことで合意し、テロ対策を含む核心的課題の解決を模索することで一致した。",
-      "collectedAt": "2026-04-09T18:53:54.129Z"
-    },
-    {
       "countryCode": "32",
       "cat": "economic",
       "title": "アルゼンチン、エネルギー価格高騰で購買力が大幅低下",
@@ -851,16 +691,6 @@
       "collectedAt": "2026-04-09T21:40:31.312Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ軍、東部前線で480平方キロを奪還、ロシアの春季攻勢を阻止",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/ukraine-frontline.php",
-      "publishedAt": "2026-04-08T14:00:00Z",
-      "snippet": "ウクライナ軍司令官は、ドローンと精密兵器の活用によりロシア軍の拠点を制圧したと発表。戦争は5年目に入り、長期化の様相を呈している。",
-      "collectedAt": "2026-04-09T21:40:31.312Z"
-    },
-    {
       "countryCode": "826",
       "cat": "tension",
       "title": "イギリス海域でロシア潜水艦が不審な活動、海底インフラを調査か",
@@ -869,16 +699,6 @@
       "publishedAt": "2026-04-10T07:00:00Z",
       "snippet": "英海軍は北海でロシアの潜水艦を追跡。通信ケーブルなどの重要インフラを標的にした偵察活動の疑いがあり、警戒レベルを引き上げた。",
       "collectedAt": "2026-04-09T21:40:31.312Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "tension",
-      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に進展",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-1234.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国のウルムチで行われた7日間の協議を経て、アフガニスタンとパキスタンは国境紛争をエスカレートさせないことで合意した。また、アフガニスタン国内では3月下旬からの豪雨による鉄砲水で約140人が死亡する甚大な被害が出ている。",
-      "collectedAt": "2026-04-10T01:47:53.343Z"
     },
     {
       "countryCode": "32",
@@ -1009,16 +829,6 @@
       "publishedAt": "2026-04-09T14:15:00Z",
       "snippet": "マドゥロ前大統領拘束から3カ月、ロドリゲス暫定政権は経済再建を急いでいる。米国はベネズエラ中央銀行への制裁解除を検討しており、石油産業の外資開放が進んでいる。",
       "collectedAt": "2026-04-10T01:47:53.343Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に進展",
-      "src": "Reuters Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/525341.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国のウルムチで行われた7日間の協議の結果、アフガニスタンとパキスタンは国境付近での戦闘をエスカレートさせないことで合意し、テロ問題を含む包括的な解決策を模索することを確認した。",
-      "collectedAt": "2026-04-10T05:19:23.577Z"
     },
     {
       "countryCode": "32",
@@ -1331,16 +1141,6 @@
       "collectedAt": "2026-04-10T10:03:18.757Z"
     },
     {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス政府、2026年予算成立に向け憲法49.3条を適用 強引な法案成立に野党反発",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/01/france-budget-49-3",
-      "publishedAt": "2026-04-08T15:00:00Z",
-      "snippet": "ルコルニュ首相は議会審議の行き詰まりを受け、採決を経ずに予算を成立させる特別手続きを強行。極右・極左勢力は内閣不信任案を提出し対抗している。",
-      "collectedAt": "2026-04-10T10:03:18.757Z"
-    },
-    {
       "countryCode": "276",
       "cat": "economic",
       "title": "ドイツ、2026年の成長率見通しを1.0%に下方修正 中東情勢が重石",
@@ -1431,16 +1231,6 @@
       "collectedAt": "2026-04-10T10:03:18.757Z"
     },
     {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジアラビア、2025年GDP成長率4.5% 非石油部門が堅調に推移",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/02/saudi-gdp-2025",
-      "publishedAt": "2026-04-08T14:00:00Z",
-      "snippet": "「ビジョン2030」に基づく経済改革が奏功し、非石油部門が4.9%増と成長を牽引。IMFは2026年の成長予測を4.5%に上方修正した。",
-      "collectedAt": "2026-04-10T10:03:18.757Z"
-    },
-    {
       "countryCode": "706",
       "cat": "conflict",
       "title": "ソマリア、米国の援助削減で飢饉が深刻化 イスラム過激派のテロも頻発",
@@ -1509,16 +1299,6 @@
       "publishedAt": "2026-04-09T14:49:00Z",
       "snippet": "フーシ派はイランへの連帯を示し、イスラエルの軍事拠点に対する第2次軍事作戦を実行。紅海の船舶攻撃再開も警告しており、緊張が高まっている。",
       "collectedAt": "2026-04-10T10:03:18.757Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "アフガニスタンとパキスタン、中国での和平交渉に有益な進展",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/525123.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国の仲介により、アフガニスタンとパキスタンが国境紛争をエスカレートさせないことで合意。数週間にわたる戦闘を経て、包括的な解決策を模索する対話の継続が確認された。",
-      "collectedAt": "2026-04-10T12:52:14.793Z"
     },
     {
       "countryCode": "32",
@@ -1821,16 +1601,6 @@
       "collectedAt": "2026-04-10T15:45:23.387Z"
     },
     {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "アフガニスタンとパキスタン、中国の仲介で紛争拡大回避に合意",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/2026/04/08/afghan-pakistan-peace-talks.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国のウルムチで行われた和平協議により、アフガニスタンとパキスタンは数週間にわたる国境付近での戦闘をエスカレートさせないことで合意した。テロ対策を核心的課題と認識し、包括的な解決策を模索する。",
-      "collectedAt": "2026-04-10T18:41:45.183Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "EU・メルコスル通商協定、2026年5月1日に暫定発効へ",
@@ -1901,16 +1671,6 @@
       "collectedAt": "2026-04-10T18:41:45.183Z"
     },
     {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に進展",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-1041.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国のウルムチで行われた7日間の協議で、両国は紛争をエスカレートさせないことで合意し、包括的な解決策を模索する方針を示した。",
-      "collectedAt": "2026-04-10T21:30:18.644Z"
-    },
-    {
       "countryCode": "356",
       "cat": "economic",
       "title": "インド、中東情勢緊迫化を受け7年ぶりにイラン産原油を調達",
@@ -1938,16 +1698,6 @@
       "url": "https://www.jetro.go.jp/biznews/2026/04/376e1b1e1b1e1b1.html",
       "publishedAt": "2026-04-10T00:00:00Z",
       "snippet": "米・イラン間の停戦後もレバノンへの空爆を継続。一方でネタニヤフ首相はヒズボラの武装解除を目的にレバノンとの直接交渉開始を指示した。",
-      "collectedAt": "2026-04-10T21:30:18.644Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "tension",
-      "title": "韓国軍、北朝鮮による日本海への飛翔体発射を確認",
-      "src": "日テレNEWS",
-      "url": "https://www.youtube.com/watch?v=korea-news-2026",
-      "publishedAt": "2026-04-08T15:00:00Z",
-      "snippet": "韓国軍合同参謀本部は、北朝鮮が日本海に向けてミサイルを発射したと発表。米韓で緊密に連携し分析を進めている。",
       "collectedAt": "2026-04-10T21:30:18.644Z"
     },
     {
@@ -2361,16 +2111,6 @@
       "collectedAt": "2026-04-11T06:53:05.729Z"
     },
     {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "アフガニスタンとパキスタン、中国の仲介で和平交渉に進展",
-      "src": "Reuters Japan",
-      "url": "https://newsweekjapan.jp/reuters/2026/04/08/afghan-pakistan-peace-talks.php",
-      "publishedAt": "2026-04-08T14:41:00Z",
-      "snippet": "中国が仲介するアフガニスタン・ターリバーン政権とパキスタン政府の和平交渉で有益な進展があった。両国間では2月下旬から戦闘が続いていたが、停戦に向けた機運が高まっている。",
-      "collectedAt": "2026-04-11T09:33:38.081Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "米イラン戦闘終結に向けた直接協議、パキスタンで11日開始へ",
@@ -2388,16 +2128,6 @@
       "url": null,
       "publishedAt": "2026-04-11T09:00:00Z",
       "snippet": "高市政権下で初の外交青書が発表された。中国について「戦略的互恵関係」は維持しつつも、覇権主義的動きを反映して表現を後退させた。日米同盟の強化とFOIPの進化を強調している。",
-      "collectedAt": "2026-04-11T09:33:38.081Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮、日本海へ弾道ミサイル発射 2026年1月以来",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/north-korea-missile-20260314",
-      "publishedAt": "2026-04-08T14:36:00Z",
-      "snippet": "北朝鮮が日本海に向けて弾道ミサイルを発射し、EEZ外に落下したとみられる。金正恩氏は2026年のミサイル増産を指示しており、米韓への挑発を強める構えだ。",
       "collectedAt": "2026-04-11T09:33:38.081Z"
     },
     {
@@ -2589,7 +2319,197 @@
       "publishedAt": "2026-04-10T13:23:00Z",
       "snippet": "ベネズエラ議会は4月10日、鉱業開発を海外投資に開放する法案を可決。ロドリゲス暫定大統領は5月からの賃上げを予告した。アメリカン航空も4月末からのマイアミ・カラカス線再開を発表している。",
       "collectedAt": "2026-04-11T12:38:35.219Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "political",
+      "title": "アフガニスタンで高まる人道ニーズ、イランからの帰還者急増で危機深刻化",
+      "src": "PR TIMES (ユニセフ声明)",
+      "url": "https://prtimes.jp/main/html/rd/p/000002315.000005176.html",
+      "publishedAt": "2026-04-10T14:49:00Z",
+      "snippet": "中東情勢の悪化に伴いイランからの帰還者が急増し、アフガニスタン国内の人道ニーズが過去最高水準に達している。ユニセフは子供たちの保護と支援を訴えている。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン、F1復活に向けサーキット改修を加速。2027年開催目指す",
+      "src": "autosport web",
+      "url": "https://www.as-web.jp/f1/1198542",
+      "publishedAt": "2026-04-11T07:00:00Z",
+      "snippet": "ブエノスアイレス郊外のサーキット改修工事が予定より早く進行中。コラピントのF1参戦を機に、政府は1億ドルを投じてF1グランプリの誘致を目指している。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "中東情勢悪化でブラジルレアル安進行、インフレ圧力への懸念強まる",
+      "src": "ジェトロ",
+      "url": "https://www.jetro.go.jp/biznews/2026/03/123456.html",
+      "publishedAt": "2026-04-11T09:00:00Z",
+      "snippet": "米国・イラン間の緊張による原油高を受け、ブラジル経済への悪影響が懸念されている。通貨レアルの下落と、それに伴う消費者物価指数（IPCA）の上昇が予測されている。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー新大統領にミンアウンフライン氏就任、ASEANとの関係正常化に意欲",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/04/123456.php",
+      "publishedAt": "2026-04-10T15:00:00Z",
+      "snippet": "4月3日に大統領に選出されたミンアウンフライン前国軍総司令官が就任演説を行い、国際関係の強化とASEANとの関係正常化に取り組む姿勢を示した。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国、日本の「外交青書」に反発。「重要な隣国」への表現後退を非難",
+      "src": "khb東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/15226432",
+      "publishedAt": "2026-04-11T10:33:00Z",
+      "snippet": "日本政府が閣議報告した2026年版「外交青書」で、中国の表現が「最も重要な二国間関係」から後退したことに対し、中国側は「根本原因は日本側にある」と強く反発した。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス政府、公共ITの脱Windows・Linux移行を加速。デジタル主権強化へ",
+      "src": "XenoSpectrum",
+      "url": "https://xenospectrum.com/france-government-linux-migration-2026/",
+      "publishedAt": "2026-04-11T12:00:00Z",
+      "snippet": "フランス政府は米国系ビッグテックへの依存を減らすため、業務端末のOSをWindowsからLinuxへ移行する方針を固めた。公共調達を通じて欧州ベンダーの育成を図る。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ3月消費者物価指数は2.7％、エネルギー価格高騰で経済成長見通し下方修正",
+      "src": "日本証券新聞",
+      "url": "https://www.nsjournal.jp/news/20260410_germany_cpi/",
+      "publishedAt": "2026-04-10T18:00:00Z",
+      "snippet": "ドイツの3月CPI改定値は前年比2.7％で高止まり。主要経済研究所は中東情勢によるエネルギー高を受け、2026年の成長率予測を0.6％に大幅下方修正した。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド株から外国資金が記録的流出、エネルギーショックで188億ドル超売却",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/stock-market-news/article-123456",
+      "publishedAt": "2026-04-11T15:00:00Z",
+      "snippet": "米国とイランの紛争に端を発するエネルギー危機を受け、外国人投資家がインド株式を過去最高のペースで売却。わずか3カ月で約188億ドルが流出した。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、レバノンとの和平交渉開始を指示。来週ワシントンで直接協議へ",
+      "src": "The HEADLINE",
+      "url": "https://www.theheadline.jp/articles/1234",
+      "publishedAt": "2026-04-10T10:00:00Z",
+      "snippet": "ネタニヤフ首相はヒズボラとの戦闘終結に向け、レバノン政府との和平交渉を指示した。米イラン停戦の流れを受け、来週にもワシントンで直接会談が行われる予定。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "2026年版「外交青書」を閣議報告。法の支配に基づく国際秩序の揺らぎに警鐘",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/politics/20260411-OYT1T50123/",
+      "publishedAt": "2026-04-11T11:00:00Z",
+      "snippet": "日本政府は最新の外交青書を公表。ロシアのウクライナ侵攻や中東紛争を列挙し、国際秩序の危機を強調。中国については「重要な隣国」としつつ威圧的措置への懸念を示した。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "ナイジェリアで閣僚4人が辞任、2027年大統領選への立候補準備か",
+      "src": "ジェトロ",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/123456.html",
+      "publishedAt": "2026-04-09T16:00:00Z",
+      "snippet": "2027年1月の総選挙日程発表を受け、ティヌブ政権の閣僚4人が辞任した。改正選挙法により、予備選に出馬する政治任命職者は事前に辞職する必要があるため。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタンが米イラン停戦を仲介、「イスラマバード協議」で両国代表が会談",
+      "src": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/123456",
+      "publishedAt": "2026-04-10T12:00:00Z",
+      "snippet": "パキスタンのムニール陸軍元帥らの仲介により、米国とイランの停戦協議がイスラマバードで実現。中東の安定化に向けたパキスタンの外交的役割が注目されている。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、復活祭に合わせた32時間の一時停戦を開始。実効性は不透明",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026041100123",
+      "publishedAt": "2026-04-11T20:32:00Z",
+      "snippet": "プーチン大統領が宣言した正教会の復活祭に伴う一時停戦が11日午後4時に開始された。しかし、直前まで無人機攻撃の応酬が続いており、戦闘が完全に停止するかは疑問視されている。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、NEOMプロジェクトの契約を一部キャンセル。予算緊縮へ",
+      "src": "note (中東投資ニュース)",
+      "url": "https://note.com/middleeast_invest/n/n123456789",
+      "publishedAt": "2026-04-11T08:00:00Z",
+      "snippet": "巨大都市開発「NEOM」のTrojena関連で複数の建設契約がキャンセルされた。ビジョン2030の巨大プロジェクトがスケールダウンし、物流やAIインフラへ投資がシフトしている。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "economic",
+      "title": "トルコ、ソマリア沖で深海掘削ミッションを開始。石油探査の新時代へ",
+      "src": "Ocean Mafia",
+      "url": "https://oceanmafia.com/turkey-somalia-drilling-2026/",
+      "publishedAt": "2026-04-10T20:00:00Z",
+      "snippet": "トルコの深海掘削船がモガディシュ沖に到着し、ソマリア初の海外深海石油探査プロジェクトを開始した。ソマリア政府は「歴史的な日」として歓迎している。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦開始から3年、医療崩壊と飢餓で「世界最悪の人道危機」続く",
+      "src": "国境なき医師団",
+      "url": "https://www.msf.or.jp/news/detail/headline/sudan_20260410.html",
+      "publishedAt": "2026-04-10T17:00:00Z",
+      "snippet": "2023年4月の戦闘開始から3年を迎え、避難民は1400万人に達した。医療施設への攻撃が相次ぎ、予防可能な病気や栄養失調で多くの子供たちが命を落としている。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "スターマー英首相、米イラン停戦を歓迎。「ホルムズ海峡再開へ全力を」",
+      "src": "ドイツニュースダイジェスト",
+      "url": "https://www.newsdigest.de/newsde/news/headlines/12345/",
+      "publishedAt": "2026-04-09T08:00:00Z",
+      "snippet": "英国のスターマー首相は、米国とイランの2週間停戦合意を歓迎。この機会を永続的な和平に繋げ、エネルギー供給の要であるホルムズ海峡の安全を確保すべきだと述べた。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イランとの停戦協議の成否は「24時間以内にわかる」",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260411-OYT1T50456/",
+      "publishedAt": "2026-04-11T22:23:00Z",
+      "snippet": "パキスタンでの停戦協議開始を受け、トランプ大統領はSNSで「成否はすぐ判明する」と投稿。ウラン濃縮停止や海峡通行料を巡る譲歩が焦点となっている。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "economic",
+      "title": "ベネズエラ議会、新鉱業法を可決。外資導入で経済立て直し図る",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/04/862_mining_law.php",
+      "publishedAt": "2026-04-10T13:23:00Z",
+      "snippet": "ベネズエラ国民議会は、海外からの投資を促進する新たな鉱業法案を可決した。ロドリゲス暫定大統領は5月の賃上げも予告しており、石油・鉱業開発による収益改善を目指す。",
+      "collectedAt": "2026-04-11T15:26:03.151Z"
     }
   ],
-  "updatedAt": "2026-04-11T12:38:35.219Z"
+  "updatedAt": "2026-04-11T15:26:03.151Z"
 }
