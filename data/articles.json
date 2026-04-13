@@ -1,56 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国・王毅外相が北朝鮮を訪問、関係強化を表明",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/985000",
-      "publishedAt": "2026-04-10T08:00:00Z",
-      "snippet": "中国の王毅外相が平壌を訪問し、北朝鮮側と外相会談を実施。戦略的パートナーシップの深化と地域情勢の安定について協議した。",
-      "collectedAt": "2026-04-09T21:40:31.312Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市総理、エネルギー危機対応で石油備蓄の追加放出を表明",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260410-takaichi-oil",
-      "publishedAt": "2026-04-10T08:00:00Z",
-      "snippet": "高市総理大臣は、中東情勢による原油高を受け、5月上旬に約20日分の石油備蓄を放出すると発表した。また、北朝鮮のミサイル発射に対し北京の大使館ルートを通じて厳重に抗議した。",
-      "collectedAt": "2026-04-10T01:47:53.343Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、イースターに合わせ32時間の停戦を命令 ウクライナも同調",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260410-OYT1T50001/",
-      "publishedAt": "2026-04-10T10:09:00Z",
-      "snippet": "プーチン大統領は12日のロシア正教の復活祭に合わせ、11日午後から32時間の戦闘停止を命じた。日本に対しては、日本企業のウクライナ接近を理由に大使へ厳重抗議を行った。",
-      "collectedAt": "2026-04-10T01:47:53.343Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦開始からまもなく3年、医療崩壊と飢饉が深刻化",
-      "src": "国境なき医師団",
-      "url": "https://www.msf.or.jp/news/detail/sudan-3years-2026.html",
-      "publishedAt": "2026-04-10T09:00:00Z",
-      "snippet": "4月15日で内戦開始から3年を迎える。4月2日にはRSFによる病院攻撃で10人が死亡。避難民は1400万人に達し、世界最大の人道危機となっている。",
-      "collectedAt": "2026-04-10T01:47:53.343Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、トランプ大統領と電話会談 ホルムズ海峡対応を協議",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260410-uk-us-summit",
-      "publishedAt": "2026-04-10T08:14:00Z",
-      "snippet": "米英首脳は、米イラン停戦を受けてホルムズ海峡の通航再開に向けた調整を加速させることで一致した。また、英海域でロシア潜水艦3隻が海底インフラを調査する不審な活動を確認し、警告を発した。",
-      "collectedAt": "2026-04-10T01:47:53.343Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ミャンマー新大統領にミン・アウン・フライン前総司令官が就任",
@@ -68,46 +18,6 @@
       "url": "https://www.fnn.jp/articles/-/20260410685214",
       "publishedAt": "2026-04-10T11:03:00Z",
       "snippet": "日本政府が公表した2026年版「外交青書」にて、中国の表現が「最も重要な二国間関係」から「重要な隣国」に格下げされた。高市総理の台湾有事発言による関係悪化が反映されている。",
-      "collectedAt": "2026-04-10T07:18:06.525Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、米イラン停戦を無視しレバノン空爆を継続",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/israel_lebanon.html",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "ネタニヤフ政権は、米イラン間の停戦合意はイスラエルを拘束しないとの立場を表明。ヒズボラの武装解除を目的としたレバノンへの攻撃を強化しており、中東情勢は依然として不安定な状況にある。",
-      "collectedAt": "2026-04-10T07:18:06.525Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "プーチン大統領、イースターに合わせ32時間の停戦を決定",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260410-OYT1T50085/",
-      "publishedAt": "2026-04-10T10:09:00Z",
-      "snippet": "ロシアのプーチン大統領は、正教会のイースターに合わせてウクライナ全土での戦闘行為を32時間停止するよう命じた。ウクライナ側はこれを「再編のための時間稼ぎ」として警戒している。",
-      "collectedAt": "2026-04-10T07:18:06.525Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦開始から3年、避難民は1400万人に到達",
-      "src": "国境なき医師団",
-      "url": "https://www.msf.or.jp/news/detail/20260410_sudan.html",
-      "publishedAt": "2026-04-10T09:00:00Z",
-      "snippet": "2023年4月の内戦勃発からまもなく3年を迎えるスーダンでは、医療施設への攻撃が常態化し、世界最大の避難民危機となっている。最近ではRSFとSAF双方によるドローン攻撃が民間人の居住地を直撃している。",
-      "collectedAt": "2026-04-10T07:18:06.525Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ軍、ドローン優勢を確立しロシア軍の前進を阻止",
-      "src": "戦争研究所 (ISW)",
-      "url": "https://note.com/panzergraf/n/n20260410_ukraine",
-      "publishedAt": "2026-04-10T08:00:00Z",
-      "snippet": "ウクライナ軍は2026年に入りドローン運用を劇的に強化し、ロシア軍の兵站施設や指揮所への打撃を成功させている。ロシア軍の春季攻勢は停滞しており、戦況は膠着状態にある。",
       "collectedAt": "2026-04-10T07:18:06.525Z"
     },
     {
@@ -191,16 +101,6 @@
       "collectedAt": "2026-04-10T10:03:18.757Z"
     },
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "プーチン大統領、ウクライナ戦線での「一時停戦」を宣言 和平交渉を模索か",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041000912",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "ロシアのプーチン大統領は、ウクライナの一部地域での一時的な戦闘停止を表明。トランプ米政権の仲介を念頭に、有利な条件での交渉入りを狙う構え。",
-      "collectedAt": "2026-04-10T10:03:18.757Z"
-    },
-    {
       "countryCode": "729",
       "cat": "conflict",
       "title": "スーダン内戦開始から3年、ドローン攻撃の広範な使用で民間人被害が急増",
@@ -241,16 +141,6 @@
       "collectedAt": "2026-04-10T12:52:14.793Z"
     },
     {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国外相が訪朝、北朝鮮を称賛 米の制裁下でも「成果」",
-      "src": "Reuters / Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/525245.php",
-      "publishedAt": "2026-04-10T09:46:00Z",
-      "snippet": "中国の王毅外相が北朝鮮を訪問し、米国主導の制裁下でも北朝鮮が目覚ましい成果を上げていると称賛。中朝関係の緊密さを強調した。",
-      "collectedAt": "2026-04-10T12:52:14.793Z"
-    },
-    {
       "countryCode": "356",
       "cat": "economic",
       "title": "インド、2028年のCOP33立候補を撤回 経済成長を優先",
@@ -258,26 +148,6 @@
       "url": "https://www.jiji.com/jc/article?k=2026041000752",
       "publishedAt": "2026-04-10T16:32:00Z",
       "snippet": "インド政府が2028年の国連気候変動会議（COP33）への立候補を撤回。排出削減よりも国内の経済成長を優先する姿勢を鮮明にした。",
-      "collectedAt": "2026-04-10T12:52:14.793Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、レバノンと和平交渉へ 来週ワシントンで開催",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3514231",
-      "publishedAt": "2026-04-10T09:49:00Z",
-      "snippet": "激しい空爆が続く中、イスラエルとレバノンが停戦に向けた直接協議を来週ワシントンで行うことで合意。米国が仲介を務める。",
-      "collectedAt": "2026-04-10T12:52:14.793Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "日本3月国内企業物価指数、前年同月比2.6％上昇",
-      "src": "日本証券新聞",
-      "url": "https://www.nsjournal.jp/news/20260410-macro/",
-      "publishedAt": "2026-04-10T09:00:00Z",
-      "snippet": "3月の日本の国内企業物価指数が予想を上回る2.6%の上昇を記録。エネルギー価格や原材料費の高騰が企業間の取引価格を押し上げている。",
       "collectedAt": "2026-04-10T12:52:14.793Z"
     },
     {
@@ -311,16 +181,6 @@
       "collectedAt": "2026-04-10T12:52:14.793Z"
     },
     {
-      "countryCode": "104",
-      "cat": "conflict",
-      "title": "ミャンマー国軍の暴力により3月に女性88人が死亡と発表",
-      "src": "NEWS-BRAIN",
-      "url": "https://news-brain.net/myanmar-violence-202604/",
-      "publishedAt": "2026-04-10T08:00:00Z",
-      "snippet": "ミャンマー女性連合（BWU）は、国軍による空爆や拷問により3月だけで88人の女性が犠牲になったと発表した。タイ国境付近での戦闘も激化しており、人道状況が悪化している。",
-      "collectedAt": "2026-04-10T15:45:23.387Z"
-    },
-    {
       "countryCode": "156",
       "cat": "political",
       "title": "習近平主席、台湾最大野党・国民党の鄭麗文主席と10年ぶり会談",
@@ -351,16 +211,6 @@
       "collectedAt": "2026-04-10T15:45:23.387Z"
     },
     {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦開始から3年、避難民は1400万人に到達",
-      "src": "国境なき医師団",
-      "url": "https://www.msf.or.jp/news/detail/sudan-20260410.html",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "2023年4月の開戦から3年が経過し、スーダンは世界最大の避難民危機に直面している。医療施設への攻撃が相次ぎ、2025年の医療被害死者の82%がスーダンに集中している。",
-      "collectedAt": "2026-04-10T15:45:23.387Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ米大統領、イランとの停戦合意を「完全勝利」と宣言",
@@ -369,16 +219,6 @@
       "publishedAt": "2026-04-10T17:00:00Z",
       "snippet": "トランプ大統領はイランとの2週間停戦を「米国の完全勝利」と呼び、自らの軍事圧力が功を奏したと主張した。一方で、エネルギーインフラへの攻撃期限を設定し、さらなる圧力を示唆している。",
       "collectedAt": "2026-04-10T15:45:23.387Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "EU・メルコスル通商協定、2026年5月1日に暫定発効へ",
-      "src": "ブラジル日報",
-      "url": "https://www.brasilnippo.com.br/2026/04/10/eu-mercosur-fta-start.php",
-      "publishedAt": "2026-04-10T09:00:00Z",
-      "snippet": "EUとメルコスル4カ国（ブラジル、アルゼンチン等）の暫定通商協定が5月1日に発効する。関税撤廃や原産地管理など実務的な貿易自由化が先行して開始される見通し。",
-      "collectedAt": "2026-04-10T18:41:45.183Z"
     },
     {
       "countryCode": "804",
@@ -411,16 +251,6 @@
       "collectedAt": "2026-04-10T21:30:18.644Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英首相、トランプ米大統領とホルムズ海峡再開に向け協議",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/671000",
-      "publishedAt": "2026-04-10T08:14:00Z",
-      "snippet": "スターマー首相は9日、トランプ大統領と電話会談。米・イラン停戦を受け、ホルムズ海峡の通航再開を次の段階に進めることで一致した。",
-      "collectedAt": "2026-04-10T21:30:18.644Z"
-    },
-    {
       "countryCode": "862",
       "cat": "economic",
       "title": "ベネズエラ議会、海外投資を促進する新鉱業法案を可決",
@@ -448,16 +278,6 @@
       "url": "https://news.ntv.co.jp/category/international/20260410-001",
       "publishedAt": "2026-04-10T10:35:00Z",
       "snippet": "米国との2週間の停戦合意後も、イスラエルのレバノン攻撃を巡り認識が対立。イランはホルムズ海峡の再封鎖を警告し、原油市場に緊張が走っている。",
-      "collectedAt": "2026-04-11T01:27:46.192Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジアラビアのエネルギー施設にドローン攻撃、石油生産が日量60万バレル減少",
-      "src": "ARAB NEWS Japan",
-      "url": "https://www.arabnews.jp/article/saudi-arabia/20260410-001/",
-      "publishedAt": "2026-04-10T08:00:00Z",
-      "snippet": "リヤドやヤンブーの石油施設が攻撃を受け、東西パイプラインの輸送能力が低下。イラン戦争の影響による供給不安で、世界経済への悪影響が懸念されている。",
       "collectedAt": "2026-04-11T01:27:46.192Z"
     },
     {
@@ -591,16 +411,6 @@
       "collectedAt": "2026-04-11T06:53:05.729Z"
     },
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍の死傷者90万人に達するか、ウクライナ軍が東部で反撃",
-      "src": "Jディフェンスニュース",
-      "url": "https://www.ikaros.jp/news/20260410",
-      "publishedAt": "2026-04-10T09:45:00Z",
-      "snippet": "英国防省の分析によると、侵攻開始からのロシア軍死傷者が90万人に達した。ウクライナ軍は南東部と東部で約480平方キロを奪還したと発表。",
-      "collectedAt": "2026-04-11T06:53:05.729Z"
-    },
-    {
       "countryCode": "792",
       "cat": "tension",
       "title": "トルコで走行中の車が突然爆発、中東情勢緊迫で航空便一部停止",
@@ -608,16 +418,6 @@
       "url": "https://www.fnn.jp/articles/-/684123",
       "publishedAt": "2026-04-11T12:00:00Z",
       "snippet": "トルコ国内の道路で車両が爆発する事案が発生。また、ターキッシュエアラインズは隣接するシリアやイラン、イラクへのフライトを一時停止している。",
-      "collectedAt": "2026-04-11T06:53:05.729Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "economic",
-      "title": "ソマリア、トルコと共同で初の沖合石油掘削を開始 経済再建に期待",
-      "src": "Ocean Mafia",
-      "url": "https://oceanmafia.com/turkey-starts-deep-sea-drilling-in-somalia/",
-      "publishedAt": "2026-04-10T08:00:00Z",
-      "snippet": "トルコの掘削船がモガディシュ沖に到着し、ソマリア初の深海石油探査プロジェクトを開始。政府は「歴史的な日」として経済再建への期待を表明した。",
       "collectedAt": "2026-04-11T06:53:05.729Z"
     },
     {
@@ -638,16 +438,6 @@
       "url": "https://www.nsjournal.jp/macro/20260410-brazil/",
       "publishedAt": "2026-04-10T15:00:00Z",
       "snippet": "ブラジル地理統計院（IBGE）が発表した3月のIPCAは前年比4.14％増。中東情勢による原油高がインフレ圧力となっている。",
-      "collectedAt": "2026-04-11T06:53:05.729Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国・李在明大統領、小規模事業者の団結権容認を示唆",
-      "src": "東亜日報",
-      "url": "https://www.donga.com/jp/article/all/20260410/4865125/1",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "李在明大統領は労働組合執行部との懇談会で、小規模事業者の集団交渉権や団結権を認めるべきとの考えを表明した。",
       "collectedAt": "2026-04-11T06:53:05.729Z"
     },
     {
@@ -749,16 +539,6 @@
       "publishedAt": "2026-04-10T16:00:00Z",
       "snippet": "米イスラエルとイランの衝突によりホルムズ海峡の通航が困難になり、イエメン周辺を含む紅海ルートの緊張も再燃。原油価格高騰と物流停止が世界経済のリスクとなっている。",
       "collectedAt": "2026-04-11T09:33:38.081Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル、強制労働リストから中国BYDを除外へ",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/byd-brazil-list.php",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "ブラジルの労働裁判所は、中国EV大手BYDを「奴隷的労働」リストから除外する仮処分を下した。国内経済では3月の消費者物価が予想を上回る0.88%上昇し、インフレ圧力が強まっている。",
-      "collectedAt": "2026-04-11T12:38:35.219Z"
     },
     {
       "countryCode": "250",
@@ -928,16 +708,6 @@
       "url": "https://jp.investing.com/news/stock-market-news/article-123456",
       "publishedAt": "2026-04-11T15:00:00Z",
       "snippet": "米国とイランの紛争に端を発するエネルギー危機を受け、外国人投資家がインド株式を過去最高のペースで売却。わずか3カ月で約188億ドルが流出した。",
-      "collectedAt": "2026-04-11T15:26:03.151Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、レバノンとの和平交渉開始を指示。来週ワシントンで直接協議へ",
-      "src": "The HEADLINE",
-      "url": "https://www.theheadline.jp/articles/1234",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "ネタニヤフ首相はヒズボラとの戦闘終結に向け、レバノン政府との和平交渉を指示した。米イラン停戦の流れを受け、来週にもワシントンで直接会談が行われる予定。",
       "collectedAt": "2026-04-11T15:26:03.151Z"
     },
     {
@@ -1121,16 +891,6 @@
       "collectedAt": "2026-04-11T21:25:40.849Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル3月インフレ率4.14％、中東情勢による燃料高が直撃",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-123456",
-      "publishedAt": "2026-04-10T08:00:00Z",
-      "snippet": "イラン紛争に伴うエネルギー価格の上昇により、3月の消費者物価指数が予想を上回る伸びを記録。燃料価格が消費を圧迫している。",
-      "collectedAt": "2026-04-11T21:25:40.849Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ミャンマー、ミンアウンフライン氏が大統領に就任",
@@ -1251,16 +1011,6 @@
       "collectedAt": "2026-04-12T01:50:01.701Z"
     },
     {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー、ミンアウンフライン氏が大統領に就任 事実上の軍政継続",
-      "src": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026041000782",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "2021年のクーデターを主導したミンアウンフライン前国軍総司令官が10日、新国会で選出され大統領に就任した。任期は5年で、国際社会からは「偽りの民政移管」との批判が出ている。",
-      "collectedAt": "2026-04-12T01:50:01.701Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "米・イラン和平協議、イスラマバードで延長 依然として大きな隔たり",
@@ -1351,16 +1101,6 @@
       "collectedAt": "2026-04-12T05:17:24.475Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍、シリア南部で軍事作戦 容疑者数人を逮捕",
-      "src": "ロイター",
-      "url": "https://jp.reuters.com/world/israel-syria-20260410/",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "イスラエル軍は隣国シリアでテロを計画していた武装組織に対し軍事作戦を実施。シリア暫定政府は民間人に犠牲が出たと非難しており、地域緊張が再燃している。",
-      "collectedAt": "2026-04-12T05:17:24.475Z"
-    },
-    {
       "countryCode": "643",
       "cat": "conflict",
       "title": "ロシア、復活祭に合わせ「一時停戦」宣言 実現は不透明",
@@ -1411,16 +1151,6 @@
       "collectedAt": "2026-04-12T07:05:48.050Z"
     },
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "プーチン大統領、復活祭に合わせた32時間の一時停戦を表明",
-      "src": "日テレNEWS",
-      "url": "https://news.ntv.co.jp/category/international/d69103c447684c54ac9be60bf71dd5ee",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "ロシア正教会の復活祭に合わせ、ウクライナ全域での一時停戦を宣言。しかし、ウクライナ側はロシア軍による無人機攻撃が続いていると非難している。",
-      "collectedAt": "2026-04-12T07:05:48.050Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ウクライナ、ロシアの復活祭停戦に同意も「攻撃は継続中」と指摘",
@@ -1461,16 +1191,6 @@
       "collectedAt": "2026-04-12T09:39:17.862Z"
     },
     {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国、7月から生理用品の無償支給を全国で開始へ",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-5678.php",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "韓国政府は、アジア初となる生理用品の普遍的支援制度を7月から導入することを決定した。",
-      "collectedAt": "2026-04-12T09:39:17.862Z"
-    },
-    {
       "countryCode": "586",
       "cat": "political",
       "title": "パキスタン首相、米イラン協議の仲介で影響力拡大を狙う",
@@ -1501,16 +1221,6 @@
       "collectedAt": "2026-04-12T09:39:17.862Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、トランプ大統領とホルムズ海峡再開を協議",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260410-starmer",
-      "publishedAt": "2026-04-10T08:14:00Z",
-      "snippet": "スターマー首相はトランプ大統領と電話会談し、イランとの停戦成立を受けたホルムズ海峡の通航再開に向けた調整で一致した。",
-      "collectedAt": "2026-04-12T09:39:17.862Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、イランとの和平交渉に「勝利」を強調",
@@ -1528,16 +1238,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-7890.php",
       "publishedAt": "2026-04-10T13:23:00Z",
       "snippet": "マドゥーロ大統領の拘束など政治的混乱が続く中、ベネズエラ議会は経済再建のため鉱業分野を海外投資に開放する法案を可決した。",
-      "collectedAt": "2026-04-12T09:39:17.862Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "イエメン内戦、紅海での船舶攻撃が再燃の兆し",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_789012/",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "フーシ派による紅海を航行する船舶への攻撃が再び報告されており、中東の海上輸送ルートの緊張が高まっている。",
       "collectedAt": "2026-04-12T09:39:17.862Z"
     },
     {
@@ -1568,16 +1268,6 @@
       "url": "https://uravation.com/media/china-ai-spirit-ai-funding-202604/",
       "publishedAt": "2026-04-11T09:00:00Z",
       "snippet": "ロボット学習に特化した中国のAI企業「Spirit AI」が、シャオミの雷軍氏とアリババの馬雲氏のファンドから異例の共同出資を受けた。中国国内でのAI投資は2026年に入り加速しており、製造業へのAI導入が本格化している。",
-      "collectedAt": "2026-04-12T12:42:20.427Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ルフトハンザ航空で大規模ストライキ、ドイツ国内便の8割以上が欠航",
-      "src": "特典旅行情報局",
-      "url": "https://www.tokutenryoko.com/news/12345",
-      "publishedAt": "2026-04-10T09:00:00Z",
-      "snippet": "客室乗務員組合による22時間のストライキにより、フランクフルトやミュンヘン発着のルフトハンザ便が大幅に欠航した。インフレに伴う賃上げ要求が背景にあり、交通インフラの混乱が続いている。",
       "collectedAt": "2026-04-12T12:42:20.427Z"
     },
     {
@@ -1681,16 +1371,6 @@
       "collectedAt": "2026-04-12T15:31:35.930Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル、3月の消費者物価指数（IPCA）を発表",
-      "src": "ジェトロ",
-      "url": "https://namuamidabu.com/grounding-api-redirect/AUZIYQE8oy-uP-sLnhorg8Vu9dfDyIEXhJjWAflJpATxUFZdqfOoekDkDGC4yf2vNH3wbsxvNf1esh_Aga0iihSd4gwifxe0Sd1AAFgexq7vXYc5qlLFnFystUWxPp6U0ubmsLh4bB9p9Ftiiqr6b1m3JxF2p0rtevT7Fw==",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "ブラジル地理統計院（IBGE）が3月の拡大消費者物価指数を発表。インフレ再燃への警戒感が強まる中、中銀の金融政策への影響が注目される。",
-      "collectedAt": "2026-04-12T15:31:35.930Z"
-    },
-    {
       "countryCode": "156",
       "cat": "political",
       "title": "中国、台湾最大野党党首の訪問を受け優遇策10項目を発表",
@@ -1758,36 +1438,6 @@
       "url": "https://namuamidabu.com/grounding-api-redirect/AUZIYQHF90reK_gN60BntVW1ycN7JFepJbs9NqKM1nGMbAYMjWRs09N8vRdchNv_2uMdwgUkMGHxJvrLKm6y-JYk2Wb-xYiczR1WSDgJNoNEaOzYBCZSug__2R4AXncG4Q81HdNop3kWtw==",
       "publishedAt": "2026-04-11T10:00:00Z",
       "snippet": "シャリフ首相はイスラマバードでバンス米副大統領およびイラン代表団と会談。直接協議の実現に向けた地ならしを行った。",
-      "collectedAt": "2026-04-12T15:31:35.930Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦開始から3年、民間人保護を求める声",
-      "src": "PR TIMES",
-      "url": "https://namuamidabu.com/grounding-api-redirect/AUZIYQFmUXlygHyNtwijQxlQxr7Le5edNy9SUo2gV2yezCL2Q3CSfEEEcXLHcpxslZzVyjVLnxeGanl0vvsvlrd6ryXSi8ddi_Q7085cX7KMwghZddWuJ9jQ5AMPUzyFlUyfaUrLryZafaInJC9NhMtHDCN58LipGQ==",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "2023年4月の衝突開始から3年が経過。避難民は1400万人に達し、医療崩壊と無差別暴力が続く中、国際社会に行動を促している。",
-      "collectedAt": "2026-04-12T15:31:35.930Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "tension",
-      "title": "シリア情勢悪化を受け、ターキッシュエアラインが運航停止",
-      "src": "得典旅行",
-      "url": "https://namuamidabu.com/grounding-api-redirect/AUZIYQHJKlmAE8UVuHdW7_8Fb5uDT5b3av-HN2J6z6NaC8r016CCthduRKVZFFz-qqivW9xnrBuC8zoPqPgN4gjtji5oR1b57xOTjBx0J7QGzsVeBgjqJkt5ImEc9LBzbY52Y6XGU00gS7sXtG8=",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "中東全域の緊張高まりを受け、シリアを含む近隣諸国へのフライトが停止。現地の治安情勢は極めて流動的となっている。",
-      "collectedAt": "2026-04-12T15:31:35.930Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "米英首脳が電話会談、ホルムズ海峡再開に向けた連携で一致",
-      "src": "FNNプライムオンライン",
-      "url": "https://namuamidabu.com/grounding-api-redirect/AUZIYQEhioaSEWzMjF2Eqs4_sYesDJ6inM4AiVcS3Cfezy56BuYbMZXKwiNBM3hF77RKVI6bsJjKhgTy4BYUlrOE45qX5cZ1kTPEk8JMhpmfZrqY_soXmZrluiBGyEhvNW2LUQ==",
-      "publishedAt": "2026-04-10T08:14:00Z",
-      "snippet": "スターマー首相とトランプ大統領が会談。イランとの停戦成立を受け、封鎖中のホルムズ海峡の通航再開を次の段階へ進めることで合意した。",
       "collectedAt": "2026-04-12T15:31:35.930Z"
     },
     {
@@ -1878,16 +1528,6 @@
       "url": "https://jp.investing.com/news/commodities-news/article-931185",
       "publishedAt": "2026-04-12T10:00:00Z",
       "snippet": "ホルムズ海峡の緊張を受け、サウジは東西パイプラインの能力を増強。イランによる攻撃で被害を受けた施設の修復を進めつつ、供給網の安定化を図っている。",
-      "collectedAt": "2026-04-12T18:36:34.675Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦開始から3年、避難民は1400万人に ドローン攻撃が激化",
-      "src": "国境なき医師団",
-      "url": "https://www.msf.or.jp/news/detail/headline/sudan-20260410.html",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "snippet": "2023年4月の開戦から3年を迎え、世界最悪の人道危機が続いている。最近は双方がドローンを多用し、病院などの民間インフラへの被害が急増している。",
       "collectedAt": "2026-04-12T18:36:34.675Z"
     },
     {
@@ -2379,7 +2019,127 @@
       "publishedAt": "2026-04-13T09:00:00Z",
       "snippet": "韓国銀行は、中東での紛争激化に伴う原油価格高騰と物価上昇を受け、7回連続となる政策金利の据え置きを決定。成長鈍化への懸念も強まっている。",
       "collectedAt": "2026-04-13T07:50:49.945Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "political",
+      "title": "米国、アフガン避難民への法的確実性提供の必要性",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_138456/",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "米国はアフガニスタンからの避難民に対し、法的な居住資格や保護の確実性を提供する必要があると指摘されている。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン、2月の鉱業生産指数が3.3％上昇",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026041300742",
+      "publishedAt": "2026-04-13T16:19:00Z",
+      "snippet": "アルゼンチン国家統計局は、2月の鉱業生産指数が前年同月比で3.3％上昇したと発表。1〜2月累計でも4.4％増と堅調な伸びを見せている。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "tension",
+      "title": "中国AI、イランに米軍の座標を提供か トランプ氏が警告",
+      "src": "中央日報",
+      "url": "https://japanese.joins.com/JArticle/317356",
+      "publishedAt": "2026-04-13T15:56:00Z",
+      "snippet": "中国のAI技術がわずか数分で米軍を識別し、イランに座標を提供している実態が浮上。トランプ米大統領は「大きな問題になる」と中国を牽制している。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "独連立政権、燃料高騰対策に19億ドル規模の支援発表",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/456789.php",
+      "publishedAt": "2026-04-13T17:45:00Z",
+      "snippet": "メルツ首相率いるドイツ連立政権は、中東紛争に伴う原油高を受け、企業と消費者を対象とした16億ユーロ規模の燃料価格抑制策を閣議決定した。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、ウクライナ戦死者を前面に出し「Z世代」を攻略",
+      "src": "中央日報",
+      "url": "https://japanese.joins.com/JArticle/317357",
+      "publishedAt": "2026-04-13T15:31:00Z",
+      "snippet": "北朝鮮がウクライナ戦線での犠牲者を英雄視するプロパガンダを展開。SNSを通じて若年層（Z世代）への支持拡大を図っている。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国・李在明大統領、イスラエル批判を「強力に支持」",
+      "src": "中央日報",
+      "url": "https://japanese.joins.com/JArticle/317358",
+      "publishedAt": "2026-04-13T14:28:00Z",
+      "snippet": "韓国の李在明大統領は、イスラエルによるガザ・レバノン攻撃を強く批判。与党代表もこの方針を支持し、対イスラエル外交姿勢を強めている。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "conflict",
+      "title": "ナイジェリア軍が市場を誤爆、住民200人以上が死亡か",
+      "src": "読売新聞オンライン",
+      "url": "https://www.yomiuri.co.jp/world/20260413-OYT1T50456/",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "ナイジェリア北東部で、イスラム過激派を標的とした空爆が市場を直撃。民間人を含む200人以上が死亡した可能性があると報じられた。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米イラン和平交渉をイスラマバードで仲介",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026041300890",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "パキスタン政府の仲介により、米国とイランの代表団がイスラマバードで直接交渉を開始。中東紛争の終結に向けた道筋を模索する。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "プーチン大統領、東方正教の復活祭に合わせ「一時停戦」を宣言",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026041000987",
+      "publishedAt": "2026-04-10T17:33:00Z",
+      "snippet": "ロシアのプーチン大統領は、4月12日の復活祭に合わせた一時的な停戦を宣言。しかしウクライナ側は「再編のための時間稼ぎ」と反発している。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ「復活祭停戦」を巡りロシアと非難合戦",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026041300567",
+      "publishedAt": "2026-04-13T17:00:00Z",
+      "snippet": "ロシアが提案した復活祭停戦について、ウクライナ側は実効性を疑問視。トランプ米政権による仲介案も浮上する中、戦況の出口は見えていない。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "economic",
+      "title": "英米、医薬品関税免除で最終合意 規制連携を加速",
+      "src": "英国ニュースダイジェスト",
+      "url": "http://www.news-digest.co.uk/news/news/uk-news/20260412-news.html",
+      "publishedAt": "2026-04-12T00:00:00Z",
+      "snippet": "イギリスと米国は医薬品の関税を相互に免除することで合意。新薬の市場投入を加速させ、両国のヘルスケア分野での連携を強化する。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ米大統領、ホルムズ封鎖「即座に」開始と示唆",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026041300912",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "トランプ大統領は、イランへの圧力を最大化するためホルムズ海峡の米軍による一時的な管理・封鎖を示唆。同盟国にも応分の負担を求めている。",
+      "collectedAt": "2026-04-13T10:27:37.443Z"
     }
   ],
-  "updatedAt": "2026-04-13T07:50:49.945Z"
+  "updatedAt": "2026-04-13T10:27:37.443Z"
 }
