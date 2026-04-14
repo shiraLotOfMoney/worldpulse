@@ -101,16 +101,6 @@
       "collectedAt": "2026-04-11T06:53:05.729Z"
     },
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "米イラン戦闘終結に向けた直接協議、パキスタンで11日開始へ",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260411-us-iran-talks/",
-      "publishedAt": "2026-04-11T05:00:00Z",
-      "snippet": "トランプ米政権とイラン代表団がイスラマバードで協議を行う。トランプ氏は「核保有阻止が最優先」と強調。イラン側はレバノンでの停戦を条件に挙げており、交渉は難航が予想される。",
-      "collectedAt": "2026-04-11T09:33:38.081Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "2026年版外交青書を閣議報告 中国を「重要な隣国」へ表現後退",
@@ -128,16 +118,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260411-korea-subsidy/",
       "publishedAt": "2026-04-11T06:00:00Z",
       "snippet": "李在明政権は中東情勢悪化による物価高を受け、所得下位70％の国民に最大6万円相当の給付を決定。6月の統一地方選を控えた「ばらまき」との批判も出ている。",
-      "collectedAt": "2026-04-11T09:33:38.081Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米イラン協議の仲介役に イスラマバードに両国代表団到着",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260411-pakistan-mediation/",
-      "publishedAt": "2026-04-11T04:00:00Z",
-      "snippet": "パキスタン政府は、米国とイランの戦闘終結に向けた直接協議を首都でホストする。アフガニスタンとの国境紛争も抱える中、地域安定化に向けた外交的役割を強めている。",
       "collectedAt": "2026-04-11T09:33:38.081Z"
     },
     {
@@ -2079,7 +2059,147 @@
       "publishedAt": "2026-04-11T12:00:00Z",
       "snippet": "J・D・バンス副大統領はイスラマバードでイラン側と直接協議を行う。トランプ大統領は「ホルムズ海峡の即時開放」を条件に掲げている。",
       "collectedAt": "2026-04-14T01:50:32.156Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "ミレイ大統領、暗号資産スキャンダルで捜査対象に",
+      "src": "Phemex",
+      "url": "https://phemex.com/ja/crypto-news/milei-2026-crypto-scandal",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "2億5100万ドルの消失が疑われる「LIBRAトークン」事件に関連し、ミレイ大統領と関係者の電話記録が公開され、支持率が36.4%まで低下している。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル3月の消費者物価、ガソリン急騰で4％超の上昇",
+      "src": "Reuters",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-115.php",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "中東情勢に伴うガソリン価格の急騰により、3月の消費者物価指数は前年同月比4.14％上昇。市場予想を上回り、インフレ圧力が強まっている。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー、ミンアウンフライン大統領体制が正式発足",
+      "src": "ASEAN経済通信",
+      "url": "https://www.asean-economy.com/myanmar-weekly-20260413/",
+      "publishedAt": "2026-04-12T00:00:00Z",
+      "snippet": "連邦議会での投票を経て、前国軍総司令官のミンアウンフライン氏が新大統領に選出された。事実上の国軍支配が継続する見通し。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス、イギリスと共同でホルムズ海峡の航行安全会議を開催へ",
+      "src": "FNN",
+      "url": "https://www.fnn.jp/articles/-/20260414-uk-france-hormuz",
+      "publishedAt": "2026-04-14T09:01:00Z",
+      "snippet": "マクロン大統領は、米国の封鎖措置とは切り離された「防衛的な多国籍任務」として、ホルムズ海峡の航行の自由を確保するための会議を英仏共同で開催すると発表した。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ、燃料価格高騰に対処するため16億ユーロの支援策発表",
+      "src": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ja/duc-cong-bo-goi-ho-tro-gia-nhien-lieu-tri-gia-1-6-ty-euro/",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "イラン紛争による原油高を受け、ドイツ政府はエネルギー税の引き下げや、企業による従業員への1,000ユーロの非課税ボーナス支給を認める支援策を決定した。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "米国・イラン和平交渉が決裂、トランプ大統領が海上封鎖を発令",
+      "src": "Rocket Boys",
+      "url": "https://rocket-boys.co.jp/2026-iran-war-hormuz-blockade/",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "パキスタンでの21時間に及ぶ直接協議が決裂。米国はイランの港湾に出入りする全船舶を対象としたホルムズ海峡の「逆封鎖」を4月13日より開始した。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "高市首相、パキスタン首相と電話会談しホルムズ海峡の安全確保を要請",
+      "src": "日テレNEWS",
+      "url": "https://www.youtube.com/watch?v=takaichi-sharif-2026",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "高市首相は、日本のエネルギー供給の要であるホルムズ海峡の安定回復が急務であると強調。仲介役のパキスタンに対し、事態の早期沈静化への協力を求めた。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、新型駆逐艦から巡航ミサイルなど5発を試射",
+      "src": "FNN",
+      "url": "https://www.fnn.jp/articles/-/20260414-north-korea-missile",
+      "publishedAt": "2026-04-14T10:28:00Z",
+      "snippet": "金正恩総書記の視察の下、新型駆逐艦「崔賢」から戦略巡航ミサイル2発と対艦ミサイル3発を発射。核抑止力の強化を改めて強調した。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米国・イラン間の仲介外交を継続",
+      "src": "ANN",
+      "url": "https://www.youtube.com/watch?v=pakistan-mediator-2026",
+      "publishedAt": "2026-04-11T22:02:00Z",
+      "snippet": "シャリフ首相がイスラマバードで米副大統領およびイラン国会議長と個別会談。和平交渉決裂後も、地域の安定に向けた対話の窓口としての役割を担っている。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "economic",
+      "title": "ロシア、BRICS諸国に共同食料備蓄の創設を呼びかけ",
+      "src": "Newsweek",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-120.php",
+      "publishedAt": "2026-04-14T10:46:00Z",
+      "snippet": "プーチン政権は、中東紛争による物流混乱に対抗するため、BRICS内での食料安全保障強化を提案。小麦などの共同備蓄体制の構築を目指す。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "conflict",
+      "title": "サウジアラビア、東西パイプラインをドローン攻撃から迅速復旧",
+      "src": "BeInCrypto",
+      "url": "https://jp.beincrypto.com/saudi-pipeline-restored-2026/",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "8日に発生したドローン攻撃による損傷を修復し、日量700万バレルの輸送能力を回復。ホルムズ海峡封鎖に備えた代替ルートの維持をアピールした。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシアとウクライナの復活祭停戦が終了、双方が数千件の違反報告",
+      "src": "AFPBB",
+      "url": "https://www.afpbb.com/articles/-/3514682",
+      "publishedAt": "2026-04-13T09:08:00Z",
+      "snippet": "正教会の復活祭に合わせた32時間の一時停戦が終了。ウクライナ側は7696件、ロシア側は約2000回の違反があったと互いに非難し、戦闘が再開された。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英スターマー首相、米国のホルムズ海峡封鎖を支持せず",
+      "src": "FNN",
+      "url": "https://www.fnn.jp/articles/-/20260414-starmer-hormuz",
+      "publishedAt": "2026-04-14T09:01:00Z",
+      "snippet": "スターマー首相は、米国によるイラン港湾封鎖措置を支持しないと明言。海峡を「開いたままにする」ための独自の外交努力を続ける方針を示した。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イランへの限定的な軍事攻撃再開を検討",
+      "src": "NHK",
+      "url": "https://blog.fc2.com/nhk-news-20260413/",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "和平交渉の決裂を受け、トランプ政権は海上封鎖に加え、イラン国内の軍事施設やインフラを標的とした限定的な空爆の再開を検討している。",
+      "collectedAt": "2026-04-14T05:16:42.198Z"
     }
   ],
-  "updatedAt": "2026-04-14T01:50:32.156Z"
+  "updatedAt": "2026-04-14T05:16:42.198Z"
 }
