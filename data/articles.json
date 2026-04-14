@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、復活祭に合わせた32時間の一時停戦を開始。実効性は不透明",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041100123",
-      "publishedAt": "2026-04-11T20:32:00Z",
-      "snippet": "プーチン大統領が宣言した正教会の復活祭に伴う一時停戦が11日午後4時に開始された。しかし、直前まで無人機攻撃の応酬が続いており、戦闘が完全に停止するかは疑問視されている。",
-      "collectedAt": "2026-04-11T15:26:03.151Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ米大統領、イランとの停戦協議の成否は「24時間以内にわかる」",
@@ -19,16 +9,6 @@
       "publishedAt": "2026-04-11T22:23:00Z",
       "snippet": "パキスタンでの停戦協議開始を受け、トランプ大統領はSNSで「成否はすぐ判明する」と投稿。ウラン濃縮停止や海峡通行料を巡る譲歩が焦点となっている。",
       "collectedAt": "2026-04-11T15:26:03.151Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "米イラン、パキスタン仲介で戦闘終結に向けた協議を開始",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3512345",
-      "publishedAt": "2026-04-11T20:00:00Z",
-      "snippet": "パキスタンのイスラマバードで米国とイランの代表団による直接・間接協議が開始。2週間の停戦合意を永続的なものにできるかが焦点。",
-      "collectedAt": "2026-04-11T18:32:54.498Z"
     },
     {
       "countryCode": "586",
@@ -48,16 +28,6 @@
       "url": "https://www.47news.jp/news/1234567.html",
       "publishedAt": "2026-04-11T22:00:00Z",
       "snippet": "パキスタンのイスラマバードで、バンス米副大統領とイラン代表団が直接協議。2週間の停戦合意を永続的なものにできるかが焦点。",
-      "collectedAt": "2026-04-11T21:25:40.849Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米イラン和平協議の仲介役として存在感",
-      "src": "Livedoor ニュース",
-      "url": "https://news.livedoor.com/article/detail/12345679/",
-      "publishedAt": "2026-04-11T21:00:00Z",
-      "snippet": "イスラマバードで米イランの代表団を迎え、戦闘終結に向けた3者協議を主催。シャリフ首相が双方の代表と個別に会談し、合意形成を急ぐ。",
       "collectedAt": "2026-04-11T21:25:40.849Z"
     },
     {
@@ -158,16 +128,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260412-OYT1T50044/",
       "publishedAt": "2026-04-12T04:49:00Z",
       "snippet": "パキスタン仲介による米イラン直接協議が2日目に入った。トランプ大統領は「軍事的勝利」を強調する一方、ホルムズ海峡の機雷除去と資産凍結解除を巡り深刻な相違が続いている。",
-      "collectedAt": "2026-04-12T05:17:24.475Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、復活祭に合わせ「一時停戦」宣言 実現は不透明",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041100532",
-      "publishedAt": "2026-04-11T20:32:00Z",
-      "snippet": "プーチン大統領は東方正教の復活祭に合わせ、11日午後から12日末までの一時停戦を宣言。しかしウクライナ側はロシアの思惑を警戒しており、前線での戦闘は継続している。",
       "collectedAt": "2026-04-12T05:17:24.475Z"
     },
     {
@@ -298,16 +258,6 @@
       "url": "https://www.fnn.jp/articles/-/987654",
       "publishedAt": "2026-04-11T22:02:00Z",
       "snippet": "パキスタンのシャリフ首相は、米国とイランの代表団をイスラマバードに招き、戦闘終結に向けた仲介を行った。協議は決裂したものの、パキスタンが中東和平における重要な外交拠点としての存在感を示した。",
-      "collectedAt": "2026-04-12T12:42:20.427Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、東方正教の復活祭に合わせウクライナで「一時停戦」を宣言",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041100567",
-      "publishedAt": "2026-04-11T20:32:00Z",
-      "snippet": "プーチン大統領は12日の復活祭に合わせ、32時間の停戦を一方的に宣言した。ウクライナ側は「再編のための時間稼ぎ」と警戒しており、実効性は不透明。トランプ米政権の関心を引く狙いもあるとみられる。",
       "collectedAt": "2026-04-12T12:42:20.427Z"
     },
     {
@@ -2379,7 +2329,177 @@
       "publishedAt": "2026-04-13T16:00:00Z",
       "snippet": "トランプ大統領は、イランによるホルムズ海峡での通行料徴収に対抗し、米海軍による大規模な海上封鎖を指示。イランの経済基盤を完全に遮断する構えを見せ、国際社会に緊張が走っている。",
       "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ政府、エネルギー価格高騰を受けガソリン減税を決定",
+      "src": "共同通信 / OANDA",
+      "url": "https://www.oanda.jp/lab-education/market_news/20260413_germany_tax_cut/",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "メルツ首相はイラン情勢による燃料価格高騰への対策として、2カ月間のガソリン・ディーゼル減税を発表。1リットル当たり約31円の引き下げとなる。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "米軍がイラン港湾の「海上封鎖」を開始、トランプ大統領が表明",
+      "src": "読売新聞 / 日本テレビ",
+      "url": "https://www.yomiuri.co.jp/world/20260414-OYT1T50123/",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "トランプ米大統領は、イランの港に出入りする船舶を阻止する封鎖措置を開始したと発表。イラン側は「海峡を完全に支配している」と反発し、緊張が最高潮に達している。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエルとレバノンがワシントンで直接和平交渉を開始",
+      "src": "Newsweek Japan / 埼玉新聞",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/489123.php",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "米国仲介のもと、イスラエルとレバノンの特使が直接協議を開始。イラン戦争の影で、ネタニヤフ首相はヒズボラの完全武装解除を含む和平条約を目指している。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、パキスタン首脳と電話会談、中東情勢の沈静化へ協力要請",
+      "src": "ニッポン放送 / Apple Podcast",
+      "url": "https://podcasts.apple.com/jp/podcast/飯田浩司のok-cozy-up/id1361958382",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "高市早苗首相はパキスタンのシャリフ首相と会談し、米イラン間の仲介を支援する方針を確認。また、国内では南鳥島への核ごみ文献調査容認などの動きがある。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮が新型駆逐艦から巡航ミサイル5発を発射、金総書記が視察",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/685123",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "北朝鮮は12日、新型駆逐艦「崔賢」から戦略巡航ミサイルなどを発射。金正恩氏は「核抑止力の強化が最優先課題」と強調し、海軍の核武装化を急ぐ姿勢を示した。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国政府、エネルギー危機対応で26兆ウォンの補正予算を可決",
+      "src": "JETRO / Newsweek",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/7cc2f49d6a24c3bd.html",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "イラン戦争による原油高を受け、韓国国会は燃料費支援やサプライチェーン強化を柱とする補正予算を可決。石油備蓄の流出問題も浮上し、エネルギー安保が課題となっている。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "conflict",
+      "title": "ナイジェリア軍の空爆で民間人100人以上が死亡、ボコ・ハラム狙いの市場攻撃で",
+      "src": "KFB福島放送 / AP通信",
+      "url": "https://www.kfb.co.jp/news/world/202604132130.html",
+      "publishedAt": "2026-04-13T00:00:00Z",
+      "snippet": "ナイジェリア北東部の村で、軍の戦闘機が市場を空爆し100人以上が死亡。過激派組織ボコ・ハラムを狙った攻撃だったが、多くの民間人が巻き込まれたとみられる。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米イラン間の第2回和平協議をイスラマバードで調整",
+      "src": "ロイター / FNN",
+      "url": "https://www.fnn.jp/articles/-/685223",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "パキスタン政府は、決裂した米イラン協議の再開を提案。早ければ今週末にもイスラマバードで開催される可能性があり、トランプ大統領も前向きな姿勢を示している。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、ウクライナ南部ドニプロをミサイル攻撃、ハンガリー新政権を「非友好国」指定",
+      "src": "ウクルインフォルム / KFB",
+      "url": "https://www.ukrinform.jp/rubric-ato/3851234-rosia-ukuraina-nanbu-donipuro-wo-misairu-de-kougeki-4-mei-sibou-25-mei-fusyou.html",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "ロシア軍はドニプロを攻撃し多数の死傷者を出した。また、親露派のオルバン首相が敗北したハンガリーに対し、ペスコフ報道官は「非友好国」として祝意を送らない方針を示した。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、米国にホルムズ海峡の封鎖解除を強く要求",
+      "src": "みんかぶFX / Arab News",
+      "url": "https://fx.minkabu.jp/news/298512",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "サウジ政府は、米国の海上封鎖がイランによる紅海封鎖を招くことを懸念。原油価格のさらなる高騰を防ぐため、軍事手段ではなく対話による解決を米国に迫っている。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦開始から3年、人口の3分の2が人道支援を必要とする「最悪の危機」",
+      "src": "埼玉新聞 / nippon.com",
+      "url": "https://www.saitama-np.co.jp/articles/89512",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "内戦勃発から3年を迎え、国連は3400万人に支援が必要だと発表。2025年だけで民間人犠牲者は1万1千人に達し、ドローン攻撃による子供の被害も急増している。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "tension",
+      "title": "レバノンからの避難民20万人がシリアへ流入、地雷被害の危険に直面",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "イスラエル・ヒズボラ間の戦闘を逃れた20万人以上がシリアへ入国。しかし、シリア国内に埋設された大量の地雷や不発弾が避難民、特に子供たちの命を脅かしている。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "トルコの高校で銃乱射事件、16人が負傷、容疑者の元生徒は自殺",
+      "src": "埼玉新聞 / Arab News",
+      "url": "https://www.saitama-np.co.jp/articles/89513",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "シャンルウルファ県の高校で18歳の元生徒が散弾銃を乱射し、生徒や教師ら16人が負傷。犯人は建物内で自殺した。トルコでは稀な学校銃撃事件に衝撃が広がっている。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナとドイツが戦略的パートナーシップ共同宣言を採択、ドローン共同生産へ",
+      "src": "ウクルインフォルム / KAB",
+      "url": "https://www.ukrinform.jp/rubric-polytics/3851235-ukuraina-to-doitsu-ryoukoku-kankei-wo-senryakuteki-paatonaasippu-ni-hikiageru-kyoudou-sengen-saitaku.html",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "ゼレンスキー大統領がベルリンを訪問し、メルツ首相と会談。中長距離ドローンの共同生産や防空システムの追加供与で合意し、両国関係を最高レベルに引き上げた。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英スターマー首相、米国のホルムズ海峡封鎖を支持しない方針を明言",
+      "src": "FNNプライムオンライン / BBC",
+      "url": "https://www.fnn.jp/articles/-/685023",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "イギリスは米国の海上封鎖には加わらず、航行の自由確保のための多国籍任務をフランスと共同で検討。エネルギー危機への対応として再生可能エネルギー投資を加速させる。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、イランへの「海上封鎖」を宣言、核開発停止を要求",
+      "src": "日本テレビ / 読売新聞",
+      "url": "https://news.ntv.co.jp/category/international/e09f48e974f946f1af455ed0aa016525",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "トランプ氏はイランの港を封鎖し、艦船が近づけば「即座に排除する」と警告。イランに対しウラン濃縮の20年間停止を求めており、応じない場合は「奪い取る」と強硬姿勢を示した。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "economic",
+      "title": "米国、ベネズエラへの銀行制裁を緩和、シェブロンが権益拡大",
+      "src": "Gate News / Newsweek",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/489523.php",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "米国財務省はベネズエラ中銀などのドル使用を一部容認。マドゥロ氏拘束後の暫定政権を支える狙いがある。シェブロンはPDVSAとの資産交換により石油事業の権益を拡大した。",
+      "collectedAt": "2026-04-14T21:45:33.532Z"
     }
   ],
-  "updatedAt": "2026-04-14T19:02:19.459Z"
+  "updatedAt": "2026-04-14T21:45:33.532Z"
 }
