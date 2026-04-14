@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国、原油高対策で国民の7割に支援金給付へ",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260411-OYT1T50234/",
-      "publishedAt": "2026-04-11T16:49:00Z",
-      "snippet": "韓国国会は4月10日、物価高対策として約26兆ウォンの補正予算を可決。所得下位70%に「原油高被害支援金」を給付する。李在明大統領は北朝鮮のドローン侵入問題で遺憾を表明し、金正恩氏から異例の評価を受けた。",
-      "collectedAt": "2026-04-11T12:38:35.219Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領、イランとの2週間停戦を表明し交渉へ",
-      "src": "Newsweek Japan / JETRO",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/trump-iran-ceasefire.php",
-      "publishedAt": "2026-04-11T16:40:00Z",
-      "snippet": "トランプ政権はイランとの2週間停戦に合意。バンス副大統領をパキスタンに派遣し、核保有阻止とホルムズ海峡開放を条件とした協議を開始する。国内では戦争によるインフレ再燃への不満が高まっている。",
-      "collectedAt": "2026-04-11T12:38:35.219Z"
-    },
-    {
       "countryCode": "643",
       "cat": "conflict",
       "title": "ロシア、復活祭に合わせた32時間の一時停戦を開始。実効性は不透明",
@@ -88,26 +68,6 @@
       "url": "https://www.47news.jp/news/1234568.html",
       "publishedAt": "2026-04-11T22:25:00Z",
       "snippet": "プーチン大統領が正教会の復活祭に合わせた一時停戦を命じたが、開始直後から双方がドローン攻撃を報告し、非難し合っている。",
-      "collectedAt": "2026-04-11T21:25:40.849Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "conflict",
-      "title": "シリア北部でベイルート空爆の犠牲者を埋葬、情勢不安続く",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article-123457/",
-      "publishedAt": "2026-04-11T18:00:00Z",
-      "snippet": "レバノンに逃れていたシリア人家族がイスラエル軍の空爆で死亡し、故郷デイル・エル・ズールに遺体が運ばれた。中東全域の紛争がシリア難民を直撃している。",
-      "collectedAt": "2026-04-11T21:25:40.849Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ、復活祭停戦を遵守も「鏡像的対応」を宣言",
-      "src": "ウクルインフォルム",
-      "url": "https://www.ukrinform.jp/rubric-ato/1234567-html",
-      "publishedAt": "2026-04-11T18:48:00Z",
-      "snippet": "ゼレンスキー大統領が復活祭期間中の停戦遵守を指示。ただし、ロシア側の挑発や攻撃には即座に同等の反撃を行う権利を留保した。",
       "collectedAt": "2026-04-11T21:25:40.849Z"
     },
     {
@@ -2299,7 +2259,127 @@
       "publishedAt": "2026-04-14T07:00:00Z",
       "snippet": "パキスタン政府は、対立が深まる米国とイランに対し、自国での首脳級協議を提案。トランプ大統領も接触を認めており、事態打開の鍵を握る。",
       "collectedAt": "2026-04-14T16:04:16.081Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "ミレイ大統領に暗号資産スキャンダル、支持率36%に急落",
+      "src": "Phemex News",
+      "url": "https://phemex.com/ja/news/milei-argentina-crypto-scandal-2026",
+      "publishedAt": "2026-04-13T10:00:00Z",
+      "snippet": "ハビエル・ミレイ大統領が関与したとされる暗号資産「$LIBRA」の暴落事件から14カ月が経過したが、新たな証拠の浮上でスキャンダルが再燃。支持率は過去最低水準に落ち込み、政権の経済改革に影を落としている。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス議会、植民地時代の文化財返還を加速させる法案を可決",
+      "src": "Vietnam.vn (VNA)",
+      "url": "https://www.vietnam.vn/ja/france-promotes-restitution-of-colonial-era-relics/",
+      "publishedAt": "2026-04-14T09:00:00Z",
+      "snippet": "フランス下院はアフリカから持ち去られた文化遺産の返還手続きを簡素化・加速する法案を全会一致で可決。マクロン大統領が掲げる歴史的和解に向けた重要な一歩となる。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "political",
+      "title": "メルツ独首相、ウクライナ人男性の帰還を主張「前線には交代が必要」",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-polytics/3852147-merz-ukraine-return.html",
+      "publishedAt": "2026-04-14T16:00:00Z",
+      "snippet": "ドイツのメルツ首相は、国内に滞在する動員対象年齢のウクライナ人男性に対し、母国の防衛のために帰還すべきとの考えを示した。ゼレンスキー大統領との共同会見で述べた。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド準備銀、政策金利を5.25％に据え置き 中東紛争を注視",
+      "src": "JETRO ビジネス短信",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/787703121b62b4dc.html",
+      "publishedAt": "2026-04-13T15:00:00Z",
+      "snippet": "インド中央銀行は、中東での軍事衝突によるエネルギー価格上昇とサプライチェーンの混乱を警戒し、政策金利の据え置きを決定。2026年度の成長率予測を6.9％へ下方修正した。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、石油国家備蓄20日分を追加放出へ 中東情勢悪化に対応",
+      "src": "日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/politics/20260414-0901",
+      "publishedAt": "2026-04-14T09:00:00Z",
+      "snippet": "高市早苗首相は、ホルムズ海峡封鎖による原油価格高騰を受け、エネルギーの安定供給に万全を期すため石油備蓄の追加放出を指示。パキスタン首相とも電話会談し、仲介努力への支持を伝えた。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、新型駆逐艦から巡航ミサイル発射 金総書記が視察",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/685214",
+      "publishedAt": "2026-04-14T09:01:00Z",
+      "snippet": "北朝鮮は5000トン級の新型駆逐艦「崔賢」から戦略巡航ミサイル2発と対艦ミサイル3発を試験発射。金正恩総書記は「核抑止力の限界なき拡大」を強調し、海軍力の強化を誇示した。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "conflict",
+      "title": "ナイジェリア空軍が市場を誤爆、住民200人死亡か 過激派追跡中",
+      "src": "リスク対策.com (時事通信)",
+      "url": "https://www.risktaisaku.com/articles/-/91245",
+      "publishedAt": "2026-04-14T10:00:00Z",
+      "snippet": "ナイジェリア北東部ヨベ州で、空軍機がイスラム過激派ボコ・ハラムを追跡中に市場を爆撃。買い物客ら少なくとも200人が死亡した可能性がある。軍は事故調査班を派遣した。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "米・イラン直接協議、パキスタンで開始も合意至らず バンス副大統領が会見",
+      "src": "テレビ朝日 (ANN)",
+      "url": "https://news.tv-asahi.co.jp/news_international/articles/20260412_110.html",
+      "publishedAt": "2026-04-12T11:45:00Z",
+      "snippet": "パキスタンのイスラマバードで米イラン間の直接協議が行われたが、凍結資産解除などを巡り溝が埋まらず、合意には至らなかった。仲介したパキスタンのシャリフ首相は継続的な対話を呼びかけている。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、攻撃受けた主要パイプラインの送油能力を完全回復",
+      "src": "Vietnam.vn (VTV)",
+      "url": "https://www.vietnam.vn/ja/saudi-arabia-restores-oil-exports-via-key-pipeline/",
+      "publishedAt": "2026-04-13T10:31:00Z",
+      "snippet": "イランとの紛争中にドローン攻撃を受けた東西パイプラインが復旧。サウジ政府は日量700万バレルの送油能力が回復したと発表し、ホルムズ海峡封鎖下での輸出ルート確保を強調した。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ、中東紛争によるインフレ加速を警戒 中銀総裁が表明",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/483125.php",
+      "publishedAt": "2026-04-14T09:33:00Z",
+      "snippet": "ウクライナ中央銀行のピシュニー総裁は、中東での戦争によるエネルギー価格上昇が国内の物価を押し上げると警告。ロシアとの戦争継続に加え、新たな経済的試練に直面している。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英スターマー首相、米国のホルムズ海峡封鎖を支持せず「開かれた海峡を」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/685222",
+      "publishedAt": "2026-04-14T09:01:00Z",
+      "snippet": "イギリスのスターマー首相は、トランプ米政権が打ち出したイラン港湾の海上封鎖措置について、支持しない方針を明言。フランスのマクロン大統領と連携し、航行の自由確保に向けた独自の外交努力を続ける。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イランへの海上封鎖を開始「合意なき限り解除せず」",
+      "src": "Rocket Boys News",
+      "url": "https://rocket-boys.co.jp/news/trump-iran-blockade-2026",
+      "publishedAt": "2026-04-13T16:00:00Z",
+      "snippet": "トランプ大統領は、イランによるホルムズ海峡での通行料徴収に対抗し、米海軍による大規模な海上封鎖を指示。イランの経済基盤を完全に遮断する構えを見せ、国際社会に緊張が走っている。",
+      "collectedAt": "2026-04-14T19:02:19.459Z"
     }
   ],
-  "updatedAt": "2026-04-14T16:04:16.081Z"
+  "updatedAt": "2026-04-14T19:02:19.459Z"
 }
