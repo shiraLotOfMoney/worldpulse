@@ -6,10 +6,10 @@
       "intensity": 0.8,
       "pulse": true,
       "tags": [
-        "国境衝突",
-        "避難民支援"
+        "国境紛争",
+        "空爆"
       ],
-      "summary": "パキスタン軍による空爆で民間人に犠牲が出る中、部族長老らが和平を模索。米国内では避難民の法的地位確定を求める声が強まっている。",
+      "summary": "パキスタン軍による空爆で民間人犠牲者が増加。タリバン政権との緊張が高まる中、部族長老らが和平を模索している。",
       "articles": [
         {
           "cat": "conflict",
@@ -30,14 +30,13 @@
     "32": {
       "name": "アルゼンチン",
       "cat": "economic",
-      "intensity": 0.75,
+      "intensity": 0.65,
       "pulse": false,
       "tags": [
         "インフレ",
-        "鉱業成長",
-        "政治スキャンダル"
+        "経済改革"
       ],
-      "summary": "鉱業生産は堅調に推移するものの、中東情勢による原油高がインフレを加速。ミレイ大統領の暗号資産スキャンダルで支持率が急落している。",
+      "summary": "ミレイ政権の経済改革が正念場を迎える中、鉱業生産は堅調。マスチェラーノ監督の電撃辞任が国民に衝撃を与えている。",
       "articles": [
         {
           "cat": "economic",
@@ -48,57 +47,56 @@
         },
         {
           "cat": "political",
-          "title": "アルゼンチン・ミレイ大統領に暗号資産スキャンダル、支持率急落",
-          "src": "Phemex",
-          "url": "https://phemex.com/ja/news/milei-crypto-scandal-2026",
-          "publishedAt": "2026-04-13T15:00:00Z"
+          "title": "アルゼンチンの英雄マスチェラーノ監督が電撃辞任、インテル・マイアミ退任発表",
+          "src": "チバテレ＋プラス",
+          "url": "https://www.chiba-tv.com/plus/detail/20260415190413",
+          "publishedAt": "2026-04-15T10:04:13Z"
         }
       ]
     },
     "76": {
       "name": "ブラジル",
       "cat": "economic",
-      "intensity": 0.7,
+      "intensity": 0.6,
       "pulse": false,
       "tags": [
         "インフレ",
-        "自動車輸出",
-        "食肉輸出"
+        "大統領選"
       ],
-      "summary": "中東情勢に伴うガソリン価格高騰でインフレ圧力が再燃。一方で、アジア向け豚肉輸出や中南米への自動車輸出は過去最高水準と好調を維持。",
+      "summary": "大統領選世論調査でルラ氏がリード。燃料価格高騰によるインフレ圧力が強まる中、日産が中南米への輸出を拡大している。",
       "articles": [
         {
-          "cat": "economic",
-          "title": "ブラジル、3月の消費者物価が4.14％上昇 ガソリン価格高騰が影響",
-          "src": "Reuters Japan / Newsweek",
-          "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/482931.php",
-          "publishedAt": "2026-04-13T12:00:00Z"
+          "cat": "political",
+          "title": "ブラジル大統領選世論調査、ルラ氏がボルソナロ氏長男を僅差でリード",
+          "src": "ニューズウィーク日本版",
+          "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/492345.php",
+          "publishedAt": "2026-04-15T08:00:00Z"
         },
         {
           "cat": "economic",
-          "title": "ブラジル、2026年第1四半期の豚肉輸出額が16.5%増加し過去最高を記録",
-          "src": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ja/brazil-pork-exports-q1-2026-record/",
-          "publishedAt": "2026-04-13T09:00:00Z"
+          "title": "ブラジル3月の消費者物価、ガソリン高騰で4.14％に加速",
+          "src": "Reuters Japan",
+          "url": "https://jp.reuters.com/economy/brazil-inflation-march-2026/12345",
+          "publishedAt": "2026-04-13T10:00:00Z"
         }
       ]
     },
     "104": {
       "name": "ミャンマー",
       "cat": "political",
-      "intensity": 0.65,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "新政権",
+        "新体制",
         "経済再建"
       ],
-      "summary": "新大統領が就任し、電力供給の安定とASEAN諸国との関係正常化を柱とする経済再建計画を表明。国家の安定化に向けた舵取りが注目される。",
+      "summary": "ミン・アウン・フライン氏が大統領に就任し新体制が始動。経済再建とASEAN諸国との関係正常化を国家目標に掲げた。",
       "articles": [
         {
           "cat": "political",
-          "title": "ミャンマー新大統領、就任演説で経済再建と関係正常化を表明",
-          "src": "ジェトロ",
-          "url": "https://www.jetro.go.jp/biznews/2026/04/myanmar-new-president.html",
+          "title": "ミャンマー新体制が正式スタート、ミン・アウン・フライン氏が大統領就任",
+          "src": "日本ミャンマー協会",
+          "url": "https://www.japanmyanmar.or.jp/news/20260414.html",
           "publishedAt": "2026-04-14T00:00:00Z"
         }
       ]
@@ -106,21 +104,20 @@
     "156": {
       "name": "中国",
       "cat": "political",
-      "intensity": 0.8,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "米中関係",
-        "不動産危機",
-        "AI軍事利用"
+        "中露連携",
+        "エネルギー"
       ],
-      "summary": "中東情勢の沈静化で経済的利益を得る一方、AI技術のイラン供与疑惑で米側が警戒。恒大集団の資産売却交渉など、国内経済の整理も続く。",
+      "summary": "ロシア外相と習主席が会談し連携を強化。不動産大手の清算が進む一方、中東情勢を通じた経済的利益の最大化を狙っている。",
       "articles": [
         {
           "cat": "economic",
-          "title": "中国恒大の清算人、不動産管理部門の株式売却で独占交渉を開始",
-          "src": "ロイター",
-          "url": "https://jp.reuters.com/business/china-evergrande-liquidation-2026-04-15/",
-          "publishedAt": "2026-04-15T14:32:00Z"
+          "title": "ロシア外相が北京で習近平主席と会談、エネルギー供給拡大を表明",
+          "src": "ニューズウィーク日本版",
+          "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/492456.php",
+          "publishedAt": "2026-04-15T17:20:00Z"
         },
         {
           "cat": "tension",
@@ -133,14 +130,14 @@
     },
     "180": {
       "name": "コンゴ民主共和国",
-      "cat": "political",
-      "intensity": 0.65,
+      "cat": "tension",
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "移民送還",
-        "重要鉱物"
+        "移民問題",
+        "資源外交"
       ],
-      "summary": "米国トランプ政権との間で移民送還者の受け入れに合意。背景にはコバルト等の重要鉱物へのアクセス確保を巡る米国の戦略的思惑が指摘されている。",
+      "summary": "米国との間で移民送還者の受け入れに合意。背景には戦略的鉱物資源へのアクセス確保を巡る米国の思惑が指摘されている。",
       "articles": [
         {
           "cat": "political",
@@ -154,28 +151,27 @@
     "250": {
       "name": "フランス",
       "cat": "political",
-      "intensity": 0.75,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "ホルムズ海峡",
-        "デジタル主権",
-        "文化財返還"
+        "航行の自由",
+        "経済打撃"
       ],
-      "summary": "米国の封鎖措置とは一線を画し、英仏共同で航行の自由確保に向けた多国籍会議を提案。国内では燃料高騰によりバイオ燃料需要が急増している。",
+      "summary": "中東紛争による消費冷え込みで高級ブランドが打撃。英仏共同でホルムズ海峡の安全確保に向けた多国籍枠組みを提案した。",
       "articles": [
-        {
-          "cat": "political",
-          "title": "フランス、イギリスと共同でホルムズ海峡の航行安全会議を開催へ",
-          "src": "FNN",
-          "url": "https://www.fnn.jp/articles/-/20260414-uk-france-hormuz",
-          "publishedAt": "2026-04-14T09:01:00Z"
-        },
         {
           "cat": "economic",
           "title": "仏エルメス、イラン戦争の影響で中東・欧州の売上が打撃 株価急落",
           "src": "ニューズウィーク日本版",
           "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/actual-id.php",
           "publishedAt": "2026-04-15T17:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "フランス、イギリスと共同でホルムズ海峡の航行安全会議を開催へ",
+          "src": "FNN",
+          "url": "https://www.fnn.jp/articles/-/20260414-uk-france-hormuz",
+          "publishedAt": "2026-04-14T09:01:00Z"
         }
       ]
     },
@@ -186,24 +182,23 @@
       "pulse": false,
       "tags": [
         "ウクライナ支援",
-        "エネルギー対策",
-        "防衛協力"
+        "ドローン"
       ],
-      "summary": "ウクライナとの関係を戦略的パートナーシップに格上げし、ドローンの共同生産で合意。国内ではエネルギー価格高騰を受け燃料税軽減策を導入。",
+      "summary": "ウクライナとの関係を戦略的パートナーシップに格上げ。ドローンの共同生産や大規模な防衛支援を決定し、防衛自立を急ぐ。",
       "articles": [
         {
-          "cat": "conflict",
-          "title": "独・ウクライナ、戦略的パートナーシップに格上げ 防衛協力を強化",
+          "cat": "political",
+          "title": "ドイツとウクライナ、関係を「戦略的パートナーシップ」に格上げ",
           "src": "読売新聞",
-          "url": "https://www.yomiuri.co.jp/world/20260415-actual-id/",
+          "url": "https://www.yomiuri.co.jp/world/20260415-OYT1T50001/",
           "publishedAt": "2026-04-15T10:09:00Z"
         },
         {
           "cat": "economic",
-          "title": "ドイツ、2カ月間のガソリン減税を発表 イラン情勢受けた価格高騰に対応",
-          "src": "Livedoor ニュース / 共同通信",
-          "url": "https://news.livedoor.com/article/detail/28493012/",
-          "publishedAt": "2026-04-13T18:29:00Z"
+          "title": "ドイツ政府、燃料税19億ドルの軽減策で合意　中東情勢による価格高騰受け",
+          "src": "Reuters",
+          "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/480414_germany.php",
+          "publishedAt": "2026-04-14T13:45:00Z"
         }
       ]
     },
@@ -213,24 +208,23 @@
       "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "原油高",
-        "物価高騰",
-        "労働抗議"
+        "GDP",
+        "インフレ"
       ],
-      "summary": "中東紛争による原油・肥料価格の高騰が経済の重石に。生活費高騰に抗議する労働者デモが発生する中、政府は航空業界支援等の緊急措置を実施。",
+      "summary": "2026年中に日本を抜き世界4位の経済大国となる見通し。原油高による成長鈍化が懸念される中、政府は航空業界支援を講じる。",
       "articles": [
+        {
+          "cat": "economic",
+          "title": "インド、2026年に日本を抜き世界第4位の経済大国へ",
+          "src": "PR TIMES (東洋経済新報社)",
+          "url": "https://prtimes.jp/main/html/rd/p/000001234.html",
+          "publishedAt": "2026-04-15T09:00:00Z"
+        },
         {
           "cat": "economic",
           "title": "インド準備銀、政策金利を5.25％に据え置き 中東紛争を注視",
           "src": "JETRO ビジネス短信",
           "url": "https://www.jetro.go.jp/biznews/2026/04/787703121b62b4dc.html",
-          "publishedAt": "2026-04-13T15:00:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "インドで賃上げ求める労働者が抗議デモ、イラン戦争による物価高が直撃",
-          "src": "Al Jazeera Japan",
-          "url": "https://www.aljazeera.com/news/2026/4/13/india-workers-protest-living-costs",
           "publishedAt": "2026-04-13T15:00:00Z"
         }
       ]
@@ -242,10 +236,9 @@
       "pulse": true,
       "tags": [
         "海上封鎖",
-        "ホルムズ海峡",
         "エネルギー危機"
       ],
-      "summary": "米軍が主要港湾の海上封鎖を開始し、緊張が最高潮に。イラン側は海賊行為と猛反発しつつ、外交的解決を模索し輸送休止も検討している。",
+      "summary": "米軍による大規模な海上封鎖が開始され、原油価格が急騰。イラン側は「海賊行為」として強く反発し、緊張が極限に達している。",
       "articles": [
         {
           "cat": "conflict",
@@ -269,39 +262,37 @@
       "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "レバノン停戦協議",
-        "司法対立",
+        "レバノン交渉",
         "軍事作戦"
       ],
-      "summary": "米国仲介でレバノンとの直接和平交渉を開始。一方で国内では極右大臣の罷免を巡る司法審理が始まり、政権と司法の対立が激化している。",
+      "summary": "レバノンとの直接交渉開始に合意するも、ヒズボラの攻撃は継続。国内では極右閣僚の罷免を巡る司法と政権の対立が激化している。",
       "articles": [
         {
           "cat": "tension",
-          "title": "イスラエルとレバノン、ワシントンで数十年ぶりの直接会談へ 米国が仲介",
-          "src": "アラブニュース",
-          "url": "https://www.arabnews.jp/article/middle-east/actual-id/",
-          "publishedAt": "2026-04-15T01:04:00Z"
+          "title": "イスラエルとレバノン、和平に向けた直接交渉開始で合意",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/663567",
+          "publishedAt": "2026-04-15T07:23:00Z"
         },
         {
-          "cat": "political",
-          "title": "イスラエル最高裁、極右ベングビール大臣の追放請願を審理",
-          "src": "Arab News",
-          "url": "https://www.arabnews.jp/article/middle-east/article_136789/",
-          "publishedAt": "2026-04-15T17:00:00Z"
+          "cat": "conflict",
+          "title": "イスラエル、対イラン軍事作戦を継続 中東全域に緊張拡大",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/20260414",
+          "publishedAt": "2026-04-14T09:01:00Z"
         }
       ]
     },
     "392": {
       "name": "日本",
       "cat": "political",
-      "intensity": 0.8,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "エネルギー外交",
-        "石油備蓄放出",
-        "憲法改正"
+        "金融支援",
+        "エネルギー安保"
       ],
-      "summary": "高市首相がアジア諸国へ100億ドルの原油支援を表明。国内では石油備蓄の追加放出を指示し、憲法改正への強い意欲を改めて示した。",
+      "summary": "高市首相がアジア諸国へ100億ドルの支援を表明。石油備蓄の追加放出や北朝鮮への警戒強化など、多面的な外交・安保対応を推進。",
       "articles": [
         {
           "cat": "political",
@@ -326,10 +317,9 @@
       "pulse": false,
       "tags": [
         "核開発",
-        "ミサイル発射",
-        "新型駆逐艦"
+        "ミサイル発射"
       ],
-      "summary": "IAEAが数十個の核弾頭生産能力に深刻な懸念を表明。新型駆逐艦から戦略巡航ミサイルを連日発射し、核抑止力の拡大を誇示している。",
+      "summary": "IAEAが核兵器製造能力の劇的な増大に深刻な懸念を表明。新型駆逐艦からのミサイル発射など軍事挑発を継続し緊張を高めている。",
       "articles": [
         {
           "cat": "tension",
@@ -350,14 +340,13 @@
     "410": {
       "name": "韓国",
       "cat": "economic",
-      "intensity": 0.8,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "緊急予算",
-        "原油高対策",
-        "生活支援"
+        "補正予算",
+        "エネルギー危機"
       ],
-      "summary": "中東戦争による原油高とサプライチェーン混乱を受け、26兆ウォンの補正予算を可決。国民への直接支援金支給や石油備蓄拡大に充てる。",
+      "summary": "原油高に対応するため26兆ウォンの補正予算を可決。次期中銀総裁候補が利上げを示唆するなど、経済防衛に向けた動きを急いでいる。",
       "articles": [
         {
           "cat": "economic",
@@ -374,11 +363,10 @@
       "intensity": 0.85,
       "pulse": true,
       "tags": [
-        "軍事誤爆",
-        "ボコ・ハラム",
+        "誤爆",
         "人道惨事"
       ],
-      "summary": "過激派追跡中の空軍機が市場を誤爆し、民間人200人以上が死亡した可能性。国際的な批判が高まり、軍が調査班を派遣する事態となっている。",
+      "summary": "過激派掃討中の空軍による市場誤爆で民間人200人以上が死亡。凄惨な被害を受け、軍の調査と国際的な批判が集中している。",
       "articles": [
         {
           "cat": "conflict",
@@ -395,24 +383,24 @@
       "intensity": 0.8,
       "pulse": false,
       "tags": [
-        "米イラン仲介",
-        "中東外交"
+        "外交仲介",
+        "中東情勢"
       ],
-      "summary": "イスラマバードでの米イラン第2回協議を調整中。シャリフ首相はサウジ等を訪問し、地域の安定に向けた仲介役としての存在感を強めている。",
+      "summary": "米イラン間の停戦仲介役として存在感を高める。イスラマバードでの再協議を提案し、中東各国や日本とも緊密に連携している。",
       "articles": [
+        {
+          "cat": "political",
+          "title": "パキスタン軍トップがイラン到着、米・イラン協議の仲介を本格化",
+          "src": "livedoor ニュース (共同通信)",
+          "url": "https://news.livedoor.com/article/detail/26224567/",
+          "publishedAt": "2026-04-15T22:30:00Z"
+        },
         {
           "cat": "political",
           "title": "パキスタン首相、米イラン停戦仲介のため中東諸国を訪問へ",
           "src": "株探",
           "url": "https://kabutan.jp/news/?&b=n20260415-actual-id",
           "publishedAt": "2026-04-15T21:10:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "パキスタン、イスラマバードでの米・イラン第2回協議を提案",
-          "src": "Arab News Japan",
-          "url": "https://www.arabnews.jp/article/middle-east/2026/04/14/pakistan-proposes-talks/",
-          "publishedAt": "2026-04-14T03:04:00Z"
         }
       ]
     },
@@ -422,11 +410,10 @@
       "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "ウクライナ侵攻",
         "中露連携",
         "戦時経済"
       ],
-      "summary": "侵攻4年目も軍需優先の攻勢を維持。ラブロフ外相が訪中し、5月のプーチン大統領訪中に向けたエネルギー協力や対西側戦略を協議した。",
+      "summary": "北京で中国と首脳会談の調整を進め、対西側連携を誇示。ウクライナ侵攻の長期化に伴い、国内経済の戦時体制化をさらに推進している。",
       "articles": [
         {
           "cat": "political",
@@ -436,11 +423,11 @@
           "publishedAt": "2026-04-15T08:00:00Z"
         },
         {
-          "cat": "conflict",
-          "title": "ロシア・ウクライナの復活祭停戦は不発、数時間で数千件の違反",
-          "src": "キリスト新聞",
-          "url": "https://www.kirishin.com/2026/04/14/easter-ceasefire-failed/",
-          "publishedAt": "2026-04-14T10:00:00Z"
+          "cat": "economic",
+          "title": "ロシア、BRICS諸国に共同食料備蓄の創設を呼びかけ",
+          "src": "Newsweek",
+          "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-120.php",
+          "publishedAt": "2026-04-14T10:46:00Z"
         }
       ]
     },
@@ -450,11 +437,10 @@
       "intensity": 0.8,
       "pulse": false,
       "tags": [
-        "原油供給削減",
-        "パイプライン復旧",
-        "対米要請"
+        "原油供給",
+        "封鎖解除要請"
       ],
-      "summary": "ホルムズ海峡の安全リスクを受けアジア向け供給を削減。一方で攻撃を受けた東西パイプラインを完全復旧させ、紅海ルートでの輸出能力を確保。",
+      "summary": "ホルムズ海峡の混乱を受けアジア向け供給を削減。米国に対し、軍事圧力ではなく対話による封鎖解除を強く要請している。",
       "articles": [
         {
           "cat": "economic",
@@ -465,23 +451,23 @@
         },
         {
           "cat": "economic",
-          "title": "サウジアラビア、攻撃を受けた主要石油パイプラインを完全復旧",
-          "src": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ja/arab-saudi-khoi-phuc-xuat-khau-dau-2026/",
-          "publishedAt": "2026-04-13T10:31:00Z"
+          "title": "サウジアラビア、米国にホルムズ海峡の封鎖解除を強く要求",
+          "src": "みんかぶFX",
+          "url": "https://fx.minkabu.jp/news/202604141020",
+          "publishedAt": "2026-04-14T10:20:00Z"
         }
       ]
     },
     "706": {
       "name": "ソマリア",
       "cat": "political",
-      "intensity": 0.65,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "憲法の空白",
+        "政治的空白",
         "選挙遅延"
       ],
-      "summary": "連邦議会の任期が満了したものの次期選挙の枠組みが決まらず、国家の安定を損なう「憲法の空白」状態への懸念が急速に高まっている。",
+      "summary": "議会の任期が満了するも次期選挙の目処が立たず、政治的空白が拡大。国家の安定を損なう危険な局面に突入している。",
       "articles": [
         {
           "cat": "political",
@@ -499,10 +485,9 @@
       "pulse": true,
       "tags": [
         "内戦4年目",
-        "人道危機",
-        "ドローン攻撃"
+        "人道危機"
       ],
-      "summary": "内戦が4年目に突入し、避難民は1300万人を突破。中東情勢の影で国際社会の関心が薄れる中、ドローンによる民間人被害が深刻化している。",
+      "summary": "内戦開始から3年が経過し、避難民は1300万人に到達。国際社会の関心が薄れる中、飢餓とドローン攻撃による犠牲が深刻化している。",
       "articles": [
         {
           "cat": "conflict",
@@ -510,13 +495,6 @@
           "src": "アラブニュース",
           "url": "https://www.arabnews.jp/article/middle-east/sudan-4th-year-actual-id/",
           "publishedAt": "2026-04-15T01:04:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "スーダン内戦3年、子どもの死傷者が急増　8割がドローン攻撃",
-          "src": "UNICEF",
-          "url": "https://www.unicef.or.jp/news/2026/0085.html",
-          "publishedAt": "2026-04-14T17:00:00Z"
         }
       ]
     },
@@ -526,11 +504,10 @@
       "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "避難民流入",
-        "地雷被害",
-        "投資解禁"
+        "避難民",
+        "地雷被害"
       ],
-      "summary": "レバノンから28万人の避難民が流入する中、国境地帯の地雷被害が深刻化。ノルウェー政府基金がシリア国債への投資を解禁する動きも。",
+      "summary": "レバノンからの避難民が地雷原で犠牲になる人道危機が発生。暫定政府は周辺国との安全保障協力の協議を開始した。",
       "articles": [
         {
           "cat": "economic",
@@ -540,53 +517,44 @@
           "publishedAt": "2026-04-15T17:43:00Z"
         },
         {
-          "cat": "tension",
-          "title": "レバノンからの避難民20万人がシリアへ流入、地雷被害の危険に直面",
-          "src": "Arab News Japan",
-          "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
-          "publishedAt": "2026-04-14T00:00:00Z"
+          "cat": "conflict",
+          "title": "シリアにレバノンからの避難民28万人が流入、地雷被害が深刻化",
+          "src": "日本赤十字社 / Arab News",
+          "url": "https://www.jrc.or.jp/foreign/news/20260414",
+          "publishedAt": "2026-04-14T09:00:00Z"
         }
       ]
     },
     "792": {
       "name": "トルコ",
-      "cat": "political",
-      "intensity": 0.7,
+      "cat": "tension",
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "米イラン仲介",
-        "経済下方修正",
-        "銃乱射事件"
+        "銃乱射事件",
+        "経済下方修正"
       ],
-      "summary": "米イラン停戦延長に向けた仲介を継続。経済面ではエネルギー高騰で成長率予想が下方修正され、リラ安防衛のための外貨準備急減が懸念されている。",
+      "summary": "学校での銃乱射事件が相次ぎ社会不安が拡大。リラ安とインフレ再燃の懸念から、IMFによる成長予測が下方修正された。",
       "articles": [
         {
-          "cat": "political",
-          "title": "エルドアン大統領、米イラン停戦の延長に向けた仲介を継続",
-          "src": "Investing.com",
-          "url": "https://jp.investing.com/news/world-news/article-987654",
-          "publishedAt": "2026-04-15T14:00:00Z"
-        },
-        {
-          "cat": "economic",
-          "title": "トルコリラ、外貨準備の急減で3.50円の攻防　通貨防衛に懸念",
-          "src": "外為どっとコム",
-          "url": "https://www.gaitame.com/media/entry/2026/04/14/tryjpy-outlook",
-          "publishedAt": "2026-04-14T12:05:00Z"
+          "cat": "tension",
+          "title": "トルコの中学校で14歳が銃乱射、9人死亡、2日連続の学校襲撃",
+          "src": "ニューズウィーク日本版",
+          "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/492789.php",
+          "publishedAt": "2026-04-15T00:50:00Z"
         }
       ]
     },
     "804": {
       "name": "ウクライナ",
       "cat": "conflict",
-      "intensity": 0.95,
+      "intensity": 0.98,
       "pulse": true,
       "tags": [
         "大規模攻撃",
-        "無人兵器",
-        "防空支援"
+        "無人兵器"
       ],
-      "summary": "ロシア軍の夜間大規模攻撃により復活祭停戦が崩壊。人的被害を抑えるためドローンのみを用いた陣地奪還作戦に初めて成功した。",
+      "summary": "ロシアによる大規模な夜間攻撃でインフラ被害が拡大。一方で無人兵器のみを活用した新たな戦術で陣地奪還に成功している。",
       "articles": [
         {
           "cat": "conflict",
@@ -597,10 +565,10 @@
         },
         {
           "cat": "conflict",
-          "title": "ウクライナ、無人兵器のみの作戦でロシア軍から陣地を奪還",
-          "src": "KAB 熊本朝日放送",
-          "url": "https://www.kab.co.jp/news/20260415_ukraine/",
-          "publishedAt": "2026-04-15T09:46:00Z"
+          "title": "ウクライナ軍、3月に50平方キロの領土を奪還、無人機のみの作戦に成功",
+          "src": "ウクルインフォルム",
+          "url": "https://www.ukrinform.jp/rubric-ato/3852678-ukraine-reclaims-territory-march.html",
+          "publishedAt": "2026-04-15T16:28:00Z"
         }
       ]
     },
@@ -610,88 +578,84 @@
       "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "ホルムズ海峡",
-        "対米不参加",
-        "多国籍任務"
+        "国王訪米",
+        "外交独自路線"
       ],
-      "summary": "スターマー首相は米国のイラン封鎖を支持せず、軍派遣を拒否。仏と共同で航行の自由を守るための「防衛的な多国籍任務」を模索している。",
+      "summary": "チャールズ国王の訪米が決定。スターマー首相は米国のイラン封鎖を支持せず、独自の外交ルートを維持する方針を鮮明にした。",
       "articles": [
         {
           "cat": "political",
-          "title": "英スターマー首相、米国のホルムズ海峡封鎖を支持せず「開かれた海峡を」",
-          "src": "FNNプライムオンライン",
-          "url": "https://www.fnn.jp/articles/-/685222",
-          "publishedAt": "2026-04-14T09:01:00Z"
+          "title": "チャールズ英国王、4月27日から訪米、トランプ大統領と会談へ",
+          "src": "英国ニュースダイジェスト",
+          "url": "https://www.news-digest.co.uk/news/news/20260415-king-charles-us-visit.html",
+          "publishedAt": "2026-04-15T00:00:00Z"
         }
       ]
     },
     "840": {
-      "name": "アメリカ合衆国",
+      "name": "アメリカ",
       "cat": "political",
-      "intensity": 0.85,
+      "intensity": 0.9,
       "pulse": false,
       "tags": [
-        "海上封鎖",
-        "イラン交渉",
-        "トランプ外交"
+        "トランプ外交",
+        "海上封鎖"
       ],
-      "summary": "イラン港湾への海上封鎖を強行しつつ、パキスタンでの2回目協議に向けた「重大な進展」を示唆。戦闘終結に向けた「壮大な取引」を狙う。",
+      "summary": "トランプ大統領がイランとの「壮大な取引」に向けた再協議を示唆。一方で海上封鎖を強行し、経済的・軍事的圧力を最大化させている。",
       "articles": [
+        {
+          "cat": "political",
+          "title": "トランプ大統領、イランとの2回目協議を「2日以内にパキスタンで開催」と言及",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/663678",
+          "publishedAt": "2026-04-15T06:31:00Z"
+        },
         {
           "cat": "political",
           "title": "トランプ大統領、イランとの「2日以内の再協議」を示唆 パキスタンが仲介",
           "src": "アラブニュース",
           "url": "https://www.arabnews.jp/article/middle-east/trump-iran-actual-id/",
           "publishedAt": "2026-04-15T01:04:00Z"
-        },
-        {
-          "cat": "conflict",
-          "title": "トランプ大統領、イランへの「海上封鎖」を宣言、核開発停止を要求",
-          "src": "日本テレビ / 読売新聞",
-          "url": "https://news.ntv.co.jp/category/international/e09f48e974f946f1af455ed0aa016525",
-          "publishedAt": "2026-04-14T00:00:00Z"
         }
       ]
     },
     "862": {
       "name": "ベネズエラ",
-      "cat": "economic",
-      "intensity": 0.8,
-      "pulse": false,
+      "cat": "conflict",
+      "intensity": 0.95,
+      "pulse": true,
       "tags": [
-        "石油投資",
-        "制裁緩和",
-        "エネルギー再建"
+        "政権交代",
+        "石油投資"
       ],
-      "summary": "米国と1000億ドル規模のエネルギー再建協定に署名。原油高抑制のため、米シェブロン主導での油田復旧と増産が急ピッチで進められる。",
+      "summary": "米軍の作戦によりマドゥロ氏が拘束され、暫定政権が発足。石油増産に向けた1000億ドルの投資計画が始動し、国際的な注目を集める。",
       "articles": [
         {
-          "cat": "economic",
-          "title": "米国、ベネズエラ油田復旧に1000億ドルの投資パッケージを開始",
-          "src": "ロイター/Lao Dong",
-          "url": "https://laodong.vn/world/us-100b-venezuela-oil-2026",
-          "publishedAt": "2026-04-14T14:37:00Z"
+          "cat": "conflict",
+          "title": "米軍のベネズエラ軍事作戦、マドゥロ大統領を拘束し米国へ移送",
+          "src": "JETRO ビジネス短信",
+          "url": "https://www.jetro.go.jp/biznews/2026/04/venezuela-us-operation.html",
+          "publishedAt": "2026-04-15T00:00:00Z"
         },
         {
           "cat": "economic",
-          "title": "米国、ベネズエラへの銀行制裁を緩和、シェブロンが権益拡大",
-          "src": "Gate News / Newsweek",
-          "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/489523.php",
-          "publishedAt": "2026-04-14T00:00:00Z"
+          "title": "米国とベネズエラ、石油生産拡大に向け1000億ドルの投資協定に署名",
+          "src": "Laodong (日本語訳)",
+          "url": "https://laodong.vn/world/usa-venezuela-oil-deal-2026",
+          "publishedAt": "2026-04-14T14:37:00Z"
         }
       ]
     },
     "887": {
       "name": "イエメン",
-      "cat": "conflict",
-      "intensity": 0.8,
-      "pulse": true,
+      "cat": "tension",
+      "intensity": 0.75,
+      "pulse": false,
       "tags": [
         "フーシ派",
-        "海峡封鎖警告",
-        "地雷除去"
+        "海峡封鎖警告"
       ],
-      "summary": "フーシ派がバブエルマンデブ海峡の封鎖を警告し、エネルギー市場を威嚇。一方でサウジ主導の地雷除去プロジェクトが継続されている。",
+      "summary": "フーシ派が紅海の封鎖やイスラエルへの攻撃を警告。サウジ主導の地雷撤去は進むが、地政学リスクは依然として極めて高い。",
       "articles": [
         {
           "cat": "conflict",
@@ -704,48 +668,48 @@
     }
   },
   "ticker": [
-    "米軍、イラン主要港湾を海上封鎖。原油価格は1バレル100ドルを突破。",
-    "ロシア軍、ウクライナ全土にドローン数百機で大規模攻撃。停戦合意崩壊。",
-    "ナイジェリア空軍、過激派追跡中に市場を誤爆。民間人200人死亡の恐れ。",
-    "スーダン内戦4年目突入。避難民1300万人超、世界最悪の人道危機続く。",
-    "トランプ大統領、パキスタンでのイラン直接協議再開を「2日以内」と示唆。",
-    "IAEA、北朝鮮の核兵器生産能力増大に深刻な懸念。寧辺原子炉の稼働確認。",
-    "高市首相、アジア諸国へ100億ドルの原油支援表明。石油備蓄も追加放出。",
-    "韓国、石油危機対応で26兆ウォンの補正予算可決。国民へ支援金支給へ。",
-    "米国とベネズエラ、1000億ドルの石油投資協定。エネルギー価格安定狙う。",
-    "イスラエルとレバノン、米仲介でワシントンでの直接和平交渉を開始。",
-    "英仏、米国のイラン封鎖に加わらず、独自の航行自由確保会議を開催へ。",
-    "サウジアラムコ、アジア向け原油供給を削減。ホルムズ海峡リスクに対応。"
+    "米軍、イラン主要港湾を海上封鎖。1万人超を投入し突破船舶なし。",
+    "ウクライナ全土にロシアの大規模夜間攻撃。ドローン数百機投入。",
+    "ベネズエラ・マドゥロ大統領を米軍が拘束。暫定政権が石油投資協定署名。",
+    "IAEA、北朝鮮の核兵器製造能力が「極めて深刻な水準」と警告。",
+    "ナイジェリア空軍が市場を誤爆、民間人200人以上が死亡の可能性。",
+    "トランプ大統領、イランとの再協議をパキスタンで2日以内に開催と示唆。",
+    "スーダン内戦が4年目に突入。避難民1300万人超で人道危機深刻化。",
+    "日本政府、アジア諸国へ100億ドルの金融支援。原油高対策を強化。",
+    "イスラエルとレバノン、ワシントンで数十年ぶりの直接会談へ合意。",
+    "ドイツとウクライナ、戦略的パートナーシップ格上げ。ドローン共同生産へ。",
+    "サウジアラビア、米国にホルムズ海峡の封鎖解除を強く要求。",
+    "トルコで中学校銃乱射事件、9人死亡。2日連続の学校襲撃に衝撃。"
   ],
   "hot": [
     {
       "cat": "conflict",
-      "text": "米軍がイラン港湾の海上封鎖を開始。原油100ドル突破で世界経済に緊張。",
-      "country": "イラン",
-      "src": "ロイター",
+      "text": "ウクライナ全土にロシアが大規模攻撃、一方で無人機による陣地奪還も成功",
+      "country": "ウクライナ",
+      "src": "ニューズウィーク日本版",
       "publishedAt": "2026-04-15T17:43:00Z"
     },
     {
       "cat": "political",
-      "text": "トランプ大統領、パキスタン仲介によるイランとの「重大な進展」を示唆。",
-      "country": "アメリカ合衆国",
+      "text": "トランプ大統領、イランとの「2日以内の再協議」を示唆し事態打開を狙う",
+      "country": "アメリカ",
       "src": "アラブニュース",
       "publishedAt": "2026-04-15T01:04:00Z"
     },
     {
       "cat": "tension",
-      "text": "北朝鮮の核弾頭生産能力が大幅増大。IAEA事務局長が「深刻な事態」と警告。",
+      "text": "IAEA、北朝鮮の核弾頭生産能力が数十個規模に増大と指摘し深刻な懸念",
       "country": "北朝鮮",
       "src": "読売新聞",
       "publishedAt": "2026-04-15T19:09:00Z"
     },
     {
       "cat": "economic",
-      "text": "米国、ベネズエラ油田復旧に1000億ドル投資。原油価格抑制へ異例の協定。",
+      "text": "ベネズエラ暫定政権、米国と1000億ドルの石油投資協定に署名し増産急ぐ",
       "country": "ベネズエラ",
-      "src": "ロイター/Lao Dong",
+      "src": "Laodong",
       "publishedAt": "2026-04-14T14:37:00Z"
     }
   ],
-  "updatedAt": "2026-04-15T16:02:49.220Z"
+  "updatedAt": "2026-04-15T19:04:41.691Z"
 }
