@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "米・イラン和平協議、イスラマバードで延長 依然として大きな隔たり",
-      "src": "新華社",
-      "url": "https://english.news.cn/20260412/iran-us-talks-extended",
-      "publishedAt": "2026-04-12T07:46:00Z",
-      "snippet": "パキスタンが仲介する米国とイランの和平協議が12日も続行された。ホルムズ海峡の通航再開や核開発制限を巡り、双方は依然として「深刻な不一致」を抱えている。",
-      "collectedAt": "2026-04-12T01:50:01.701Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国、改正ストーカー処罰法が施行 裁判所への直接申請が可能に",
-      "src": "Global News Asia",
-      "url": "http://www.globalnewsasia.com/article.php?id=11057",
-      "publishedAt": "2026-04-12T08:00:00Z",
-      "snippet": "韓国で12日、改正ストーカー処罰法が施行された。被害者が警察を介さず裁判所に直接「保護命令」を申請できるようになり、迅速な被害者保護が期待されている。",
-      "collectedAt": "2026-04-12T01:50:01.701Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、復活祭に合わせた32時間の停戦を発表 ウクライナも同調",
-      "src": "共同通信",
-      "url": "https://www.47news.jp/news/20260412russianceasefire",
-      "publishedAt": "2026-04-12T09:05:00Z",
-      "snippet": "ロシア政府は正教会の復活祭に合わせ、ウクライナ全土での32時間の停戦を宣言した。ゼレンスキー大統領もこれに同調する姿勢を示したが、前線での小規模な衝突は続いている。",
-      "collectedAt": "2026-04-12T01:50:01.701Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "高市首相、自民党大会で改憲発議に意欲「1年以内に道筋」",
@@ -39,16 +9,6 @@
       "publishedAt": "2026-04-12T12:05:00Z",
       "snippet": "高市早苗首相は党大会で演説し、憲法改正の発議に向けた決意を表明。来春の統一地方選を見据え、自身の掲げる「国論二分政策」の完遂を訴えた。",
       "collectedAt": "2026-04-12T07:05:48.050Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "米イラン協議、パキスタンで開始されるも合意に至らず",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041200456",
-      "publishedAt": "2026-04-12T08:38:00Z",
-      "snippet": "パキスタンで実施された米国とイランの直接協議は、ホルムズ海峡の管理権や核開発を巡り平行線に終わった。",
-      "collectedAt": "2026-04-12T09:39:17.862Z"
     },
     {
       "countryCode": "392",
@@ -141,16 +101,6 @@
       "collectedAt": "2026-04-12T15:31:35.930Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル首相、トルコの警告を批判し戦闘継続を明言",
-      "src": "AFPBB News",
-      "url": "https://namuamidabu.com/grounding-api-redirect/AUZIYQFe7lg4V9llLMT7ZDUytfR-n32QUZAiQ7CS6F7Y-F6gMIY3OSanzxW4yKa-bN5MvSTrrFfhBOW8-g40jkHYgtasRcwjHcnp18Q32Z8Xo2-Y5RwBKJmFW_AGCILDmTfuMODi4g==",
-      "publishedAt": "2026-04-12T10:00:00Z",
-      "snippet": "ネタニヤフ首相は、停戦を損なう行為を控えるよう求めたトルコを「クルド人を虐殺している」と痛烈に批判し、敵対勢力への攻撃を続ける姿勢を示した。",
-      "collectedAt": "2026-04-12T15:31:35.930Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "高市首相、憲法改正の発議に強い意欲 自民党大会で表明",
@@ -181,16 +131,6 @@
       "collectedAt": "2026-04-12T18:36:34.675Z"
     },
     {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国で改正ストーカー処罰法が可決 警察を介さず裁判所へ直接申請が可能に",
-      "src": "Global News Asia",
-      "url": "https://globalnewsasia.com/article.php?id=11057",
-      "publishedAt": "2026-04-12T08:00:00Z",
-      "snippet": "被害者が捜査機関を通さずに裁判所へ「保護命令」を直接申請できる法改正がなされた。警察の対応が遅い場合でも迅速な保護が可能となる画期的な措置とされる。",
-      "collectedAt": "2026-04-12T18:36:34.675Z"
-    },
-    {
       "countryCode": "586",
       "cat": "conflict",
       "title": "パキスタンがサウジアラビアに戦闘機派遣 イランの攻撃受け防衛協定を発動",
@@ -208,16 +148,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/514567.php",
       "publishedAt": "2026-04-12T16:02:00Z",
       "snippet": "正教会の復活祭に合わせた32時間の停戦が宣言されたが、発効直後からドローン攻撃などが相次ぎ不発に終わった。また、北大西洋ではロシア潜水艦の活動が活発化している。",
-      "collectedAt": "2026-04-12T18:36:34.675Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジアラビア、紅海迂回パイプラインを日量700万バレルに復旧",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/commodities-news/article-931185",
-      "publishedAt": "2026-04-12T10:00:00Z",
-      "snippet": "ホルムズ海峡の緊張を受け、サウジは東西パイプラインの能力を増強。イランによる攻撃で被害を受けた施設の修復を進めつつ、供給網の安定化を図っている。",
       "collectedAt": "2026-04-12T18:36:34.675Z"
     },
     {
@@ -268,16 +198,6 @@
       "url": "https://www.fnn.jp/articles/-/20260412001",
       "publishedAt": "2026-04-12T18:08:00Z",
       "snippet": "パキスタンで行われた米国とイランの直接協議は、核開発放棄やホルムズ海峡の管理を巡る意見の相違が埋まらず、合意なしで終了した。バンス副大統領は「イラン側が強硬だった」と述べ、交渉を離脱した。",
-      "collectedAt": "2026-04-12T21:26:45.803Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル首相、イランの核・ミサイル計画を「粉砕した」と宣言",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/20260412001",
-      "publishedAt": "2026-04-12T09:42:00Z",
-      "snippet": "ネタニヤフ首相はテレビ声明で、米国との共同作戦によりイランの核施設やミサイル拠点を壊滅させることに成功したと述べた。一方で、濃縮ウランの完全撤去までは至っておらず、軍事的な選択肢を継続する姿勢を示した。",
       "collectedAt": "2026-04-12T21:26:45.803Z"
     },
     {
@@ -361,16 +281,6 @@
       "collectedAt": "2026-04-12T21:26:45.803Z"
     },
     {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "マクロン大統領、新内閣の安定化を模索 中東情勢への対応協議",
-      "src": "BBC Japan",
-      "url": "https://www.bbc.com/japanese/articles/c250-2026-04-12",
-      "publishedAt": "2026-04-12T09:00:00Z",
-      "snippet": "フランスのマクロン大統領は、不安定な議会運営が続く中で内閣の結束を呼びかけました。イラン戦争によるエネルギー価格高騰への対策が急務となっています。",
-      "collectedAt": "2026-04-13T01:54:31.223Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "米イラン、イスラマバードでの直接協議が合意至らず ホルムズ海峡封鎖へ",
@@ -408,16 +318,6 @@
       "url": "https://www.ukrinform.jp/rubric-ato/3851234-ukraine-ceasefire-violations.html",
       "publishedAt": "2026-04-12T22:00:00Z",
       "snippet": "復活祭に合わせた一時停戦中、ロシア軍によるドローンや砲撃が相次ぎました。ウクライナ軍は「敵の行動には応戦する」として、戦闘が継続しています。",
-      "collectedAt": "2026-04-13T01:54:31.223Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英消費者物価、3.2%上昇 2カ月連続で鈍化も中東情勢に警戒",
-      "src": "英国ニュースダイジェスト",
-      "url": "https://www.news-digest.co.uk/news/news/uk-news/2026-04-12-cpi",
-      "publishedAt": "2026-04-12T10:00:00Z",
-      "snippet": "イギリスのインフレ率は鈍化傾向にありますが、イラン戦争によるエネルギー価格の再上昇が懸念されています。英中銀の利下げ判断に注目が集まっています。",
       "collectedAt": "2026-04-13T01:54:31.223Z"
     },
     {
@@ -991,16 +891,6 @@
       "collectedAt": "2026-04-13T19:04:55.698Z"
     },
     {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジのエネルギー企業、2025年に約925億ドルの巨額利益を達成",
-      "src": "YouTube (Asharq Al-Awsat)",
-      "url": "https://www.youtube.com/watch?v=saudi-energy-profits-2026",
-      "publishedAt": "2026-04-12T10:00:00Z",
-      "snippet": "サウジアラビアの上場エネルギー企業が、市場の変動にもかかわらず過去最高水準の利益を記録。経済多角化への投資資金として活用される。",
-      "collectedAt": "2026-04-13T19:04:55.698Z"
-    },
-    {
       "countryCode": "760",
       "cat": "political",
       "title": "シリア暫定政権、米国・トルコなどと安全保障協力の協議を開始",
@@ -1121,16 +1011,6 @@
       "collectedAt": "2026-04-13T21:41:05.362Z"
     },
     {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジ・エネルギー企業、2025年に925億ドルの巨額利益達成",
-      "src": "Asharq Al-Awsat",
-      "url": "https://aawsat.com/node/5261406",
-      "publishedAt": "2026-04-12T10:00:00Z",
-      "snippet": "市場の変動にもかかわらず、サウジアラビアのエネルギーセクターは好調を維持。非石油部門への投資拡大の原資となっている。",
-      "collectedAt": "2026-04-13T21:41:05.362Z"
-    },
-    {
       "countryCode": "729",
       "cat": "conflict",
       "title": "スーダン内戦開始から3年、飢餓危機が深刻化し数百万人が困窮",
@@ -1211,16 +1091,6 @@
       "collectedAt": "2026-04-14T01:50:32.156Z"
     },
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "米・イラン直接協議がイスラマバードで開始、1979年以来最高レベルの対面",
-      "src": "The HEADLINE",
-      "url": "https://www.theheadline.jp/articles/20260412-iran-us-talks/",
-      "publishedAt": "2026-04-12T09:00:00Z",
-      "snippet": "米国とイランの代表団がパキスタンのイスラマバードで直接協議を開始した。停戦とホルムズ海峡の再開が焦点だが、核放棄を巡る相違は依然として大きい。",
-      "collectedAt": "2026-04-14T01:50:32.156Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "高市首相、パキスタン首相と電話会談し米イラン仲介努力を支持",
@@ -1268,16 +1138,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/turkey-rating-2026.php",
       "publishedAt": "2026-04-13T13:49:00Z",
       "snippet": "フィッチはトルコの格付け見通しを引き下げた。大規模な為替介入による外貨準備の減少と、隣国イランでの紛争に伴う地政学リスクが理由。",
-      "collectedAt": "2026-04-14T01:50:32.156Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "スターマー英首相、中東歴訪で停戦支援と安定化を模索",
-      "src": "英国ニュースダイジェスト",
-      "url": "http://www.news-digest.co.uk/news/news/uk-news/2026-04-12-starmer-middle-east.html",
-      "publishedAt": "2026-04-12T10:00:00Z",
-      "snippet": "イギリスのスターマー首相は中東諸国を訪問し、米イラン間の停戦合意の維持とホルムズ海峡の安全確保に向けた外交努力を強化している。",
       "collectedAt": "2026-04-14T01:50:32.156Z"
     },
     {
@@ -2319,7 +2179,157 @@
       "publishedAt": "2026-04-14T09:01:00Z",
       "snippet": "スターマー首相は、米国によるイラン港湾封鎖措置に加わらない方針を明言。フランスと協力し、航行の自由を確保するための多国籍会議を開催へ。",
       "collectedAt": "2026-04-15T07:20:59.667Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン、ミレイ政権の経済改革が正念場 2026年もインフレ続く",
+      "src": "Reuters Japan",
+      "url": null,
+      "publishedAt": "2026-04-14T12:00:00Z",
+      "snippet": "ミレイ大統領による急進的な経済改革から2年が経過したが、中東情勢悪化による原油高が直撃し、国内のインフレ抑制に苦慮している。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "日産ブラジル、小型SUV『カイト』の輸出を中南米20カ国へ拡大",
+      "src": "価格.com (レスポンス)",
+      "url": "https://kakaku.com/kuruma/news/20260414/",
+      "publishedAt": "2026-04-14T10:00:00Z",
+      "snippet": "日産のブラジル拠点は、新型SUV『カイト』の輸出を本格化。コロンビアやコスタリカへの海上輸送を開始し、地域経済への貢献を強化する。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国、対米不信の高まりを利用し各国と関係強化 5月に米中首脳会談へ",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260415-OYT1T50000/",
+      "publishedAt": "2026-04-15T10:09:00Z",
+      "snippet": "トランプ政権との対立が深まる中、中国は欧州やグローバルサウス諸国との連携を模索。5月に予定される米中首脳会談の行方が注目される。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "political",
+      "title": "ドイツとウクライナ、関係を「戦略的パートナーシップ」に格上げ",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260415-OYT1T50001/",
+      "publishedAt": "2026-04-15T10:09:00Z",
+      "snippet": "メルツ独首相とゼレンスキー大統領が会談。安保・経済・復興支援での協力を強化し、ドローンの共同生産加速でも一致した。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、中東情勢緊迫化による原油高で経済成長に不透明感",
+      "src": "IMF (世界経済見通し)",
+      "url": null,
+      "publishedAt": "2026-04-14T15:00:00Z",
+      "snippet": "IMFは2026年の世界経済見通しを発表。インドは堅調な内需を維持しているが、エネルギー価格の高騰が成長の重石となる懸念を指摘した。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、ホルムズ海峡経由の輸送休止を検討 交渉頓挫を回避か",
+      "src": "みんかぶFX",
+      "url": "https://minkabu.jp/news/20260414_2114",
+      "publishedAt": "2026-04-14T21:14:00Z",
+      "snippet": "米国による封鎖措置に対し、イランはさらなる緊張激化を避けるため、一時的に海峡経由の輸送を休止し、外交的解決の余地を探る動きを見せている。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、対イラン軍事作戦を継続 中東全域に緊張拡大",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260414",
+      "publishedAt": "2026-04-14T09:01:00Z",
+      "snippet": "イスラエルは米国と連携し、イランの核施設や軍事拠点への攻撃を継続。中東情勢はかつてない危機的状況に陥っている。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、新型駆逐艦から巡航ミサイルを発射 金総書記が視察",
+      "src": "日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/international/20260414",
+      "publishedAt": "2026-04-14T18:00:00Z",
+      "snippet": "金正恩総書記の立ち会いのもと、新型駆逐艦から戦略巡航ミサイルなどを発射。核戦争抑止力の拡大を強調し、日米韓への挑発を強めている。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国、中東戦争による石油危機で緊急補正予算26兆ウォンを可決",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104.php",
+      "publishedAt": "2026-04-14T22:00:00Z",
+      "snippet": "ホルムズ海峡封鎖による原油高を受け、韓国政府は国民への支援金支給を含む大規模な補正予算を編成。エネルギー安保の脆弱性が露呈している。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、ウクライナ侵攻4年目も攻勢維持 経済は戦時体制へ",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260415-OYT1T50002/",
+      "publishedAt": "2026-04-15T10:09:00Z",
+      "snippet": "プーチン政権は長期戦を見据え、軍需生産を優先。ウクライナ東部での緩衝地帯創設を狙い、ミサイル・無人機攻撃を継続している。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、米国にホルムズ海峡の封鎖解除を強く要請",
+      "src": "みんかぶFX",
+      "url": "https://minkabu.jp/news/20260414_1020",
+      "publishedAt": "2026-04-14T10:20:00Z",
+      "snippet": "サウジ政府は、イランが報復として紅海の海峡を閉鎖することを懸念。原油価格のさらなる高騰を防ぐため、米国に軍事的圧力ではなく協議を求めた。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "political",
+      "title": "ソマリア、連邦議会の任期満了で「危険な局面」に突入",
+      "src": "allAfrica.com",
+      "url": "https://allafrica.com/stories/202604150001.html",
+      "publishedAt": "2026-04-15T08:00:00Z",
+      "snippet": "4月14日に議会の任期が終了したが、次期選挙の枠組みが未定。ファルマージョ前大統領は「憲法の空白」が国家の安定を損なうと警告した。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "IMF、2026年のトルコ経済成長率予想を3.4％に下方修正",
+      "src": "ニューズウィーク日本版 (ロイター)",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/imf2634.php",
+      "publishedAt": "2026-04-15T15:00:00Z",
+      "snippet": "エネルギー価格の急騰とリラ安が成長の足を引っ張る形に。インフレ再加速の懸念もあり、中銀の政策運営は困難を極めている。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ、ドイツ製防空ミサイル数百発分の追加資金を確保",
+      "src": "埼玉新聞 (共同通信)",
+      "url": "https://www.saitama-np.co.jp/articles/20260414/",
+      "publishedAt": "2026-04-14T09:00:00Z",
+      "snippet": "ドイツ政府はパトリオット・ミサイル数百発分の資金供与を決定。ロシアによるインフラ攻撃に対抗するため、防空体制の維持を急ぐ。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、パキスタンでの「重大な進展」を示唆 イラン交渉再開か",
+      "src": "エキサイトニュース (CNN)",
+      "url": "https://www.excite.co.jp/news/article/Cnn_20260415/",
+      "publishedAt": "2026-04-15T08:41:00Z",
+      "snippet": "トランプ氏は、パキスタンでの仲介を経て「今後2日以内に何かが起きる」と述べ、イランとの直接協議再開に向けた自信を見せた。",
+      "collectedAt": "2026-04-15T10:10:36.153Z"
     }
   ],
-  "updatedAt": "2026-04-15T07:20:59.667Z"
+  "updatedAt": "2026-04-15T10:10:36.153Z"
 }
