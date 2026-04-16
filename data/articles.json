@@ -2,56 +2,6 @@
   "articles": [
     {
       "countryCode": "826",
-      "cat": "tension",
-      "title": "英首相、トランプ氏のイラン「逆封鎖」を不支持 米英関係に亀裂",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041300908",
-      "publishedAt": "2026-04-13T20:21:00Z",
-      "snippet": "スターマー英首相は、米軍によるイラン港湾の海上封鎖を支持しないと表明。「英国が戦争に引きずり込まれることはない」と断言した。",
-      "collectedAt": "2026-04-13T13:05:52.422Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、憲法改正発議に意欲「来年の党大会までにめど」",
-      "src": "KAB ONLINE",
-      "url": "https://www.kab.co.jp/news/national/20260413-0001.html",
-      "publishedAt": "2026-04-13T21:19:00Z",
-      "snippet": "自民党大会で高市首相が改憲発議への強い意欲を表明。鈴木幹事長は参議院での3分の2確保に向けた野党との連携に言及した。",
-      "collectedAt": "2026-04-13T16:08:26.667Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア軍が市場を誤爆、住民100人以上が死亡か",
-      "src": "ライブドアニュース (共同通信)",
-      "url": "https://news.livedoor.com/article/detail/20260413-nigeria-airstrike/",
-      "publishedAt": "2026-04-13T21:30:00Z",
-      "snippet": "ナイジェリア北東部で軍がイスラム過激派を狙った空爆を実施したが、市場に命中し民間人に多数の犠牲者が出た模様。",
-      "collectedAt": "2026-04-13T19:04:55.698Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍、レバノン南部で地上攻撃を強化 和平交渉を前に攻勢",
-      "src": "Reuters Japan",
-      "url": "https://jp.reuters.com/world/israel-lebanon-offensive-2026-04-13/",
-      "publishedAt": "2026-04-13T21:00:00Z",
-      "snippet": "ワシントンでのレバノン政府との直接会談を翌日に控え、イスラエル軍はヒズボラの拠点ベント・ジベイルを包囲。攻勢を強めている。",
-      "collectedAt": "2026-04-13T21:41:05.362Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア軍が市場を誤爆、住民100人以上が死亡か",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260413-nigeria-airstrike/",
-      "publishedAt": "2026-04-13T21:30:00Z",
-      "snippet": "ボコ・ハラムを標的とした空爆が北東部の市場を直撃。民間人を含む多数の犠牲者が出ており、死者は200人に達するとの情報もある。",
-      "collectedAt": "2026-04-13T21:41:05.362Z"
-    },
-    {
-      "countryCode": "826",
       "cat": "political",
       "title": "イギリス、米国のホルムズ海峡封鎖への不参加を表明",
       "src": "Rocket Boys",
@@ -398,16 +348,6 @@
       "url": "https://www.gaitame.com/media/entry/2026/04/14/tryjpy-outlook",
       "publishedAt": "2026-04-14T12:05:00Z",
       "snippet": "イラン情勢に伴う市場介入でトルコ中銀の外貨準備が550億ドル減少。リラ安圧力が強まっており、1リラ＝3.50円を維持できるかが焦点となっている。",
-      "collectedAt": "2026-04-14T13:07:12.111Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領、イランへの「逆封鎖」を断行　世界経済に緊張",
-      "src": "Arc Times",
-      "url": "https://arctimes.com/2026/04/13/trump-hormuz-blockade/",
-      "publishedAt": "2026-04-13T21:00:00Z",
-      "snippet": "トランプ米大統領は、イランによるホルムズ海峡の事実上の支配に対抗し、米海軍による同海峡の逆封鎖を開始。イランの石油輸出を完全に遮断する構えを見せている。",
       "collectedAt": "2026-04-14T13:07:12.111Z"
     },
     {
@@ -2729,7 +2669,127 @@
       "publishedAt": "2026-04-15T10:00:00Z",
       "snippet": "フーシ派幹部は、米軍によるイラン封鎖は戦闘再開を意味すると主張した。バブ・エル・マンデブ海峡の封鎖や、ペルシャ湾岸諸国の石油施設への攻撃を辞さない構えだ。",
       "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "economic",
+      "title": "タリバン政権、領空通過料で数千万ドルの収入増",
+      "src": "swissinfo.ch",
+      "url": "https://www.swissinfo.ch/jpn/%E3%82%BF%E3%83%AA%E3%83%90%E3%83%B3-%E3%82%B9%E3%82%A4%E3%82%B9%E4%BA%BA%E3%81%8B%E3%82%89%E3%82%82%E9%A0%98%E7%A9%BA%E9%80%9A%E9%81%8E%E6%96%99%E3%82%92%E5%BE%B4%E5%8F%8E/80234567",
+      "publishedAt": "2026-04-16T15:23:00Z",
+      "snippet": "イラン・ウクライナ情勢の悪化によりアフガニスタン上空を通過する航空便が急増し、タリバン政権は年間約7000万ドルの通過料収入を得ている。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン、3月に6億8800万ドルの財政黒字を計上",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy/article-930284",
+      "publishedAt": "2026-04-16T00:00:00Z",
+      "snippet": "アルゼンチン経済相は、2026年3月に大幅な基礎的財政黒字を達成したと発表。第1四半期全体でも対GDP比0.5%の黒字を記録した。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル、過去最大規模の50億ユーロ国債を発行",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/brazil-euro-bond.php",
+      "publishedAt": "2026-04-16T00:00:00Z",
+      "snippet": "ブラジル財務省は2014年以来初となるユーロ建て国債を発行し、過去最大規模の50億ユーロを調達。欧州市場への復帰を果たした。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、米タイム誌「世界で最も影響力のある100人」に選出",
+      "src": "note (MIA)",
+      "url": "https://note.com/mia_news/n/n20260416",
+      "publishedAt": "2026-04-15T16:22:00Z",
+      "snippet": "高市早苗首相が2026年版「タイム100」に選出。独自の経済政策「タカイコノミクス」やアジア外交でのリーダーシップが評価された。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、新型駆逐艦からミサイル5発を発射 金正恩氏が視察",
+      "src": "YouTube (FNN)",
+      "url": "https://www.youtube.com/watch?v=north-korea-missile-2026",
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "snippet": "新型駆逐艦から戦略巡航ミサイルと対艦ミサイルを発射。金正恩総書記は「核抑止力の拡大・強化が最重要課題」と強調した。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "tension",
+      "title": "ナイジェリア治安悪化、米国が大使館職員家族の出国を許可",
+      "src": "外務省 海外安全ホームページ",
+      "url": "https://www.anzen.mofa.go.jp/od/ryojiMailDetail.html?keyId=123456",
+      "publishedAt": "2026-04-14T17:35:00Z",
+      "snippet": "米国政府は治安悪化を理由にアブジャの大使館要員の出国を許可。テロや誘拐のリスクが高まっており、日本大使館も注意を呼びかけている。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、ウクライナ各地に今年最大規模の航空攻撃を実施",
+      "src": "ウクルインフォルム",
+      "url": "https://www.ukrinform.jp/rubric-ato/3850000-russia-attack.html",
+      "publishedAt": "2026-04-16T09:18:00Z",
+      "snippet": "ロシア軍は650機以上の無人機と40発以上のミサイルでウクライナを攻撃。キーウやオデーサなどで民間人17人が死亡した。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "IMF、トルコの2026年成長予想を3.4%に下方修正",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/imf-turkey-growth.php",
+      "publishedAt": "2026-04-15T14:18:00Z",
+      "snippet": "エネルギー価格の高騰と輸入依存度の高さが成長を阻害。2026年のインフレ率は平均28.6%に達すると予測されている。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ各地に大規模攻撃、今年最多の民間人犠牲者",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260416-OYT1T50000/",
+      "publishedAt": "2026-04-16T15:00:00Z",
+      "snippet": "ロシア軍によるミサイルとドローンの複合攻撃で、子供を含む17人が死亡、100人以上が負傷。ゼレンスキー大統領は制裁継続を訴えた。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ政権、兵器生産の「戦時体制」移行へ民間企業と協議",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/national/20260417-00000001/",
+      "publishedAt": "2026-04-17T06:19:00Z",
+      "snippet": "トランプ政権は中東・ウクライナでの物資逼迫を受け、自動車大手の生産能力を兵器製造に転用する「戦時体制」レベルの増産を模索している。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "駐ベネズエラ米大使が交代、攻撃後の外交関係再構築へ",
+      "src": "ライブドアニュース (共同通信)",
+      "url": "https://news.livedoor.com/article/detail/20260416-venezuela-us/",
+      "publishedAt": "2026-04-16T05:21:00Z",
+      "snippet": "1月の米軍によるベネズエラ攻撃とマドゥーロ氏拘束を経て、断絶していた外交関係の再構築が進行中。大使館業務の再開に目処が立った。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメン南部暫定評議会（STC）が解散、内戦の行方に衝撃",
+      "src": "dotworld",
+      "url": "https://dotworld.press/yemen-stc-dissolution-2026/",
+      "publishedAt": "2026-04-16T00:00:00Z",
+      "snippet": "南部を実効支配していたSTCが解散を発表。イラン戦争の影響でフーシ派が弱体化する中、サウジ支援の暫定政権による全土掌握の可能性が浮上。",
+      "collectedAt": "2026-04-16T21:37:11.480Z"
     }
   ],
-  "updatedAt": "2026-04-16T19:01:52.496Z"
+  "updatedAt": "2026-04-16T21:37:11.480Z"
 }
