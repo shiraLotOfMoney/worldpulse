@@ -1,96 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン、2月の鉱業生産指数が3.3％上昇",
-      "src": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026041300742",
-      "publishedAt": "2026-04-13T16:19:00Z",
-      "snippet": "アルゼンチン国家統計局は、2月の鉱業生産指数が前年同月比で3.3％上昇したと発表。1〜2月累計でも4.4％増と堅調な伸びを見せている。",
-      "collectedAt": "2026-04-13T10:27:37.443Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "独連立政権、燃料高騰対策に19億ドル規模の支援発表",
-      "src": "Reuters / Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/456789.php",
-      "publishedAt": "2026-04-13T17:45:00Z",
-      "snippet": "メルツ首相率いるドイツ連立政権は、中東紛争に伴う原油高を受け、企業と消費者を対象とした16億ユーロ規模の燃料価格抑制策を閣議決定した。",
-      "collectedAt": "2026-04-13T10:27:37.443Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ「復活祭停戦」を巡りロシアと非難合戦",
-      "src": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026041300567",
-      "publishedAt": "2026-04-13T17:00:00Z",
-      "snippet": "ロシアが提案した復活祭停戦について、ウクライナ側は実効性を疑問視。トランプ米政権による仲介案も浮上する中、戦況の出口は見えていない。",
-      "collectedAt": "2026-04-13T10:27:37.443Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン、2月の鉱業生産指数が3.3％上昇",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041300842",
-      "publishedAt": "2026-04-13T16:19:00Z",
-      "snippet": "アルゼンチン国家統計局は、2月の鉱業生産指数が前年同月比で3.3％上昇したと発表した。リチウムなどの資源開発が経済を牽引している。",
-      "collectedAt": "2026-04-13T13:05:52.422Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ、2カ月間のガソリン減税を発表 イラン情勢受けた価格高騰に対応",
-      "src": "Livedoor ニュース / 共同通信",
-      "url": "https://news.livedoor.com/article/detail/28493012/",
-      "publishedAt": "2026-04-13T18:29:00Z",
-      "snippet": "ドイツのメルツ首相は、イラン紛争によるエネルギー価格上昇を受け、ガソリンとディーゼル燃料の税金を2カ月間引き下げる方針を表明した。",
-      "collectedAt": "2026-04-13T13:05:52.422Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "東京株、一時500円超安 円相場は159円台後半で推移",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041300654",
-      "publishedAt": "2026-04-13T17:00:00Z",
-      "snippet": "中東情勢の緊迫化を背景に、日経平均株価は大幅続落。円相場も有事のドル買いにより159円台まで下落し、輸入物価への影響が懸念されている。",
-      "collectedAt": "2026-04-13T13:05:52.422Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア軍が市場を空爆、民間人200人以上が死亡か",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260413-OYT1T50123/",
-      "publishedAt": "2026-04-13T18:00:00Z",
-      "snippet": "ナイジェリア北東部で軍がイスラム過激派を狙った空爆を実施したが、市場が被害を受け、民間人を含む200人以上が死亡した可能性がある。",
-      "collectedAt": "2026-04-13T13:05:52.422Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "conflict",
-      "title": "パキスタン、サウジに戦闘機派遣 イランからの攻撃受け防衛協定発動",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041300891",
-      "publishedAt": "2026-04-13T19:00:00Z",
-      "snippet": "サウジアラビアの石油施設がイランから攻撃を受けたことを受け、パキスタンは防衛協定に基づき戦闘機部隊をサウジに派遣した。",
-      "collectedAt": "2026-04-13T13:05:52.422Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシアとウクライナの復活祭停戦が終了 双方が数千件の違反報告",
-      "src": "時事通信 / AFP",
-      "url": "https://www.jiji.com/jc/article?k=2026041300845",
-      "publishedAt": "2026-04-13T18:09:00Z",
-      "snippet": "正教会の復活祭に合わせた32時間の一時停戦が終了。ウクライナ側は約7700件、ロシア側は約2000件の停戦違反があったと互いに非難している。",
-      "collectedAt": "2026-04-13T13:05:52.422Z"
-    },
-    {
       "countryCode": "826",
       "cat": "tension",
       "title": "英首相、トランプ氏のイラン「逆封鎖」を不支持 米英関係に亀裂",
@@ -101,26 +11,6 @@
       "collectedAt": "2026-04-13T13:05:52.422Z"
     },
     {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "米軍、イラン港湾を封鎖へ 原油輸送締め付けで圧力",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041300885",
-      "publishedAt": "2026-04-13T19:00:00Z",
-      "snippet": "トランプ米政権は、イランの原油輸出を完全に停止させるため、米海軍によるイラン主要港湾の封鎖を開始すると発表した。",
-      "collectedAt": "2026-04-13T13:05:52.422Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン2月の鉱業生産指数、前年比3.3％上昇",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/",
-      "publishedAt": "2026-04-13T16:32:00Z",
-      "snippet": "国家統計局が発表した2月の鉱業生産指数が上昇。ミレイ政権下で資源開発と外貨蓄積を優先する経済政策が継続されている。",
-      "collectedAt": "2026-04-13T16:08:26.667Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "高市首相、憲法改正発議に意欲「来年の党大会までにめど」",
@@ -129,26 +19,6 @@
       "publishedAt": "2026-04-13T21:19:00Z",
       "snippet": "自民党大会で高市首相が改憲発議への強い意欲を表明。鈴木幹事長は参議院での3分の2確保に向けた野党との連携に言及した。",
       "collectedAt": "2026-04-13T16:08:26.667Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン、2月の鉱業生産指数が3.3％上昇",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026041300789",
-      "publishedAt": "2026-04-13T16:19:00Z",
-      "snippet": "アルゼンチン国家統計局は、2月の鉱業生産指数が前年同月比で3.3％上昇したと発表。リチウムなどの資源開発が経済を牽引している。",
-      "collectedAt": "2026-04-13T19:04:55.698Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "米軍、イランの港湾封鎖を開始、原油輸出を完全に遮断へ",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/20260413-iran-blockade/",
-      "publishedAt": "2026-04-13T19:00:00Z",
-      "snippet": "トランプ米大統領の命令により、米軍がイランの全港湾の海上封鎖を開始。イラン産原油の市場流出を阻止し、体制への圧力を最大化する狙い。",
-      "collectedAt": "2026-04-13T19:04:55.698Z"
     },
     {
       "countryCode": "566",
@@ -171,16 +41,6 @@
       "collectedAt": "2026-04-13T21:41:05.362Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、パキスタン首相と電話会談 中東情勢の沈静化へ連携",
-      "src": "日テレNEWS",
-      "url": "https://news.ntv.co.jp/category/politics/20260413-takaichi-pakistan",
-      "publishedAt": "2026-04-13T18:00:00Z",
-      "snippet": "高市早苗首相は、米イラン仲介役のパキスタン・シャリフ首相と会談。ホルムズ海峡の安全確保とエネルギー危機回避に向けた協力を確認。",
-      "collectedAt": "2026-04-13T21:41:05.362Z"
-    },
-    {
       "countryCode": "566",
       "cat": "conflict",
       "title": "ナイジェリア軍が市場を誤爆、住民100人以上が死亡か",
@@ -188,16 +48,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260413-nigeria-airstrike/",
       "publishedAt": "2026-04-13T21:30:00Z",
       "snippet": "ボコ・ハラムを標的とした空爆が北東部の市場を直撃。民間人を含む多数の犠牲者が出ており、死者は200人に達するとの情報もある。",
-      "collectedAt": "2026-04-13T21:41:05.362Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米イラン停戦合意の維持を表明 仲介役として存在感",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/13/pakistan-mediation.php",
-      "publishedAt": "2026-04-13T18:25:00Z",
-      "snippet": "イスラマバードで行われた米イラン直接協議は決裂したものの、シャリフ首相は2週間の暫定停戦は維持されていると述べ、対話を継続する意向。",
       "collectedAt": "2026-04-13T21:41:05.362Z"
     },
     {
@@ -219,26 +69,6 @@
       "publishedAt": "2026-04-13T23:00:00Z",
       "snippet": "パキスタンでのイランとの直接交渉が決裂したことを受け、トランプ氏は即日封鎖を命令。日本や韓国に対しても協力不足を名指しで批判。",
       "collectedAt": "2026-04-13T21:41:05.362Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国外務省、ホルムズ海峡の安全確保に向けた建設的役割を強調",
-      "src": "中国外務省",
-      "url": "https://www.fmprc.gov.cn/mfa_jp/wjdt_674871/fyrth_674877/202604/t20260413_11234567.shtml",
-      "publishedAt": "2026-04-13T18:00:00Z",
-      "snippet": "中国外務省の報道官は、ホルムズ海峡の緊張緩和に向け、全ての当事者に冷静な対応を求めた。軍事衝突の停止が問題解決の根本であると述べた。",
-      "collectedAt": "2026-04-14T01:50:32.156Z"
-    },
-    {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インド政府、航空業界支援で空港使用料を25％引き下げ",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/ghi12345.html",
-      "publishedAt": "2026-04-13T17:00:00Z",
-      "snippet": "インド政府は、中東情勢による燃料費高騰に直面する国内航空会社を支援するため、主要空港の着陸料などを25％引き下げる時限的措置を発表した。",
-      "collectedAt": "2026-04-14T01:50:32.156Z"
     },
     {
       "countryCode": "408",
@@ -318,16 +148,6 @@
       "url": "https://www.joins.com/article/20260414_korea_japan_security",
       "publishedAt": "2026-04-14T00:00:00Z",
       "snippet": "李在明大統領は、厳しさを増す国際情勢を受け、日本との外務・防衛当局間協議を次官級に格上げし、連携を深める方針を固めた。",
-      "collectedAt": "2026-04-14T07:20:48.918Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア軍が市場を誤爆、民間人ら200人以上死亡か",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260413-OYT1T50254/",
-      "publishedAt": "2026-04-13T18:40:00Z",
-      "snippet": "ナイジェリア北東部で軍がイスラム過激派を標的とした空爆を実施したが、市場が被害を受け、買い物客ら多数が犠牲となった。",
       "collectedAt": "2026-04-14T07:20:48.918Z"
     },
     {
@@ -508,16 +328,6 @@
       "url": "https://www.fnn.jp/articles/-/20260413_hormuz",
       "publishedAt": "2026-04-13T23:00:00Z",
       "snippet": "トランプ米大統領が宣言したイラン港湾への「逆封鎖」が発効。イラン側はこれを違法な海賊行為と非難し、恒久的な対抗措置の実施を警告している。",
-      "collectedAt": "2026-04-14T13:07:12.111Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、パキスタン首相と電話会談　ホルムズ海峡の安定回復を要請",
-      "src": "日テレNEWS",
-      "url": "https://news.ntv.co.jp/category/politics/20260413_takaichi",
-      "publishedAt": "2026-04-13T18:00:00Z",
-      "snippet": "高市首相はパキスタンのシャリフ首相と会談し、中東情勢の沈静化とホルムズ海峡での船舶の安全確保に向けた協力を確認。日本へのエネルギー供給への影響を懸念した。",
       "collectedAt": "2026-04-14T13:07:12.111Z"
     },
     {
@@ -1341,16 +1151,6 @@
       "collectedAt": "2026-04-15T16:01:36.063Z"
     },
     {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア軍の市場空爆で住民100人以上が死亡 誤爆の可能性",
-      "src": "Livedoor ニュース",
-      "url": "https://news.livedoor.com/article/detail/26212345/",
-      "publishedAt": "2026-04-13T18:45:00Z",
-      "snippet": "ナイジェリア北東部で軍がイスラム過激派掃討中に市場を空爆。民間人100人以上が犠牲になったと報じられ、国際的な批判が高まっている。",
-      "collectedAt": "2026-04-15T16:01:36.063Z"
-    },
-    {
       "countryCode": "586",
       "cat": "political",
       "title": "パキスタン首相、サウジを訪問し米イラン協議の進展を協議",
@@ -1941,16 +1741,6 @@
       "collectedAt": "2026-04-16T01:54:04.324Z"
     },
     {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア軍が市場を空爆 住民100人以上死亡か 誤爆の可能性",
-      "src": "共同通信",
-      "url": "https://news.livedoor.com/article/detail/nigeria-airstrike-2026/",
-      "publishedAt": "2026-04-13T18:45:00Z",
-      "snippet": "北東部の村で軍がボコ・ハラム掃討作戦中に市場を空爆。民間人100人以上が犠牲になったと報じられ、国際的な批判が高まっている。",
-      "collectedAt": "2026-04-16T01:54:04.324Z"
-    },
-    {
       "countryCode": "586",
       "cat": "political",
       "title": "パキスタン、7年間の暗号資産規制を解除 銀行サービスを許可",
@@ -2471,16 +2261,6 @@
       "collectedAt": "2026-04-16T10:09:48.186Z"
     },
     {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア軍が市場を空爆、住民100人以上が死亡か",
-      "src": "Livedoor ニュース (共同通信)",
-      "url": "https://news.livedoor.com/article/detail/26220000/",
-      "publishedAt": "2026-04-13T18:45:00Z",
-      "snippet": "ナイジェリア北東部の村で軍が市場を空爆。ボコ・ハラム掃討作戦中の誤爆とみられ、民間人に甚大な犠牲が出ている。",
-      "collectedAt": "2026-04-16T10:09:48.186Z"
-    },
-    {
       "countryCode": "643",
       "cat": "conflict",
       "title": "ロシア、ウクライナに今年最大規模のドローン攻撃、各地で16人死亡",
@@ -2548,16 +2328,6 @@
       "url": "https://news.ksb.co.jp/article/15230000",
       "publishedAt": "2026-04-16T17:38:00Z",
       "snippet": "2週間の停戦期限を前に、パキスタンのムニール元帥が米イラン間の最終調整のため訪米。戦闘終結に向けた枠組み合意を急ぐ。",
-      "collectedAt": "2026-04-16T13:12:48.106Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア軍が市場を空爆、住民100人以上が死亡 イスラム過激派掃討中の誤爆か",
-      "src": "ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/26200000/",
-      "publishedAt": "2026-04-13T18:45:00Z",
-      "snippet": "北東部の村で軍の戦闘機が市場を攻撃し、民間人に甚大な被害が出た。アムネスティなどの人権団体が軍の責任を追及している。",
       "collectedAt": "2026-04-16T13:12:48.106Z"
     },
     {
@@ -2731,16 +2501,6 @@
       "collectedAt": "2026-04-16T16:17:48.683Z"
     },
     {
-      "countryCode": "566",
-      "cat": "conflict",
-      "title": "ナイジェリア軍が市場を誤爆、住民100人以上が死亡か",
-      "src": "共同通信",
-      "url": "https://news.livedoor.com/article/detail/26221456/",
-      "publishedAt": "2026-04-13T18:45:00Z",
-      "snippet": "北東部の村で軍の戦闘機が市場を空爆し、民間人に甚大な被害が出た。イスラム過激派掃討作戦の一環だったが、誤爆の可能性が高く、人権団体が非難している。",
-      "collectedAt": "2026-04-16T16:17:48.683Z"
-    },
-    {
       "countryCode": "586",
       "cat": "political",
       "title": "パキスタン、米・イラン第2回協議の仲介を継続　日程調整進める",
@@ -2829,7 +2589,147 @@
       "publishedAt": "2026-04-16T00:00:00Z",
       "snippet": "沈黙を保っていたフーシ派がイラン支持を鮮明にし、イスラエル領へのミサイル攻撃と紅海封鎖を示唆。米軍のホルムズ海峡封鎖に対抗する動きを見せている。",
       "collectedAt": "2026-04-16T16:17:48.683Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル大統領選世論調査、ルラ氏がボルソナロ氏長男を僅差でリード",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/04/514236.php",
+      "publishedAt": "2026-04-15T18:00:00Z",
+      "snippet": "2026年10月の大統領選に向けた世論調査で、現職のルラ大統領がボルソナロ前大統領の長男を僅差で上回っている。家計債務問題が最大の争点となる見通し。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国の2026年第1四半期GDPは5.0%増、輸出入が過去最大を記録",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/686124",
+      "publishedAt": "2026-04-16T14:08:00Z",
+      "snippet": "中国国家統計局は2026年1〜3月期のGDPが前年同期比5.0%増になったと発表した。貿易の好調や工業用ロボットの生産伸びが成長を牽引し、年間目標達成に向け好スタートを切った。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国東部で紛争激化、M23の侵攻により人道危機が深刻化",
+      "src": "テラ・ルネッサンス",
+      "url": "https://www.terra-r.jp/blog/20260414",
+      "publishedAt": "2026-04-14T09:00:00Z",
+      "snippet": "武装勢力M23の進軍により東部キブ州での戦闘が継続しており、多くの住民が避難を余儀なくされている。医療支援や安全な水の確保が急務となっている。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス、15歳未満のSNS利用禁止法案の9月施行を目指す",
+      "src": "KAB ONLINE",
+      "url": "https://www.kab.co.jp/news/20260417",
+      "publishedAt": "2026-04-16T19:00:00Z",
+      "snippet": "マクロン大統領は若者の精神状態への悪影響を懸念し、15歳未満のSNS利用を禁じる法整備を進めている。高校生に対し、月に一度の「オフラインの日」を設けるよう呼びかけた。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イランとの停戦協議を継続しつつレバノンへの攻撃を強化",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/04/israel-lebanon",
+      "publishedAt": "2026-04-15T12:00:00Z",
+      "snippet": "イランとの一時停戦中も、イスラエルはレバノンのヒズボラ拠点への猛攻を続けている。トランプ米政権はイスラエルとレバノンの停戦合意を模索し、両首脳を招待した。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "日経平均株価、史上初の5万9000円台を記録 中東緊張緩和への期待で",
+      "src": "note",
+      "url": "https://note.com/hirostyle/n/n20260416",
+      "publishedAt": "2026-04-16T17:00:00Z",
+      "snippet": "東京株式市場で日経平均株価が急騰し、終値で5万9400円台の歴史的高値を付けた。米イラン間の停戦協議進展への期待から買いが優勢となった。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、新型駆逐艦から戦略巡航ミサイルなど5発を試験発射",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/685231",
+      "publishedAt": "2026-04-14T10:33:00Z",
+      "snippet": "北朝鮮は新型駆逐艦「崔賢」から巡航ミサイル2発と対艦ミサイル3発を発射した。金正恩総書記は現地で視察し、海軍の核武装化と核抑止力の強化を強調した。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国、エネルギー危機回避へ大統領特使を派遣し原油確保を急ぐ",
+      "src": "風伝媒 (Storm.mg)",
+      "url": "https://www.storm.mg/article/514892",
+      "publishedAt": "2026-04-16T08:00:00Z",
+      "snippet": "中東紛争によるエネルギー危機を受け、李在明政権は特使を派遣しカザフスタンなどで原油供給を確保した。国内では「緊急財政命令」の検討も進んでいる。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、対ウクライナ戦争で「紛争凍結」を含む3つのシナリオを検討か",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-ato/3852914-rosiaha-duiukuraina-zhan-zhengnitsuki-tsunoshinariowo-jian-taoshiteiru-ke-neng-xingariukuraina-wei-qing-bao-dui-ce-senta.html",
+      "publishedAt": "2026-04-16T15:25:00Z",
+      "snippet": "ウクライナ当局は、ロシアが戦闘の長期化、紛争の凍結、またはNATOへの侵略拡大というシナリオを検討していると分析した。復活祭の停戦は双方の違反により機能しなかった。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "シリア、隣国レバノンからの避難民28万人以上を受け入れ 中東情勢悪化で",
+      "src": "日本赤十字社",
+      "url": "https://www.jrc.or.jp/foreign-news/2026/0414_041234.html",
+      "publishedAt": "2026-04-14T10:00:00Z",
+      "snippet": "米イラン戦争やイスラエルのレバノン攻撃を受け、シリアには大量の避難民が流入している。2024年末のアサド政権崩壊後も、国内の不安定な状況と人道危機が続いている。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "IMF、トルコの2026年成長予想を3.4%に下方修正 エネルギー価格高騰が直撃",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/04/514123.php",
+      "publishedAt": "2026-04-15T14:18:00Z",
+      "snippet": "IMFは世界経済見通しで、トルコの成長率予測を4.2%から引き下げた。中東での戦争に伴う原油・天然ガス価格の高騰が、トルコ経済の逆風となっている。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシア軍がウクライナ各地に大規模航空攻撃、ドローン659機を投入",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/686111",
+      "publishedAt": "2026-04-16T10:49:00Z",
+      "snippet": "ロシア軍は過去24時間でウクライナ各地に大規模な攻撃を行い、キーウなどで計17人が死亡した。ウクライナ側は防空システムの不足を訴え、さらなる支援を求めている。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ米政権、イラン船舶封鎖を「完全実施」 経済的圧力を最大化",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260415-OYT1T50234/",
+      "publishedAt": "2026-04-15T10:00:00Z",
+      "snippet": "米軍はイランの港湾を出入りする船舶の阻止を開始し、36時間以内に貿易を完全に止めたと発表した。トランプ大統領は核放棄を条件に制裁緩和を提示し、イランを追い込んでいる。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメン・フーシ派、イラン支援のため紅海での船舶攻撃再開を警告",
+      "src": "Vantage Politics",
+      "url": "https://vantage-politics.com/middle-east/houthi-red-sea-2026",
+      "publishedAt": "2026-04-15T10:00:00Z",
+      "snippet": "フーシ派幹部は、米軍によるイラン封鎖は戦闘再開を意味すると主張した。バブ・エル・マンデブ海峡の封鎖や、ペルシャ湾岸諸国の石油施設への攻撃を辞さない構えだ。",
+      "collectedAt": "2026-04-16T19:01:52.496Z"
     }
   ],
-  "updatedAt": "2026-04-16T16:17:48.683Z"
+  "updatedAt": "2026-04-16T19:01:52.496Z"
 }
