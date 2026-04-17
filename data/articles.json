@@ -71,16 +71,6 @@
       "collectedAt": "2026-04-15T10:10:36.153Z"
     },
     {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、ホルムズ海峡経由の輸送休止を検討 交渉頓挫を回避か",
-      "src": "みんかぶFX",
-      "url": "https://minkabu.jp/news/20260414_2114",
-      "publishedAt": "2026-04-14T21:14:00Z",
-      "snippet": "米国による封鎖措置に対し、イランはさらなる緊張激化を避けるため、一時的に海峡経由の輸送を休止し、外交的解決の余地を探る動きを見せている。",
-      "collectedAt": "2026-04-15T10:10:36.153Z"
-    },
-    {
       "countryCode": "410",
       "cat": "economic",
       "title": "韓国、中東戦争による石油危機で緊急補正予算26兆ウォンを可決",
@@ -591,16 +581,6 @@
       "collectedAt": "2026-04-15T21:43:51.560Z"
     },
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン、核濃縮活動を巡りIAEAと対立　監視カメラの運用制限",
-      "src": "毎日新聞",
-      "url": null,
-      "publishedAt": "2026-04-14T20:00:00Z",
-      "snippet": "イラン当局は核施設への査察を一部制限。欧米諸国は制裁強化の可能性を示唆している。",
-      "collectedAt": "2026-04-15T21:43:51.560Z"
-    },
-    {
       "countryCode": "376",
       "cat": "conflict",
       "title": "イスラエル、ガザ南部での作戦継続　停戦交渉は難航",
@@ -688,16 +668,6 @@
       "url": null,
       "publishedAt": "2026-04-15T12:00:00Z",
       "snippet": "新たな軍事支援を受けたウクライナ軍が、ロシア占領下の補給路を標的に攻撃を強化している。",
-      "collectedAt": "2026-04-15T21:43:51.560Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス、次期総選挙を前に労働党が支持率でリード",
-      "src": "BBC News Japan",
-      "url": null,
-      "publishedAt": "2026-04-14T19:30:00Z",
-      "snippet": "経済政策や公共サービスの立て直しを巡り、与野党の論戦が激化。世論調査では政権交代の可能性が示唆されている。",
       "collectedAt": "2026-04-15T21:43:51.560Z"
     },
     {
@@ -1971,16 +1941,6 @@
       "collectedAt": "2026-04-17T07:22:41.559Z"
     },
     {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "習近平主席、スペイン首相と会談し「真の多国間主義」を強調",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260414-xi-sanchez-meeting",
-      "publishedAt": "2026-04-14T21:00:00Z",
-      "snippet": "習近平国家主席は訪中したスペインのサンチェス首相と会談し、中東情勢を巡り国際法の堅持を訴えた。5月の米中首脳会談を前に、欧州諸国との関係強化を図る狙いがある。",
-      "collectedAt": "2026-04-17T07:22:41.559Z"
-    },
-    {
       "countryCode": "180",
       "cat": "tension",
       "title": "コンゴ民主共和国政府とM23、和平監視メカニズムの運用に合意",
@@ -2619,7 +2579,107 @@
       "publishedAt": "2026-04-16T12:00:00Z",
       "snippet": "イラン戦争の勃発を受け、フーシ派が沈黙を破り参戦。極超音速ミサイル等を用いてイスラエル南部への攻撃を強化している。",
       "collectedAt": "2026-04-17T18:46:33.048Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー軍政、前大統領ら4300人を釈放 スーチー氏も刑期短縮",
+      "src": "AFPBB News / Reuters",
+      "url": "https://www.afpbb.com/articles/-/3515284",
+      "publishedAt": "2026-04-17T15:00:00Z",
+      "snippet": "ミャンマー軍政は17日、ウィンミン前大統領を含む4300人以上の政治犯を釈放。アウンサンスーチー氏の刑期も短縮されたが、民主化団体は「軍支配の文民装い」と批判。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国1-3月期GDP、前年比5.0％増 輸出が成長を牽引",
+      "src": "KAB熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/national/202604171045.html",
+      "publishedAt": "2026-04-17T10:45:00Z",
+      "snippet": "中国の第1四半期GDPは5.0％増となり政府目標を達成。テスラなどの外資系企業による輸出が寄与したが、国内消費の弱さと不動産不況は依然として課題。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国政府とM23、停戦監視メカニズムの運用に合意",
+      "src": "note (コーヒーと万年筆)",
+      "url": "https://note.com/coffee_pen/n/n845672drc",
+      "publishedAt": "2026-04-16T00:00:00Z",
+      "snippet": "DRC政府と反政府勢力M23がスイスでの交渉で「合同停戦検証メカニズム」の運用に署名。東部紛争の解決に向けた重要な一歩として期待される。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、2026年に名目GDPで日本を抜き世界4位へ",
+      "src": "週刊 経団連タイムス",
+      "url": "https://www.keidanren.or.jp/journal/times/2026/0416_01.html",
+      "publishedAt": "2026-04-16T00:00:00Z",
+      "snippet": "インド経済は高成長を維持し、2026年にはGDPで日本を追い越す見通し。モディ政権3期目は製造業振興とサプライチェーンの強靭化を急いでいる。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン外相、ホルムズ海峡の「全面開放」を表明 停戦合意受け",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/845675",
+      "publishedAt": "2026-04-17T23:30:00Z",
+      "snippet": "イランのアラグチ外相は、レバノンでの停戦発効を受けホルムズ海峡を商船に開放すると発表。トランプ米大統領も歓迎の意を示したが、海上封鎖は一部継続。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエルがガザ攻撃を継続、子ども含む11人死亡 停戦合意後も衝突",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/11-12.php",
+      "publishedAt": "2026-04-15T09:10:00Z",
+      "snippet": "イスラエル軍がガザ地区の警察車両やカフェを空爆し、少なくとも11人が死亡。昨年10月の停戦合意後も軍事支配が拡大しており、人道状況は壊滅的。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "political",
+      "title": "サウジ皇太子、パキスタン首相と会談 米・イラン停戦強化を支援",
+      "src": "ARAB NEWS Japan",
+      "url": "https://www.arabnews.jp/article/opinion/article_123456/",
+      "publishedAt": "2026-04-17T00:00:00Z",
+      "snippet": "ムハンマド皇太子はパキスタンのシャリフ首相とジェッダで会談。米・イラン間の交渉を支持し、ホルムズ海峡の恒久的な再開と地域の安全保障確保を強調した。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "tension",
+      "title": "イスラエルがソマリランドに初の大使任命、ソマリア政府は猛反発",
+      "src": "note (コーヒーと万年筆)",
+      "url": "https://note.com/coffee_pen/n/n845673somalia",
+      "publishedAt": "2026-04-16T00:00:00Z",
+      "snippet": "イスラエルが未承認国家ソマリランドに大使を派遣。ソマリア政府は「主権侵害」として強く抗議しており、アフリカの角における地政学的緊張が再燃している。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ、ロシア軍による今年最大規模の攻撃で22人死亡",
+      "src": "KSBニュース (ANN NEWS)",
+      "url": "https://www.ksb.co.jp/news/national/202604171215.html",
+      "publishedAt": "2026-04-17T12:15:00Z",
+      "snippet": "ロシア軍が700機のドローンと数十発のミサイルでウクライナ全土を攻撃。ゼレンスキー大統領は「制裁を解除すべきではない」と訴え、防空システムの供与を求めた。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "IMF・世界銀行、ベネズエラと7年ぶりに関係再開 経済評価へ道",
+      "src": "Reuters / Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/imf-11.php",
+      "publishedAt": "2026-04-17T14:27:00Z",
+      "snippet": "2019年以降停止していたIMF・世銀との関係が正常化。ロドリゲス暫定大統領は「経済にとって重要な一歩」と歓迎し、凍結資産の解除に向けた協議が始まっている。",
+      "collectedAt": "2026-04-17T21:35:21.481Z"
     }
   ],
-  "updatedAt": "2026-04-17T18:46:33.048Z"
+  "updatedAt": "2026-04-17T21:35:21.481Z"
 }
