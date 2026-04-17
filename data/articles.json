@@ -51,16 +51,6 @@
       "collectedAt": "2026-04-14T05:16:42.198Z"
     },
     {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコリラ、外貨準備減少への懸念から3.50円割れの危機",
-      "src": "外為どっとコム",
-      "url": "https://www.gaitame.com/media/entry/2026/04/14/lira_forecast",
-      "publishedAt": "2026-04-14T07:00:00Z",
-      "snippet": "インフレ鈍化の兆しはあるものの、中銀の外貨準備減少や地政学リスクが重石となり、トルコリラ円は節目となる3.50円を試す展開。",
-      "collectedAt": "2026-04-14T07:20:48.918Z"
-    },
-    {
       "countryCode": "250",
       "cat": "political",
       "title": "マクロン大統領、ホルムズ海峡の航行自由確保に向け多国籍会議を提案",
@@ -261,16 +251,6 @@
       "collectedAt": "2026-04-14T16:04:16.081Z"
     },
     {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米イラン協議の仲介を提案 イスラマバードでの開催を打診",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260414-OYT1T50089/",
-      "publishedAt": "2026-04-14T07:00:00Z",
-      "snippet": "パキスタン政府は、対立が深まる米国とイランに対し、自国での首脳級協議を提案。トランプ大統領も接触を認めており、事態打開の鍵を握る。",
-      "collectedAt": "2026-04-14T16:04:16.081Z"
-    },
-    {
       "countryCode": "250",
       "cat": "political",
       "title": "フランス議会、植民地時代の文化財返還を加速させる法案を可決",
@@ -398,16 +378,6 @@
       "url": "https://www.fnn.jp/articles/-/886512",
       "publishedAt": "2026-04-14T23:46:00Z",
       "snippet": "ラブロフ外相は王毅外相と会談し、プーチン大統領の訪中に向けた調整を行った。西側諸国の「戦略的敗北」狙いを批判し中露の連携を確認した。",
-      "collectedAt": "2026-04-15T01:46:20.249Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "conflict",
-      "title": "トルコ南東部の高校で銃乱射事件、16人負傷 犯人の元生徒は自殺",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_123457/",
-      "publishedAt": "2026-04-14T06:04:00Z",
-      "snippet": "サンリルファ県の職業高校で18歳の元生徒が散弾銃を乱射し、生徒や教師ら16人が負傷。犯人は現場で自殺した。",
       "collectedAt": "2026-04-15T01:46:20.249Z"
     },
     {
@@ -2749,7 +2719,247 @@
       "publishedAt": "2026-04-17T09:56:00Z",
       "snippet": "IMFと世界銀行は2019年から停止していたベネズエラとの取引再開を発表。債務再編や凍結資産へのアクセスに向けた経済評価が20年ぶりに実施される。",
       "collectedAt": "2026-04-17T05:22:55.153Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "IMF、アルゼンチンとの第2回審査で実務者合意",
+      "src": "IMF",
+      "url": "https://www.imf.org/en/News/Articles/2026/04/15/pr26120-argentina-staff-level-agreement",
+      "publishedAt": "2026-04-15T15:00:00Z",
+      "snippet": "IMFはアルゼンチン政府と2026年度予算案を含む経済改革プログラムの第2回審査で合意した。中東情勢の影響を受けつつも、エネルギー輸出の拡大により経済のファンダメンタルズは改善傾向にある。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチンの原油生産、2026年中に日量100万バレル到達の見通し",
+      "src": "S&P Global",
+      "url": "https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/oil/041526-argentina-crude-production",
+      "publishedAt": "2026-04-15T09:00:00Z",
+      "snippet": "バカ・ムエルタ・シェール層の開発加速により、アルゼンチンの原油生産量は今年中に日量100万バレルに達する勢いであるとエネルギー省が発表した。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "習近平主席、スペイン首相と会談し「真の多国間主義」を強調",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260414-xi-sanchez-meeting",
+      "publishedAt": "2026-04-14T21:00:00Z",
+      "snippet": "習近平国家主席は訪中したスペインのサンチェス首相と会談し、中東情勢を巡り国際法の堅持を訴えた。5月の米中首脳会談を前に、欧州諸国との関係強化を図る狙いがある。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "tension",
+      "title": "コンゴ民主共和国政府とM23、和平監視メカニズムの運用に合意",
+      "src": "note (コーヒーと万年筆)",
+      "url": "https://note.com/coffee_pen/n/n20260417-africa-news",
+      "publishedAt": "2026-04-16T18:00:00Z",
+      "snippet": "スイスでの交渉において、コンゴ民主共和国政府と反政府勢力M23が停戦監視のための合同メカニズム運用に署名した。米国やカタールが仲介を務める。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "economic",
+      "title": "英仏、原油輸送の「逆封鎖」不支持で国際会合を共催",
+      "src": "英国ニュースダイジェスト",
+      "url": "https://www.news-digest.co.uk/news/news/uk-news/20260417-oil-transport-meeting",
+      "publishedAt": "2026-04-17T08:00:00Z",
+      "snippet": "フランスとイギリスは、ホルムズ海峡の航行回復を目指す国際会合を共催。イランによる「逆封鎖」への対抗措置を協議する。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "独リドル、英国で50店舗を新設し2000人の雇用創出へ",
+      "src": "英国ニュースダイジェスト",
+      "url": "https://www.news-digest.co.uk/news/news/uk-news/20260417-lidl-expansion",
+      "publishedAt": "2026-04-17T08:00:00Z",
+      "snippet": "ドイツの小売大手リドルが、今後1年以内にイギリス国内で50店舗を新設する計画を発表。2000人規模の新規雇用が創出される見込み。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インドの2026年度成長率予測、世界銀行・ADB・IMFが相次ぎ上方修正",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/india-economic-outlook-up",
+      "publishedAt": "2026-04-17T12:00:00Z",
+      "snippet": "主要国際機関はインドの2026年度成長率予測を上方修正した。国内需要の堅調さと米国による追加関税の引き下げが追い風となっている。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "political",
+      "title": "トランプ大統領、イランとの週末の再協議を示唆",
+      "src": "日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/international/20260417-trump-iran-talks",
+      "publishedAt": "2026-04-17T07:50:00Z",
+      "snippet": "トランプ米大統領は、イランとの2回目の首脳級協議を今週末にもパキスタンで行う可能性に言及した。合意成立に向け自ら現地入りする考えも示している。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエルとレバノンが10日間の停戦に合意、トランプ大統領が発表",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260417-israel-lebanon-ceasefire",
+      "publishedAt": "2026-04-17T06:30:00Z",
+      "snippet": "トランプ米大統領は、イスラエルとレバノン（ヒズボラ）が10日間の一時停戦に合意したと発表した。両国の首脳をホワイトハウスに招待し、恒久的な和平を模索する。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "「国家情報会議」法案を巡り論戦、プライバシー侵害の懸念も",
+      "src": "KHB東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/20260417-national-intelligence-bill",
+      "publishedAt": "2026-04-17T11:56:00Z",
+      "snippet": "日本政府が提出した「国家情報会議」設置法案について国会で論戦が交わされた。岸田首相は「一般市民を調査対象とは想定していない」と釈明した。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "フィギュア“りくりゅう”ペアが現役引退を発表「悔いはない」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260417_rikuryu_retirement",
+      "publishedAt": "2026-04-17T10:00:00Z",
+      "snippet": "フィギュアスケートの三浦璃来・木原龍一ペアが現役引退を表明。「やり切った気持ちでいっぱいで、悔いはない」と語った。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、新型駆逐艦「崔賢」から巡航ミサイル5発を試験発射",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260414_north_korea_missile",
+      "publishedAt": "2026-04-14T18:00:00Z",
+      "snippet": "金正恩総書記の視察のもと、北朝鮮海軍が新型駆逐艦から戦略巡航ミサイルなどを発射。海上からの核攻撃能力を誇示した。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮の核施設公表を巡る米国の抗議、韓国政府は「把握せず」",
+      "src": "Reuters Japan",
+      "url": "https://newsweekjapan.jp/reuters/2026/04/17/nk-nuclear-protest",
+      "publishedAt": "2026-04-17T13:41:00Z",
+      "snippet": "北朝鮮が新たな核施設を公表したことに対し米国が厳重抗議したが、韓国統一省は詳細を把握していないと述べ、日米韓の連携に温度差が露呈した。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "ソウル市長選候補、日中韓「BESETO」交流の復活を公約",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260417-seoul-mayor-election",
+      "publishedAt": "2026-04-17T08:00:00Z",
+      "snippet": "ソウル市長選の与党候補が、北京・ソウル・東京の3都市交流「BESETO」の復活を掲げた。東京都知事や北京市長との直接チャンネル構築を目指す。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "tension",
+      "title": "米国、治安悪化を理由にアブジャ大使館職員の家族に出国許可",
+      "src": "海外出張情報",
+      "url": "https://www.tokutenryoko.com/news/20260415-nigeria-security",
+      "publishedAt": "2026-04-15T12:00:00Z",
+      "snippet": "ナイジェリア全土でのテロや誘拐リスクの高まりを受け、米国政府は首都アブジャの大使館職員家族の国外退避を許可した。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米・イラン和平交渉の仲介役として再訪を要請",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy/20260416-pakistan-iran-mediation",
+      "publishedAt": "2026-04-16T19:20:00Z",
+      "snippet": "パキスタンのイスラマバードで進められている米国とイランの和平交渉が決裂の危機にある中、パキスタン政府は両当事者に建設的な姿勢を求めた。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ全土に今年最大規模のミサイル・ドローン攻撃",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260416-russia-ukraine-attack",
+      "publishedAt": "2026-04-16T20:00:00Z",
+      "snippet": "ロシア軍がミサイル44発、ドローン659機を投入し、ウクライナ各地を攻撃。復活祭の停戦期間終了直後の大規模攻勢となった。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "tension",
+      "title": "ソマリア、海賊活動の再活発化と深刻な食料不足に直面",
+      "src": "note (えひめITラボ)",
+      "url": "https://note.com/ehime_it/n/n20260417-somalia-status",
+      "publishedAt": "2026-04-17T10:00:00Z",
+      "snippet": "2026年4月現在、ソマリアでは海賊の再来、政治の停滞、テロ組織との戦闘が同時並行で進行。人口の3分の1が深刻な飢餓に直面している。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン紛争が4年目に突入、ドローン攻撃で子どもの死傷者が急増",
+      "src": "ユニセフ日本",
+      "url": "https://www.unicef.or.jp/news/2026/04/sudan-conflict-3years",
+      "publishedAt": "2026-04-14T10:00:00Z",
+      "snippet": "スーダン紛争開始から3年が経過。今年に入り子どもの死傷者が前年比50%増となり、その8割がドローン攻撃によるものと報告されている。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "economic",
+      "title": "ジープやプジョーがシリア市場に参入、欧米ブランド初導入",
+      "src": "Response",
+      "url": "https://response.jp/article/2026/04/17/syria-car-market",
+      "publishedAt": "2026-04-17T12:00:00Z",
+      "snippet": "アサド政権崩壊後のシリア市場に、ステランティスがジープやプジョーの投入を決定。ダマスカスに初のショールームを開設する。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "conflict",
+      "title": "トルコの中学校で14歳が銃乱射、生徒ら9人死亡",
+      "src": "Reuters Japan",
+      "url": "https://newsweekjapan.jp/reuters/2026/04/16/turkey-school-shooting",
+      "publishedAt": "2026-04-16T18:30:00Z",
+      "snippet": "トルコ南東部の中学校で14歳の生徒が銃を乱射し、生徒8人と教師1人が死亡した。トルコでは2日連続で学校での銃撃事件が発生している。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ各地でロシアの攻撃により22人死亡、今年最大規模の被害",
+      "src": "KHB東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/20260417-ukraine-russia-attack",
+      "publishedAt": "2026-04-17T11:45:00Z",
+      "snippet": "ロシア軍による700機のドローンと数十発のミサイル攻撃により、ウクライナ全土で少なくとも22人が死亡。ゼレンスキー大統領は制裁解除の拒否を訴えた。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "チャールズ国王、27日から訪米しトランプ大統領と会談へ",
+      "src": "英国ニュースダイジェスト",
+      "url": "https://www.news-digest.co.uk/news/news/uk-news/20260417-king-charles-us-visit",
+      "publishedAt": "2026-04-17T08:00:00Z",
+      "snippet": "イギリスのチャールズ国王が4月27日から米国を訪問。トランプ大統領と会談し、イラン情勢や気候変動対策について協議する予定。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "ホワイトハウス敷地内に侵入を試みた男を拘束、職員1人負傷",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260417_whitehouse_intruder",
+      "publishedAt": "2026-04-17T09:00:00Z",
+      "snippet": "ホワイトハウスの敷地内に侵入しようとした男がシークレットサービスに拘束された。対応した職員1人が軽傷を負った。",
+      "collectedAt": "2026-04-17T07:22:41.559Z"
     }
   ],
-  "updatedAt": "2026-04-17T05:22:55.153Z"
+  "updatedAt": "2026-04-17T07:22:41.559Z"
 }
