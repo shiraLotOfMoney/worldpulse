@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、ウクライナ主要都市に今年最大級のミサイル攻撃 15人以上が死亡",
-      "src": "Yahoo!ファイナンス (Bloomberg)",
-      "url": "https://finance.yahoo.co.jp/news/detail/20260416-00000001-bloomberg",
-      "publishedAt": "2026-04-16T19:02:00Z",
-      "snippet": "ロシア軍がウクライナ全土でドローンとミサイルによる大規模攻撃を実施。医療従事者を狙った「ダブルタップ攻撃」も報告されている。",
-      "collectedAt": "2026-04-16T13:12:48.106Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ各地にロシアが大規模攻撃 子ども含む17人死亡、ドローン600機超を投入",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/686500",
-      "publishedAt": "2026-04-16T19:50:00Z",
-      "snippet": "過去24時間でロシア軍がドローン659機とミサイル44発で攻撃。キーウなどの主要インフラが破壊され、死傷者が120人を超えた。",
-      "collectedAt": "2026-04-16T13:12:48.106Z"
-    },
-    {
       "countryCode": "32",
       "cat": "economic",
       "title": "アルゼンチン、3月に6億8800万ドルの財政黒字を計上",
@@ -28,16 +8,6 @@
       "url": "https://jp.investing.com/news/economic-indicators/article-930284",
       "publishedAt": "2026-04-16T23:19:00Z",
       "snippet": "アルゼンチン政府は3月に大幅な基礎的財政黒字を達成。第1四半期全体でも対GDP比0.5%の黒字を記録したが、国内では依然として高いインフレ圧力が続いている。",
-      "collectedAt": "2026-04-16T16:17:48.683Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ロシア軍がウクライナへ今年最大規模の攻撃、ドローン約700機を投入",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/national/202604161909.html",
-      "publishedAt": "2026-04-16T19:09:00Z",
-      "snippet": "15日夜から16日にかけ、ロシア軍がウクライナ全土を大規模空爆。16人が死亡、100人が負傷した。ゼレンスキー大統領は「民間人を標的にした戦争犯罪」と強く非難した。",
       "collectedAt": "2026-04-16T16:17:48.683Z"
     },
     {
@@ -49,16 +19,6 @@
       "publishedAt": "2026-04-16T22:07:00Z",
       "snippet": "財政悪化を理由に、BBCが約2000人の人員削減を発表。今後2年間で約1000億円の経費削減を目指すが、公共放送の質低下を懸念する声が上がっている。",
       "collectedAt": "2026-04-16T16:17:48.683Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス、15歳未満のSNS利用禁止法案の9月施行を目指す",
-      "src": "KAB ONLINE",
-      "url": "https://www.kab.co.jp/news/20260417",
-      "publishedAt": "2026-04-16T19:00:00Z",
-      "snippet": "マクロン大統領は若者の精神状態への悪影響を懸念し、15歳未満のSNS利用を禁じる法整備を進めている。高校生に対し、月に一度の「オフラインの日」を設けるよう呼びかけた。",
-      "collectedAt": "2026-04-16T19:01:52.496Z"
     },
     {
       "countryCode": "840",
@@ -321,26 +281,6 @@
       "collectedAt": "2026-04-17T07:22:41.559Z"
     },
     {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米・イラン和平交渉の仲介役として再訪を要請",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy/20260416-pakistan-iran-mediation",
-      "publishedAt": "2026-04-16T19:20:00Z",
-      "snippet": "パキスタンのイスラマバードで進められている米国とイランの和平交渉が決裂の危機にある中、パキスタン政府は両当事者に建設的な姿勢を求めた。",
-      "collectedAt": "2026-04-17T07:22:41.559Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナ全土に今年最大規模のミサイル・ドローン攻撃",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260416-russia-ukraine-attack",
-      "publishedAt": "2026-04-16T20:00:00Z",
-      "snippet": "ロシア軍がミサイル44発、ドローン659機を投入し、ウクライナ各地を攻撃。復活祭の停戦期間終了直後の大規模攻勢となった。",
-      "collectedAt": "2026-04-17T07:22:41.559Z"
-    },
-    {
       "countryCode": "706",
       "cat": "tension",
       "title": "ソマリア、海賊活動の再活発化と深刻な食料不足に直面",
@@ -448,16 +388,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/450003.php",
       "publishedAt": "2026-04-17T15:01:00Z",
       "snippet": "パキスタンのイスラマバードで行われている米・イラン協議が前進しています。戦闘終結に向けた覚書の署名が近く行われるとの期待が高まっています。",
-      "collectedAt": "2026-04-17T13:00:46.725Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "tension",
-      "title": "イスラエルがソマリランドに初の大使任命、ソマリア政府は猛反発",
-      "src": "note",
-      "url": "https://note.com/coffee_pen/n/n1234567890cd",
-      "publishedAt": "2026-04-16T21:00:00Z",
-      "snippet": "イスラエルがソマリランドに駐在大使を任命したことに対し、ソマリア政府が「主権侵害」として強く抗議しています。地域の外交的緊張が一段と高まっています。",
       "collectedAt": "2026-04-17T13:00:46.725Z"
     },
     {
@@ -1241,16 +1171,6 @@
       "collectedAt": "2026-04-18T12:42:23.971Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル首相、レバノンと10日間の一時停戦に合意 和平模索へ",
-      "src": "ロイター / ニューズウィーク",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/123456.php",
-      "publishedAt": "2026-04-16T20:00:00Z",
-      "snippet": "ネタニヤフ首相はヒズボラとの10日間の一時停戦に合意。トランプ米大統領の仲介によりホワイトハウスでの会談が予定されており、本格的な停戦に向けた協議が進められる。",
-      "collectedAt": "2026-04-18T12:42:23.971Z"
-    },
-    {
       "countryCode": "410",
       "cat": "political",
       "title": "韓国・ソウル市長選の構図固まる 李在明政権の中間評価に注目",
@@ -1438,16 +1358,6 @@
       "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
       "publishedAt": "2026-04-18T09:04:00Z",
       "snippet": "トルコのフィダン外相は、イスラエルが安全保障を口実により多くの土地を占領しようとしていると非難した。また、ロシア・ウクライナ紛争が中東情勢の影に隠れて停滞していることに懸念を示した。",
-      "collectedAt": "2026-04-18T15:31:37.621Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナ全土に今年最大規模の攻撃 17人死亡",
-      "src": "KSBニュース",
-      "url": "https://news.ksb.co.jp/article/15234567",
-      "publishedAt": "2026-04-16T19:09:00Z",
-      "snippet": "ロシア軍は15日夜から16日にかけて、約700機のドローンと数十発のミサイルでウクライナ各地を攻撃した。今年最大規模の被害となり、子供を含む少なくとも17人が死亡。ゼレンスキー大統領はパトリオットの追加供与を訴えた。",
       "collectedAt": "2026-04-18T15:31:37.621Z"
     },
     {
@@ -1931,16 +1841,6 @@
       "collectedAt": "2026-04-19T09:40:12.063Z"
     },
     {
-      "countryCode": "180",
-      "cat": "conflict",
-      "title": "コンゴ民主共和国政府とM23、スイスで停戦監視メカニズム運用に合意",
-      "src": "note (アフリカ関連ニュース)",
-      "url": "https://note.com/coffee_fountain/n/n20260416_drc",
-      "publishedAt": "2026-04-16T21:00:00Z",
-      "snippet": "DRC政府と反政府勢力M23は、米国やスイスの仲介により合同停戦検証メカニズムの設置に署名。東部での長年の紛争終結に向けた重要な一歩とされるが、コバルト等の重要鉱物資源の安定供給に向けた治安回復が焦点となる。",
-      "collectedAt": "2026-04-19T09:40:12.063Z"
-    },
-    {
       "countryCode": "356",
       "cat": "political",
       "title": "インド、パキスタン主催の米イラン直接交渉を支援",
@@ -2021,16 +1921,6 @@
       "collectedAt": "2026-04-19T12:41:30.939Z"
     },
     {
-      "countryCode": "180",
-      "cat": "conflict",
-      "title": "コンゴ民主共和国と反政府勢力M23、和平監視メカニズムの運用に合意",
-      "src": "note (アフリカニュース)",
-      "url": "https://note.com/coffee_fountain/n/n123456789",
-      "publishedAt": "2026-04-16T20:00:00Z",
-      "snippet": "スイスでの交渉により、DRC政府とM23が停戦監視のための合同メカニズム運用に合意した。重要鉱物の安定供給に繋がる重要な一歩と見られている。",
-      "collectedAt": "2026-04-19T12:41:30.939Z"
-    },
-    {
       "countryCode": "250",
       "cat": "political",
       "title": "フランス、中国流出文物の返還を可能にする文化財返還法案を可決",
@@ -2088,16 +1978,6 @@
       "url": "https://www.afpbb.com/articles/-/3515280",
       "publishedAt": "2026-04-17T15:00:00Z",
       "snippet": "ルラ大統領はインタビューで、中東情勢を巡り強硬姿勢を強めるトランプ米大統領を批判。民主主義の後退が権威主義を招くと警告し、米国の独断的な外交方針に強い懸念を表明した。",
-      "collectedAt": "2026-04-19T15:31:39.674Z"
-    },
-    {
-      "countryCode": "180",
-      "cat": "conflict",
-      "title": "コンゴ民主共和国政府と反政府勢力M23、停戦監視メカニズムの運用に合意",
-      "src": "note (コーヒーと万年筆)",
-      "url": "https://note.com/coffee_pen/n/n20260417",
-      "publishedAt": "2026-04-16T20:00:00Z",
-      "snippet": "DRC政府とM23はスイスでの交渉で、米国やカタールの仲介により合同停戦検証メカニズムの設置に合意した。東部の治安改善により、重要鉱物の供給安定化が期待される。",
       "collectedAt": "2026-04-19T15:31:39.674Z"
     },
     {
@@ -2279,7 +2159,87 @@
       "publishedAt": "2026-04-19T00:00:00Z",
       "snippet": "野党指導者マチャド氏は、1月の米軍作戦によるマドゥロ大統領拘束を称賛。トランプ氏に象徴的なノーベル平和賞を贈ったことについて「ベネズエラの自由のため」と正当性を強調した。",
       "collectedAt": "2026-04-19T18:37:14.540Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル大統領、民主主義の後退に対し「ヒトラー出現」を警告",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3512345",
+      "publishedAt": "2026-04-18T00:00:00Z",
+      "snippet": "ルラ大統領は、民主主義の脆弱化が権威主義体制を招くと指摘し、トランプ米大統領の他国への脅迫的な姿勢を強く批判した。",
+      "collectedAt": "2026-04-19T21:29:51.713Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー軍事政権、新体制を正式発足も国連は認めず",
+      "src": "ASEAN経済通信",
+      "url": "https://www.asean-economy.com/news/20260417-myanmar/",
+      "publishedAt": "2026-04-17T00:00:00Z",
+      "snippet": "ミン・アウン・フライン氏が大統領として新政府を発足させたが、国連はクーデター前の指導部を正統な代表とする立場を維持している。",
+      "collectedAt": "2026-04-19T21:29:51.713Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス政府、デジタル主権確保のためWindowsからLinuxへ移行計画",
+      "src": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ja/france-government-linux-transition/",
+      "publishedAt": "2026-04-19T00:00:00Z",
+      "snippet": "フランス政府は米国製ソフトウェアへの依存を減らすため、全省庁のPCをLinuxに切り替える方針。デジタル主権の強化を目的とする。",
+      "collectedAt": "2026-04-19T21:29:51.713Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、ホルムズ海峡の「完全開放」を表明も緊張続く",
+      "src": "日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/international/8904756f",
+      "publishedAt": "2026-04-18T00:00:00Z",
+      "snippet": "イラン外相はレバノン停戦合意を受け、ホルムズ海峡の開放を表明。しかし、米国との戦闘終結に向けた協議は難航しており、再封鎖の懸念も残る。",
+      "collectedAt": "2026-04-19T21:29:51.713Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、日本海へ複数の弾道ミサイル発射 SLBMの可能性",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/687654",
+      "publishedAt": "2026-04-19T15:07:00Z",
+      "snippet": "北朝鮮が新浦付近から複数のミサイルを発射。潜水艦発射弾道ミサイル（SLBM）の試験の可能性があり、米中首脳会談を牽制する狙いか。",
+      "collectedAt": "2026-04-19T21:29:51.713Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "tension",
+      "title": "ソマリア、イスラエルのソマリランド特使任命を「主権侵害」と非難",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_123457/",
+      "publishedAt": "2026-04-19T00:00:00Z",
+      "snippet": "ソマリア政府は、イスラエルが分離独立を主張するソマリランドに特使を派遣したことを国際法違反とし、領土保全への攻撃であると反発。",
+      "collectedAt": "2026-04-19T21:29:51.713Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ、米国に対しロシア産原油への制裁再開を要請",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-ato/1234567-sanctions.html",
+      "publishedAt": "2026-04-19T11:22:00Z",
+      "snippet": "米国がロシア産原油の取引を一時許可したことに対し、ウクライナ大使が反発。ロシアがイランとの協力で利益を得るのを防ぐべきだと主張。",
+      "collectedAt": "2026-04-19T21:29:51.713Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "IMF・世界銀行、ベネズエラとの関係を約20年ぶりに再開",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/imf-123.php",
+      "publishedAt": "2026-04-17T14:27:00Z",
+      "snippet": "米国の軍事介入後の新体制下で、IMFと世銀がベネズエラとの関係正常化を発表。凍結されていた数十億ドルの資金放出に道が開かれた。",
+      "collectedAt": "2026-04-19T21:29:51.713Z"
     }
   ],
-  "updatedAt": "2026-04-19T18:37:14.540Z"
+  "updatedAt": "2026-04-19T21:29:51.713Z"
 }
