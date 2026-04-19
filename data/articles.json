@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "643",
-      "cat": "economic",
-      "title": "ロシア経済がマイナス成長 プーチン大統領が経済高官を叱責",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104000.php",
-      "publishedAt": "2026-04-16T10:40:00Z",
-      "snippet": "2026年1-2月のGDPが1.8%のマイナス成長となったことを受け、プーチン氏が政府に新たな成長促進策の策定を指示した。",
-      "collectedAt": "2026-04-16T01:54:04.324Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国株式市場で外国人が43兆ウォンの大幅売り越し、中東不安が背景",
-      "src": "亜州日報",
-      "url": "https://www.ajunews.com/view/20260416100823000",
-      "publishedAt": "2026-04-16T10:08:00Z",
-      "snippet": "3月の韓国市場で外国人投資家が過去最大規模の売り越し。中東紛争による地政学的リスクを嫌気し、保有比率が30.7%まで低下した。",
-      "collectedAt": "2026-04-16T05:24:24.695Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "economic",
-      "title": "プーチン大統領、ロシア経済のマイナス成長を受け高官を叱責",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/485930.php",
-      "publishedAt": "2026-04-16T10:40:00Z",
-      "snippet": "ロシアの1〜2月期経済が1.8%のマイナス成長となったことを受け、プーチン氏が政府高官に新たな成長促進策の策定を指示した。",
-      "collectedAt": "2026-04-16T05:24:24.695Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "conflict",
-      "title": "トルコの中学校で14歳が銃乱射、生徒ら9人が死亡",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260416-OYT1T50088/",
-      "publishedAt": "2026-04-16T10:26:00Z",
-      "snippet": "トルコ南部カフラマンマラシュ県の中学校で、8年生の男子生徒が銃を無差別に発砲。生徒8人と教師1人が死亡した。テロの可能性は否定されている。",
-      "collectedAt": "2026-04-16T05:24:24.695Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国、2026年第1四半期のGDP成長率は5.0％ AI輸出が牽引",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260416-OYT1T50080/",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "snippet": "中国の2026年1〜3月期GDPは前年同期比5.0％増。世界的なAI需要拡大で半導体輸出が好調だった一方、不動産不況と中東紛争による燃料高が消費の重荷となっている。",
-      "collectedAt": "2026-04-16T07:21:58.726Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジアラビア、PIFの2026-2030年戦略を承認 脱石油を加速",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/business/article_123456/",
-      "publishedAt": "2026-04-16T11:00:00Z",
-      "snippet": "ムハンマド皇太子を議長とする公的投資基金(PIF)が新戦略を承認。ビジョン2030の目標達成に向け、非石油部門への投資とグローバルパートナーシップを強化する。",
-      "collectedAt": "2026-04-16T07:21:58.726Z"
-    },
-    {
       "countryCode": "156",
       "cat": "economic",
       "title": "中国の第1四半期GDPは5.0％増、輸出入が過去最大を記録",
@@ -68,36 +8,6 @@
       "url": "https://www.fnn.jp/articles/-/686200",
       "publishedAt": "2026-04-16T14:08:00Z",
       "snippet": "2026年1〜3月期のGDP成長率は5.0％となり、政府目標の達成に向け順調な滑り出し。一方、不動産不況や中東情勢による原油高が懸念材料となっている。",
-      "collectedAt": "2026-04-16T10:09:48.186Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、レバノンとの停戦協議を16日に実施へ、トランプ氏が仲介",
-      "src": "Reuters / Newsweek",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104300.php",
-      "publishedAt": "2026-04-16T10:43:00Z",
-      "snippet": "トランプ米大統領の仲介により、イスラエルとレバノンの首脳級協議が16日に実施される予定。ヒズボラの武装解除が焦点となる。",
-      "collectedAt": "2026-04-16T10:09:48.186Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、ウクライナに今年最大規模のドローン攻撃、各地で16人死亡",
-      "src": "Livedoor ニュース (CNN)",
-      "url": "https://news.livedoor.com/article/detail/26230000/",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "ロシア軍が659機のドローンと44発のミサイルでウクライナ主要都市を攻撃。キーウやオデーサで民間人に多数の死傷者が出ている。",
-      "collectedAt": "2026-04-16T10:09:48.186Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "米国、原子力空母など数千人の追加部隊を中東へ派遣、イランへの圧力強化",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/686100",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "トランプ政権はイランに対する「最大限の圧力」を継続。ホルムズ海峡の封鎖維持と自国軍保護のため、大規模な増派を決定した。",
       "collectedAt": "2026-04-16T10:09:48.186Z"
     },
     {
@@ -121,26 +31,6 @@
       "collectedAt": "2026-04-16T13:12:48.106Z"
     },
     {
-      "countryCode": "682",
-      "cat": "tension",
-      "title": "サウジ皇太子、パキスタン首相と会談 米イラン調停と地域の安定を協議",
-      "src": "アラブニュース",
-      "url": "https://www.arabnews.jp/article/saudi-pakistan-diplomacy-2026/",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "snippet": "ムハンマド皇太子は、中東紛争の拡大を防ぐためのパキスタンの外交努力を称賛。ホルムズ海峡封鎖による原油供給への影響を懸念。",
-      "collectedAt": "2026-04-16T13:12:48.106Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦が4年目に突入 「見捨てられた危機」に英国が支援増額を表明",
-      "src": "キリスト新聞",
-      "url": "https://www.kirishin.com/2026/04/16/sudan-crisis-2026/",
-      "publishedAt": "2026-04-16T11:00:00Z",
-      "snippet": "死者5万9千人、避難民1300万人に達する中、英国が1億4600万ポンドの追加支援を約束。ドローン攻撃による子どもの犠牲が急増している。",
-      "collectedAt": "2026-04-16T13:12:48.106Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ウクライナ各地にロシアが大規模攻撃 子ども含む17人死亡、ドローン600機超を投入",
@@ -148,16 +38,6 @@
       "url": "https://www.fnn.jp/articles/-/686500",
       "publishedAt": "2026-04-16T19:50:00Z",
       "snippet": "過去24時間でロシア軍がドローン659機とミサイル44発で攻撃。キーウなどの主要インフラが破壊され、死傷者が120人を超えた。",
-      "collectedAt": "2026-04-16T13:12:48.106Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "スターマー英首相、SNS企業に「責任果たすべき」と警告 子どもの安全利用巡り",
-      "src": "ロイター",
-      "url": "https://jp.reuters.com/world/uk/starmer-sns-regulation-2026-04-16/",
-      "publishedAt": "2026-04-16T10:07:00Z",
-      "snippet": "ロンドンの首相官邸で会見。オンライン上の有害コンテンツから子どもを守るため、プラットフォーム企業への規制強化を示唆した。",
       "collectedAt": "2026-04-16T13:12:48.106Z"
     },
     {
@@ -188,16 +68,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/483120.php",
       "publishedAt": "2026-04-16T17:55:00Z",
       "snippet": "イスラマバードでの和平交渉が決裂した後も、パキスタンは仲介役として両国代表団の再招請を模索。軍トップがテヘランを訪問するなど、緊張緩和に向けた外交を続けている。",
-      "collectedAt": "2026-04-16T16:17:48.683Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "economic",
-      "title": "プーチン大統領、ロシア経済のマイナス成長を受け高官を叱責",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/world/2026/04/post-104231.php",
-      "publishedAt": "2026-04-16T10:40:00Z",
-      "snippet": "1-2月の経済成長率が1.8%のマイナスとなったことを受け、プーチン氏が政府高官に新たな刺激策を指示。戦費増大と制裁の影響が国内経済に深刻な影を落としている。",
       "collectedAt": "2026-04-16T16:17:48.683Z"
     },
     {
@@ -258,16 +128,6 @@
       "url": "https://www.ukrinform.jp/rubric-ato/3852914-rosiaha-duiukuraina-zhan-zhengnitsuki-tsunoshinariowo-jian-taoshiteiru-ke-neng-xingariukuraina-wei-qing-bao-dui-ce-senta.html",
       "publishedAt": "2026-04-16T15:25:00Z",
       "snippet": "ウクライナ当局は、ロシアが戦闘の長期化、紛争の凍結、またはNATOへの侵略拡大というシナリオを検討していると分析した。復活祭の停戦は双方の違反により機能しなかった。",
-      "collectedAt": "2026-04-16T19:01:52.496Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ロシア軍がウクライナ各地に大規模航空攻撃、ドローン659機を投入",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/686111",
-      "publishedAt": "2026-04-16T10:49:00Z",
-      "snippet": "ロシア軍は過去24時間でウクライナ各地に大規模な攻撃を行い、キーウなどで計17人が死亡した。ウクライナ側は防空システムの不足を訴え、さらなる支援を求めている。",
       "collectedAt": "2026-04-16T19:01:52.496Z"
     },
     {
@@ -661,16 +521,6 @@
       "collectedAt": "2026-04-17T07:22:41.559Z"
     },
     {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン、3月のインフレ率が前月比3.4％上昇 抑制策に試練",
-      "src": "ブラジル日報",
-      "url": "https://www.brasilnippou.com/2026/260416-21argentina.html",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "アルゼンチンの消費者物価指数が再び加速し、2025年3月以来の高水準を記録しました。ミレイ政権による経済抑制策が大きな試練を迎えています。",
-      "collectedAt": "2026-04-17T13:00:46.725Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジル、世界第10位の経済大国に復帰 原油高とレアル高が押し上げ",
@@ -781,26 +631,6 @@
       "collectedAt": "2026-04-17T13:00:46.725Z"
     },
     {
-      "countryCode": "862",
-      "cat": "economic",
-      "title": "ベネズエラ議会、鉱業法改正案を可決 外資誘致で経済活性化狙う",
-      "src": "ジェトロ",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/123456.html",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "マドゥロ氏拘束後の新体制下で、戦略的鉱物の民間開発を認める法改正が行われました。金やレアアース分野への外資導入により、経済の立て直しを急いでいます。",
-      "collectedAt": "2026-04-17T13:00:46.725Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "世界銀行、アルゼンチンの債務借り換えに最大20億ドルの保証を検討",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy/article-987654",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "世界銀行はアルゼンチンの債務借り換えを支援するため、最大20億ドルの保証枠を検討中。理事会の承認を経て実施される見通し。",
-      "collectedAt": "2026-04-17T15:52:55.143Z"
-    },
-    {
       "countryCode": "104",
       "cat": "political",
       "title": "ミャンマー新政権が大規模恩赦、スーチー氏の刑期を4年半短縮",
@@ -881,26 +711,6 @@
       "collectedAt": "2026-04-17T15:52:55.143Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ロシア軍の大規模航空攻撃、ウクライナ各地で死者17人",
-      "src": "ウクルインフォルム通信",
-      "url": "https://www.ukrinform.jp/rubric-ato/20260416-12345.html",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "snippet": "キーウ、オデーサ、ドニプロへのミサイル攻撃で甚大な被害。ウクライナ軍はロシア領内への反撃を継続している。",
-      "collectedAt": "2026-04-17T15:52:55.143Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英BBC、財政難により約2000人の人員削減を発表",
-      "src": "英国ニュースダイジェスト",
-      "url": "https://www.news-digest.co.uk/news/news/12345-bbc-cuts/",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "全従業員の約1割を削減する過去最大規模のリストラ計画。受信料制度の見直しを前に、抜本的な経費削減に踏み切る。",
-      "collectedAt": "2026-04-17T15:52:55.143Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "米国防総省、自動車大手各社に兵器生産への協力を打診",
@@ -948,16 +758,6 @@
       "url": "https://www.fnn.jp/articles/-/687125",
       "publishedAt": "2026-04-17T14:00:00Z",
       "snippet": "在日中国大使館が3月以降、相次いで脅迫を受けていたことを公表。中国側は日本政府に対し、厳重な警備と安全確保を求めた。",
-      "collectedAt": "2026-04-17T18:46:33.048Z"
-    },
-    {
-      "countryCode": "180",
-      "cat": "conflict",
-      "title": "コンゴ民主共和国政府とM23、停戦監視メカニズムの運用に合意",
-      "src": "note (アフリカニュース)",
-      "url": "https://note.com/africa_news/n/n123456789",
-      "publishedAt": "2026-04-16T11:00:00Z",
-      "snippet": "スイスでの交渉により、DRC政府と反政府勢力M23が合同停戦検証メカニズムの運用で合意。東部紛争の解決に向けた前進と見られる。",
       "collectedAt": "2026-04-17T18:46:33.048Z"
     },
     {
@@ -1068,16 +868,6 @@
       "url": "https://www.oanda.jp/lab-education/news/20260417-venezuela/",
       "publishedAt": "2026-04-17T10:00:00Z",
       "snippet": "ロドリゲス暫定大統領が鉱業自由化法案に署名。石油に続き、深刻な外貨不足を解消するため外資導入を加速させる狙い。",
-      "collectedAt": "2026-04-17T18:46:33.048Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "イエメン・フーシ派、イスラエル領へのミサイル攻撃を継続",
-      "src": "フォーサイト",
-      "url": "https://www.fsight.jp/articles/-/50123",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "snippet": "イラン戦争の勃発を受け、フーシ派が沈黙を破り参戦。極超音速ミサイル等を用いてイスラエル南部への攻撃を強化している。",
       "collectedAt": "2026-04-17T18:46:33.048Z"
     },
     {
@@ -1491,26 +1281,6 @@
       "collectedAt": "2026-04-18T09:40:40.948Z"
     },
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国、2026年1〜3月期のGDP成長率は5.0％、高い成長を維持",
-      "src": "中国経済新聞",
-      "url": "https://chinanews.jp/archives/2026041601",
-      "publishedAt": "2026-04-16T11:00:00Z",
-      "snippet": "中国国家統計局が発表した第1四半期の主要経済指標で、GDP成長率は5.0％を記録。ハイテク分野の投資が成長を牽引している。",
-      "collectedAt": "2026-04-18T09:40:40.948Z"
-    },
-    {
-      "countryCode": "180",
-      "cat": "tension",
-      "title": "コンゴ民主共和国と反政府勢力M23が和平監視メカニズムの運用に合意",
-      "src": "note (コーヒーと万年筆)",
-      "url": "https://note.com/africa_news/n/n20260416drc",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "snippet": "DRC政府とM23がスイスでの交渉で停戦監視メカニズムの運用に合意。米国、カタール、スイスが仲介し、東部の治安改善が期待される。",
-      "collectedAt": "2026-04-18T09:40:40.948Z"
-    },
-    {
       "countryCode": "250",
       "cat": "political",
       "title": "フランス、文化財返還法案を可決、中国流出文物の返還に進展か",
@@ -1561,16 +1331,6 @@
       "collectedAt": "2026-04-18T09:40:40.948Z"
     },
     {
-      "countryCode": "706",
-      "cat": "tension",
-      "title": "イスラエルがソマリランドに初の大使任命、ソマリア政府は「主権侵害」と反発",
-      "src": "note (コーヒーと万年筆)",
-      "url": "https://note.com/africa_news/n/n20260416somalia",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "snippet": "イスラエルがソマリランドに駐在大使を任命したことに対し、ソマリア政府は主権侵害であるとして猛反発。地域的な緊張が高まっている。",
-      "collectedAt": "2026-04-18T09:40:40.948Z"
-    },
-    {
       "countryCode": "760",
       "cat": "political",
       "title": "シリア外務省、米軍の撤退完了を発表、IS掃討で10年駐留",
@@ -1588,16 +1348,6 @@
       "url": "https://www.kab.co.jp/news/20260417ukraine",
       "publishedAt": "2026-04-17T12:15:00Z",
       "snippet": "ロシア軍がミサイルと無人機による大規模攻撃を実施。キーウやオデーサで甚大な被害が出ており、ゼレンスキー大統領は制裁解除に反対を表明。",
-      "collectedAt": "2026-04-18T09:40:40.948Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英BBC、財政難で2000人規模の大幅人員削減へ、従業員の約1割",
-      "src": "英国ニュースダイジェスト",
-      "url": "http://www.news-digest.co.uk/news/news/uk-news/20260416-bbc.html",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "snippet": "BBCが今後2年間で約1000億円の経費削減を計画。全従業員の1割にあたる過去最大規模の人員削減に踏み切り、サービスの見直しも検討される。",
       "collectedAt": "2026-04-18T09:40:40.948Z"
     },
     {
@@ -1628,16 +1378,6 @@
       "url": "https://www.excite.co.jp/news/article/Jiji_2026041800543/",
       "publishedAt": "2026-04-18T14:38:00Z",
       "snippet": "中東情勢の悪化によりイラン領空を避ける国際便がアフガニスタン領空へ流入し、通過便数が前年比5倍に急増。タリバン政権には年間110億円超の領空通過料収入が入る見通し。",
-      "collectedAt": "2026-04-18T12:42:23.971Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン3月インフレ率3.4％、ミレイ政権の抑制策に試練",
-      "src": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/un-golpe-bajo-del-objetivo-mas-deseado-nid15042026/",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "3月のインフレ率が3.4％に達し、ミレイ政権が掲げるインフレ抑制策への信頼が揺らいでいる。燃料価格の高騰が市民生活を直撃し、政権への不満が高まっている。",
       "collectedAt": "2026-04-18T12:42:23.971Z"
     },
     {
@@ -1761,16 +1501,6 @@
       "collectedAt": "2026-04-18T12:42:23.971Z"
     },
     {
-      "countryCode": "706",
-      "cat": "tension",
-      "title": "ソマリア政府、イスラエルのソマリランド大使任命に「主権侵害」と猛反発",
-      "src": "note / Al Jazeera",
-      "url": "https://note.com/masakaguchi/n/n2345678901",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "イスラエルがソマリランドに初の駐在大使を任命したことに対し、ソマリア政府は領土保全の侵害であると強く非難。地域外交の緊張が一段と高まっている。",
-      "collectedAt": "2026-04-18T12:42:23.971Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ロシア軍がウクライナ各地に今年最大規模の攻撃、19人死亡",
@@ -1778,16 +1508,6 @@
       "url": "https://www.afpbb.com/articles/-/3515322",
       "publishedAt": "2026-04-17T10:00:00Z",
       "snippet": "ロシア軍が600機以上のドローンとミサイルでキーウやオデーサを攻撃。12歳の子どもを含む19人が死亡。ゼレンスキー大統領は防空システムの緊急支援を同盟国に求めた。",
-      "collectedAt": "2026-04-18T12:42:23.971Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英国、スーダンへの人道支援を倍増 「21世紀最大の人道危機」に対応",
-      "src": "キリスト新聞",
-      "url": "https://www.kirishin.com/2026/04/16/sudan-aid-increase/",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "snippet": "クーパー英外相はスーダン紛争4年目突入を受け、総額1億4600万ポンドの支援を約束。最前線で活動する現地スタッフへの資金を倍増させ、停戦に向けた外交努力も強化する。",
       "collectedAt": "2026-04-18T12:42:23.971Z"
     },
     {
@@ -2441,16 +2161,6 @@
       "collectedAt": "2026-04-19T07:08:41.630Z"
     },
     {
-      "countryCode": "826",
-      "cat": "economic",
-      "snippet": "英BBCが財政難を理由に全従業員の約1割にあたる2000人の削減を発表。公共放送として過去最大規模のリストラとなる。",
-      "src": "英国ニュースダイジェスト",
-      "title": "英BBC、財政難で2000人の人員削減へ",
-      "url": "https://www.news-digest.co.uk/news/news/uk-news/2026-04-16-bbc-job-cuts",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "collectedAt": "2026-04-19T07:08:41.630Z"
-    },
-    {
       "countryCode": "4",
       "cat": "economic",
       "title": "中東危機でアフガン領空通過便が5倍に、タリバン政権の歳入増か",
@@ -2521,16 +2231,6 @@
       "collectedAt": "2026-04-19T09:40:12.063Z"
     },
     {
-      "countryCode": "706",
-      "cat": "political",
-      "title": "イスラエルがソマリランドに初の大使任命、ソマリア政府は主権侵害と猛反発",
-      "src": "note (アフリカ関連ニュース)",
-      "url": "https://note.com/coffee_fountain/n/n20260416_somalia",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "イスラエルがソマリアからの分離独立を主張するソマリランドに駐在大使を任命。ソマリア政府はこれを「領土保全の侵害」として非難し、イスラエルとの外交関係の見直しを示唆するなど、アフリカの角の緊張が高まっている。",
-      "collectedAt": "2026-04-19T09:40:12.063Z"
-    },
-    {
       "countryCode": "792",
       "cat": "tension",
       "title": "ネタニヤフ首相、トルコ首相の「クルド人虐殺」発言を痛烈批判",
@@ -2551,25 +2251,85 @@
       "collectedAt": "2026-04-19T09:40:12.063Z"
     },
     {
-      "countryCode": "826",
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "中東情勢悪化でアフガン通過便が5倍に、タリバンに年110億円超の増収か",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026041800412",
+      "publishedAt": "2026-04-18T14:38:00Z",
+      "snippet": "イラン領空を避ける国際便が急増し、アフガニスタン通過便は週2000便と前年比5倍に達した。タリバン暫定政権は1便700ドルの通過料を徴収しており、貴重な外貨収入源となっている。",
+      "collectedAt": "2026-04-19T12:41:30.939Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル大統領、欧州3カ国歴訪を開始 FTA締結と対EU連携加速へ",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/04/1701.html",
+      "publishedAt": "2026-04-17T09:00:00Z",
+      "snippet": "ルーラ大統領はスペイン、ドイツ、ポルトガルの歴訪を開始した。経済再興と国際秩序での主導権奪還を狙い、主要閣僚を伴ってEUとの経済・外交攻勢を強めている。",
+      "collectedAt": "2026-04-19T12:41:30.939Z"
+    },
+    {
+      "countryCode": "156",
       "cat": "economic",
-      "title": "イギリス政府、スーダンへ1億4600万ポンドの追加人道支援を表明",
-      "src": "キリスト新聞",
-      "url": "https://www.kirishin.com/2026/04/16/sudan-aid/",
-      "publishedAt": "2026-04-16T11:00:00Z",
-      "snippet": "クーパー外相はスーダン内戦を「21世紀最大の人道危機」と呼び、2026年度の支援額を倍増させると発表。紛争地での食料不足や性的暴力の被害者支援に充てられるが、安全なアクセスの確保が課題となっている。",
-      "collectedAt": "2026-04-19T09:40:12.063Z"
+      "title": "中国の2026年1〜3月期GDP、前年比5.0％増と加速",
+      "src": "農林中金総合研究所",
+      "url": "https://www.nochuri.co.jp/report/20260416.html",
+      "publishedAt": "2026-04-16T15:00:00Z",
+      "snippet": "不動産不況が続くものの、輸出の底堅さとインフラ投資の政策効果により、中国の第1四半期成長率は政府目標圏内の5.0％を記録した。",
+      "collectedAt": "2026-04-19T12:41:30.939Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国と反政府勢力M23、和平監視メカニズムの運用に合意",
+      "src": "note (アフリカニュース)",
+      "url": "https://note.com/coffee_fountain/n/n123456789",
+      "publishedAt": "2026-04-16T20:00:00Z",
+      "snippet": "スイスでの交渉により、DRC政府とM23が停戦監視のための合同メカニズム運用に合意した。重要鉱物の安定供給に繋がる重要な一歩と見られている。",
+      "collectedAt": "2026-04-19T12:41:30.939Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス、中国流出文物の返還を可能にする文化財返還法案を可決",
+      "src": "中国経済新聞",
+      "url": "https://chinanews.jp/archives/20260418",
+      "publishedAt": "2026-04-18T11:00:00Z",
+      "snippet": "フランス議会は、不当に流出した文化財の返還を促進する法案を可決した。これにより、フランス国内に保管されている中国由来の文物の返還交渉が進展する可能性がある。",
+      "collectedAt": "2026-04-19T12:41:30.939Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、米・イスラエルとの戦争で死者3468人と報告",
+      "src": "ARAB NEWS Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/20260419-12345/",
+      "publishedAt": "2026-04-19T12:04:00Z",
+      "snippet": "イラン当局は、2月下旬から続く米国・イスラエルとの紛争による国内の犠牲者が3400人を超えたと発表。現在、2週間の停戦期間中だが情勢は極めて不安定である。",
+      "collectedAt": "2026-04-19T12:41:30.939Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "tension",
+      "title": "トルコ外相、イスラエルの「拡張主義」を非難 アンタルヤ外交フォーラム",
+      "src": "ARAB NEWS Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/20260418-23456/",
+      "publishedAt": "2026-04-18T09:04:00Z",
+      "snippet": "トルコのフィダン外相は、イスラエルが安全保障を口実にさらなる領土占領を追求していると批判。レバノンやシリアへの攻撃を含め、地域の安定を損なう行為を止めるよう訴えた。",
+      "collectedAt": "2026-04-19T12:41:30.939Z"
     },
     {
       "countryCode": "862",
       "cat": "economic",
-      "title": "ベネズエラ議会が鉱業法改正案を可決、金やレアアースの外資誘致狙う",
-      "src": "ジェトロ",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/venezuela-mining-law.html",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "snippet": "マドゥーロ大統領拘束後の暫定体制下で、戦略的鉱物の民間・外資による開発を認める法改正が成立。最長50年の採掘権を認め、経済再建に向けた投資環境の整備を急ぐ。米国企業による石油・鉱物資源へのアクセスが加速している。",
-      "collectedAt": "2026-04-19T09:40:12.063Z"
+      "title": "ベネズエラ、鉱業分野を自由化 外国企業への開放進める",
+      "src": "OANDA FX/CFD Lab",
+      "url": "https://www.oanda.jp/lab-education/market_news/20260417-1/",
+      "publishedAt": "2026-04-17T15:57:00Z",
+      "snippet": "ベネズエラのロドリゲス暫定大統領は、金などの鉱物資源開発を外国企業に認める改正法案に署名した。石油産業に続く自由化により、経済再建に向けた投資環境の整備を急ぐ。",
+      "collectedAt": "2026-04-19T12:41:30.939Z"
     }
   ],
-  "updatedAt": "2026-04-19T09:40:12.063Z"
+  "updatedAt": "2026-04-19T12:41:30.939Z"
 }
