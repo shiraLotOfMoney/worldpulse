@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国の第1四半期GDPは5.0％増、輸出入が過去最大を記録",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/686200",
-      "publishedAt": "2026-04-16T14:08:00Z",
-      "snippet": "2026年1〜3月期のGDP成長率は5.0％となり、政府目標の達成に向け順調な滑り出し。一方、不動産不況や中東情勢による原油高が懸念材料となっている。",
-      "collectedAt": "2026-04-16T10:09:48.186Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "イランとアメリカの一時停戦期限が21日に迫る 仲介役パキスタンがワシントン訪問へ",
@@ -51,16 +41,6 @@
       "collectedAt": "2026-04-16T16:17:48.683Z"
     },
     {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "日経平均株価、初の5万9000円台達成　イラン情勢の懸念後退で最高値更新",
-      "src": "株探ニュース",
-      "url": "https://kabutan.jp/news/?b=n202604160518",
-      "publishedAt": "2026-04-16T15:00:00Z",
-      "snippet": "16日の東京株式市場で日経平均は大幅続伸し、5万9518円で引けた。米イランの停戦期間延長への期待とハイテク株高が追い風となり、歴史的な高値を記録した。",
-      "collectedAt": "2026-04-16T16:17:48.683Z"
-    },
-    {
       "countryCode": "586",
       "cat": "political",
       "title": "パキスタン、米・イラン第2回協議の仲介を継続　日程調整進める",
@@ -91,16 +71,6 @@
       "collectedAt": "2026-04-16T16:17:48.683Z"
     },
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国の2026年第1四半期GDPは5.0%増、輸出入が過去最大を記録",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/686124",
-      "publishedAt": "2026-04-16T14:08:00Z",
-      "snippet": "中国国家統計局は2026年1〜3月期のGDPが前年同期比5.0%増になったと発表した。貿易の好調や工業用ロボットの生産伸びが成長を牽引し、年間目標達成に向け好スタートを切った。",
-      "collectedAt": "2026-04-16T19:01:52.496Z"
-    },
-    {
       "countryCode": "250",
       "cat": "political",
       "title": "フランス、15歳未満のSNS利用禁止法案の9月施行を目指す",
@@ -121,36 +91,6 @@
       "collectedAt": "2026-04-16T19:01:52.496Z"
     },
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア、対ウクライナ戦争で「紛争凍結」を含む3つのシナリオを検討か",
-      "src": "ウクルインフォルム通信",
-      "url": "https://www.ukrinform.jp/rubric-ato/3852914-rosiaha-duiukuraina-zhan-zhengnitsuki-tsunoshinariowo-jian-taoshiteiru-ke-neng-xingariukuraina-wei-qing-bao-dui-ce-senta.html",
-      "publishedAt": "2026-04-16T15:25:00Z",
-      "snippet": "ウクライナ当局は、ロシアが戦闘の長期化、紛争の凍結、またはNATOへの侵略拡大というシナリオを検討していると分析した。復活祭の停戦は双方の違反により機能しなかった。",
-      "collectedAt": "2026-04-16T19:01:52.496Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "economic",
-      "title": "タリバン政権、領空通過料で数千万ドルの収入増",
-      "src": "swissinfo.ch",
-      "url": "https://www.swissinfo.ch/jpn/%E3%82%BF%E3%83%AA%E3%83%90%E3%83%B3-%E3%82%B9%E3%82%A4%E3%82%B9%E4%BA%BA%E3%81%8B%E3%82%89%E3%82%82%E9%A0%98%E7%A9%BA%E9%80%9A%E9%81%8E%E6%96%99%E3%82%92%E5%BE%B4%E5%8F%8E/80234567",
-      "publishedAt": "2026-04-16T15:23:00Z",
-      "snippet": "イラン・ウクライナ情勢の悪化によりアフガニスタン上空を通過する航空便が急増し、タリバン政権は年間約7000万ドルの通過料収入を得ている。",
-      "collectedAt": "2026-04-16T21:37:11.480Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ各地に大規模攻撃、今年最多の民間人犠牲者",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260416-OYT1T50000/",
-      "publishedAt": "2026-04-16T15:00:00Z",
-      "snippet": "ロシア軍によるミサイルとドローンの複合攻撃で、子供を含む17人が死亡、100人以上が負傷。ゼレンスキー大統領は制裁継続を訴えた。",
-      "collectedAt": "2026-04-16T21:37:11.480Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ政権、兵器生産の「戦時体制」移行へ民間企業と協議",
@@ -159,16 +99,6 @@
       "publishedAt": "2026-04-17T06:19:00Z",
       "snippet": "トランプ政権は中東・ウクライナでの物資逼迫を受け、自動車大手の生産能力を兵器製造に転用する「戦時体制」レベルの増産を模索している。",
       "collectedAt": "2026-04-16T21:37:11.480Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "economic",
-      "title": "タリバン、アフガニスタン領空通過料で数千万ドルの収入",
-      "src": "SWI swissinfo.ch",
-      "url": "https://www.swissinfo.ch/jpn/%E7%B5%8C%E6%B8%88/%E3%82%BF%E3%83%AA%E3%83%90%E3%83%B3-%E3%82%B9%E3%82%A4%E3%82%B9%E4%BA%BA%E3%81%8B%E3%82%89%E3%82%82%E9%A0%98%E7%A9%BA%E9%80%9A%E9%81%8E%E6%96%99%E3%82%92%E5%BE%B4%E5%8F%8E/76801961",
-      "publishedAt": "2026-04-16T15:23:00Z",
-      "snippet": "イラン戦争の影響でアフガニスタン上空を飛行する航空機が急増し、タリバン政権は1機につき700ドルの領空通過料を徴収、年換算で7000万ドル超の莫大な収入を得ている。",
-      "collectedAt": "2026-04-17T01:52:31.847Z"
     },
     {
       "countryCode": "32",
@@ -831,16 +761,6 @@
       "collectedAt": "2026-04-17T18:46:33.048Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ、ロシアの新型滑空爆弾を新型ジャマーで無効化か",
-      "src": "Forbes JAPAN",
-      "url": "https://forbesjapan.com/articles/detail/123456",
-      "publishedAt": "2026-04-16T14:00:00Z",
-      "snippet": "ロシア軍の強力な誘導滑空爆弾「KAB」に対し、ウクライナ軍が電子戦装置を投入。前線での被害抑制に成功しているとの報告。",
-      "collectedAt": "2026-04-17T18:46:33.048Z"
-    },
-    {
       "countryCode": "826",
       "cat": "economic",
       "title": "英BBC、従業員の約1割にあたる2000人を削減へ",
@@ -929,16 +849,6 @@
       "publishedAt": "2026-04-17T14:27:00Z",
       "snippet": "2019年以降停止していたIMF・世銀との関係が正常化。ロドリゲス暫定大統領は「経済にとって重要な一歩」と歓迎し、凍結資産の解除に向けた協議が始まっている。",
       "collectedAt": "2026-04-17T21:35:21.481Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "economic",
-      "title": "タリバン、アフガニスタン領空通過料で数千万ドルの収入",
-      "src": "SWI swissinfo.ch",
-      "url": "https://www.swissinfo.ch/jpn/%E3%82%BF%E3%83%AA%E3%83%90%E3%83%B3-%E3%82%B9%E3%82%A4%E3%82%B9%E4%BA%BA%E3%81%8B%E3%82%89%E3%82%82%E9%A0%98%E7%A9%BA%E9%80%9A%E9%81%8E%E6%96%99%E3%82%92%E5%BE%B4%E5%8F%8E/76800000",
-      "publishedAt": "2026-04-16T15:23:00Z",
-      "snippet": "イラン紛争の影響でアフガニスタン上空を飛行する航空機が急増し、タリバン暫定政権は1機につき700ドルの領空通過料を徴収、年間7000万ドル超の収入を得ている。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
     },
     {
       "countryCode": "32",
@@ -1318,16 +1228,6 @@
       "url": "https://www.theheadline.jp/articles/20260417israel",
       "publishedAt": "2026-04-17T07:00:00Z",
       "snippet": "イスラエルとレバノンのヒズボラが10日間の一時停戦に合意。トランプ大統領の仲介によるもので、ホワイトハウスでの首脳会談も予定されている。",
-      "collectedAt": "2026-04-18T09:40:40.948Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国、エネルギー危機回避へ大統領特使が4か国歴訪、原油確保を急ぐ",
-      "src": "Storm.mg (日本語版)",
-      "url": "https://www.storm.mg/article/20260416korea",
-      "publishedAt": "2026-04-16T13:00:00Z",
-      "snippet": "ホルムズ海峡封鎖による深刻なエネルギー不足を受け、李在明大統領の特使がサウジやカタールを訪問。2.7億バレルの原油確保に成功したと発表。",
       "collectedAt": "2026-04-18T09:40:40.948Z"
     },
     {
@@ -1718,16 +1618,6 @@
       "url": "https://www.asean-economy.com/news/20260417-myanmar",
       "publishedAt": "2026-04-17T11:00:00Z",
       "snippet": "国連総会・会議運営局が公表した最新の各国元首リストで、国連はミンアウンフライン氏を大統領として認めず、クーデター前のウィンミン氏を正統な代表として引き続き扱っていることが判明した。",
-      "collectedAt": "2026-04-18T18:36:59.261Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国GDP 5.0%増 2026年1〜3月期 輸出が成長牽引も不動産不況続く",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/686432",
-      "publishedAt": "2026-04-16T14:08:00Z",
-      "snippet": "2026年第1四半期のGDP成長率は前年同期比5.0%となり、政府目標の達成に向け順調な滑り出しを見せた。輸出入総額が過去最大を記録した一方、不動産市場の低迷や内需の弱さは依然として課題。",
       "collectedAt": "2026-04-18T18:36:59.261Z"
     },
     {
@@ -2271,16 +2161,6 @@
       "collectedAt": "2026-04-19T12:41:30.939Z"
     },
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国の2026年1〜3月期GDP、前年比5.0％増と加速",
-      "src": "農林中金総合研究所",
-      "url": "https://www.nochuri.co.jp/report/20260416.html",
-      "publishedAt": "2026-04-16T15:00:00Z",
-      "snippet": "不動産不況が続くものの、輸出の底堅さとインフラ投資の政策効果により、中国の第1四半期成長率は政府目標圏内の5.0％を記録した。",
-      "collectedAt": "2026-04-19T12:41:30.939Z"
-    },
-    {
       "countryCode": "180",
       "cat": "conflict",
       "title": "コンゴ民主共和国と反政府勢力M23、和平監視メカニズムの運用に合意",
@@ -2329,7 +2209,127 @@
       "publishedAt": "2026-04-17T15:57:00Z",
       "snippet": "ベネズエラのロドリゲス暫定大統領は、金などの鉱物資源開発を外国企業に認める改正法案に署名した。石油産業に続く自由化により、経済再建に向けた投資環境の整備を急ぐ。",
       "collectedAt": "2026-04-19T12:41:30.939Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン、3月に6億8800万ドルの財政黒字を計上 5ヶ月連続",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy/argentina-fiscal-surplus-march-2026",
+      "publishedAt": "2026-04-16T23:19:00Z",
+      "snippet": "ミレイ政権の「ショック療法」により、アルゼンチンは3月に約6億8800万ドルの基礎的財政黒字を達成した。インフレ率は依然として年率280%超と高水準だが、IMFは財政再建努力を高く評価している。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル大統領「トランプ氏に他国を脅迫する権利はない」と批判",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3515280",
+      "publishedAt": "2026-04-17T15:00:00Z",
+      "snippet": "ルラ大統領はインタビューで、中東情勢を巡り強硬姿勢を強めるトランプ米大統領を批判。民主主義の後退が権威主義を招くと警告し、米国の独断的な外交方針に強い懸念を表明した。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国政府と反政府勢力M23、停戦監視メカニズムの運用に合意",
+      "src": "note (コーヒーと万年筆)",
+      "url": "https://note.com/coffee_pen/n/n20260417",
+      "publishedAt": "2026-04-16T20:00:00Z",
+      "snippet": "DRC政府とM23はスイスでの交渉で、米国やカタールの仲介により合同停戦検証メカニズムの設置に合意した。東部の治安改善により、重要鉱物の供給安定化が期待される。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、初の3Dガラス半導体パッケージ拠点が起工",
+      "src": "note (半導体ニュース)",
+      "url": "https://note.com/semicon_news/n/n20260419",
+      "publishedAt": "2026-04-18T13:30:00Z",
+      "snippet": "インド政府はオディシャ州で国内初となる先端半導体パッケージ拠点の建設を開始した。2026年度の経済成長率は6.9%と予測され、名目GDPで日本を抜く見通しだ。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、ホルムズ海峡を再び封鎖 米・イスラエルとの戦争で死者3400人超",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/20260419",
+      "publishedAt": "2026-04-19T12:04:00Z",
+      "snippet": "イラン当局は、2月下旬からの紛争による国内死者が3468人に達したと発表。19日早朝、停戦合意の違反を理由にホルムズ海峡の通行を再び停止し、原油価格が急騰している。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮が日本海に弾道ミサイル数発を発射、SLBMの可能性も",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/687241",
+      "publishedAt": "2026-04-19T15:07:00Z",
+      "snippet": "19日午前6時過ぎ、北朝鮮が新浦付近から複数の弾道ミサイルを発射。日本のEEZ外に落下した。5月の米中首脳会談を前に、トランプ政権を牽制する狙いがあるとみられる。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "tension",
+      "title": "韓国政府、北朝鮮のミサイル発射を受け国家安全保障会議を開催",
+      "src": "Vietnam.vn (共同配信)",
+      "url": "https://www.vietnam.vn/kr/north-korea-missile-test-20260419",
+      "publishedAt": "2026-04-19T09:00:00Z",
+      "snippet": "北朝鮮による19日朝のミサイル発射を受け、韓国大統領府は緊急のNSCを開催。挑発行為を強く非難するとともに、米韓同盟による警戒監視態勢の強化を確認した。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米・イラン協議の仲介役に 代表団が20日到着へ",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3515310",
+      "publishedAt": "2026-04-19T22:00:00Z",
+      "snippet": "トランプ米大統領は、イランとの戦闘終結に向けた代表団をパキスタンのイスラマバードに派遣すると発表。パキスタン政府は中東和平の仲介役として、20日からの直接協議を主導する。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ北部を無人機攻撃 16歳の青年が死亡",
+      "src": "Ukrinform Japan",
+      "url": "https://www.ukrinform.jp/rubric-ato/3854210-20260419.html",
+      "publishedAt": "2026-04-19T15:50:00Z",
+      "snippet": "ロシア軍は19日未明、ウクライナ北部のチェルニヒウを自爆型無人機で攻撃。民家や教育施設が損傷し、16歳の青年が死亡した。ロシアの第1四半期予算は大幅な赤字を記録している。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、ホルムズ海峡の開放を歓迎 財務相が表明",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026041800123",
+      "publishedAt": "2026-04-18T06:52:00Z",
+      "snippet": "サウジのジャドアーン財務相は、イランによる海峡開放の発表（その後再封鎖）を歓迎しつつも、原油供給の完全復旧には時間がかかると指摘。地政学リスクを背景に陸上物流網の強化を急いでいる。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ全土で19人死亡、復活祭停戦は不調に終わる",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3515120",
+      "publishedAt": "2026-04-17T12:00:00Z",
+      "snippet": "正教の復活祭に合わせた一時停戦が呼びかけられたが、ロシア軍による大規模なミサイル・無人機攻撃が続き、各地で19人が死亡。ゼレンスキー大統領はロシア産原油への制裁再開を要請した。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "ベネズエラ野党指導者マチャド氏、トランプ氏への「平和賞贈呈」を後悔せず",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3515350",
+      "publishedAt": "2026-04-19T10:00:00Z",
+      "snippet": "1月の米軍によるマドゥロ大統領拘束作戦を称賛したマチャド氏は、トランプ氏に象徴的なノーベル平和賞を贈ったことを「後悔していない」と述べた。IMFと世銀はベネズエラとの関係再開を発表した。",
+      "collectedAt": "2026-04-19T15:31:39.674Z"
     }
   ],
-  "updatedAt": "2026-04-19T12:41:30.939Z"
+  "updatedAt": "2026-04-19T15:31:39.674Z"
 }
