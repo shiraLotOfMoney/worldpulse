@@ -31,16 +31,6 @@
       "collectedAt": "2026-04-16T01:54:04.324Z"
     },
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国の第1四半期GDPは5.0%増、政府目標に向け順調な滑り出し",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/economy/20260416-OYT1T50123/",
-      "publishedAt": "2026-04-16T02:18:00Z",
-      "snippet": "2026年1〜3月期の中国GDPは前年同期比5.0%増。半導体などの輸出が好調で、政府の通年目標「4.5〜5.0%」の範囲内となった。",
-      "collectedAt": "2026-04-16T05:24:24.695Z"
-    },
-    {
       "countryCode": "356",
       "cat": "economic",
       "title": "インド3月の貿易赤字が9カ月ぶり低水準、輸入減少が寄与",
@@ -108,16 +98,6 @@
       "url": "https://www.saitama-np.co.jp/articles/ukraine-drone-unit-2026",
       "publishedAt": "2026-04-16T06:43:00Z",
       "snippet": "ウクライナ国防省がドローンと歩兵を組み合わせた新部隊の運用を発表。2月以降、南部でロシア軍から一定の領土を奪還したとしている。",
-      "collectedAt": "2026-04-16T05:24:24.695Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "駐ベネズエラ米大使が交代、1月の軍事作戦後の外交再構築へ",
-      "src": "nippon.com",
-      "url": "https://www.nippon.com/ja/news/fnn20260416001/",
-      "publishedAt": "2026-04-16T05:22:00Z",
-      "snippet": "1月の米軍によるベネズエラ攻撃後に赴任したドグ臨時代理大使が退任。断絶していた外交関係の再構築と大使館業務の正常化に向けた動きが加速している。",
       "collectedAt": "2026-04-16T05:24:24.695Z"
     },
     {
@@ -458,16 +438,6 @@
       "url": "https://www.kab.co.jp/news/national/20260417-00000001/",
       "publishedAt": "2026-04-17T06:19:00Z",
       "snippet": "トランプ政権は中東・ウクライナでの物資逼迫を受け、自動車大手の生産能力を兵器製造に転用する「戦時体制」レベルの増産を模索している。",
-      "collectedAt": "2026-04-16T21:37:11.480Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "駐ベネズエラ米大使が交代、攻撃後の外交関係再構築へ",
-      "src": "ライブドアニュース (共同通信)",
-      "url": "https://news.livedoor.com/article/detail/20260416-venezuela-us/",
-      "publishedAt": "2026-04-16T05:21:00Z",
-      "snippet": "1月の米軍によるベネズエラ攻撃とマドゥーロ氏拘束を経て、断絶していた外交関係の再構築が進行中。大使館業務の再開に目処が立った。",
       "collectedAt": "2026-04-16T21:37:11.480Z"
     },
     {
@@ -2469,7 +2439,67 @@
       "publishedAt": "2026-04-17T15:57:00Z",
       "snippet": "米軍の作戦によるマドゥロ氏拘束後、ロドリゲス暫定大統領が鉱業法改正に署名。石油に続き金などの資源開発も開放される。",
       "collectedAt": "2026-04-19T01:53:53.116Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "tension",
+      "title": "ブラジル大統領、トランプ氏の「新たな国連」創設を非難",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3568456",
+      "publishedAt": "2026-04-18T10:00:00Z",
+      "snippet": "ルラ大統領は、トランプ米大統領が既存の国連に代わる新たな国際組織の創設を提唱していることに対し、国際秩序を破壊するものだと強く反発した。",
+      "collectedAt": "2026-04-19T05:22:18.391Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー新政権が恩赦、スーチー氏の刑期短縮も事実上の終身刑",
+      "src": "テレビ朝日",
+      "url": "https://news.tv-asahi.co.jp/news_international/articles/000345678.html",
+      "publishedAt": "2026-04-18T00:00:00Z",
+      "snippet": "ミンアウンフライン新大統領が就任し、政治犯ら4300人に恩赦。拘束中のアウンサンスーチー氏も減刑されたが、残る刑期は約20年で高齢のため事実上の終身刑とされる。",
+      "collectedAt": "2026-04-19T05:22:18.391Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イランがホルムズ海峡の「再封鎖」を宣言 米国の海上封鎖に反発",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260419-OYT1T50001/",
+      "publishedAt": "2026-04-19T04:35:00Z",
+      "snippet": "革命防衛隊がホルムズ海峡の封鎖を宣言。トランプ政権による対イラン「逆封鎖」の継続に反発した措置で、世界のエネルギー供給への影響が懸念される。",
+      "collectedAt": "2026-04-19T05:22:18.391Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル軍、レバノン南部に「イエローライン」を設定 停戦違反を攻撃",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/israel-lebanon-yellow-line-2026/",
+      "publishedAt": "2026-04-19T11:04:00Z",
+      "snippet": "イスラエル軍はレバノン南部に事実上の境界線「イエローライン」を設定。停戦合意に違反して接近したテロリストを攻撃したと発表した。",
+      "collectedAt": "2026-04-19T05:22:18.391Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、北朝鮮のミサイル発射を受け情報収集を指示",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026041900123",
+      "publishedAt": "2026-04-19T13:23:00Z",
+      "snippet": "北朝鮮の弾道ミサイル発射に対し、高市早苗首相は国民への迅速な情報提供と警戒監視に万全を期すよう指示。日本政府は厳重に抗議した。",
+      "collectedAt": "2026-04-19T05:22:18.391Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イランとの停戦交渉決裂を受け「逆封鎖」を強化",
+      "src": "日テレNEWS",
+      "url": "https://news.ntv.co.jp/category/international/20260417",
+      "publishedAt": "2026-04-17T00:00:00Z",
+      "snippet": "トランプ米大統領はイランとの協議が物別れに終わったことを受け、ホルムズ海峡での米軍による「逆封鎖」を開始。許可なく出入りする船舶の拿捕を警告した。",
+      "collectedAt": "2026-04-19T05:22:18.391Z"
     }
   ],
-  "updatedAt": "2026-04-19T01:53:53.116Z"
+  "updatedAt": "2026-04-19T05:22:18.391Z"
 }
