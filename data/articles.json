@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン、3月に6億8800万ドルの財政黒字を計上",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economic-indicators/article-930284",
-      "publishedAt": "2026-04-16T23:19:00Z",
-      "snippet": "アルゼンチン政府は3月に大幅な基礎的財政黒字を達成。第1四半期全体でも対GDP比0.5%の黒字を記録したが、国内では依然として高いインフレ圧力が続いている。",
-      "collectedAt": "2026-04-16T16:17:48.683Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英BBC、従業員約1割の削減を計画　過去最大規模のリストラへ",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/683890",
-      "publishedAt": "2026-04-16T22:07:00Z",
-      "snippet": "財政悪化を理由に、BBCが約2000人の人員削減を発表。今後2年間で約1000億円の経費削減を目指すが、公共放送の質低下を懸念する声が上がっている。",
-      "collectedAt": "2026-04-16T16:17:48.683Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ政権、兵器生産の「戦時体制」移行へ民間企業と協議",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/national/20260417-00000001/",
-      "publishedAt": "2026-04-17T06:19:00Z",
-      "snippet": "トランプ政権は中東・ウクライナでの物資逼迫を受け、自動車大手の生産能力を兵器製造に転用する「戦時体制」レベルの増産を模索している。",
-      "collectedAt": "2026-04-16T21:37:11.480Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン、3月に6億8800万ドルの財政黒字を計上",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy-news/article-754321",
-      "publishedAt": "2026-04-16T23:19:00Z",
-      "snippet": "アルゼンチン経済相は、3月に約9302億ペソの基礎的財政黒字を達成したと発表。第1四半期全体でも対GDP比約0.5%の黒字を記録した。",
-      "collectedAt": "2026-04-17T01:52:31.847Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス、15歳未満のSNS利用禁止法案の9月施行を目指す",
-      "src": "KAB熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260417-00001234/",
-      "publishedAt": "2026-04-17T02:04:00Z",
-      "snippet": "マクロン大統領は若者の精神状態への悪影響を懸念し、15歳未満のSNS利用を禁じる法整備を進め、高校生に「オフラインの日」を設けるよう呼びかけた。",
-      "collectedAt": "2026-04-17T01:52:31.847Z"
-    },
-    {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インドの2026年度経済見通し、世界銀行・ADB・IMFが上方修正",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/123456789.html",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "地政学リスクによる世界経済減速の中でも、インドは国内需要の拡大を背景に高い成長が見込まれ、ADBは成長率を6.9%と予測している。",
-      "collectedAt": "2026-04-17T01:52:31.847Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "イラン、幹部暗殺を巡り米国とイスラエルの責任追及を表明",
@@ -73,81 +13,11 @@
     {
       "countryCode": "376",
       "cat": "conflict",
-      "title": "イスラエルとレバノン、10日間の停戦に合意",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/890456",
-      "publishedAt": "2026-04-17T07:28:00Z",
-      "snippet": "アメリカの仲介により、イスラエルとレバノン政府は17日午前6時から10日間の停戦に入った。自衛権の維持を含む6項目で合意した。",
-      "collectedAt": "2026-04-17T01:52:31.847Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国、3月の外国人観光客数が過去最多の206万人を記録",
-      "src": "トラベルボイス",
-      "url": "https://www.travelvoice.jp/20260417-153456",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "BTSのカムバックツアー効果により、3月の訪韓客が過去最多を更新。中国人や日本人旅行者が大幅に増加し、観光支出を押し上げている。",
-      "collectedAt": "2026-04-17T01:52:31.847Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル大統領「トランプ氏に他国を脅迫する権利はない」と批判",
-      "src": "AFPBB News",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4z82hDrwLzDuMbeqEJVzD0G-_KaJJcAa2FqaXBlMbuc-GFc4PNdPCvfg1bq0Oxf9qU3KQLJG55-c9Ib7CgiGT0y3HLnBmSD1J3ZYc7mHIr5Cs2_MmWUBPfjLJ4dRtOy7s5D0=",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "ルラ大統領はインタビューで、トランプ米大統領の外交姿勢を批判し、他国を脅迫する権利はないと述べ、国際社会の緊張に懸念を示した。",
-      "collectedAt": "2026-04-17T05:22:55.153Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国の2026年第1四半期貿易額が過去最高を記録、内需拡大が後押し",
-      "src": "CGTN / 対外経済貿易大学",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEidnrB6U8vAmZ771ORV5vWZnRbo7bytKC5FiA70kNMIpsHt-c8QU15XI-nyBk5cqit1tsSMVl041U4oEKIdnkdLfmErVoB083h5qf_2FCDpubeOUsuvPcuI84LEwm2C5FHhBGqIFl5vQ==",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "2026年1〜3月期の中国の対外貿易額は過去最高を更新した。中東情勢の緊迫化による不確実性はあるものの、安定したエネルギー供給を背景に楽観的な見通しが示されている。",
-      "collectedAt": "2026-04-17T05:22:55.153Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "マクロン仏大統領が来日、高市総理と「戦略的自律」強化で合意",
-      "src": "The Japan Times Alpha",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHviM5sYvPMOcjYUujo6S_H2XY8QO5bdIadZ72PH4l2-l8mhwjMtfKPWYsR7sUk0joBK1160KCcO5zShnrhLmiYkTVBnYrkZxJTMoea_lyiuT1vxppst2o0pn_42PXpLqdWEOj3kTHOVVMaTbj5Ct1Cfb-KtxqEJL9VXecHuBA8bQ==",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "マクロン大統領が訪日し、高市総理と会談。エネルギー危機や地政学的リスクへの対応として、次世代原子炉開発を含む戦略的自律の推進で合意した。",
-      "collectedAt": "2026-04-17T05:22:55.153Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "トランプ米大統領、イランが核兵器不保持・ウラン引き渡しに同意と主張",
-      "src": "読売新聞",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG0nMq5vWaNtOO3Zha-KMMxPOLI_ssJNSeau7-PfPe0MgJEenutn0WfBlPwCz12pZoAdN6GCxm0zaNWNNxIGXcGgqm55fUDHMLQawDsvtH7_-53HGphtrL_DzcckqnU4OOyl7gldwOB1d3F9zEySw=",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "トランプ大統領はイランとの戦闘終結に向けた協議で、イラン側が核兵器を持たず濃縮ウランを米国へ引き渡すことに同意したと述べ、和平合意への期待を示した。",
-      "collectedAt": "2026-04-17T05:22:55.153Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
       "title": "イスラエルとレバノンが10日間の停戦に合意、トランプ氏が発表",
       "src": "FNNプライムオンライン",
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-MUJykLBrpl9S0Mm-ur0eycq_bL2OGCN5pD4bRilmVUY_C7Kma5wUqF0MX14irIVG-ZfUGnm-AM2kgbEoFcCd7AoBsYIrIAFVavqNx_jS2bldls25qA576ma9DJz722Q=",
       "publishedAt": "2026-04-17T11:37:00Z",
       "snippet": "トランプ米大統領の仲介により、イスラエルとレバノンが10日間の停戦を開始。ネタニヤフ首相は和平のチャンスと強調したが、ヒズボラの武装解除を条件に掲げている。",
-      "collectedAt": "2026-04-17T05:22:55.153Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国の1〜3月輸出が急伸、半導体が牽引し貿易黒字は過去最高",
-      "src": "JETRO",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF17ed524BmNx9MzHn-mWxI1beFoxf-XKKkO4VvSgi1UnhMuRFG5EDiGAWnOpckRB_MuO3hBkgyKKcbA2QxD3MMk2S2KMgNZG2rOq4i03K35g5brCFd80GMhCDKkUZ-HT3RKtdm5HgMxdBpTyUnCQdp6Gb-1934I60=",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "2026年第1四半期の韓国の輸出額は前年同期比37.8％増を記録。特に半導体が2.4倍と急伸し、貿易収支は504億ドルの大幅な黒字となった。",
       "collectedAt": "2026-04-17T05:22:55.153Z"
     },
     {
@@ -158,26 +28,6 @@
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIAlBQQF92UyPUozPubSEY2t2IiHjKZ2nPbStznAfDpoDPhvBm6iEVc3vRNzCpDyomz3i5P0IkmsPHzIPOvN_7XVSWkCQh6OCpjn1Bfd8k7NdBAtsDqlG7b6J6fZ-JMin9XmtiZ_ZdS8ndi6qV-OU56YnchACj73vtu30=",
       "publishedAt": "2026-04-17T12:15:00Z",
       "snippet": "ロシア軍は約700機のドローンと数十発のミサイルでウクライナ全土を攻撃。侵攻開始から4年以上が経過する中、今年最大規模の被害が出ている。",
-      "collectedAt": "2026-04-17T05:22:55.153Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ全土でロシア軍の攻撃により死者19人、終結へ協議停滞",
-      "src": "AFPBB News",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkdzQ1b3FN9HCvhTg4Q6T0HJuOscwlBp7H9NdmtTUuwRkQgjDucTturSG_cxvcEEZOKO4mCPlMwiyJXxhzCMiw0ZMt1auRbu-ykba9AX_JDix6Nv1yCeZXCUte0b86s1ZVPWk=",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "ロシアによる大規模なドローンとミサイル攻撃がウクライナ各都市を襲い、多数の犠牲者が出た。戦争開始から4年以上が経過したが、停戦協議は進展していない。",
-      "collectedAt": "2026-04-17T05:22:55.153Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英BBC、深刻な財政難で従業員2000人削減へ 全スタッフの1割相当",
-      "src": "KFB福島放送",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOpSbglVxWiZZ58xZamaZNY_XAp6UZPGNIcrm7ZjSaqGglTkJOT7612AaE1UJOucg2e4N1Lxm_H6Ocw8Y0Su3yeZ6DYfQBn497jpj1Hf5oiah9DG15RLPolo8bTrED1iw5zbybfsBV3fKWFWsnO_85V229FQtmWr4Q-qI=",
-      "publishedAt": "2026-04-16T23:59:00Z",
-      "snippet": "BBCは受信料収入の減少に伴う財政難に対処するため、大規模な人員削減とチャンネル廃止を検討。労働組合は「壊滅的な打撃」と警告している。",
       "collectedAt": "2026-04-17T05:22:55.153Z"
     },
     {
@@ -218,26 +68,6 @@
       "url": "https://www.jetro.go.jp/biznews/2026/04/india-economic-outlook-up",
       "publishedAt": "2026-04-17T12:00:00Z",
       "snippet": "主要国際機関はインドの2026年度成長率予測を上方修正した。国内需要の堅調さと米国による追加関税の引き下げが追い風となっている。",
-      "collectedAt": "2026-04-17T07:22:41.559Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "political",
-      "title": "トランプ大統領、イランとの週末の再協議を示唆",
-      "src": "日テレNEWS NNN",
-      "url": "https://news.ntv.co.jp/category/international/20260417-trump-iran-talks",
-      "publishedAt": "2026-04-17T07:50:00Z",
-      "snippet": "トランプ米大統領は、イランとの2回目の首脳級協議を今週末にもパキスタンで行う可能性に言及した。合意成立に向け自ら現地入りする考えも示している。",
-      "collectedAt": "2026-04-17T07:22:41.559Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエルとレバノンが10日間の停戦に合意、トランプ大統領が発表",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260417-israel-lebanon-ceasefire",
-      "publishedAt": "2026-04-17T06:30:00Z",
-      "snippet": "トランプ米大統領は、イスラエルとレバノン（ヒズボラ）が10日間の一時停戦に合意したと発表した。両国の首脳をホワイトハウスに招待し、恒久的な和平を模索する。",
       "collectedAt": "2026-04-17T07:22:41.559Z"
     },
     {
@@ -348,16 +178,6 @@
       "url": "https://www.khb-tv.co.jp/news/15230000",
       "publishedAt": "2026-04-17T19:13:00Z",
       "snippet": "ミン・アウン・フライン新大統領が就任に伴い政治犯ら4300人に恩赦を与えました。アウンサンスーチー氏も減刑されましたが、残る刑期は約20年と依然として長期間です。",
-      "collectedAt": "2026-04-17T13:00:46.725Z"
-    },
-    {
-      "countryCode": "180",
-      "cat": "conflict",
-      "title": "コンゴ政府と反政府勢力M23、停戦監視メカニズムの運用に合意",
-      "src": "note",
-      "url": "https://note.com/coffee_pen/n/n1234567890ab",
-      "publishedAt": "2026-04-16T22:00:00Z",
-      "snippet": "スイスでの交渉により、コンゴ民主共和国政府とM23が合同停戦検証メカニズムの設置に合意しました。東部紛争の解決に向けた重要な一歩と期待されています。",
       "collectedAt": "2026-04-17T13:00:46.725Z"
     },
     {
@@ -571,26 +391,6 @@
       "collectedAt": "2026-04-17T18:46:33.048Z"
     },
     {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦4年目、国連高官が「見捨てられた危機」と警告",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_20260417/",
-      "publishedAt": "2026-04-17T02:04:00Z",
-      "snippet": "スーダン内戦が4年目に突入。国連人道調整官は、世界最大の人道危機にもかかわらず国際社会の関心が薄れている現状を非難した。",
-      "collectedAt": "2026-04-17T18:46:33.048Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "political",
-      "title": "米軍がシリアからの撤退を完了、暫定政府が主権回復を宣言",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260417-OYT1T50125/",
-      "publishedAt": "2026-04-17T03:03:00Z",
-      "snippet": "IS掃討のため駐留していた米軍がシリア北部の基地から最終撤退。アサド政権崩壊後の暫定政府が全土の管理権を掌握した。",
-      "collectedAt": "2026-04-17T18:46:33.048Z"
-    },
-    {
       "countryCode": "792",
       "cat": "political",
       "title": "トルコ外交フォーラム開催、中東和平とエネルギー安全保障を議論",
@@ -598,16 +398,6 @@
       "url": "https://www.aa.com.tr/en/world/antalya-diplomacy-forum-2026/123456",
       "publishedAt": "2026-04-17T15:00:00Z",
       "snippet": "アンタルヤ外交フォーラムに各国首脳が集結。イラン戦争による海運への影響や、地域的な停戦の可能性について協議が行われた。",
-      "collectedAt": "2026-04-17T18:46:33.048Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英BBC、従業員の約1割にあたる2000人を削減へ",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/687135",
-      "publishedAt": "2026-04-16T22:07:00Z",
-      "snippet": "財政悪化を受け、BBCが過去最大規模の人員削減を発表。今後2年間で約1000億円の経費削減を目指す。",
       "collectedAt": "2026-04-17T18:46:33.048Z"
     },
     {
@@ -658,16 +448,6 @@
       "url": "https://www.fnn.jp/articles/-/845675",
       "publishedAt": "2026-04-17T23:30:00Z",
       "snippet": "イランのアラグチ外相は、レバノンでの停戦発効を受けホルムズ海峡を商船に開放すると発表。トランプ米大統領も歓迎の意を示したが、海上封鎖は一部継続。",
-      "collectedAt": "2026-04-17T21:35:21.481Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "political",
-      "title": "サウジ皇太子、パキスタン首相と会談 米・イラン停戦強化を支援",
-      "src": "ARAB NEWS Japan",
-      "url": "https://www.arabnews.jp/article/opinion/article_123456/",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "ムハンマド皇太子はパキスタンのシャリフ首相とジェッダで会談。米・イラン間の交渉を支持し、ホルムズ海峡の恒久的な再開と地域の安全保障確保を強調した。",
       "collectedAt": "2026-04-17T21:35:21.481Z"
     },
     {
@@ -741,16 +521,6 @@
       "collectedAt": "2026-04-18T01:30:24.600Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエルとレバノン、10日間の停戦合意が発効",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/687002",
-      "publishedAt": "2026-04-17T06:00:00Z",
-      "snippet": "トランプ米大統領の仲介により、イスラエルとレバノン政府が一時停戦に合意。レバノン南部では祝砲が上がったが、イスラエル軍は部隊を撤収させない構えを見せている。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
       "countryCode": "392",
       "cat": "tension",
       "title": "海自護衛艦「いかづち」が台湾海峡を通過、日中間の緊張高まる",
@@ -758,16 +528,6 @@
       "url": "https://www.khb-tv.co.jp/news/15230001",
       "publishedAt": "2026-04-18T09:23:00Z",
       "snippet": "自衛隊艦艇による台湾海峡通過に対し、中国側は「武力介入のたくらみ」と猛反発。日本政府は「国際法に則った航行」として冷静な対応を呼びかけている。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国銀行、2026年のGDP成長率見通しを0.8％に下方修正",
-      "src": "ジェトロ (JETRO)",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/gdp-forecast.html",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "中東情勢の緊迫化による輸入コスト高騰を受け、韓国経済の先行きに悲観的な見方が強まっている。中央銀行はインフレ抑制のためタカ派姿勢を維持する可能性を示唆。",
       "collectedAt": "2026-04-18T01:30:24.600Z"
     },
     {
@@ -791,16 +551,6 @@
       "collectedAt": "2026-04-18T01:30:24.600Z"
     },
     {
-      "countryCode": "682",
-      "cat": "political",
-      "title": "サウジ皇太子、パキスタン首相と会談し米イラン停戦強化を支援",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/opinion/20260417-saudi-diplomacy/",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "ムハンマド皇太子は、イスラマバードで行われている米イラン協議を全面的に支援する方針を確認。ホルムズ海峡の安定と石油輸出の正常化を最優先課題としている。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
       "countryCode": "706",
       "cat": "political",
       "title": "ソマリア、選挙実施が決まらず政治的空白の懸念広がる",
@@ -811,26 +561,6 @@
       "collectedAt": "2026-04-18T01:30:24.600Z"
     },
     {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン紛争4年目へ、国連高官が「世界に見捨てられた」と悲痛な訴え",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/middle-east/20260417-sudan-un/",
-      "publishedAt": "2026-04-17T02:04:00Z",
-      "snippet": "軍とRSFの戦闘が続くスーダンで、国連人道調整官が「忘れられた危機」として国際社会の無関心を批判。5000万人以上が飢餓と暴力の脅威にさらされている。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "conflict",
-      "title": "米軍、シリア国内の主要基地からの撤退を完了",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260417-syria-us-withdrawal/",
-      "publishedAt": "2026-04-17T03:03:00Z",
-      "snippet": "対IS掃討作戦のため約10年駐留していた米軍が、シリア北東部の基地から完全に撤退。シリア政府は「主権の回復」を宣言し、今後は自国でのテロ対策を主導するとしている。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ウクライナ全土にロシア軍の今年最大規模の攻撃、22人死亡",
@@ -838,16 +568,6 @@
       "url": "https://www.kab.co.jp/news/20260417-ukraine-attack/",
       "publishedAt": "2026-04-17T12:15:00Z",
       "snippet": "ロシア軍が約700機のドローンと数十発のミサイルでウクライナ各地を攻撃。首都キーウなどで甚大な被害が出ており、ゼレンスキー大統領は防空システムの追加支援を求めた。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "economic",
-      "title": "ベネズエラ、鉱物資源開発を外国企業に認める改正法に署名",
-      "src": "OANDA FX/CFD Lab",
-      "url": "https://oanda.jp/news/20260417-venezuela-mining",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "ロドリゲス暫定大統領が金などの鉱物資源開発の自由化を認める法案に署名。米国の意向を背景とした経済開放の一環で、深刻な資金難の解消を目指す。",
       "collectedAt": "2026-04-18T01:30:24.600Z"
     },
     {
@@ -871,56 +591,6 @@
       "collectedAt": "2026-04-18T05:02:07.768Z"
     },
     {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インド、2026年に日本を抜きGDP世界4位へ 成長見通しを上方修正",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/abc12345.html",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "世界銀行やIMFはインドの2026年度成長率予測を上方修正した。国内需要の強さを背景に、2026年には名目GDPで日本を追い抜き、世界第4位の経済大国になる見通しが強まっている。",
-      "collectedAt": "2026-04-18T05:02:07.768Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、レバノンと10日間の停戦合意もガザでの戦闘は継続",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/687150",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "トランプ米大統領の仲介によりレバノンとの一時停戦が成立したが、ガザ地区ではイスラエル軍による銃撃で人道支援員が死亡するなど、依然として緊張状態が続いている。",
-      "collectedAt": "2026-04-18T05:02:07.768Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナへ今年最大規模の攻撃 ドローン700機を投入",
-      "src": "熊本朝日放送 (KAB)",
-      "url": "https://www.kab.co.jp/news/national/20260417-12345/",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "ロシア軍は15日から16日にかけて、ドローン約700機とミサイル数十発でウクライナ全土を攻撃した。侵攻開始から4年が経過し、戦況は依然として激しい消耗戦が続いている。",
-      "collectedAt": "2026-04-18T05:02:07.768Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "political",
-      "title": "シリアから米軍が完全撤退、アサド政権崩壊後の暫定統治へ移行",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260418-OYT1T50001/",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "2024年末のアサド政権崩壊を受け、約10年続いた米軍の駐留が終了した。シリア外務省は拠点の引き渡し完了を発表。EUも経済・安保分野での関係強化に向け、政治対話の再開を検討している。",
-      "collectedAt": "2026-04-18T05:02:07.768Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "tension",
-      "title": "トルコ・イスラエル首脳が激しい非難応酬、エルドアン氏が軍事関与を示唆",
-      "src": "中東調査会",
-      "url": "https://www.meij.or.jp/kawase/2026/0417.html",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "エルドアン大統領がネタニヤフ首相を「現代のヒトラー」と批判し、イスラエル側も「市民を虐殺した張子の虎」と応酬。トルコ検察がイスラエル閣僚らを起訴するなど、関係は最悪の状態にある。",
-      "collectedAt": "2026-04-18T05:02:07.768Z"
-    },
-    {
       "countryCode": "104",
       "cat": "conflict",
       "title": "ミャンマー国境地帯で激しい戦闘継続、避難民が急増",
@@ -938,16 +608,6 @@
       "url": "https://www.fnn.jp/articles/-/812350",
       "publishedAt": "2026-04-18T01:40:00Z",
       "snippet": "マクロン大統領主催のもと、英独伊など50カ国がホルムズ海峡の安全航行について協議。米国は不参加のまま体制整備を進める方針。",
-      "collectedAt": "2026-04-18T06:58:51.382Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、ホルムズ海峡を開放も和平協議の行方は不透明",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-9012.php",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "米国との「12日間戦争」を経て、イランは封鎖していたホルムズ海峡の通航を再開。しかし週末の和平交渉は依然として不透明な状況。",
       "collectedAt": "2026-04-18T06:58:51.382Z"
     },
     {
@@ -1048,16 +708,6 @@
       "url": "https://www.fnn.jp/articles/-/877012",
       "publishedAt": "2026-04-18T12:00:00Z",
       "snippet": "アラグチ外相が海峡の全面開放を示唆した一方、革命防衛隊や強硬派は米国の海上封鎖が続く限り開放しないと警告し、政権内の亀裂が露呈している。",
-      "collectedAt": "2026-04-18T09:40:40.948Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエルとレバノンが10日間の停戦に合意、トランプ米大統領が発表",
-      "src": "The HEADLINE",
-      "url": "https://www.theheadline.jp/articles/20260417israel",
-      "publishedAt": "2026-04-17T07:00:00Z",
-      "snippet": "イスラエルとレバノンのヒズボラが10日間の一時停戦に合意。トランプ大統領の仲介によるもので、ホワイトハウスでの首脳会談も予定されている。",
       "collectedAt": "2026-04-18T09:40:40.948Z"
     },
     {
@@ -1261,16 +911,6 @@
       "collectedAt": "2026-04-18T15:31:37.621Z"
     },
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国の第1四半期GDP、前年比5.0%成長 輸出が下支え",
-      "src": "農林中金総合研究所",
-      "url": "https://www.nochuri.co.jp/report/china_gdp_2026q1",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "中国の2026年1〜3月期の実質GDP成長率は前年同期比5.0%となり、政府目標の範囲内に収まった。不動産不況は続くものの、輸出が底堅く推移し、製造業の設備投資も持ち直したことが要因とされる。",
-      "collectedAt": "2026-04-18T15:31:37.621Z"
-    },
-    {
       "countryCode": "250",
       "cat": "political",
       "title": "フランス、中国流出文化財の返還を可能にする法案を可決",
@@ -1328,16 +968,6 @@
       "url": "https://www.fnn.jp/articles/-/687456",
       "publishedAt": "2026-04-18T15:59:00Z",
       "snippet": "アメリカ財務省は、高騰する原油価格を抑制するため、ロシア産原油に対する制裁を一時的に緩和すると発表した。4月17日までに船積みされた原油に限り、5月16日まで各国が購入することを認める方針に転換した。",
-      "collectedAt": "2026-04-18T15:31:37.621Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "political",
-      "title": "サウジアラビア、W杯開幕直前にルナール監督を解任",
-      "src": "Vietnam.vn (日本語訳)",
-      "url": "https://www.vietnam.vn/ja/saudi-arabia-fired-coach-renard-before-the-world-cup-opening/",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "サウジアラビアサッカー連盟は、2026年W杯開幕まで2ヶ月を切った4月17日にエルヴェ・ルナール監督の解任を発表した。2022年大会でアルゼンチンを破る金星を挙げた名将の突然の離脱は、専門家に衝撃を与えている。",
       "collectedAt": "2026-04-18T15:31:37.621Z"
     },
     {
@@ -1481,16 +1111,6 @@
       "collectedAt": "2026-04-18T18:36:59.261Z"
     },
     {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英BBC、従業員1割の削減計画を発表 1000億円の経費削減必要に",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/686510",
-      "publishedAt": "2026-04-16T22:07:00Z",
-      "snippet": "英公共放送BBCは、財政悪化を理由に従業員の約1割にあたる最大2000人を削減する計画を明らかにした。今後2年間で約1000億円の経費削減を目指すが、公共放送としては過去15年で最大規模の削減となる。",
-      "collectedAt": "2026-04-18T18:36:59.261Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、イランとの「核枠組み合意」間近を示唆 2週間の停戦中",
@@ -1611,26 +1231,6 @@
       "collectedAt": "2026-04-19T01:53:53.116Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ各地にロシア軍の大規模攻撃、今年最大規模の被害",
-      "src": "日テレNEWS NNN",
-      "url": "https://news.ntv.co.jp/category/international/5a2d306f0ae94a369fb6ceaa649fb9b2",
-      "publishedAt": "2026-04-16T22:00:00Z",
-      "snippet": "16日、ロシア軍がミサイルと無人機でウクライナ全土を攻撃。キーウなどで子どもを含む17人が死亡、100人以上が負傷した。",
-      "collectedAt": "2026-04-19T01:53:53.116Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英BBC、従業員の約1割にあたる2000人を削減へ 過去最大規模",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/999111",
-      "publishedAt": "2026-04-16T22:07:00Z",
-      "snippet": "財政悪化を受け、今後2年間で約1000億円の経費削減を計画。スターマー政権下での公共放送の在り方が問われている。",
-      "collectedAt": "2026-04-19T01:53:53.116Z"
-    },
-    {
       "countryCode": "840",
       "cat": "tension",
       "title": "トランプ米大統領、イランへの「海上封鎖」継続を強調 合意成立まで",
@@ -1698,16 +1298,6 @@
       "url": "https://www.jiji.com/jc/article?k=2026041900123",
       "publishedAt": "2026-04-19T13:23:00Z",
       "snippet": "北朝鮮の弾道ミサイル発射に対し、高市早苗首相は国民への迅速な情報提供と警戒監視に万全を期すよう指示。日本政府は厳重に抗議した。",
-      "collectedAt": "2026-04-19T05:22:18.391Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領、イランとの停戦交渉決裂を受け「逆封鎖」を強化",
-      "src": "日テレNEWS",
-      "url": "https://news.ntv.co.jp/category/international/20260417",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "トランプ米大統領はイランとの協議が物別れに終わったことを受け、ホルムズ海峡での米軍による「逆封鎖」を開始。許可なく出入りする船舶の拿捕を警告した。",
       "collectedAt": "2026-04-19T05:22:18.391Z"
     },
     {
@@ -1788,16 +1378,6 @@
       "title": "米、ロシア産原油への制裁を再び一時緩和　原油高抑制狙いか",
       "url": "https://www.fnn.jp/articles/-/845850",
       "publishedAt": "2026-04-18T12:00:00Z",
-      "collectedAt": "2026-04-19T07:08:41.630Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "political",
-      "snippet": "米軍がシリア国内の主要基地からの撤退を完了。アサド政権崩壊後の暫定政府が主権回復を宣言し、IS残党への対応を継続する方針。",
-      "src": "読売新聞",
-      "title": "シリアから米軍が完全撤退、10年の駐留に終止符",
-      "url": "https://www.yomiuri.co.jp/world/20260417-OYT1T50001/",
-      "publishedAt": "2026-04-17T03:03:00Z",
       "collectedAt": "2026-04-19T07:08:41.630Z"
     },
     {
@@ -1961,16 +1541,6 @@
       "collectedAt": "2026-04-19T12:41:30.939Z"
     },
     {
-      "countryCode": "32",
-      "cat": "economic",
-      "title": "アルゼンチン、3月に6億8800万ドルの財政黒字を計上 5ヶ月連続",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy/argentina-fiscal-surplus-march-2026",
-      "publishedAt": "2026-04-16T23:19:00Z",
-      "snippet": "ミレイ政権の「ショック療法」により、アルゼンチンは3月に約6億8800万ドルの基礎的財政黒字を達成した。インフレ率は依然として年率280%超と高水準だが、IMFは財政再建努力を高く評価している。",
-      "collectedAt": "2026-04-19T15:31:39.674Z"
-    },
-    {
       "countryCode": "76",
       "cat": "political",
       "title": "ブラジル大統領「トランプ氏に他国を脅迫する権利はない」と批判",
@@ -2081,16 +1651,6 @@
       "collectedAt": "2026-04-19T18:37:14.540Z"
     },
     {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インドの2026年度成長率、世界銀行などが相次ぎ上方修正",
-      "src": "ジェトロ",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/6823456789.html",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "世界銀行やIMFは、インドの2026年度成長率予測を6.6〜6.9％に上方修正。堅調な国内需要と対米輸出環境の改善が背景にあり、名目GDPで日本を抜き世界4位になる見通し。",
-      "collectedAt": "2026-04-19T18:37:14.540Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "米イラン再協議、イスラマバードで開催へ。核開発と海峡封鎖が焦点",
@@ -2118,16 +1678,6 @@
       "url": "https://www.ukrinform.jp/rubric-ato/3854321-rosia-jun-ukuraina-beibu-cherunihioo-wu-ren-ji-gong-ji-nan-er-ming-si-wang-ming-fu-shang.html",
       "publishedAt": "2026-04-19T10:51:00Z",
       "snippet": "ロシア軍は19日未明、チェルニヒウの民間施設を自爆型無人機で攻撃。16歳の少年が死亡し、5人が負傷した。ロシアはウクライナ南東部で新たな攻勢を準備しているとの情報もある。",
-      "collectedAt": "2026-04-19T18:37:14.540Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "tension",
-      "title": "トルコとイスラエル、首脳レベルで激しい罵倒の応酬",
-      "src": "中東調査会",
-      "url": "https://www.meij.or.jp/report/20260417/",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "エルドアン大統領がネタニヤフ首相を「ヒトラー」と批判したのに対し、イスラエル側も「エルドアン、くたばれ」と露骨な表現で反論。トルコ検察はイスラエル閣僚らの起訴状を作成した。",
       "collectedAt": "2026-04-19T18:37:14.540Z"
     },
     {
@@ -2168,16 +1718,6 @@
       "url": "https://www.afpbb.com/articles/-/3512345",
       "publishedAt": "2026-04-18T00:00:00Z",
       "snippet": "ルラ大統領は、民主主義の脆弱化が権威主義体制を招くと指摘し、トランプ米大統領の他国への脅迫的な姿勢を強く批判した。",
-      "collectedAt": "2026-04-19T21:29:51.713Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー軍事政権、新体制を正式発足も国連は認めず",
-      "src": "ASEAN経済通信",
-      "url": "https://www.asean-economy.com/news/20260417-myanmar/",
-      "publishedAt": "2026-04-17T00:00:00Z",
-      "snippet": "ミン・アウン・フライン氏が大統領として新政府を発足させたが、国連はクーデター前の指導部を正統な代表とする立場を維持している。",
       "collectedAt": "2026-04-19T21:29:51.713Z"
     },
     {
@@ -2239,7 +1779,87 @@
       "publishedAt": "2026-04-17T14:27:00Z",
       "snippet": "米国の軍事介入後の新体制下で、IMFと世銀がベネズエラとの関係正常化を発表。凍結されていた数十億ドルの資金放出に道が開かれた。",
       "collectedAt": "2026-04-19T21:29:51.713Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマーで新政権発足、ミンアウンフライン氏が大統領に就任",
+      "src": "時事通信 (Yahoo!ニュース)",
+      "url": "https://news.yahoo.co.jp/articles/myanmar_20260418",
+      "publishedAt": "2026-04-18T16:00:00Z",
+      "snippet": "ミャンマーでミンアウンフライン前国軍総司令官が大統領に就任する新政権が発足。中国は特使を派遣し経済連携強化に意欲を示すが、国内情勢は依然として不安定。",
+      "collectedAt": "2026-04-20T07:53:50.058Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン軍、ホルムズ海峡を再び厳格な管理下に置くと表明、米国の封鎖に対抗",
+      "src": "Foresight",
+      "url": "https://www.fsight.jp/articles/-/50678",
+      "publishedAt": "2026-04-18T15:00:00Z",
+      "snippet": "トランプ米政権によるイラン港湾の「逆封鎖」宣言を受け、イラン軍当局はホルムズ海峡の通航を厳格に制限すると発表。エネルギー供給への影響が世界的に懸念されている。",
+      "collectedAt": "2026-04-20T07:53:50.058Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル海軍、封鎖突破を試みたイラン籍の大型貨物船を拿捕",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260420-OYT1T50060/",
+      "publishedAt": "2026-04-20T11:46:00Z",
+      "snippet": "イスラエル軍は19日、海上封鎖を無視して航行を続けたイランの貨物船を拿捕。イラン側は「海賊行為」として報復を示唆しており、緊張が極限まで高まっている。",
+      "collectedAt": "2026-04-20T07:53:50.058Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮が改良型「地対地戦術弾道ミサイル」5発を発射、金正恩氏が視察",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260420-OYT1T50050/",
+      "publishedAt": "2026-04-20T09:46:00Z",
+      "snippet": "北朝鮮は19日、クラスター弾頭を搭載したとみられる短距離弾道ミサイル「火星11」5発の発射実験を実施。金正恩総書記は「軍事行動において大きな意義を持つ」と強調した。",
+      "collectedAt": "2026-04-20T07:53:50.058Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国・李在明政権、実用外交を推進も国家安保室長が「自主派」を異例の批判",
+      "src": "Foresight",
+      "url": "https://www.fsight.jp/articles/-/50680",
+      "publishedAt": "2026-04-19T10:00:00Z",
+      "snippet": "李在明政権下で「実用外交」が進む中、魏聖洛国家安保室長が身内の「自主派」による対米・対中姿勢を批判。政権内部の外交路線を巡る対立が表面化している。",
+      "collectedAt": "2026-04-20T07:53:50.058Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ゼレンスキー大統領、ロシアがベラルーシを戦争に再介入させる兆候を指摘",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/512345.php",
+      "publishedAt": "2026-04-20T10:48:00Z",
+      "snippet": "ウクライナのゼレンスキー大統領は、ロシアが同盟国ベラルーシを再び直接的な戦闘に巻き込もうとしていると警告。北部の防衛体制を強化する方針を示した。",
+      "collectedAt": "2026-04-20T07:53:50.058Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ北部チェルニヒウにロシアの自爆ドローン攻撃、16歳少年が死亡",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-ato/3854321-chernihiv-drone.html",
+      "publishedAt": "2026-04-19T10:00:00Z",
+      "snippet": "ロシア軍による自爆型無人機の攻撃がチェルニヒウの住宅街を直撃し、16歳の少年が死亡、4人が負傷。ウクライナ各地でロシアによる無差別攻撃が続いている。",
+      "collectedAt": "2026-04-20T07:53:50.058Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "economic",
+      "title": "IMF・世界銀行、ベネズエラと7年ぶりに関係再開、経済評価へ道",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/512346.php",
+      "publishedAt": "2026-04-17T14:27:00Z",
+      "snippet": "IMFと世界銀行は、2019年以来停止していたベネズエラとの関係を正常化。これにより凍結されていた数十億ドルの資金放出や経済再建に向けた支援が可能になる見通し。",
+      "collectedAt": "2026-04-20T07:53:50.058Z"
     }
   ],
-  "updatedAt": "2026-04-19T21:29:51.713Z"
+  "updatedAt": "2026-04-20T07:53:50.058Z"
 }
