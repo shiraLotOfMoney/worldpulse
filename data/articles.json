@@ -1,56 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン外相、ホルムズ海峡の商船通航を「完全に開放」と宣言",
-      "src": "Bloomberg Japan",
-      "url": "https://www.bloomberg.co.jp/news/articles/2026-04-17/iran-hormuz",
-      "publishedAt": "2026-04-17T22:06:00Z",
-      "snippet": "レバノンでの停戦合意に合わせ、封鎖状態にあったホルムズ海峡の開放を発表。エネルギー価格安定への期待が高まっている。",
-      "collectedAt": "2026-04-17T15:52:55.143Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン外相、停戦期間中のホルムズ海峡「完全開放」を表明",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260417-OYT1T50123/",
-      "publishedAt": "2026-04-17T23:58:00Z",
-      "snippet": "イランのアラグチ外相は、米国との停戦期間中、ホルムズ海峡を商船に対して完全に開放すると発表。トランプ大統領はこれに謝意を示した。",
-      "collectedAt": "2026-04-17T18:46:33.048Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン外相、ホルムズ海峡の「全面開放」を表明 停戦合意受け",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/845675",
-      "publishedAt": "2026-04-17T23:30:00Z",
-      "snippet": "イランのアラグチ外相は、レバノンでの停戦発効を受けホルムズ海峡を商船に開放すると発表。トランプ米大統領も歓迎の意を示したが、海上封鎖は一部継続。",
-      "collectedAt": "2026-04-17T21:35:21.481Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "tension",
-      "title": "メッシとアルゼンチンサッカー協会、契約違反で700万ドルの提訴受ける",
-      "src": "Goal.com",
-      "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/messi-sued-argentina-20260417/",
-      "publishedAt": "2026-04-17T22:13:00Z",
-      "snippet": "マイアミのイベント会社が、親善試合でメッシが出場しなかったことを契約違反として提訴。インフレ下のアルゼンチン経済において、巨額の賠償請求が注目されている。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン外相、ホルムズ海峡の「全面開放」を表明、トランプ氏も歓迎",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/687001",
-      "publishedAt": "2026-04-17T23:58:00Z",
-      "snippet": "イスラエルとレバノンの停戦合意を受け、イランはホルムズ海峡を全ての商船に開放すると発表。原油価格は急落し、世界経済への懸念が一時的に和らいでいる。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
       "countryCode": "392",
       "cat": "tension",
       "title": "海自護衛艦「いかづち」が台湾海峡を通過、日中間の緊張高まる",
@@ -71,46 +21,6 @@
       "collectedAt": "2026-04-18T01:30:24.600Z"
     },
     {
-      "countryCode": "643",
-      "cat": "political",
-      "title": "プーチン大統領の支持率が6週連続下落、戦争への疲弊が要因か",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260418-putin-approval/",
-      "publishedAt": "2026-04-18T00:46:00Z",
-      "snippet": "ロシア政府系機関の調査で、プーチン氏の支持率が66.7％に低下。物価高やネット規制、長引くウクライナ侵攻への国民の不満が表面化し始めている。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "political",
-      "title": "ソマリア、選挙実施が決まらず政治的空白の懸念広がる",
-      "src": "note (えひめITラボ)",
-      "url": "https://note.com/ehime_it_lab/n/n20260417",
-      "publishedAt": "2026-04-17T22:53:00Z",
-      "snippet": "国会議員の任期が終了したものの次期選挙の日程が決まっておらず、政治が停滞。テロ組織アル・シャバーブの活動や深刻な食料不足も重なり、人道危機が深刻化している。",
-      "collectedAt": "2026-04-18T01:30:24.600Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル大統領、民主主義の後退に警鐘「ヒトラーのような体制出現も」",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3515545",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "ルラ大統領はスペインでの会議を前に、民主主義の後退を許せば権威主義体制が出現すると警告した。また、トランプ米大統領による他国への脅迫を批判し、多国間主義の重要性を強調した。",
-      "collectedAt": "2026-04-18T05:02:07.768Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス、ホルムズ海峡の航行自由確保に向け50カ国会議を主催",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/687201",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "マクロン大統領はパリで約50カ国の首脳らと会議を開き、イランによるホルムズ海峡封鎖への対応を協議した。米国抜きで通航再開に向けた多国籍任務の展開を模索している。",
-      "collectedAt": "2026-04-18T05:02:07.768Z"
-    },
-    {
       "countryCode": "104",
       "cat": "conflict",
       "title": "ミャンマー国境地帯で激しい戦闘継続、避難民が急増",
@@ -118,46 +28,6 @@
       "url": null,
       "publishedAt": "2026-04-18T05:00:00Z",
       "snippet": "ミャンマー国軍と少数民族武装勢力の戦闘が激化。タイ国境付近では数千人が避難を余儀なくされ、人道状況が悪化している。",
-      "collectedAt": "2026-04-18T06:58:51.382Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "tension",
-      "title": "パリでホルムズ海峡通航再開に向けた50カ国会議を開催",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/812350",
-      "publishedAt": "2026-04-18T01:40:00Z",
-      "snippet": "マクロン大統領主催のもと、英独伊など50カ国がホルムズ海峡の安全航行について協議。米国は不参加のまま体制整備を進める方針。",
-      "collectedAt": "2026-04-18T06:58:51.382Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、アジア太平洋諸国に100億ドルの金融協力を表明",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/post-3456.php",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "高市首相は中東情勢を受けたエネルギー価格高騰に対処するため、アジア諸国への大規模な金融支援を発表。資源確保の連携を強化する。",
-      "collectedAt": "2026-04-18T06:58:51.382Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "conflict",
-      "title": "パキスタン、アフガン首都を空爆しタリバンと「全面戦争」宣言",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3512346",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "パキスタン軍がカブールの薬物更生施設などを空爆。タリバン暫定政権との交渉が決裂し、国境地帯での応酬が全面衝突に発展した。",
-      "collectedAt": "2026-04-18T06:58:51.382Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "conflict",
-      "title": "ソマリア国軍、過激派との戦闘と薬物汚染の「内憂外患」に苦しむ",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/tags/somalia/",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "アル・シャバブとの戦闘が続く中、軍内部での薬物汚染が深刻化。治安維持能力の低下が懸念されている。",
       "collectedAt": "2026-04-18T06:58:51.382Z"
     },
     {
@@ -198,16 +68,6 @@
       "url": "https://www.fnn.jp/articles/-/877012",
       "publishedAt": "2026-04-18T12:00:00Z",
       "snippet": "アラグチ外相が海峡の全面開放を示唆した一方、革命防衛隊や強硬派は米国の海上封鎖が続く限り開放しないと警告し、政権内の亀裂が露呈している。",
-      "collectedAt": "2026-04-18T09:40:40.948Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "political",
-      "title": "シリア外務省、米軍の撤退完了を発表、IS掃討で10年駐留",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260417-OYT1T50002",
-      "publishedAt": "2026-04-17T23:58:00Z",
-      "snippet": "シリア北部の基地から最後の米軍部隊が撤退。トランプ政権は暫定政府下で駐留の必要性がなくなったと判断し、約10年の軍事展開が終了した。",
       "collectedAt": "2026-04-18T09:40:40.948Z"
     },
     {
@@ -321,26 +181,6 @@
       "collectedAt": "2026-04-18T15:31:37.621Z"
     },
     {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス、中国流出文化財の返還を可能にする法案を可決",
-      "src": "中国経済新聞",
-      "url": "https://chinanews.jp/archives/12345",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "フランス議会は、過去に不当に取得された文化財を原産国に返還するための法的枠組みを定める法案を可決した。これにより、フランス国内の美術館に所蔵されている中国由来の流出文物の返還が進む可能性がある。",
-      "collectedAt": "2026-04-18T15:31:37.621Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "tension",
-      "title": "ドイツ、米製最新レーダー「SPY-6」を初導入へ フリゲート艦向け",
-      "src": "航空万能論GF",
-      "url": "https://grandfleet.info/european-related/germany-first-export-of-spy-6/",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "米国政府は、ドイツ海軍の次世代フリゲートF127向けに最新型レーダーSPY-6の売却を承認した。欧州諸国による防衛力強化の一環であり、米独の軍事連携がさらに深まる形となる。",
-      "collectedAt": "2026-04-18T15:31:37.621Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "イラン軍、ホルムズ海峡の「厳格な統制」を表明 外相の開放発言から一転",
@@ -358,16 +198,6 @@
       "url": "https://www.fnn.jp/articles/-/687321",
       "publishedAt": "2026-04-18T09:00:00Z",
       "snippet": "韓国・大田の動物園からオオカミ1匹が脱走し、警察によるドローンを用いた大規模な捜索が続いている。脱走から1週間以上が経過したが、包囲網を突破して山中を移動しており、住民に注意が呼びかけられている。",
-      "collectedAt": "2026-04-18T15:31:37.621Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "米イラン再協議、19日にパキスタンで開催の見通し 凍結資産解除案も",
-      "src": "KSBニュース",
-      "url": "https://news.ksb.co.jp/article/1234567",
-      "publishedAt": "2026-04-17T23:49:00Z",
-      "snippet": "アメリカとイランの戦闘終結に向けた2回目の直接協議が、19日にもパキスタンのイスラマバードで開催される。イランの濃縮ウラン放棄と引き換えに、米国が約3兆円の凍結資産を解除する案が検討されている。",
       "collectedAt": "2026-04-18T15:31:37.621Z"
     },
     {
@@ -491,16 +321,6 @@
       "collectedAt": "2026-04-18T21:27:38.302Z"
     },
     {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米・イラン和平交渉の第2ラウンドを主催へ",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/687250",
-      "publishedAt": "2026-04-18T00:06:00Z",
-      "snippet": "パキスタンのイスラマバードで、米国とイランの直接協議が19日に再開される。トランプ大統領は合意が成立すれば自らパキスタンを訪問する意向を示しており、世界が注目している。",
-      "collectedAt": "2026-04-18T21:27:38.302Z"
-    },
-    {
       "countryCode": "682",
       "cat": "economic",
       "title": "サウジ財務相、ホルムズ海峡の開放を歓迎も「完全復旧には時間」",
@@ -578,16 +398,6 @@
       "url": "https://www.afpbb.com/articles/-/3568456",
       "publishedAt": "2026-04-18T10:00:00Z",
       "snippet": "ルラ大統領は、トランプ米大統領が既存の国連に代わる新たな国際組織の創設を提唱していることに対し、国際秩序を破壊するものだと強く反発した。",
-      "collectedAt": "2026-04-19T05:22:18.391Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー新政権が恩赦、スーチー氏の刑期短縮も事実上の終身刑",
-      "src": "テレビ朝日",
-      "url": "https://news.tv-asahi.co.jp/news_international/articles/000345678.html",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "ミンアウンフライン新大統領が就任し、政治犯ら4300人に恩赦。拘束中のアウンサンスーチー氏も減刑されたが、残る刑期は約20年で高齢のため事実上の終身刑とされる。",
       "collectedAt": "2026-04-19T05:22:18.391Z"
     },
     {
@@ -891,16 +701,6 @@
       "collectedAt": "2026-04-19T18:37:14.540Z"
     },
     {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル大統領、民主主義の後退に対し「ヒトラー出現」を警告",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3512345",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "ルラ大統領は、民主主義の脆弱化が権威主義体制を招くと指摘し、トランプ米大統領の他国への脅迫的な姿勢を強く批判した。",
-      "collectedAt": "2026-04-19T21:29:51.713Z"
-    },
-    {
       "countryCode": "250",
       "cat": "political",
       "title": "フランス政府、デジタル主権確保のためWindowsからLinuxへ移行計画",
@@ -908,16 +708,6 @@
       "url": "https://www.vietnam.vn/ja/france-government-linux-transition/",
       "publishedAt": "2026-04-19T00:00:00Z",
       "snippet": "フランス政府は米国製ソフトウェアへの依存を減らすため、全省庁のPCをLinuxに切り替える方針。デジタル主権の強化を目的とする。",
-      "collectedAt": "2026-04-19T21:29:51.713Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、ホルムズ海峡の「完全開放」を表明も緊張続く",
-      "src": "日テレNEWS NNN",
-      "url": "https://news.ntv.co.jp/category/international/8904756f",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "イラン外相はレバノン停戦合意を受け、ホルムズ海峡の開放を表明。しかし、米国との戦闘終結に向けた協議は難航しており、再封鎖の懸念も残る。",
       "collectedAt": "2026-04-19T21:29:51.713Z"
     },
     {
@@ -1038,16 +828,6 @@
       "url": "https://www.jetro.go.jp/biznews/2026/04/india-trade-deficit.html",
       "publishedAt": "2026-04-20T00:00:00Z",
       "snippet": "中東での紛争激化に伴う輸入停滞により、インドの貿易赤字が縮小。一方で、ウクライナとの安全保障協力文書の締結に向けた作業も進めている。",
-      "collectedAt": "2026-04-20T13:10:09.816Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、レバノンとの停戦合意後も緊張続く、ヒズボラの再編を警戒",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260418-israel-lebanon/",
-      "publishedAt": "2026-04-18T00:00:00Z",
-      "snippet": "レバノンとの停戦合意は維持されているが、国連軍への発砲事件が発生。イスラエルはイランによるヒズボラへの武器供給再開を強く警戒している。",
       "collectedAt": "2026-04-20T13:10:09.816Z"
     },
     {
@@ -1259,7 +1039,87 @@
       "publishedAt": "2026-04-20T00:00:00Z",
       "snippet": "トランプ大統領は、海上封鎖を突破しようとしたイラン貨物船への発砲・停止を「制裁の完全履行」として正当化。イランとの交渉に強気な姿勢を崩していない。",
       "collectedAt": "2026-04-20T21:42:02.566Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチンで24時間のゼネスト実施、航空便に大幅な乱れ",
+      "src": "特典旅行",
+      "url": "https://tokutenryoko.com/news/argentina-strike-20260421",
+      "publishedAt": "2026-04-21T00:00:00Z",
+      "snippet": "国家公務員労働者協会（ATE）が4月21日に24時間のゼネストを決行しました。民間航空局職員も参加しており、ブエノスアイレスを含む全国の空港で欠航や遅延が相次いでいます。",
+      "collectedAt": "2026-04-21T01:50:46.401Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "tension",
+      "title": "中国海軍艦艇2隻が奄美大島沖を通過、太平洋へ進出",
+      "src": "Funeco",
+      "url": "https://funeco.jp/news/china-navy-amami-20260420/",
+      "publishedAt": "2026-04-20T18:00:00Z",
+      "snippet": "中国海軍のミサイル駆逐艦とフリゲート艦が奄美大島と横当島の間の海域を北東進し、太平洋へ向かいました。海上自衛隊の護衛艦「やはぎ」が警戒監視に当たりました。",
+      "collectedAt": "2026-04-21T01:50:46.401Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "tension",
+      "title": "フランス、核弾頭数の増強を表明し「先進的抑止」構想を提示",
+      "src": "笹川平和財団",
+      "url": "https://www.spf.org/jpus-insights/commentary/20260420.html",
+      "publishedAt": "2026-04-20T09:00:00Z",
+      "snippet": "マクロン大統領は演説で、ロシアの脅威に対抗するため核弾頭数を増強し、欧州の同盟国と協力する「先進的抑止」を推進すると述べました。NPT体制への影響が懸念されています。",
+      "collectedAt": "2026-04-21T01:50:46.401Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "トランプ米大統領、イランが応じなければ「全発電所を破壊する」と警告",
+      "src": "khb東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/15234567",
+      "publishedAt": "2026-04-20T11:58:00Z",
+      "snippet": "パキスタンでの再協議を前に、トランプ氏はイランが合意を拒否した場合、国内のインフラを徹底的に破壊するとSNSで威嚇しました。ホルムズ海峡での船舶銃撃を「停戦違反」と非難しています。",
+      "collectedAt": "2026-04-21T01:50:46.401Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "就任半年の高市政権、支持率70％台を回復",
+      "src": "note (MIA)",
+      "url": "https://note.com/mia_news/n/n20260421_summary",
+      "publishedAt": "2026-04-20T21:00:00Z",
+      "snippet": "高市早苗首相の内閣支持率が最新調査で70％台に上昇しました。「サナエノミクス」と呼ばれる積極財政や、三陸沖地震への迅速な対応が評価されています。",
+      "collectedAt": "2026-04-21T01:50:46.401Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "conflict",
+      "title": "北朝鮮、潜水艦発射弾道ミサイル（SLBM）数発を発射か",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/865432",
+      "publishedAt": "2026-04-19T15:07:00Z",
+      "snippet": "北朝鮮が東部の新浦付近から複数のミサイルを発射しました。飛行距離は約140キロで、新型兵器の試験や米中首脳会談を前にした牽制の狙いがあるとみられます。",
+      "collectedAt": "2026-04-21T01:50:46.401Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア南部の石油施設がドローン攻撃で大炎上、1人死亡",
+      "src": "KAB ONLINE",
+      "url": "https://www.kab.co.jp/news/20260421-oil-fire",
+      "publishedAt": "2026-04-21T09:30:00Z",
+      "snippet": "ウクライナ軍のドローンがロシア南部トゥアプセの石油施設を攻撃し、大規模な火災が発生しました。ゼレンスキー大統領はロシアの石油収入が戦費になっていると批判を強めています。",
+      "collectedAt": "2026-04-21T01:50:46.401Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ関税「違法」判決、日本企業などへ26兆円規模の還付開始",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/865789",
+      "publishedAt": "2026-04-21T01:08:00Z",
+      "snippet": "米連邦最高裁の違憲判決を受け、トランプ政権が徴収した関税の還付手続きが始まりました。対象企業は33万社以上に上り、日本企業も多額の返金を受ける見通しです。",
+      "collectedAt": "2026-04-21T01:50:46.401Z"
     }
   ],
-  "updatedAt": "2026-04-20T21:42:02.566Z"
+  "updatedAt": "2026-04-21T01:50:46.401Z"
 }
