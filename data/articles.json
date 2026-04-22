@@ -141,16 +141,6 @@
       "collectedAt": "2026-04-20T16:03:26.498Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "数万人の日本国民が集会、高市政権の軍備拡張に抗議",
-      "src": "CGTN Japanese",
-      "url": "https://japanese.cri.cn/2026/04/19/news-japan-protest",
-      "publishedAt": "2026-04-19T20:00:00Z",
-      "snippet": "2026年4月、高市政権が進める軍備拡張政策に対し、日本国内で数万人規模の抗議集会が開催された。",
-      "collectedAt": "2026-04-20T18:54:43.797Z"
-    },
-    {
       "countryCode": "408",
       "cat": "conflict",
       "title": "北朝鮮、新型ミサイル「火星11ラ」にクラスター弾頭を搭載",
@@ -949,7 +939,147 @@
       "publishedAt": "2026-04-23T01:15:00Z",
       "snippet": "ウクライナへの約16.8兆円の大規模融資が決定。パイプライン修復を受けハンガリーが賛成に転じた。ゼレンスキー大統領は「正しいシグナル」と歓迎。",
       "collectedAt": "2026-04-22T19:01:43.020Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "conflict",
+      "title": "ミャンマー国軍、徴兵制を強化し抵抗勢力に対抗",
+      "src": "Myanmar News",
+      "url": null,
+      "publishedAt": "2026-04-20T09:00:00Z",
+      "snippet": "内戦が続くミャンマーで、国軍は兵力不足を補うため若年層への強制徴兵を加速させており、国内外で批判が高まっている。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "習近平主席、サウジ皇太子と電話会談　ホルムズ海峡の安定重視",
+      "src": "JETRO ビジネス短信",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/example-cn-sa",
+      "publishedAt": "2026-04-22T18:00:00Z",
+      "snippet": "中国の習主席はサウジのムハンマド皇太子と会談し、中東情勢の緊張緩和とエネルギー輸送の要衝であるホルムズ海峡の通航維持を求めた。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ、2026年の成長予測を0.5％に下方修正　イラン情勢が打撃",
+      "src": "ライブドアニュース (共同通信)",
+      "url": "https://news.livedoor.com/article/detail/example-de-gdp",
+      "publishedAt": "2026-04-22T21:00:00Z",
+      "snippet": "ドイツ政府は、中東紛争に伴うエネルギー価格高騰を受け、2026年の実質GDP成長率予測を従来の1.0％から0.5％へ半減させた。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、米国の停戦延長を「奇襲のための時間稼ぎ」と警戒",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/example-iran-war",
+      "publishedAt": "2026-04-22T12:41:00Z",
+      "snippet": "トランプ米大統領が発表した停戦期限の延長に対し、イラン側は「奇襲攻撃の準備」であるとして警戒を強め、海上封鎖の解除を要求している。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、イランへの軍事作戦を継続　停戦合意は不透明",
+      "src": "日テレNEWS",
+      "url": "https://news.ntv.co.jp/category/international/example-israel-iran",
+      "publishedAt": "2026-04-22T20:00:00Z",
+      "snippet": "イスラエル軍はイラン国内の軍事施設への攻撃を続けており、米国が提案する停戦延長の行方は依然として予断を許さない状況にある。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、軍事偵察衛星の再打ち上げを準備か",
+      "src": "NHKニュース",
+      "url": null,
+      "publishedAt": "2026-04-21T19:00:00Z",
+      "snippet": "北朝鮮が東部の発射場付近で活発な動きを見せており、日米韓の当局は新たな軍事偵察衛星の打ち上げに向けた準備である可能性を注視している。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国、医学部定員増を巡る混乱が長期化",
+      "src": "朝鮮日報",
+      "url": "https://www.chosunonline.com/site/data/html_dir/2026/04/example-kr-med",
+      "publishedAt": "2026-04-20T08:00:00Z",
+      "snippet": "政府の医学部定員増員方針に反対する医師らのストライキが続いており、医療現場の逼迫と国民の不安が解消されない状態が続いている。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米イラン和平協議の仲介を継続",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/example-pk-mediator",
+      "publishedAt": "2026-04-22T15:00:00Z",
+      "snippet": "仲介役のパキスタン政府は、イスラマバードでの2回目となる米イラン協議開催に向け、双方の信頼欠如を埋めるための外交努力を続けている。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア参謀総長、ルハンシク州の戦況を視察",
+      "src": "ウクルインフォルム",
+      "url": "https://www.ukrinform.jp/rubric-war/example-ru-war",
+      "publishedAt": "2026-04-21T14:00:00Z",
+      "snippet": "ゲラシモフ参謀総長がウクライナ東部ルハンシク州の占領地を訪問し、部隊の指揮を執った。ロシア軍は依然として攻勢を維持している。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ中銀、政策金利を37％に据え置き",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/example-tr-rate",
+      "publishedAt": "2026-04-22T21:00:00Z",
+      "snippet": "トルコ中央銀行は、中東紛争によるインフレ圧力を警戒し、政策金利を37％で維持。物価動向を注視する姿勢を示した。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ、サウジの米軍基地に無人機検知技術を供与",
+      "src": "ロイター",
+      "url": null,
+      "publishedAt": "2026-04-21T16:00:00Z",
+      "snippet": "ウクライナが実戦で培ったドローン対策技術が、サウジアラビアの米軍基地に導入された。中東でのドローン脅威への対応が目的。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英スターマー首相、支持率低迷で苦境に",
+      "src": "英国ニュースダイジェスト",
+      "url": "http://www.news-digest.co.uk/news/news/example-uk-starmer",
+      "publishedAt": "2026-04-21T10:00:00Z",
+      "snippet": "スターマー政権は、人事問題や経済政策への不満から支持率が低迷。2027年の総選挙を見据えた党内基盤の強化が急務となっている。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イランへの海上封鎖を継続",
+      "src": "日テレNEWS",
+      "url": "https://news.ntv.co.jp/category/international/example-us-iran-blockade",
+      "publishedAt": "2026-04-22T19:00:00Z",
+      "snippet": "トランプ政権は、イランの降伏を引き出すためホルムズ海峡周辺の海上封鎖を継続。イラン側の反発を招き、緊張が極限に達している。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "ベネズエラ野党指導者マチャド氏、年内帰国を表明",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/example-ve-machado",
+      "publishedAt": "2026-04-21T10:54:00Z",
+      "snippet": "米軍の作戦によりマドゥロ氏が拘束されたことを受け、亡命中のマチャド氏が年内の帰国と早期の民主的選挙実施を訴えた。",
+      "collectedAt": "2026-04-22T21:43:58.172Z"
     }
   ],
-  "updatedAt": "2026-04-22T19:01:43.020Z"
+  "updatedAt": "2026-04-22T21:43:58.172Z"
 }
