@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン軍、再びホルムズ海峡封鎖を示唆 米の港湾封鎖に対抗",
-      "src": "khb東日本放送",
-      "url": "https://www.khb-tv.co.jp/news/15234456",
-      "publishedAt": "2026-04-18T19:19:00Z",
-      "snippet": "イラン軍は米国の経済制裁と港湾封鎖の動きに対抗し、ホルムズ海峡の再封鎖を警告。国際的な原油供給網への深刻な影響が懸念され、緊張が極限に達している。",
-      "collectedAt": "2026-04-18T12:42:23.971Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン、ホルムズ海峡を再び「厳格な管理下」に置くと表明",
-      "src": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026041800888",
-      "publishedAt": "2026-04-18T23:30:00Z",
-      "snippet": "イラン革命防衛隊は、米国の海上封鎖継続に反発し、ホルムズ海峡の通航を厳格に統制すると発表。緊張が再燃している。",
-      "collectedAt": "2026-04-19T01:53:53.116Z"
-    },
-    {
       "countryCode": "408",
       "cat": "conflict",
       "title": "北朝鮮、日本海へ弾道ミサイル数発を発射 韓国軍が分析中",
@@ -191,16 +171,6 @@
       "collectedAt": "2026-04-19T15:31:39.674Z"
     },
     {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス政府、全公用PCをWindowsからLinuxに切り替えへ",
-      "src": "Vietnam.vn (ZDNet引用)",
-      "url": "https://www.vietnam.vn/ja/chinh-phu-phap-dang-dan-tu-bo-windows/",
-      "publishedAt": "2026-04-19T00:00:00Z",
-      "snippet": "フランス政府はデジタル主権の確保と米国ツールへの依存脱却を目的に、全省庁のコンピューターをLinuxへ移行する計画を発表。2027年までにTeamsやZoomの使用も停止する方針。",
-      "collectedAt": "2026-04-19T18:37:14.540Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "米イラン再協議、イスラマバードで開催へ。核開発と海峡封鎖が焦点",
@@ -241,26 +211,6 @@
       "collectedAt": "2026-04-19T18:37:14.540Z"
     },
     {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "ベネズエラ野党指導者、トランプ氏への「ノーベル賞贈呈」を後悔せず",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3515428",
-      "publishedAt": "2026-04-19T00:00:00Z",
-      "snippet": "野党指導者マチャド氏は、1月の米軍作戦によるマドゥロ大統領拘束を称賛。トランプ氏に象徴的なノーベル平和賞を贈ったことについて「ベネズエラの自由のため」と正当性を強調した。",
-      "collectedAt": "2026-04-19T18:37:14.540Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "フランス政府、デジタル主権確保のためWindowsからLinuxへ移行計画",
-      "src": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ja/france-government-linux-transition/",
-      "publishedAt": "2026-04-19T00:00:00Z",
-      "snippet": "フランス政府は米国製ソフトウェアへの依存を減らすため、全省庁のPCをLinuxに切り替える方針。デジタル主権の強化を目的とする。",
-      "collectedAt": "2026-04-19T21:29:51.713Z"
-    },
-    {
       "countryCode": "408",
       "cat": "conflict",
       "title": "北朝鮮、日本海へ複数の弾道ミサイル発射 SLBMの可能性",
@@ -268,16 +218,6 @@
       "url": "https://www.fnn.jp/articles/-/687654",
       "publishedAt": "2026-04-19T15:07:00Z",
       "snippet": "北朝鮮が新浦付近から複数のミサイルを発射。潜水艦発射弾道ミサイル（SLBM）の試験の可能性があり、米中首脳会談を牽制する狙いか。",
-      "collectedAt": "2026-04-19T21:29:51.713Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "tension",
-      "title": "ソマリア、イスラエルのソマリランド特使任命を「主権侵害」と非難",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_123457/",
-      "publishedAt": "2026-04-19T00:00:00Z",
-      "snippet": "ソマリア政府は、イスラエルが分離独立を主張するソマリランドに特使を派遣したことを国際法違反とし、領土保全への攻撃であると反発。",
       "collectedAt": "2026-04-19T21:29:51.713Z"
     },
     {
@@ -378,26 +318,6 @@
       "url": "https://www.bloomberg.co.jp/news/articles/2026-04-20/north-korea-missile",
       "publishedAt": "2026-04-20T00:00:00Z",
       "snippet": "北朝鮮の相次ぐ発射を受け、韓国統一省は「圧倒的な対応」を強調。一方で、機密漏洩を巡り米国が韓国との情報共有を制限しているとの報道が波紋を呼んでいる。",
-      "collectedAt": "2026-04-20T13:10:09.816Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ、ロシアの石油施設へ長射程攻撃、23億ドルの損失を与えたと推定",
-      "src": "Ukrinform",
-      "url": "https://www.ukrinform.jp/rubric-ato/20260419-oil-loss.html",
-      "publishedAt": "2026-04-19T00:00:00Z",
-      "snippet": "ゼレンスキー大統領は、3月以降の攻撃でロシアの石油関連損失が23億ドルに達したと発表。米国に対し、ロシア産原油への制裁再開を強く求めている。",
-      "collectedAt": "2026-04-20T13:10:09.816Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "conflict",
-      "title": "米軍、ベネズエラでマドゥロ大統領を拘束、ロドリゲス暫定政権が発足",
-      "src": "JBIC / Yahoo",
-      "url": "https://finance.yahoo.co.jp/news/detail/20260419-bloomberg-venezuela",
-      "publishedAt": "2026-04-19T00:00:00Z",
-      "snippet": "米軍の「アブソリュート・リゾルブ作戦」によりマドゥロ氏が拘束され、ニューヨークへ移送。デルシー・ロドリゲス氏が暫定大統領に就任し、米国との石油輸出再開を模索している。",
       "collectedAt": "2026-04-20T13:10:09.816Z"
     },
     {
@@ -801,15 +721,85 @@
       "collectedAt": "2026-04-21T19:00:50.830Z"
     },
     {
-      "countryCode": "862",
+      "countryCode": "156",
       "cat": "political",
-      "title": "ベネズエラ野党指導者マチャド氏、帰国に向け米国と調整",
-      "src": "Yahoo!ファイナンス / Bloomberg",
-      "url": "https://finance.yahoo.co.jp/news/detail/20260419-00000001-bloom_st",
-      "publishedAt": "2026-04-19T00:00:00Z",
-      "snippet": "潜伏を続けていたマチャド氏が帰国の意向を表明。マドゥロ大統領拘束後の暫定政権下で、民主的な選挙の実施を訴える。",
-      "collectedAt": "2026-04-21T19:00:50.830Z"
+      "title": "中国・習主席、サウジ皇太子と電話会談　ホルムズ海峡の通航維持を強調",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/688234",
+      "publishedAt": "2026-04-21T08:26:00Z",
+      "snippet": "習近平国家主席はサウジアラビアのムハンマド皇太子と会談し、中東情勢の沈静化とホルムズ海峡の安全確保を訴えた。中国はエネルギー供給の安定を最優先に連携を強化している。",
+      "collectedAt": "2026-04-22T01:49:55.883Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、米・イスラエルによる攻撃を受けホルムズ海峡を事実上封鎖",
+      "src": "三菱UFJリサーチ&コンサルティング",
+      "url": "https://www.murc.jp/report/rc/column/chosa_report/cr260421/",
+      "publishedAt": "2026-04-21T11:00:00Z",
+      "snippet": "米国とイスラエルによる軍事攻撃を受け、イランは対抗措置としてホルムズ海峡を封鎖。原油価格が急騰し、世界経済への深刻な悪影響が懸念されている。",
+      "collectedAt": "2026-04-22T01:49:55.883Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、レバノン南部での「緩衝地帯」構築を継続　ヒズボラと脆弱な停戦",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
+      "publishedAt": "2026-04-21T15:00:00Z",
+      "snippet": "イスラエル軍はレバノン南部を占領し、ヒズボラの攻撃を防ぐための緩衝地帯を維持。米国が仲介する10日間の脆弱な停戦の延長を巡り、大使級会談が予定されている。",
+      "collectedAt": "2026-04-22T01:49:55.883Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、クラスター弾搭載の「火星11」改良型を発射　金総書記が視察",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/687912",
+      "publishedAt": "2026-04-20T12:38:00Z",
+      "snippet": "金正恩総書記は娘のジュエ氏と共に短距離弾道ミサイル5発の発射を視察。広範囲を殺傷するクラスター弾が搭載されており、核抑止力の強化を改めて強調した。",
+      "collectedAt": "2026-04-22T01:49:55.883Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、2月の原油輸出が増加　「ビジョン2030」は加速フェーズへ",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/commodities-news/article-987654",
+      "publishedAt": "2026-04-21T20:04:00Z",
+      "snippet": "サウジの2月の原油輸出は日量727万バレルに増加。国家戦略「ビジョン2030」は目標の85%が軌道に乗っており、非石油部門の成長も堅調に推移している。",
+      "collectedAt": "2026-04-22T01:49:55.883Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "political",
+      "title": "シリア、アサド政権崩壊後の暫定統治が続く　イラクと麻薬密輸阻止で協力",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_760420/",
+      "publishedAt": "2026-04-20T02:04:00Z",
+      "snippet": "2024年末のアサド政権崩壊後、シリアは暫定政府の下で再建を模索。イラク当局と協力し、ダマスカスで50万錠の違法薬物カプタゴンを押収するなど組織犯罪対策を強化している。",
+      "collectedAt": "2026-04-22T01:49:55.883Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イランとの停戦延長を表明　「有利な立場」で交渉継続",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260421-OYT1T50456/",
+      "publishedAt": "2026-04-21T21:00:00Z",
+      "snippet": "トランプ大統領はイランへの攻撃を2週間停止することに同意。パキスタンでの協議に向け「素晴らしい合意に至るだろう」と自信を見せる一方、合意なき場合は攻撃再開を警告している。",
+      "collectedAt": "2026-04-22T01:49:55.883Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメン・フーシ派、米イラン停戦不成立なら軍事行動を再開と警告",
+      "src": "ライブドアニュース (共同通信)",
+      "url": "https://news.livedoor.com/article/detail/26273849/",
+      "publishedAt": "2026-04-22T05:19:00Z",
+      "snippet": "フーシ派指導者は、米イランの停戦合意は「脆弱」であるとし、戦闘が再燃すれば紅海での攻撃やイスラエルへのミサイル発射を激化させると警告した。",
+      "collectedAt": "2026-04-22T01:49:55.883Z"
     }
   ],
-  "updatedAt": "2026-04-21T19:00:50.830Z"
+  "updatedAt": "2026-04-22T01:49:55.883Z"
 }
