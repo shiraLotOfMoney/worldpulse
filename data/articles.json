@@ -311,16 +311,6 @@
       "collectedAt": "2026-04-21T05:21:38.492Z"
     },
     {
-      "countryCode": "408",
-      "cat": "conflict",
-      "title": "北朝鮮が日本海へ複数の弾道ミサイル発射、SLBMの可能性",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp",
-      "publishedAt": "2026-04-19T18:22:00Z",
-      "snippet": "北朝鮮は19日午前、東部の新浦付近から日本海に向けて複数の弾道ミサイルを発射した。潜水艦発射弾道ミサイル（SLBM）の可能性が指摘されている。",
-      "collectedAt": "2026-04-21T10:13:15.341Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジル、内燃機関車の需要維持を見込みエタノール生産拡大",
@@ -899,7 +889,67 @@
       "publishedAt": "2026-04-21T12:00:00Z",
       "snippet": "亡命中のマチャド氏が年内の帰国を表明。トランプ政権に対し、マドゥロ政権下での公正な選挙実施に向けた圧力を強めるよう訴えた。",
       "collectedAt": "2026-04-22T16:04:24.725Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "何立峰副総理、GEヘルスケアCEOと北京で会談",
+      "src": "新華網",
+      "url": "https://jp.news.cn",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "中国の何立峰副総理が外資系企業の幹部と相次いで会談し、経済改革と開放の継続を強調。医療・ハイテク分野での協力を呼びかけた。",
+      "collectedAt": "2026-04-22T19:01:43.020Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ政府、2026年の成長予測を0.5%に下方修正",
+      "src": "ロイター/Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp",
+      "publishedAt": "2026-04-22T15:00:00Z",
+      "snippet": "中東情勢（米・イスラエルとイランの交戦）によるエネルギー価格高騰を受け、2026年の成長率予測を従来の1.0%から半減させた。",
+      "collectedAt": "2026-04-22T19:01:43.020Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "FIBA女子バスケットボールW杯2030、東京開催が正式決定",
+      "src": "日本バスケットボール協会",
+      "url": "http://www.japanbasketball.jp",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "ベルリンで開催されたFIBA理事会で、2030年の女子W杯を日本・東京で開催することが決定。女子W杯の日本開催は初となる。",
+      "collectedAt": "2026-04-22T19:01:43.020Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮が複数の弾道ミサイル発射、クラスター弾頭の試験か",
+      "src": "日テレNEWS",
+      "url": "https://news.ntv.co.jp",
+      "publishedAt": "2026-04-20T00:00:00Z",
+      "snippet": "金正恩総書記が視察する中、広範囲を攻撃可能なクラスター弾頭搭載のミサイル試験を実施。今月だけで4回目の発射となる。",
+      "collectedAt": "2026-04-22T19:01:43.020Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン首相、米・イラン停戦交渉の継続を要請",
+      "src": "Record China",
+      "url": "https://www.recordchina.co.jp",
+      "publishedAt": "2026-04-22T16:50:00Z",
+      "snippet": "仲介役を務めるパキスタンのシャリフ首相が、米国とイランに対し停戦合意の遵守を呼びかけ。イスラマバードでの2回目協議の実現を目指す。",
+      "collectedAt": "2026-04-22T19:01:43.020Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "EU、ウクライナへの900億ユーロ融資を承認。ハンガリーが反対撤回",
+      "src": "KAB熊本朝日放送/ANN",
+      "url": "https://www.kab.co.jp",
+      "publishedAt": "2026-04-23T01:15:00Z",
+      "snippet": "ウクライナへの約16.8兆円の大規模融資が決定。パイプライン修復を受けハンガリーが賛成に転じた。ゼレンスキー大統領は「正しいシグナル」と歓迎。",
+      "collectedAt": "2026-04-22T19:01:43.020Z"
     }
   ],
-  "updatedAt": "2026-04-22T16:04:24.725Z"
+  "updatedAt": "2026-04-22T19:01:43.020Z"
 }
