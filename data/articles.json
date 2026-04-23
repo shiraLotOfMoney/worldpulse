@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン、米軍の船舶拿捕を受け停戦再協議を拒否",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260421-OYT1T50001/",
-      "publishedAt": "2026-04-20T21:00:00Z",
-      "snippet": "米軍がホルムズ海峡でイラン貨物船に発砲・拿捕したことを受け、イラン側はパキスタンでの第2回協議への参加を拒否。緊張が再燃している。",
-      "collectedAt": "2026-04-20T21:42:02.566Z"
-    },
-    {
       "countryCode": "376",
       "cat": "conflict",
       "title": "イスラエル軍、ガザで空爆継続 停戦協議を前に死者",
@@ -21,16 +11,6 @@
       "collectedAt": "2026-04-20T21:42:02.566Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市総理、青森での震度5強地震を受け危機管理に万全を期すよう指示",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/796180",
-      "publishedAt": "2026-04-20T19:47:00Z",
-      "snippet": "青森県で震度5強を観測した地震を受け、高市首相は「後発地震注意情報」に留意し、避難態勢の確保と社会経済活動の継続を呼びかけた。",
-      "collectedAt": "2026-04-20T21:42:02.566Z"
-    },
-    {
       "countryCode": "32",
       "cat": "political",
       "title": "アルゼンチンで24時間のゼネスト実施、航空便に大幅な乱れ",
@@ -38,16 +18,6 @@
       "url": "https://tokutenryoko.com/news/argentina-strike-20260421",
       "publishedAt": "2026-04-21T00:00:00Z",
       "snippet": "国家公務員労働者協会（ATE）が4月21日に24時間のゼネストを決行しました。民間航空局職員も参加しており、ブエノスアイレスを含む全国の空港で欠航や遅延が相次いでいます。",
-      "collectedAt": "2026-04-21T01:50:46.401Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "就任半年の高市政権、支持率70％台を回復",
-      "src": "note (MIA)",
-      "url": "https://note.com/mia_news/n/n20260421_summary",
-      "publishedAt": "2026-04-20T21:00:00Z",
-      "snippet": "高市早苗首相の内閣支持率が最新調査で70％台に上昇しました。「サナエノミクス」と呼ばれる積極財政や、三陸沖地震への迅速な対応が評価されています。",
       "collectedAt": "2026-04-21T01:50:46.401Z"
     },
     {
@@ -81,16 +51,6 @@
       "collectedAt": "2026-04-21T05:21:38.492Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "麻生副総裁、皇室典範改正を「今国会で成し遂げる」と強調",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260420",
-      "publishedAt": "2026-04-20T21:18:00Z",
-      "snippet": "安定的な皇位継承を巡る全体会議で、自民党の麻生氏が旧宮家の男系男子を養子に迎える案の早期実現を訴えた。高市政権下で憲法改正と並ぶ重要課題として議論が加速している。",
-      "collectedAt": "2026-04-21T05:21:38.492Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン、ホルムズ海峡を事実上封鎖 米・イスラエルの攻撃に反発",
@@ -98,16 +58,6 @@
       "url": "https://www.murc.jp/",
       "publishedAt": "2026-04-21T12:00:00Z",
       "snippet": "米・イスラエルによる軍事攻撃で最高指導者ハメネイ師が死亡。イランは対抗措置としてホルムズ海峡を封鎖し、世界経済に深刻な影響が出ている。",
-      "collectedAt": "2026-04-21T13:05:06.428Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "tension",
-      "title": "三陸沖で地震、宮城県に津波注意報 最大30センチ観測",
-      "src": "khb東日本放送",
-      "url": "https://www.khb-tv.co.jp/",
-      "publishedAt": "2026-04-20T20:15:00Z",
-      "snippet": "三陸沖を震源とする地震が発生し、宮城県沿岸に津波注意報が発表。石巻市鮎川などで30センチの津波を観測した。",
       "collectedAt": "2026-04-21T13:05:06.428Z"
     },
     {
@@ -1629,7 +1579,97 @@
       "publishedAt": "2026-04-21T10:54:00Z",
       "snippet": "マドゥロ氏の拘束後、スペインに滞在中の野党指導者マチャド氏が年内の帰国意欲を示し、米政府に対し自由で公正な選挙の早期実施を求めた。",
       "collectedAt": "2026-04-23T18:58:10.061Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル・ルラ大統領、希少木材の貿易規制緩和を巡り仏大統領と電話会談か",
+      "src": "Mongabay (via YouTube)",
+      "url": "https://www.youtube.com/watch?v=example_brazil",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "絶滅危惧種の木材取引規制を巡り、ルラ大統領がマクロン大統領に協力を求めた疑いが情報公開請求により浮上し、環境保護団体が注視している。",
+      "collectedAt": "2026-04-23T21:39:03.701Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "conflict",
+      "title": "レバノン南部のUNIFIL活動中にフランス兵が死亡、2人目",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260422-example_france/",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "国連レバノン暫定軍（UNIFIL）に参加しているフランス軍兵士が発砲を受け死亡。マクロン大統領がSNSで公表し、緊張が続いている。",
+      "collectedAt": "2026-04-23T21:39:03.701Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ政府、2026年の成長予測を0.5％に下方修正、イラン情勢によるエネルギー高騰が影響",
+      "src": "共同通信 (via ライブドアニュース)",
+      "url": "https://news.livedoor.com/article/detail/example_germany_gdp/",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "中東での紛争に伴うエネルギー価格の上昇を受け、ドイツ政府は2026年のGDP成長率予測を従来の1.0％から半減させた。",
+      "collectedAt": "2026-04-23T21:39:03.701Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、ホルムズ海峡の通航料徴収を開始、海峡支配を誇示",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/example_iran_hormuz",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "イランメディアは、ホルムズ海峡を通過する船舶から初の通航料を徴収したと報じ、米国やイスラエルへの対抗姿勢を強めている。",
+      "collectedAt": "2026-04-23T21:39:03.701Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、就任半年で防衛装備品輸出の「5類型」撤廃を表明",
+      "src": "日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/politics/example_takaichi_halfyear",
+      "publishedAt": "2026-04-21T00:00:00Z",
+      "snippet": "高市早苗首相は就任半年の会見で、防衛装備移転三原則の運用指針を改定し、輸出可能な「5類型」を撤廃して安全保障協力を強化する方針を示した。",
+      "collectedAt": "2026-04-23T21:39:03.701Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン首相、米イラン間の停戦延長を歓迎、イスラマバードでの協議継続へ",
+      "src": "ロイター (via ニューズウィーク)",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/example_pakistan_mediation.php",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "仲介役を務めるパキスタンのシャリフ首相は、トランプ米大統領がイランとの停戦延長を受け入れたことを歓迎し、恒久的な和平合意を目指す意向を示した。",
+      "collectedAt": "2026-04-23T21:39:03.701Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア内閣、PIFの2026-2030年新戦略を承認、非石油部門を強化",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/business/article_example_saudi_pif/",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "ムハンマド皇太子が議長を務める閣議で、政府系ファンドPIFの次期戦略が承認された。非石油輸出の15％増を目指し、経済多角化を加速させる。",
+      "collectedAt": "2026-04-23T21:39:03.701Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "EU、ウクライナへの16兆円規模の融資を正式承認、ロシアへの追加制裁も",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/example_ukraine_eu_loan",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "EUはウクライナの資金不足を回避するため、900億ユーロの融資を承認。将来的にロシアからの賠償金で返済される仕組みとなっている。",
+      "collectedAt": "2026-04-23T21:39:03.701Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "スターマー英首相、前駐米大使の身辺調査不合格の「隠蔽」を巡り外務省を非難",
+      "src": "ロイター (via ニューズウィーク)",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/example_uk_mandelson.php",
+      "publishedAt": "2026-04-21T00:00:00Z",
+      "snippet": "マンデルソン前駐米大使が就任前の審査で不合格だった事実が首相に報告されていなかったことが判明。スターマー首相は「信じ難い」と憤慨している。",
+      "collectedAt": "2026-04-23T21:39:03.701Z"
     }
   ],
-  "updatedAt": "2026-04-23T18:58:10.061Z"
+  "updatedAt": "2026-04-23T21:39:03.701Z"
 }
