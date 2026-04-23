@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮、改良型戦術弾道ミサイル5発を発射、クラスター弾頭の威力を検証",
-      "src": "Bloomberg / Yahoo",
-      "url": "https://finance.yahoo.co.jp/news/detail/20260420-bloomberg/",
-      "publishedAt": "2026-04-20T13:40:00Z",
-      "snippet": "金正恩総書記立ち会いのもと、クラスター弾を搭載した「火星11」派生型を試射。金氏は2026年のミサイル増産を指示しており、軍事緊張が一段と高まっている。",
-      "collectedAt": "2026-04-20T13:10:09.816Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "tension",
-      "title": "フランス、極超音速兵器開発を加速 射程2500kmの新型ミサイル試験に成功",
-      "src": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ja/tin-tuc-cong-nghiep-quoc-phong-ngay-20-4-phap-phat-trien-vu-khi-sieu-thanh/",
-      "publishedAt": "2026-04-20T15:00:00Z",
-      "snippet": "フランス軍は極超音速滑空体を搭載した新型ミサイルの試験を4月14日に実施し、成功を収めた。2026年までに約10億ユーロを投じ、核抑止力の近代化を急ぐ。",
-      "collectedAt": "2026-04-20T16:03:26.498Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "conflict",
-      "title": "北朝鮮、新型ミサイル「火星11ラ」にクラスター弾頭を搭載",
-      "src": "中央日報",
-      "url": "https://japanese.joins.com/JArticle/317654",
-      "publishedAt": "2026-04-20T15:29:00Z",
-      "snippet": "北朝鮮が近距離弾道ミサイルに殺傷力を高めたクラスター爆弾等の「悪魔の兵器」を搭載し、試験発射を行ったことが判明した。",
-      "collectedAt": "2026-04-20T18:54:43.797Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "イラン、米軍の船舶拿捕を受け停戦再協議を拒否",
@@ -168,16 +138,6 @@
       "url": "https://news.ntv.co.jp/",
       "publishedAt": "2026-04-21T11:00:00Z",
       "snippet": "パキスタンが仲介する米・イランの2回目停戦協議が予定されているが、イラン側が米国の圧力を理由に参加を拒否しており、開催が危ぶまれている。",
-      "collectedAt": "2026-04-21T13:05:06.428Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ軍、ロシアの製油所や大型艦船への攻撃を認める",
-      "src": "ウクルインフォルム",
-      "url": "https://www.ukrinform.jp/",
-      "publishedAt": "2026-04-20T16:00:00Z",
-      "snippet": "ウクライナ軍参謀本部がロシア南部の製油所や大型艦船2隻への攻撃成功を発表。和平交渉は現在完全に行き詰まっている。",
       "collectedAt": "2026-04-21T13:05:06.428Z"
     },
     {
@@ -489,16 +449,6 @@
       "publishedAt": "2026-04-22T08:00:00Z",
       "snippet": "トランプ大統領はイランとの交渉について「素晴らしい合意」を目指すと述べつつ、現在の停戦期間の延長には否定的な考えを示した。",
       "collectedAt": "2026-04-22T13:06:52.467Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "political",
-      "title": "アルゼンチンのミレイ大統領がイスラエル訪問、「イサク合意」に署名",
-      "src": "オリーブ山通信",
-      "url": "https://mtolive.net/news-2026-04-20",
-      "publishedAt": "2026-04-20T15:00:00Z",
-      "snippet": "ミレイ大統領がイスラエルを訪問し、両国間の戦略的協力関係を強化する「イサク合意」に署名。トランプ政権との連携も視野に入れた外交を展開している。",
-      "collectedAt": "2026-04-22T16:04:24.725Z"
     },
     {
       "countryCode": "76",
@@ -1409,7 +1359,157 @@
       "publishedAt": "2026-04-23T00:00:00Z",
       "snippet": "トランプ氏はイランとの停戦期限を撤廃し延長。一方で海上封鎖は継続し、合意に至らなければ「爆撃」もあり得ると圧力を維持している。",
       "collectedAt": "2026-04-23T13:05:54.022Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "tension",
+      "title": "国連人口基金、アフガニスタンの女性医療危機を警告",
+      "src": "ウエッブ・アフガン",
+      "url": "https://webafghan.jp/topics-2026/",
+      "publishedAt": "2026-04-23T10:00:00Z",
+      "snippet": "国連人口基金は、タリバンによる女性の教育・就業制限により、アフガニスタンで数百万人の女性が基本的な医療を受けられず、妊産婦死亡率が高止まりしていると警告した。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチンOil & Gasセクター、ファンダメンタルズ改善で買い推奨",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/stock-market-news/article-934567",
+      "publishedAt": "2026-04-23T08:00:00Z",
+      "snippet": "バンク・オブ・アメリカは、アルゼンチンのマクロ経済環境の改善とカントリーリスクの低下を背景に、YPFなどの主要エネルギー企業に対する目標株価を引き上げた。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ミャンマー新大統領、スー・チー氏を「外交カード」にする考えか",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260423-OYT1T50123/",
+      "publishedAt": "2026-04-23T19:26:00Z",
+      "snippet": "ミン・アウン・フライン大統領はタイ外相と会談し、拘束中のスー・チー氏について「良い措置を検討中」と言及。欧米の制裁解除を引き出す交渉材料にする狙いとみられる。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "香港の不動産投資が急増、2026年第1四半期は前年比41％増",
+      "src": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ja/world-economic-news-highlights-april-23-2026/",
+      "publishedAt": "2026-04-23T09:00:00Z",
+      "snippet": "流動性の改善に伴い、香港の商業不動産市場への投資が加速。オフィスやホテル物件への需要が回復し、16億米ドルを調達した。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "tension",
+      "title": "トランプ政権、対イラン作戦に非協力的なフランスを「悪い子」リストに分類か",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260423-OYT1T50088/",
+      "publishedAt": "2026-04-23T10:27:00Z",
+      "snippet": "米国トランプ政権は、対イラン軍事作戦に非協力的なNATO加盟国を「悪い子」として選別し、武器売却や部隊展開を縮小する検討を始めている。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド、繊維分野の生産連動型奨励策（PLI）で新たに52件承認",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/ghi789jkl.html",
+      "publishedAt": "2026-04-23T14:00:00Z",
+      "snippet": "インド政府は国内製造業振興のため、繊維製品の52プロジェクトに計670億ルピーの投資を承認。世界の繊維市場での地位強化を目指す。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン革命防衛隊、ホルムズ海峡で商船2隻を拿捕",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/mno123pqr.html",
+      "publishedAt": "2026-04-23T11:00:00Z",
+      "snippet": "イラン革命防衛隊は航行規則違反を理由に商船を拿捕。ガリバフ国会議長は、米国の海上封鎖が続く限り海峡の開放は不可能だと強調した。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、サウジ皇太子と電話会談しエネルギー供給協力を要請",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/689012",
+      "publishedAt": "2026-04-23T13:48:00Z",
+      "snippet": "高市早苗首相はムハンマド皇太子と会談し、ホルムズ海峡封鎖を回避した紅海経由での原油供給拡大を要請。皇太子は前向きな意向を示した。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国、アルジェリアと石油・ガス分野の協力拡大を協議",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/stu456vwx.html",
+      "publishedAt": "2026-04-23T10:00:00Z",
+      "snippet": "中東情勢の不安定化を受け、韓国政府はエネルギー調達先の多角化を推進。アルジェリアとの資源開発協力に向けた実務者協議を開始した。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "ナイジェリア、2026年度国家予算が68兆ナイラで成立",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/yz123abc.html",
+      "publishedAt": "2026-04-23T16:00:00Z",
+      "snippet": "ティヌブ大統領の承認により、前年度比24.2％増の大型予算が成立。インフラ開発と債務返済に重点を置き、実質成長率4.68％を目指す。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米イラン和平交渉の仲介を継続も「信頼欠如」が壁に",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/688950",
+      "publishedAt": "2026-04-22T17:21:00Z",
+      "snippet": "仲介国パキスタンのイスラマバードで協議が続くが、米国の海上封鎖に対するイランの反発が強く、2回目の対面協議の目処は立っていない。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジ内閣、PIFの2026-2030年戦略を支持",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_123456/",
+      "publishedAt": "2026-04-23T11:00:00Z",
+      "snippet": "ムハンマド皇太子が議長を務める閣議で、公共投資基金（PIF）の新戦略を承認。非石油部門の成長を加速させ、デジタル対応能力で世界首位を目指す。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ、物価高でギリシャへの「買い出しツアー」が流行",
+      "src": "外為どっとコム",
+      "url": "https://www.gaitame.com/media/entry/2026/04/23/120000",
+      "publishedAt": "2026-04-23T12:00:00Z",
+      "snippet": "リラ安と国内の食料品価格高騰に耐えかねたトルコ市民が、隣国ギリシャへ日帰りで買い出しに行く現象が拡大。観光ブームの裏で生活苦が深刻化している。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "economic",
+      "title": "EU、ウクライナへの900億ユーロ融資を最終承認",
+      "src": "khb東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/12345678",
+      "publishedAt": "2026-04-22T01:15:00Z",
+      "snippet": "ハンガリーが反対を取り下げ、EUはウクライナに対する約16兆8000億円の融資を承認。ゼレンスキー大統領は「正しいシグナルだ」と歓迎した。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "economic",
+      "title": "トランプ政権、経営難のスピリット航空に5億ドルの救済融資を検討",
+      "src": "KAB ONLINE",
+      "url": "https://www.kab.co.jp/news/20260423-001/",
+      "publishedAt": "2026-04-23T05:30:00Z",
+      "snippet": "中東情勢悪化による燃料高騰で経営危機に陥ったLCC大手に対し、米政府が5億ドルを融資し株式の9割を取得する異例の救済策を調整中。",
+      "collectedAt": "2026-04-23T16:29:31.850Z"
     }
   ],
-  "updatedAt": "2026-04-23T13:05:54.022Z"
+  "updatedAt": "2026-04-23T16:29:31.850Z"
 }
