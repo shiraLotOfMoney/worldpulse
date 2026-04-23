@@ -311,16 +311,6 @@
       "collectedAt": "2026-04-21T19:00:50.830Z"
     },
     {
-      "countryCode": "760",
-      "cat": "political",
-      "title": "シリア暫定政府、ダマスカスで大規模な麻薬押収作戦を実施",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/syria/article_20260420/",
-      "publishedAt": "2026-04-20T02:04:00Z",
-      "snippet": "アサド政権崩壊後のシリアで、イラク当局と協力しカプタゴン50万錠を押収。組織犯罪撲滅に向けた新戦略の一環。",
-      "collectedAt": "2026-04-21T19:00:50.830Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ米大統領、イランとの新協定締結に自信表明",
@@ -378,16 +368,6 @@
       "url": "https://jp.investing.com/news/commodities-news/article-987654",
       "publishedAt": "2026-04-21T20:04:00Z",
       "snippet": "サウジの2月の原油輸出は日量727万バレルに増加。国家戦略「ビジョン2030」は目標の85%が軌道に乗っており、非石油部門の成長も堅調に推移している。",
-      "collectedAt": "2026-04-22T01:49:55.883Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "political",
-      "title": "シリア、アサド政権崩壊後の暫定統治が続く　イラクと麻薬密輸阻止で協力",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_760420/",
-      "publishedAt": "2026-04-20T02:04:00Z",
-      "snippet": "2024年末のアサド政権崩壊後、シリアは暫定政府の下で再建を模索。イラク当局と協力し、ダマスカスで50万錠の違法薬物カプタゴンを押収するなど組織犯罪対策を強化している。",
       "collectedAt": "2026-04-22T01:49:55.883Z"
     },
     {
@@ -1119,7 +1099,157 @@
       "publishedAt": "2026-04-22T00:00:00Z",
       "snippet": "トランプ大統領は停戦延長を表明しつつも、海上封鎖による経済圧力を維持。不確実性を高めてイランから譲歩を引き出す狙いとされる。",
       "collectedAt": "2026-04-23T01:53:21.804Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン政府、選挙改革法案を議会へ提出 予備選廃止で費用削減狙う",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/04/23/456789.php",
+      "publishedAt": "2026-04-23T07:00:00Z",
+      "snippet": "ミレイ政権は、大統領選挙の予備選（PASO）を義務付けた措置の廃止を盛り込んだ法案を提出。野党や地方知事からは反発の声が上がっている。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル、欧米連携で鉱物戦略を加速 「脱資源国」へ構造転換目指す",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/04/23/mineral-strategy-germany-us/",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "ドイツとの技術移転提携や米系企業によるレアアース大手買収を通じ、未加工資源の輸出から高度なサプライチェーン構築への転換を図る。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国・習主席、サウジ皇太子と電話会談 ホルムズ海峡の安全確保で一致",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/18cba77e2a782f62.html",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "両首脳は戦略的パートナーシップの強化を確認。中東情勢の緊迫化を受け、エネルギー輸送の要衝である海峡の通航維持の重要性を強調した。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ政府、2026年の成長予測を0.5％に半減 イラン情勢が直撃",
+      "src": "ライブドアニュース (共同通信)",
+      "url": "https://news.livedoor.com/article/detail/202604230006/",
+      "publishedAt": "2026-04-22T00:06:00Z",
+      "snippet": "中東紛争に伴うエネルギー価格上昇を受け、実質GDP成長率予測を1.0％から0.5％へ下方修正。経済回復に地政学的ショックが影を落とす。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン革命防衛隊、ホルムズ海峡でイスラエル関連船など2隻を拿捕",
+      "src": "日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/international/84fd74f3346b432db7ef541d0f11403e",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "「秩序と安全を乱した」として船舶を拿捕。アメリカによる海上封鎖への報復措置とみられ、停戦協議への影響が懸念される。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "日経平均株価、史上初の6万円突破 トランプ氏のイラン停戦延長表明を好感",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/86fd74f3346b432db7ef541d0f11403e",
+      "publishedAt": "2026-04-23T09:00:00Z",
+      "snippet": "中東情勢の緩和期待から買いが膨らみ、歴史的な大台を突破。証券業界では祝賀ムードが広がっている。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国・大象グループ、ドイツの医薬品素材メーカーAmino社を完全子会社化",
+      "src": "食品と開発",
+      "url": "https://kenko-media.com/food_devlp/archives/20260423",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "韓国食品大手が欧州の技術基盤を取得。医薬品や健康食品領域でのグローバル展開を加速させる戦略的買収を完了した。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米イラン和平交渉の仲介役として存在感 「合意は近い」と見解",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/87fd74f3346b432db7ef541d0f11403e",
+      "publishedAt": "2026-04-22T12:58:00Z",
+      "snippet": "イスラマバードでの協議を主催するパキスタン政府高官が、米イラン双方の信頼欠如を指摘しつつも、交渉の継続に楽観的な見通しを示した。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "economic",
+      "title": "ロシアの産油量が4月に急減 ウクライナのドローン攻撃で輸出港が麻痺",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/04/22/456790.php",
+      "publishedAt": "2026-04-22T12:30:00Z",
+      "snippet": "主要な石油輸出港や製油所への攻撃により、日量30万〜40万バレルの減産。コロナ禍以降で最大の減少幅となる可能性がある。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "COP31議長国トルコ、「実行」重視の姿勢強調 資金調達が中心議題に",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/2026/04/21/456791.php",
+      "publishedAt": "2026-04-21T13:29:00Z",
+      "snippet": "11月にアンタルヤで開催される気候変動会議に向け、途上国支援のための1兆ドル規模の資金確保を最優先課題に掲げる。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "economic",
+      "title": "EU、ウクライナへの900億ユーロ融資を承認 ハンガリーが反対撤回",
+      "src": "ライブドアニュース (ABEMA TIMES)",
+      "url": "https://news.livedoor.com/article/detail/202604230956/",
+      "publishedAt": "2026-04-23T09:56:00Z",
+      "snippet": "パイプライン修復によるロシア産原油の輸送再開を受け、ハンガリーが拒否権を行使せず。約16.8兆円の巨額支援が決定した。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英、2009年以降生まれへのたばこ販売を永久禁止する法案が議会通過",
+      "src": "ライブドアニュース (共同通信)",
+      "url": "https://news.livedoor.com/article/detail/202604230749/",
+      "publishedAt": "2026-04-23T07:49:00Z",
+      "snippet": "世代を限定して販売を禁じる画期的な法案。違反者には高額な罰金が科され、将来的な「煙のない社会」実現を目指す。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イランとの停戦再協議に「時間の制約なし」と表明",
+      "src": "KAB熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/15234568",
+      "publishedAt": "2026-04-23T10:46:00Z",
+      "snippet": "停戦延長の期限を設けない考えを示し、最善の合意を優先する姿勢。一方でイランへの経済的圧力としての海上封鎖は継続する方針。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "ベネズエラ野党指導者マチャド氏、2026年末までの帰国と早期選挙を要求",
+      "src": "ブラジル日報",
+      "url": "https://www.brasilnippou.com/2026/04/22/venezuela-machado/",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "米軍の軍事作戦によるマドゥロ氏拘束後、マドリードで活動していたマチャド氏が帰国の意欲を表明。政治的移行に向けた公正な選挙を求めている。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "tension",
+      "title": "イエメン・フーシー派、イラン戦争への参戦を宣言 「事実上の国家」として軍事行動",
+      "src": "新潮社 Foresight",
+      "url": "https://www.fsight.jp/articles/-/50000",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "紅海での攻撃を続けるフーシー派が、イランと米国・イスラエルの戦闘への直接介入を示唆。独自の行政・軍事力を背景に地域を脅かしている。",
+      "collectedAt": "2026-04-23T05:23:44.335Z"
     }
   ],
-  "updatedAt": "2026-04-23T01:53:21.804Z"
+  "updatedAt": "2026-04-23T05:23:44.335Z"
 }
