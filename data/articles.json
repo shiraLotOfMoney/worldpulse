@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジアラビア、2月の原油輸出が増加　「ビジョン2030」は加速フェーズへ",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/commodities-news/article-987654",
-      "publishedAt": "2026-04-21T20:04:00Z",
-      "snippet": "サウジの2月の原油輸出は日量727万バレルに増加。国家戦略「ビジョン2030」は目標の85%が軌道に乗っており、非石油部門の成長も堅調に推移している。",
-      "collectedAt": "2026-04-22T01:49:55.883Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領、イランとの停戦延長を表明　「有利な立場」で交渉継続",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260421-OYT1T50456/",
-      "publishedAt": "2026-04-21T21:00:00Z",
-      "snippet": "トランプ大統領はイランへの攻撃を2週間停止することに同意。パキスタンでの協議に向け「素晴らしい合意に至るだろう」と自信を見せる一方、合意なき場合は攻撃再開を警告している。",
-      "collectedAt": "2026-04-22T01:49:55.883Z"
-    },
-    {
       "countryCode": "887",
       "cat": "conflict",
       "title": "イエメン・フーシ派、米イラン停戦不成立なら軍事行動を再開と警告",
@@ -38,26 +18,6 @@
       "url": "https://www.fnn.jp/articles/-/20260422",
       "publishedAt": "2026-04-22T12:41:00Z",
       "snippet": "米国による停戦期限の延長に対し、イラン側は「奇襲攻撃の策略」と反発。海上封鎖が解除されない限りホルムズ海峡は開放しないと強調。",
-      "collectedAt": "2026-04-22T05:19:16.067Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "「核のごみ」最終処分地選定、南鳥島での文献調査実施へ",
-      "src": "TBS NEWS DIG",
-      "url": "https://newsdig.tbs.co.jp/articles/-/20260421",
-      "publishedAt": "2026-04-21T18:00:00Z",
-      "snippet": "小笠原村が南鳥島での文献調査受け入れを正式表明。放射性廃棄物の最終処分地選定に向けたプロセスが新たな段階に入った。",
-      "collectedAt": "2026-04-22T05:19:16.067Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国KOSPIが過去最高値を更新、半導体輸出の記録的急増が牽引",
-      "src": "note (Newsダイジェスト)",
-      "url": "https://note.com/news_digest/n/n20260421",
-      "publishedAt": "2026-04-21T18:18:00Z",
-      "snippet": "AI需要を背景に半導体輸出が前年比182%増。外国人投資家の買い越しにより、韓国株式市場が歴史的な高値を記録した。",
       "collectedAt": "2026-04-22T05:19:16.067Z"
     },
     {
@@ -338,16 +298,6 @@
       "url": "https://news.ntv.co.jp/category/international/example-israel-iran",
       "publishedAt": "2026-04-22T20:00:00Z",
       "snippet": "イスラエル軍はイラン国内の軍事施設への攻撃を続けており、米国が提案する停戦延長の行方は依然として予断を許さない状況にある。",
-      "collectedAt": "2026-04-22T21:43:58.172Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮、軍事偵察衛星の再打ち上げを準備か",
-      "src": "NHKニュース",
-      "url": null,
-      "publishedAt": "2026-04-21T19:00:00Z",
-      "snippet": "北朝鮮が東部の発射場付近で活発な動きを見せており、日米韓の当局は新たな軍事偵察衛星の打ち上げに向けた準備である可能性を注視している。",
       "collectedAt": "2026-04-22T21:43:58.172Z"
     },
     {
@@ -1759,7 +1709,137 @@
       "publishedAt": "2026-04-24T05:12:00Z",
       "snippet": "米特殊部隊の兵士がマドゥロ氏拘束の機密情報を利用し、予測市場で約6500万円の不当利益を得たとして起訴された。",
       "collectedAt": "2026-04-24T16:00:15.863Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "リオネル・メッシ、インテル・マイアミとの契約を2028年まで延長",
+      "src": "Goal.com 日本",
+      "url": "https://www.goal.com/jp/ニュース/messi-contract-extension-2026/actual-url-placeholder",
+      "publishedAt": "2026-04-24T15:00:00Z",
+      "snippet": "アルゼンチンのスーパースター、リオネル・メッシがMLSのインテル・マイアミとの契約を2028年まで延長したことが明らかになりました。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル中央銀行、予測市場を全面禁止　ポリマーケットなど遮断",
+      "src": "CoinPost",
+      "url": "https://coinpost.jp/?p=526000",
+      "publishedAt": "2026-04-24T12:00:00Z",
+      "snippet": "ブラジル政府は国民の貯蓄保護を理由に、政治やスポーツの結果に賭ける予測市場プラットフォーム28件へのアクセスを遮断し、国内での取引を禁止しました。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "独IFO業況指数、4月は2020年以来の低水準　イラン情勢が打撃",
+      "src": "ロイター (Yahoo!ファイナンス)",
+      "url": "https://finance.yahoo.co.jp/news/detail/20260424-00000001-reut-bus_all",
+      "publishedAt": "2026-04-24T17:36:00Z",
+      "snippet": "ドイツの4月の業況指数は84.4に低下し、イラン紛争によるエネルギー価格高騰への懸念から、企業センチメントが全業種で悪化しています。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン外相、パキスタンに到着　米国との停戦再協議の可能性",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260424_iran",
+      "publishedAt": "2026-04-24T22:14:00Z",
+      "snippet": "イランのアラグチ外相がパキスタンのイスラマバードに到着しました。ホルムズ海峡封鎖が続く中、米国代表団との2回目の停戦協議が行われる見通しです。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "ガザの人道危機、イラン紛争の影で深刻化　復興に714億ドル必要と試算",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
+      "publishedAt": "2026-04-24T12:00:00Z",
+      "snippet": "国連とEUは、ガザ地区の人間開発が77年逆行したと警告。イランとの戦争による検問所閉鎖が、ガザの飢餓リスクをさらに高めています。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "日経平均株価、一時6万円の大台を突破　中東停戦延長への期待感で",
+      "src": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/20260423_nikkei",
+      "publishedAt": "2026-04-23T18:00:00Z",
+      "snippet": "23日の東京株式市場で、日経平均株価が史上初めて6万円の大台にタッチしました。米国とイランの時限停戦が延長されたことを市場が好感しました。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国検察、尹錫悦前大統領に懲役30年を求刑　戒厳令を巡る内乱罪",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/30-10.php",
+      "publishedAt": "2026-04-24T13:33:00Z",
+      "snippet": "韓国の検察は、2024年の戒厳令宣布の口実としてドローン作戦を命じたとされる尹錫悦前大統領に対し、懲役30年を求刑しました。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "political",
+      "title": "サウジアラビア皇太子、日本の高市首相と電話会談　地域情勢を協議",
+      "src": "ジェトロ",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/saudi_japan_call.html",
+      "publishedAt": "2026-04-24T10:00:00Z",
+      "snippet": "ムハンマド皇太子は高市早苗首相と会談し、イラン情勢による海上安全保障への影響について意見交換。日本への安定的なエネルギー供給継続を確約しました。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "conflict",
+      "title": "シリア内戦の現実描く映画が日本公開へ、アサド政権崩壊後の混乱続く",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/preview/20260423_syria",
+      "publishedAt": "2026-04-23T12:00:00Z",
+      "snippet": "2024年末のアサド政権崩壊後も、シリア国内では武装勢力間の衝突や人道危機が続いており、国際社会の関心が薄れる中での窮状が報告されています。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ中央銀行、政策金利を37.00％に据え置き　原油高を警戒",
+      "src": "第一ライフ資産運用経済研究所",
+      "url": "https://www.dlri.co.jp/report/macro/20260424_turkey.html",
+      "publishedAt": "2026-04-24T16:00:00Z",
+      "snippet": "トルコ中銀は22日の会合で、中東情勢緊迫化によるインフレ再燃リスクを考慮し、政策金利を2会合連続で37％に据え置くことを決定しました。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "economic",
+      "title": "ロシア産原油のウクライナ経由輸送が再開、EUの融資承認で進展",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260424_ukraine",
+      "publishedAt": "2026-04-24T03:36:00Z",
+      "snippet": "1月から停止していたドルジバ・パイプラインの原油輸送が再開。EUによるウクライナへの900億ユーロ融資の仮承認が背景にあるとみられます。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英国首相、サイバー攻撃などの「見えざる代理攻撃」に強い危機感",
+      "src": "BBC Japan (via YouTube)",
+      "url": "https://www.youtube.com/watch?v=HF1NVnEZrgW",
+      "publishedAt": "2026-04-23T20:00:00Z",
+      "snippet": "スターマー英首相は、複数の外国勢力が関与するサイバー攻撃や情報操作が国家の安全保障を脅かしているとして、国際社会に警鐘を鳴らしました。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "ベネズエラ・マドゥロ前大統領拘束の機密でインサイダー取引、米兵を起訴",
+      "src": "チバテレ＋プラス (ハフポスト日本版)",
+      "url": "https://www.chiba-tv.com/plus/detail/20260424_insider",
+      "publishedAt": "2026-04-24T12:12:00Z",
+      "snippet": "2026年1月のマドゥロ氏拘束作戦に参加した米軍兵士が、予測市場ポリマーケットで大統領失脚に賭けて巨額の利益を得たとして、司法省に起訴されました。",
+      "collectedAt": "2026-04-24T21:41:32.731Z"
     }
   ],
-  "updatedAt": "2026-04-24T16:00:15.863Z"
+  "updatedAt": "2026-04-24T21:41:32.731Z"
 }
