@@ -1,106 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア南部の石油施設がドローン攻撃で大炎上、1人死亡",
-      "src": "KAB ONLINE",
-      "url": "https://www.kab.co.jp/news/20260421-oil-fire",
-      "publishedAt": "2026-04-21T09:30:00Z",
-      "snippet": "ウクライナ軍のドローンがロシア南部トゥアプセの石油施設を攻撃し、大規模な火災が発生しました。ゼレンスキー大統領はロシアの石油収入が戦費になっていると批判を強めています。",
-      "collectedAt": "2026-04-21T01:50:46.401Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "習近平主席、サウジ皇太子と会談しホルムズ海峡の安全確保を強調",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260421",
-      "publishedAt": "2026-04-21T08:26:00Z",
-      "snippet": "中東情勢の緊迫化を受け、習主席がムハンマド皇太子と電話会談。エネルギー供給の生命線であるホルムズ海峡の自由航行維持に向けた連携を確認した。",
-      "collectedAt": "2026-04-21T05:21:38.492Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、ホルムズ海峡を事実上封鎖 米・イスラエルの攻撃に反発",
-      "src": "三菱UFJリサーチ&コンサルティング",
-      "url": "https://www.murc.jp/",
-      "publishedAt": "2026-04-21T12:00:00Z",
-      "snippet": "米・イスラエルによる軍事攻撃で最高指導者ハメネイ師が死亡。イランは対抗措置としてホルムズ海峡を封鎖し、世界経済に深刻な影響が出ている。",
-      "collectedAt": "2026-04-21T13:05:06.428Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国とインド、2030年までに貿易額倍増で合意",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/",
-      "publishedAt": "2026-04-21T10:44:00Z",
-      "snippet": "李在明大統領がインドを訪問しモディ首相と会談。経済協力を強化し、2030年までに二国間貿易額を現在の2倍に引き上げる目標を掲げた。",
-      "collectedAt": "2026-04-21T13:05:06.428Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "tension",
-      "title": "パキスタン、米・イラン停戦協議を仲介 イスラマバードは厳戒態勢",
-      "src": "日テレNEWS",
-      "url": "https://news.ntv.co.jp/",
-      "publishedAt": "2026-04-21T11:00:00Z",
-      "snippet": "パキスタンが仲介する米・イランの2回目停戦協議が予定されているが、イラン側が米国の圧力を理由に参加を拒否しており、開催が危ぶまれている。",
-      "collectedAt": "2026-04-21T13:05:06.428Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、今年に入りウクライナ領1700平方キロを制圧と発表",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/456789.php",
-      "publishedAt": "2026-04-21T09:00:00Z",
-      "snippet": "ロシア軍参謀総長は、2026年に入ってからの戦果を強調。一方で、国内の石油施設がウクライナのドローン攻撃により相次いで炎上している。",
-      "collectedAt": "2026-04-21T16:06:10.973Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "conflict",
-      "title": "トランプ米大統領、イランへの「海上封鎖」を継続　停戦協議は難航",
-      "src": "ANNニュース",
-      "url": "https://www.youtube.com/watch?v=example_usa_iran",
-      "publishedAt": "2026-04-21T10:00:00Z",
-      "snippet": "トランプ政権はイランへの軍事圧力を維持。海上封鎖が交渉の障害となっているとの指摘がある中、バンス副大統領が仲介国パキスタンへ向かう予定。",
-      "collectedAt": "2026-04-21T16:06:10.973Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、イスラエルとの「12日間戦争」を経て核協議を継続",
-      "src": "三菱UFJリサーチ&コンサルティング",
-      "url": "https://www.murc.jp/report/economic_insight/",
-      "publishedAt": "2026-04-21T10:00:00Z",
-      "snippet": "2025年のイスラエルとの直接衝突後、イラン情勢は緊迫。原油価格は一時170ドルまで急騰し、日本経済にも深刻な影響を与えている。",
-      "collectedAt": "2026-04-21T19:00:50.830Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国・習主席、サウジ皇太子と電話会談　ホルムズ海峡の通航維持を強調",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/688234",
-      "publishedAt": "2026-04-21T08:26:00Z",
-      "snippet": "習近平国家主席はサウジアラビアのムハンマド皇太子と会談し、中東情勢の沈静化とホルムズ海峡の安全確保を訴えた。中国はエネルギー供給の安定を最優先に連携を強化している。",
-      "collectedAt": "2026-04-22T01:49:55.883Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、米・イスラエルによる攻撃を受けホルムズ海峡を事実上封鎖",
-      "src": "三菱UFJリサーチ&コンサルティング",
-      "url": "https://www.murc.jp/report/rc/column/chosa_report/cr260421/",
-      "publishedAt": "2026-04-21T11:00:00Z",
-      "snippet": "米国とイスラエルによる軍事攻撃を受け、イランは対抗措置としてホルムズ海峡を封鎖。原油価格が急騰し、世界経済への深刻な悪影響が懸念されている。",
-      "collectedAt": "2026-04-22T01:49:55.883Z"
-    },
-    {
       "countryCode": "376",
       "cat": "conflict",
       "title": "イスラエル、レバノン南部での「緩衝地帯」構築を継続　ヒズボラと脆弱な停戦",
@@ -161,16 +61,6 @@
       "collectedAt": "2026-04-22T05:19:16.067Z"
     },
     {
-      "countryCode": "392",
-      "cat": "tension",
-      "title": "三陸沖でM7.7の地震、青森で震度5強　「後発地震注意情報」を発表",
-      "src": "tenki.jp",
-      "url": "https://tenki.jp/earthquake/2026/04/21/notice.html",
-      "publishedAt": "2026-04-21T09:28:00Z",
-      "snippet": "4月20日の大規模地震を受け、気象庁は北海道・三陸沖後発地震注意情報を発表。さらなる巨大地震への警戒を呼びかけている。",
-      "collectedAt": "2026-04-22T05:19:16.067Z"
-    },
-    {
       "countryCode": "410",
       "cat": "economic",
       "title": "韓国KOSPIが過去最高値を更新、半導体輸出の記録的急増が牽引",
@@ -192,16 +82,6 @@
     },
     {
       "countryCode": "643",
-      "cat": "economic",
-      "title": "IMF、ロシアの2026年経済成長率予測を1.1％に上方修正",
-      "src": "ジェトロ (JETRO)",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/russia-imf.html",
-      "publishedAt": "2026-04-21T11:00:00Z",
-      "snippet": "エネルギー価格の高騰がロシア経済を押し上げると分析。一方で、制裁による財政余地の限定や構造的制約が長期的な懸念材料。",
-      "collectedAt": "2026-04-22T05:19:16.067Z"
-    },
-    {
-      "countryCode": "643",
       "cat": "conflict",
       "title": "ロシア黒海艦隊の揚陸艦2隻を撃破、ウクライナ軍がドローン攻撃映像公開",
       "src": "乗りものニュース",
@@ -218,16 +98,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260422-OYT1T50000/",
       "publishedAt": "2026-04-22T10:52:00Z",
       "snippet": "ドンバス地方の一部を「ドニーランド」と呼称変更する案を米側に提示。トランプ氏の虚栄心に訴え、ロシアの領土割譲要求を退ける狙い。",
-      "collectedAt": "2026-04-22T05:19:16.067Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "economic",
-      "title": "米税関当局、違法とされた相互関税26兆円の返還システムを稼働",
-      "src": "日テレNEWS NNN",
-      "url": "https://news.ntv.co.jp/category/international/2111c2a226c84e8087ce817947cf128d",
-      "publishedAt": "2026-04-21T11:00:00Z",
-      "snippet": "過去に徴収した関税の返還申請受付を開始。対象企業は33万社に上り、物流大手フェデックスなどが消費者への還元を検討している。",
       "collectedAt": "2026-04-22T05:19:16.067Z"
     },
     {
@@ -271,16 +141,6 @@
       "collectedAt": "2026-04-22T07:22:36.589Z"
     },
     {
-      "countryCode": "566",
-      "cat": "tension",
-      "title": "ナイジェリア、2025年のクーデター未遂容疑で軍将校6人を起訴",
-      "src": "Al Jazeera / JETRO",
-      "url": "https://www.aljazeera.com/news/2026/4/21/nigeria-charges-six-people-over-coup-plot",
-      "publishedAt": "2026-04-21T10:00:00Z",
-      "snippet": "ティヌブ政権転覆を狙ったとされる2025年のクーデター計画に関与したとして、軍幹部らが起訴された。国内では武装集団による拉致事件も頻発しており、治安情勢は依然として不安定。",
-      "collectedAt": "2026-04-22T10:13:58.070Z"
-    },
-    {
       "countryCode": "156",
       "cat": "tension",
       "title": "台湾・頼総統、アフリカ訪問を中止「中国の強い圧力」と非難",
@@ -288,16 +148,6 @@
       "url": "https://www.fnn.jp/articles/-/689000",
       "publishedAt": "2026-04-22T11:16:00Z",
       "snippet": "台湾の頼清徳総統は、中国の圧力により飛行経路の3カ国が許可を取り消したため、エスワティニ訪問を断念したと発表した。",
-      "collectedAt": "2026-04-22T13:06:52.467Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ産業、2026年は「停滞止まり」 イラン紛争が新たなリスクに",
-      "src": "Reuters",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/510123.php",
-      "publishedAt": "2026-04-21T10:48:00Z",
-      "snippet": "ドイツ産業連盟は、エネルギーコスト上昇や地政学的リスクにより、2026年の独経済は回復が見込めず停滞するとの見通しを示した。",
       "collectedAt": "2026-04-22T13:06:52.467Z"
     },
     {
@@ -341,16 +191,6 @@
       "collectedAt": "2026-04-22T13:06:52.467Z"
     },
     {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル大統領、トランプ氏に「すべての国を平等に」扱うよう促す",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/3512345",
-      "publishedAt": "2026-04-21T08:00:00Z",
-      "snippet": "ブラジルのルラ大統領は、トランプ米大統領に対し、国際社会における一方的な圧力を避け、すべての国を対等なパートナーとして扱うよう求めた。",
-      "collectedAt": "2026-04-22T16:04:24.725Z"
-    },
-    {
       "countryCode": "156",
       "cat": "political",
       "title": "中国の習主席、サウジ皇太子と電話会談　ホルムズ海峡の安全確保を協議",
@@ -368,16 +208,6 @@
       "url": "https://www.kab.co.jp/news/20260422-001/",
       "publishedAt": "2026-04-22T12:17:00Z",
       "snippet": "トランプ大統領による停戦延長の提案に対し、イラン側は「時間稼ぎに過ぎない」と強く反発。パキスタンでの仲介協議も難航している。",
-      "collectedAt": "2026-04-22T16:04:24.725Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエルで戦没者記念日、ガザ・イラン紛争の犠牲者増で悲しみ広がる",
-      "src": "オリーブ山通信",
-      "url": "https://mtolive.net/memorial-day-2026",
-      "publishedAt": "2026-04-21T10:00:00Z",
-      "snippet": "昨年からの戦没者が174人増え、計2万5648人に。イランとの直接衝突やガザでの戦闘が続く中、国民は深い悲しみに包まれている。",
       "collectedAt": "2026-04-22T16:04:24.725Z"
     },
     {
@@ -421,16 +251,6 @@
       "collectedAt": "2026-04-22T16:04:24.725Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "エリザベス女王生誕100年、英国各地で特別展や記念行事",
-      "src": "英国ニュースダイジェスト",
-      "url": "https://www.news-digest.co.uk/news/news/2026-04-21-news",
-      "publishedAt": "2026-04-21T10:00:00Z",
-      "snippet": "故エリザベス女王の生誕100周年を記念し、ロンドンなどで大規模な行事が開催。中東情勢の緊迫が続く中、国民の結束を促す機会となっている。",
-      "collectedAt": "2026-04-22T16:04:24.725Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ政権、イランとの2週間停戦を延長　和平協議再開へ",
@@ -438,16 +258,6 @@
       "url": "https://minkabu.jp/news/3567890",
       "publishedAt": "2026-04-22T07:11:00Z",
       "snippet": "トランプ大統領は、イランとの一時停戦を3〜5日間延長することを決定。パキスタンでの協議継続を条件としており、世界経済への影響緩和を狙う。",
-      "collectedAt": "2026-04-22T16:04:24.725Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "ベネズエラ野党指導者マチャド氏、年内帰国を計画　選挙実施を要求",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104215.php",
-      "publishedAt": "2026-04-21T12:00:00Z",
-      "snippet": "亡命中のマチャド氏が年内の帰国を表明。トランプ政権に対し、マドゥロ政権下での公正な選挙実施に向けた圧力を強めるよう訴えた。",
       "collectedAt": "2026-04-22T16:04:24.725Z"
     },
     {
@@ -591,16 +401,6 @@
       "collectedAt": "2026-04-22T21:43:58.172Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、支持率低迷で苦境に",
-      "src": "英国ニュースダイジェスト",
-      "url": "http://www.news-digest.co.uk/news/news/example-uk-starmer",
-      "publishedAt": "2026-04-21T10:00:00Z",
-      "snippet": "スターマー政権は、人事問題や経済政策への不満から支持率が低迷。2027年の総選挙を見据えた党内基盤の強化が急務となっている。",
-      "collectedAt": "2026-04-22T21:43:58.172Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ米大統領、イランへの海上封鎖を継続",
@@ -608,16 +408,6 @@
       "url": "https://news.ntv.co.jp/category/international/example-us-iran-blockade",
       "publishedAt": "2026-04-22T19:00:00Z",
       "snippet": "トランプ政権は、イランの降伏を引き出すためホルムズ海峡周辺の海上封鎖を継続。イラン側の反発を招き、緊張が極限に達している。",
-      "collectedAt": "2026-04-22T21:43:58.172Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "ベネズエラ野党指導者マチャド氏、年内帰国を表明",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/example-ve-machado",
-      "publishedAt": "2026-04-21T10:54:00Z",
-      "snippet": "米軍の作戦によりマドゥロ氏が拘束されたことを受け、亡命中のマチャド氏が年内の帰国と早期の民主的選挙実施を訴えた。",
       "collectedAt": "2026-04-22T21:43:58.172Z"
     },
     {
@@ -931,16 +721,6 @@
       "collectedAt": "2026-04-23T07:25:07.446Z"
     },
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国の第1四半期GDP、5.0％成長 予想上回る堅調さ",
-      "src": "朝日新聞 / note",
-      "url": "https://note.com/masakaguchi/n/n123456789",
-      "publishedAt": "2026-04-21T10:00:00Z",
-      "snippet": "中国国家統計局が発表した2026年1〜3月期の実質GDP成長率は前年同期比5.0％となり、製造業や輸出の強さが成長を牽引しました。",
-      "collectedAt": "2026-04-23T07:25:07.446Z"
-    },
-    {
       "countryCode": "276",
       "cat": "economic",
       "title": "ドイツ・ルフトハンザ、燃料高騰で2万便運休へ イラン情勢が影響",
@@ -1151,16 +931,6 @@
       "collectedAt": "2026-04-23T10:16:51.204Z"
     },
     {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "ベネズエラ野党指導者マチャド氏、年内帰国を計画 早期選挙を要求",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/machado-venezuela.php",
-      "publishedAt": "2026-04-21T10:54:00Z",
-      "snippet": "ノーベル平和賞を受賞したマリア・コリナ・マチャド氏が年内の帰国意欲を表明。米軍によるマドゥロ氏拘束後の暫定統治下で、自由な選挙の早期実施を訴えた。",
-      "collectedAt": "2026-04-23T10:16:51.204Z"
-    },
-    {
       "countryCode": "104",
       "cat": "conflict",
       "title": "ミャンマー抵抗勢力、軍政の和平協議呼びかけを拒否",
@@ -1178,16 +948,6 @@
       "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/23/post-456.php",
       "publishedAt": "2026-04-23T17:06:00Z",
       "snippet": "4月のフランス総合PMI速報値は47.6に低下。中東での軍事衝突による不透明感がサービス業や製造業の重石となっている。",
-      "collectedAt": "2026-04-23T13:05:54.022Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ産業、2026年は「停滞」の見通し 構造的弱さが露呈",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/21/post-789.php",
-      "publishedAt": "2026-04-21T10:48:00Z",
-      "snippet": "ドイツ産業連盟（BDI）は、エネルギーコスト高騰とイラン紛争のリスクにより、2026年の独産業は最善でも停滞に留まると警告した。",
       "collectedAt": "2026-04-23T13:05:54.022Z"
     },
     {
@@ -1501,16 +1261,6 @@
       "collectedAt": "2026-04-23T18:58:10.061Z"
     },
     {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "ベネズエラ野党指導者マチャド氏、年内帰国と早期選挙を要求",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/456790.php",
-      "publishedAt": "2026-04-21T10:54:00Z",
-      "snippet": "マドゥロ氏の拘束後、スペインに滞在中の野党指導者マチャド氏が年内の帰国意欲を示し、米政府に対し自由で公正な選挙の早期実施を求めた。",
-      "collectedAt": "2026-04-23T18:58:10.061Z"
-    },
-    {
       "countryCode": "76",
       "cat": "political",
       "title": "ブラジル・ルラ大統領、希少木材の貿易規制緩和を巡り仏大統領と電話会談か",
@@ -1579,16 +1329,6 @@
       "publishedAt": "2026-04-23T00:00:00Z",
       "snippet": "EUはウクライナの資金不足を回避するため、900億ユーロの融資を承認。将来的にロシアからの賠償金で返済される仕組みとなっている。",
       "collectedAt": "2026-04-23T21:39:03.701Z"
-    },
-    {
-      "countryCode": "32",
-      "cat": "political",
-      "title": "アルゼンチン野党指導者マチャド氏、年内帰国を計画し早期選挙を訴え",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/512345.php",
-      "publishedAt": "2026-04-21T10:54:00Z",
-      "snippet": "ノーベル平和賞受賞者のマチャド氏が、滞在先のスペインでインタビューに応じ、ベネズエラの民主化に向けた年内の帰国と選挙実施を米国に求めた。",
-      "collectedAt": "2026-04-24T01:55:15.764Z"
     },
     {
       "countryCode": "76",
@@ -1771,16 +1511,6 @@
       "collectedAt": "2026-04-24T05:28:57.669Z"
     },
     {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン仲介の米イラン協議、進展なく終了 緊張緩和遠のく",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/20260421-pakistan-talks/",
-      "publishedAt": "2026-04-21T13:00:00Z",
-      "snippet": "パキスタンの仲介で行われた米国とイランの停戦協議は、双方の主張が平行線をたどり合意に至らず。ホルムズ海峡の封鎖解除に向けた道筋は見えていない。",
-      "collectedAt": "2026-04-24T05:28:57.669Z"
-    },
-    {
       "countryCode": "682",
       "cat": "economic",
       "title": "サウジPIF、2030年に向けた新戦略を承認 投資の「質」を重視",
@@ -1788,16 +1518,6 @@
       "url": "https://note.com/me_invest/n/nEGs7gKPntyzq",
       "publishedAt": "2026-04-22T07:00:00Z",
       "snippet": "サウジアラビア公的投資基金（PIF）が次期5カ年戦略を発表。NEOMプロジェクトの継続を明言しつつ、投資のリターン最大化と民間資金の導入加速を打ち出した。",
-      "collectedAt": "2026-04-24T05:28:57.669Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "ベネズエラ野党指導者マチャド氏、年内帰国と早期選挙を要求",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104210.php",
-      "publishedAt": "2026-04-21T10:54:00Z",
-      "snippet": "マドゥロ氏拘束後のベネズエラで、亡命中の野党指導者マチャド氏が年内帰国の意向を表明。米国に対し、暫定政権下での早期選挙実施を強く求めた。",
       "collectedAt": "2026-04-24T05:28:57.669Z"
     },
     {
@@ -1829,7 +1549,127 @@
       "publishedAt": "2026-04-23T00:00:00Z",
       "snippet": "サウジはスーダンへの武器流入を牽制しつつ、紅海周辺での影響力確保を狙い、紛争解決に向けた外交を展開している。",
       "collectedAt": "2026-04-24T07:50:42.533Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ経済、2026年の成長予測を0.5％に下方修正",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/483921.php",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "中東での「イラン戦争」によるエネルギー価格高騰が直撃し、政府は成長予測を従来の1.0％から半減させた。4月の総合PMIも景気拡大の節目である50を割り込んでいる。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "political",
+      "title": "トランプ氏、インドと中国を「この世の地獄」と表現し反発招く",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3516234",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "トランプ米大統領がSNSで両国を侮辱する投稿を行い、インド政府は不適切だと強く反発した。また、インド人250人が「失われた10支族」としてイスラエルへ移住した。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、ホルムズ海峡の「通行料」を初受領　米の圧力に屈せぬ姿勢",
+      "src": "日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/international/e7daaf4a15a2489f835360e04de9cb57",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "事実上の海峡封鎖を続ける中、イランは通過船舶から初の通行料を受け取ったと発表。トランプ米大統領は機雷敷設船の撃沈を命じており、緊張は極限に達している。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "tension",
+      "title": "イスラエルとレバノン、停戦を3週間延長　トランプ政権が仲介",
+      "src": "TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/-/1234567",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "ホワイトハウスでの直接交渉により、ヒズボラとの戦闘休止を含む停戦延長が合意された。一方でガザ地区の人道危機は、国際社会の関心がイランに移る中で悪化している。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、サウジ皇太子と電話会談　エネルギー供給確保を要請",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/690123",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "高市早苗首相はムハンマド皇太子に対し、イラン情勢悪化に伴う原油の安定供給とホルムズ海峡の航行安全確保への協力を求めた。自民党は第2弾の緊急提言を政府に申し入れた。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "tension",
+      "title": "韓国ドローン事件を巡り南北緊張、政府は米テック企業差別を否定",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/483920.php",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "snippet": "北朝鮮とのドローン飛来事件を巡り南北関係が冷え込む中、韓国政府は米議員団の懸念に対し、米テック企業を差別しない方針を表明した。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、イラン外相の訪問を24日に受け入れへ",
+      "src": "ザイFX！",
+      "url": "https://zai.diamond.jp/list/fxnews/detail?id=456789",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "イランのアラグチ外相がイスラマバードを訪問する。パキスタンはアフガニスタンとの紛争を抱える中、イランと米国・イスラエルの仲介役としての役割も期待されている。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ中銀、政策金利を37.00％に据え置き　原油高を警戒",
+      "src": "第一生命経済研究所",
+      "url": "https://www.dlri.co.jp/report/macro/351623.html",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "インフレ率は30%台まで鈍化したが、中東情勢緊迫による原油高リスクを受け、2会合連続で金利を据え置いた。リラ安基調が続く中、中銀はタカ派姿勢を維持している。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ヘンリー英王子がキーウ電撃訪問、プーチン氏に戦争停止を訴え",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/3516345",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "侵攻開始から4年が経過したウクライナを訪問。一方、ロシア産原油を運ぶドルジバ・パイプラインの輸送が再開され、EUによる16兆円規模の融資実行が正式承認された。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "英首相、国内での「見えざる代理攻撃」に強い危機感表明",
+      "src": "YouTube (BBC引用)",
+      "url": "https://www.youtube.com/watch?v=example_uk_bbc",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "スターマー首相は、サイバー攻撃や情報操作など複数外国による代理攻撃が国家安全保障への現実的脅威になっていると指摘。また、中国企業の風力タービン採用を安全保障上の理由で却下した。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、ホルムズ海峡での機雷敷設船「撃沈」を命令",
+      "src": "KAB 熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/?id=202604241157",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "エネルギー輸送の要衝での挑発行為に対し、躊躇なく攻撃するよう米海軍に指示。イランとの合意が成立するまで「逆封鎖」を継続する方針を強調した。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "ベネズエラ前大統領拘束に関与の米兵、予測市場でのインサイダー取引で起訴",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260424-OYT1T50123/",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "2026年1月のマドゥロ氏拘束作戦に関わった米特殊部隊員が、作戦成功（大統領失脚）に賭けて巨額の利益を得た疑い。トランプ大統領は連邦職員の予測市場利用を調査すると表明。",
+      "collectedAt": "2026-04-24T13:03:10.212Z"
     }
   ],
-  "updatedAt": "2026-04-24T07:50:42.533Z"
+  "updatedAt": "2026-04-24T13:03:10.212Z"
 }
