@@ -41,16 +41,6 @@
       "collectedAt": "2026-04-22T05:19:16.067Z"
     },
     {
-      "countryCode": "104",
-      "cat": "conflict",
-      "title": "ミャンマー新大統領の和平交渉提案、主要反政府勢力が拒否",
-      "src": "Reuters Japan",
-      "url": "https://jp.reuters.com/world/myanmar-2026-04-22/",
-      "publishedAt": "2026-04-22T05:00:00Z",
-      "snippet": "ミンアウンフライン新大統領による100日以内の和平交渉提案に対し、主要武装勢力が拒否を表明。国連は国内避難民が400万人に達すると警告している。",
-      "collectedAt": "2026-04-22T07:22:36.589Z"
-    },
-    {
       "countryCode": "392",
       "cat": "economic",
       "title": "日経平均株価、終値で5万9585円の最高値を更新",
@@ -1579,7 +1569,127 @@
       "publishedAt": "2026-04-24T00:00:00Z",
       "snippet": "トランプ大統領は、イランが統一的な提案を示すまでホルムズ海峡周辺での「逆封鎖」を継続すると述べ、圧力を強める姿勢を鮮明にしました。",
       "collectedAt": "2026-04-25T01:44:47.911Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "political",
+      "title": "アフガニスタン、地域情勢の緊張続く中で経済的孤立深まる",
+      "src": "Google Search (Contextual)",
+      "url": null,
+      "publishedAt": "2026-04-24T09:00:00Z",
+      "snippet": "中東での紛争やホルムズ海峡の緊張を受け、アフガニスタンの経済的孤立がさらに進んでいる。近隣諸国との貿易ルートの不安定化が懸念されている。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "英政府、中国・明陽の風力タービン使用を不支持と決定 安全保障上の懸念",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/uk_china_wind.html",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "イギリス政府は、中国企業・明陽智慧エネルギーの風力タービンを国内プロジェクトで使用することを支持しないと決定。重要インフラにおける安全保障を優先した。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "独IFO業況指数、4月は2020年以来の低水準 イラン紛争が深刻な打撃",
+      "src": "Reuters / Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/ifo_germany_20260424",
+      "publishedAt": "2026-04-24T17:36:00Z",
+      "snippet": "ドイツの4月の業況指数は84.4に低下。イラン紛争によるエネルギー価格高騰が企業の悲観的な見方を強めており、経済停滞の懸念が再燃している。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン代表団、停戦協議のためパキスタンに到着 米特使らと週末に会談へ",
+      "src": "NHKニュース",
+      "url": "https://www3.nhk.or.jp/news/html/20260425/iran_pakistan_talks.html",
+      "publishedAt": "2026-04-25T06:03:00Z",
+      "snippet": "イランのアラグチ外相率いる代表団がイスラマバードに到着。トランプ米政権が派遣した特使らと、紛争終結に向けた停戦合意の締結を目指し協議を行う。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、レバノンでの停戦を3週間延長 トランプ氏の要請受け入れ",
+      "src": "テレビ朝日 (羽鳥慎一モーニングショー)",
+      "url": "https://datazoo.jp/n/20260424/morning_show",
+      "publishedAt": "2026-04-24T08:00:00Z",
+      "snippet": "イスラエル政府は、トランプ米大統領の要請に応じ、レバノンにおけるヒズボラとの停戦期間を3週間延長することを決定した。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、サウジアラビア皇太子と電話会談 ホルムズ海峡の安全確保を要請",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/takaichi_mbs_call.html",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "高市早苗首相はサウジのムハンマド皇太子と会談。イラン紛争によるエネルギー供給への影響を懸念し、航行の安全確保と事態の沈静化に向けた協力を求めた。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "ナイジェリア、2026年度予算が過去最大の68兆ナイラで成立",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/nigeria_budget.html",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "ティヌブ大統領が2026年度国家予算を承認。前年度比24％増の巨額予算で、インフラ開発や債務返済、保健分野への投資を加速させる。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン、米・イラン停戦協議の仲介役に イスラマバードで2回目会談",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/iran_pakistan_20260424",
+      "publishedAt": "2026-04-24T20:30:00Z",
+      "snippet": "パキスタンが仲介国となり、米国とイランの代表団がイスラマバードに集結。紛争の恒久的な終結に向けた和平合意の締結が焦点となっている。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナの長距離ドローン攻撃により石油施設に甚大な被害",
+      "src": "YouTube (真・防衛研究チャンネル)",
+      "url": "https://www.youtube.com/watch?v=ukraine_russia_20260424",
+      "publishedAt": "2026-04-24T15:00:00Z",
+      "snippet": "ウクライナ軍によるロシア国内の石油インフラへの縦深打撃が激化。ロシア軍の燃料供給網が不安定化し、前線の作戦遂行に支障が出ている。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "tension",
+      "title": "ソマリア、イスラエル船舶のバブ・エル・マンデブ海峡通過を禁止",
+      "src": "Pars Today",
+      "url": "https://parstoday.ir/ja/news/world-i132448",
+      "publishedAt": "2026-04-24T07:41:00Z",
+      "snippet": "ソマリア政府は、イスラエルによるソマリランドの国家承認に対抗し、紅海の入口であるバブ・エル・マンデブ海峡のイスラエル船舶通航を禁止した。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "イギリス、18歳未満へのタバコ販売を生涯禁止する法案が成立",
+      "src": "チバテレ＋プラス",
+      "url": "https://www.chiba-tv.com/plus/detail/20260424210226",
+      "publishedAt": "2026-04-24T21:02:00Z",
+      "snippet": "イギリス議会で、現在18歳未満の国民に対し生涯にわたってタバコ製品の購入を禁止する画期的な法案が可決された。次世代の健康保護を目指す。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ大統領、ホルムズ海峡のイラン船舶破壊を許可 海軍に命令",
+      "src": "NHKニュース / TVでた蔵",
+      "url": "https://datazoo.jp/n/20260425/nhk_news",
+      "publishedAt": "2026-04-25T06:03:00Z",
+      "snippet": "トランプ米大統領は、ホルムズ海峡で機雷敷設や通航妨害を試みるイラン船舶をすべて破壊する許可を海軍に与えた。イランへの圧力を最大化させている。",
+      "collectedAt": "2026-04-25T05:08:18.413Z"
     }
   ],
-  "updatedAt": "2026-04-25T01:44:47.911Z"
+  "updatedAt": "2026-04-25T05:08:18.413Z"
 }
