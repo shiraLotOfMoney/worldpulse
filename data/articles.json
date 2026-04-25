@@ -1,86 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、トランプ氏の停戦延長を「奇襲のための時間稼ぎ」と警戒",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260422",
-      "publishedAt": "2026-04-22T12:41:00Z",
-      "snippet": "米国による停戦期限の延長に対し、イラン側は「奇襲攻撃の策略」と反発。海上封鎖が解除されない限りホルムズ海峡は開放しないと強調。",
-      "collectedAt": "2026-04-22T05:19:16.067Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "political",
-      "title": "ウクライナ、トランプ氏にちなみ地名を「ドニーランド」に改名提案か",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260422-OYT1T50000/",
-      "publishedAt": "2026-04-22T10:52:00Z",
-      "snippet": "ドンバス地方の一部を「ドニーランド」と呼称変更する案を米側に提示。トランプ氏の虚栄心に訴え、ロシアの領土割譲要求を退ける狙い。",
-      "collectedAt": "2026-04-22T05:19:16.067Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "日経平均株価、終値で5万9585円の最高値を更新",
-      "src": "ANNニュース",
-      "url": "https://news.tv-asahi.co.jp/news_economy/articles/000345678.html",
-      "publishedAt": "2026-04-22T15:00:00Z",
-      "snippet": "企業の好決算やAI投資の継続を背景に、日経平均が史上最高値を更新。一方で中東情勢悪化によるガソリン価格の上昇が家計の重荷となっている。",
-      "collectedAt": "2026-04-22T07:22:36.589Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ政権、相互関税26兆円の返還手続きを開始 最高裁の違法判断受け",
-      "src": "KSBニュース",
-      "url": "https://news.ksb.co.jp/article/15234568",
-      "publishedAt": "2026-04-22T09:47:00Z",
-      "snippet": "連邦最高裁が相互関税を違法と判断したことを受け、徴収済みの関税を企業に返還する申請受付を開始。日本企業も対象となる見通し。",
-      "collectedAt": "2026-04-22T07:22:36.589Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "tension",
-      "title": "台湾・頼総統、アフリカ訪問を中止「中国の強い圧力」と非難",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/689000",
-      "publishedAt": "2026-04-22T11:16:00Z",
-      "snippet": "台湾の頼清徳総統は、中国の圧力により飛行経路の3カ国が許可を取り消したため、エスワティニ訪問を断念したと発表した。",
-      "collectedAt": "2026-04-22T13:06:52.467Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "「国家情報会議」設置法案、衆院委員会で可決へ 今国会成立の公算",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/689001",
-      "publishedAt": "2026-04-22T12:00:00Z",
-      "snippet": "日本の衆議院で「国家情報会議」設置法案が可決される見通し。市民監視への懸念がある中、政府は情報収集能力の強化を急いでいる。",
-      "collectedAt": "2026-04-22T13:06:52.467Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "political",
-      "title": "中国の習主席、サウジ皇太子と電話会談　ホルムズ海峡の安全確保を協議",
-      "src": "JETRO ビジネス短信",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/61a930fa1b6be528.html",
-      "publishedAt": "2026-04-22T10:00:00Z",
-      "snippet": "習近平国家主席とムハンマド皇太子が地域情勢について協議。エネルギー輸送の要衝であるホルムズ海峡の通航維持と、即時停戦の必要性で一致した。",
-      "collectedAt": "2026-04-22T16:04:24.725Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン「停戦要求していない」、トランプ氏の停戦延長表明に反論",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260422-001/",
-      "publishedAt": "2026-04-22T12:17:00Z",
-      "snippet": "トランプ大統領による停戦延長の提案に対し、イラン側は「時間稼ぎに過ぎない」と強く反発。パキスタンでの仲介協議も難航している。",
-      "collectedAt": "2026-04-22T16:04:24.725Z"
-    },
-    {
       "countryCode": "586",
       "cat": "political",
       "title": "パキスタン首相、米・イランの停戦延長を歓迎　仲介役として尽力",
@@ -109,26 +29,6 @@
       "publishedAt": "2026-04-22T20:00:00Z",
       "snippet": "市場予想通り金利を据え置き。米・イラン戦争によるエネルギー価格高騰がインフレ圧力を強めており、厳しい金融引き締めを継続する。",
       "collectedAt": "2026-04-22T16:04:24.725Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ軍、クリミアでロシア海軍の揚陸艦2隻を撃破",
-      "src": "乗りものニュース",
-      "url": "https://trafficnews.jp/post/132345",
-      "publishedAt": "2026-04-22T11:00:00Z",
-      "snippet": "ドローンを用いた夜間攻撃により、黒海艦隊の揚陸艦「ヤマル」と「ニコライ・フィルチェンコフ」を破壊。ロシアの兵站能力に大きな打撃を与えた。",
-      "collectedAt": "2026-04-22T16:04:24.725Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ政府、2026年の成長予測を0.5%に下方修正",
-      "src": "ロイター/Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp",
-      "publishedAt": "2026-04-22T15:00:00Z",
-      "snippet": "中東情勢（米・イスラエルとイランの交戦）によるエネルギー価格高騰を受け、2026年の成長率予測を従来の1.0%から半減させた。",
-      "collectedAt": "2026-04-22T19:01:43.020Z"
     },
     {
       "countryCode": "586",
@@ -171,16 +71,6 @@
       "collectedAt": "2026-04-22T21:43:58.172Z"
     },
     {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、米国の停戦延長を「奇襲のための時間稼ぎ」と警戒",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/example-iran-war",
-      "publishedAt": "2026-04-22T12:41:00Z",
-      "snippet": "トランプ米大統領が発表した停戦期限の延長に対し、イラン側は「奇襲攻撃の準備」であるとして警戒を強め、海上封鎖の解除を要求している。",
-      "collectedAt": "2026-04-22T21:43:58.172Z"
-    },
-    {
       "countryCode": "376",
       "cat": "conflict",
       "title": "イスラエル、イランへの軍事作戦を継続　停戦合意は不透明",
@@ -188,16 +78,6 @@
       "url": "https://news.ntv.co.jp/category/international/example-israel-iran",
       "publishedAt": "2026-04-22T20:00:00Z",
       "snippet": "イスラエル軍はイラン国内の軍事施設への攻撃を続けており、米国が提案する停戦延長の行方は依然として予断を許さない状況にある。",
-      "collectedAt": "2026-04-22T21:43:58.172Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米イラン和平協議の仲介を継続",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/example-pk-mediator",
-      "publishedAt": "2026-04-22T15:00:00Z",
-      "snippet": "仲介役のパキスタン政府は、イスラマバードでの2回目となる米イラン協議開催に向け、双方の信頼欠如を埋めるための外交努力を続けている。",
       "collectedAt": "2026-04-22T21:43:58.172Z"
     },
     {
@@ -331,26 +211,6 @@
       "collectedAt": "2026-04-23T05:23:44.335Z"
     },
     {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米イラン和平交渉の仲介役として存在感 「合意は近い」と見解",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/87fd74f3346b432db7ef541d0f11403e",
-      "publishedAt": "2026-04-22T12:58:00Z",
-      "snippet": "イスラマバードでの協議を主催するパキスタン政府高官が、米イラン双方の信頼欠如を指摘しつつも、交渉の継続に楽観的な見通しを示した。",
-      "collectedAt": "2026-04-23T05:23:44.335Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "economic",
-      "title": "ロシアの産油量が4月に急減 ウクライナのドローン攻撃で輸出港が麻痺",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/2026/04/22/456790.php",
-      "publishedAt": "2026-04-22T12:30:00Z",
-      "snippet": "主要な石油輸出港や製油所への攻撃により、日量30万〜40万バレルの減産。コロナ禍以降で最大の減少幅となる可能性がある。",
-      "collectedAt": "2026-04-23T05:23:44.335Z"
-    },
-    {
       "countryCode": "804",
       "cat": "economic",
       "title": "EU、ウクライナへの900億ユーロ融資を承認 ハンガリーが反対撤回",
@@ -411,16 +271,6 @@
       "collectedAt": "2026-04-23T07:25:07.446Z"
     },
     {
-      "countryCode": "643",
-      "cat": "economic",
-      "title": "ロシアの4月産油量が急減 ウクライナのドローン攻撃が輸出港を直撃",
-      "src": "ロイター / ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104321.php",
-      "publishedAt": "2026-04-22T12:30:00Z",
-      "snippet": "ウクライナによる主要石油輸出港へのドローン攻撃とパイプライン停止により、ロシアの4月の産油量は日量40万バレル程度減少する見通しです。",
-      "collectedAt": "2026-04-23T07:25:07.446Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ゼレンスキー大統領、ロシアとの和平交渉に即時応じる用意を表明",
@@ -449,16 +299,6 @@
       "publishedAt": "2026-04-23T00:00:00Z",
       "snippet": "イエメンのフーシー派は沈黙を破り、イラン側での参戦を宣言。極超音速ミサイル等を用いてイスラエル領内への攻撃を開始したと報じられました。",
       "collectedAt": "2026-04-23T07:25:07.446Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "tension",
-      "title": "中国の王毅外相、東南アジア歴訪の一環でミャンマー訪問へ",
-      "src": "Myanmar Japon",
-      "url": "https://myanmarjapon.com/news-20260422-1/",
-      "publishedAt": "2026-04-22T15:00:00Z",
-      "snippet": "中国の王毅外相がミャンマーを訪問する見通し。国境付近での戦闘激化や地政学的リスクが高まる中、軍政トップとの会談が注目される。",
-      "collectedAt": "2026-04-23T10:16:51.204Z"
     },
     {
       "countryCode": "250",
@@ -511,16 +351,6 @@
       "collectedAt": "2026-04-23T10:16:51.204Z"
     },
     {
-      "countryCode": "643",
-      "cat": "economic",
-      "title": "ロシアの産油量が4月に急減 主要輸出港へのドローン攻撃が影響",
-      "src": "Reuters Japan",
-      "url": "https://jp.reuters.com/business/russia-oil-output-20260422/",
-      "publishedAt": "2026-04-22T12:30:00Z",
-      "snippet": "ロシアの4月の石油生産量が日量30万〜40万バレル減少。ウクライナによる主要輸出港へのドローン攻撃と、欧州向けパイプラインの停止が主な要因。",
-      "collectedAt": "2026-04-23T10:16:51.204Z"
-    },
-    {
       "countryCode": "682",
       "cat": "economic",
       "title": "サウジ内閣、PIFの2026-2030年新戦略を支持 経済変革を加速",
@@ -549,16 +379,6 @@
       "publishedAt": "2026-04-23T01:15:00Z",
       "snippet": "EUはウクライナに対し、約16.8兆円規模の融資を承認。石油パイプラインの修復完了を受け、これまで反対していたハンガリーが賛成に転じた。",
       "collectedAt": "2026-04-23T10:16:51.204Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "conflict",
-      "title": "ミャンマー抵抗勢力、軍政の和平協議呼びかけを拒否",
-      "src": "ASEAN経済通信",
-      "url": "https://www.asean-economy.com/news/myanmar-20260422",
-      "publishedAt": "2026-04-22T12:00:00Z",
-      "snippet": "軍政トップのミンアウンフライン氏が提案した7月までの和平協議について、主要な抵抗勢力2団体が拒否する姿勢を鮮明にした。",
-      "collectedAt": "2026-04-23T13:05:54.022Z"
     },
     {
       "countryCode": "250",
@@ -818,16 +638,6 @@
       "url": "https://www.ukrinform.jp/rubric-polytics/20260423-eu-loan.html",
       "publishedAt": "2026-04-23T15:28:00Z",
       "snippet": "欧州連合は、2026年から2027年にかけてのウクライナ支援として900億ユーロの融資を最終承認した。同時にロシアへの第20次制裁パッケージも採択された。",
-      "collectedAt": "2026-04-23T18:58:10.061Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英財務相、国防費拡充の財源として「戦時国債」の発行を検討",
-      "src": "英国ニュースダイジェスト",
-      "url": "https://www.news-digest.co.uk/news/news/2026-04-22-uk-news.html",
-      "publishedAt": "2026-04-22T10:00:00Z",
-      "snippet": "イギリス政府は中東情勢の緊迫化に伴う国防費増大に対応するため、異例の「戦時国債」発行による資金調達を検討している。",
       "collectedAt": "2026-04-23T18:58:10.061Z"
     },
     {
@@ -1411,16 +1221,6 @@
       "collectedAt": "2026-04-25T01:44:47.911Z"
     },
     {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナ前線で再編成と予備兵力投入を加速",
-      "src": "RBC Ukraine（SSRI経由）",
-      "url": "https://ssri-j.com/news/20260422.html",
-      "publishedAt": "2026-04-22T12:45:00Z",
-      "snippet": "ロシア軍はポクロフスク方面などで激しい圧力を継続しており、春から夏の攻勢に向けて部隊の再編成と予備兵力の投入を進めていると報じられています。",
-      "collectedAt": "2026-04-25T01:44:47.911Z"
-    },
-    {
       "countryCode": "792",
       "cat": "economic",
       "title": "トルコ中銀、政策金利を37.00％に据え置き　インフレ警戒を継続",
@@ -1711,16 +1511,6 @@
       "collectedAt": "2026-04-25T09:45:04.315Z"
     },
     {
-      "countryCode": "250",
-      "cat": "political",
-      "title": "マクロン大統領、レバノン首相と会談し全面停戦を支持",
-      "src": "在日フランス大使館",
-      "url": "https://jp.ambafrance.org/article12345",
-      "publishedAt": "2026-04-22T14:00:00Z",
-      "snippet": "マクロン大統領はレバノンのサラーム首相と会談。国連暫定軍（UNIFIL）のフランス兵死亡を受け、攻撃の全容解明と停戦遵守を求めた。",
-      "collectedAt": "2026-04-25T09:45:04.315Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン外相がパキスタン到着、米国との再協議を模索か",
@@ -1761,16 +1551,6 @@
       "collectedAt": "2026-04-25T09:45:04.315Z"
     },
     {
-      "countryCode": "643",
-      "cat": "political",
-      "title": "プーチン大統領の支持率が66.7％に低下、ネット規制が影響か",
-      "src": "SSRI",
-      "url": "https://ssri-j.com/news/russia20260422.html",
-      "publishedAt": "2026-04-22T12:45:00Z",
-      "snippet": "ロシア国営世論調査センターによると、プーチン氏の支持率が侵攻開始以来最大の下げ幅を記録。VPN封鎖などのネット規制への不満が背景とされる。",
-      "collectedAt": "2026-04-25T09:45:04.315Z"
-    },
-    {
       "countryCode": "706",
       "cat": "tension",
       "title": "ソマリア沖で海賊事案の疑い、EU海軍部隊が調査",
@@ -1801,16 +1581,6 @@
       "collectedAt": "2026-04-25T09:45:04.315Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ロシア軍が前線で再編成、ウクライナ軍最高司令官が警告",
-      "src": "SSRI",
-      "url": "https://ssri-j.com/news/ukraine20260422.html",
-      "publishedAt": "2026-04-22T13:00:00Z",
-      "snippet": "ウクライナのシルスキー最高司令官は、ロシア軍が予備兵力を投入しポクロフスク方面で攻勢を強めていると指摘。無人機部隊の強化で対抗する方針。",
-      "collectedAt": "2026-04-25T09:45:04.315Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、イランとの停戦延長を表明",
@@ -1829,7 +1599,97 @@
       "publishedAt": "2026-04-24T12:00:00Z",
       "snippet": "2026年1月に米軍がベネズエラを攻撃し、マドゥロ大統領を拘束。この作戦情報を利用して予測市場で巨額の利益を得た米兵が起訴された。",
       "collectedAt": "2026-04-25T09:45:04.315Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル、予測市場を全面禁止 ポリマーケットなど遮断",
+      "src": "CoinPost",
+      "url": "https://coinpost.jp/?p=526844",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "ブラジル中銀は、政治や選挙に関するデリバティブ取引を国内で禁止。米国発の予測市場プラットフォームへのアクセスを遮断し、オンラインギャンブルからの国民保護を強化した。",
+      "collectedAt": "2026-04-25T15:34:16.445Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "conflict",
+      "title": "ミャンマー、内戦地域に非常事態宣言 民政移管後初",
+      "src": "ライブドアニュース（共同通信）",
+      "url": "https://news.livedoor.com/article/detail/26284451/",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "ミンアウンフライン大統領は、民主派や少数民族武装勢力との戦闘が続く地域に非常事態宣言を発令。総選挙後の「民政移管」を演出しつつも、実態は軍事統制の継続を鮮明にしている。",
+      "collectedAt": "2026-04-25T15:34:16.445Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "米特使、パキスタンでイラン代表団と直接協議へ",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/789681",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "トランプ政権はウィトコフ特使とクシュナー氏をパキスタンに派遣。イラン側が求めた対面協議に応じ、核開発停止や停戦に向けた「譲れない一線」を提示する見通し。",
+      "collectedAt": "2026-04-25T15:34:16.445Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエルとヒズボラ、停戦延長後も攻撃の応酬続く",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260425-OYT1T50177/",
+      "publishedAt": "2026-04-25T16:58:00Z",
+      "snippet": "レバノン南部でイスラエル軍とヒズボラの銃撃戦が発生し、戦闘員6人が死亡。ワシントンでの停戦延長合意直後だが、現場では依然として不安定な状況が続いている。",
+      "collectedAt": "2026-04-25T15:34:16.445Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、戦略17分野の人材育成強化を指示",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/politics/20260425-OYT1T50150/",
+      "publishedAt": "2026-04-25T15:00:00Z",
+      "snippet": "高市政権はAIや半導体など「戦略17分野」の成長に向けた人材育成ビジョン案を判明。特定分野に強い大学への重点支援やリスキリングの推進を夏までに取りまとめる方針。",
+      "collectedAt": "2026-04-25T15:34:16.445Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジ内閣、PIFの2026-2030年新戦略を支持",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/business/article_234567/",
+      "publishedAt": "2026-04-23T00:00:00Z",
+      "snippet": "ムハンマド皇太子が議長を務める閣議で、公共投資基金（PIF）の次期5カ年戦略を承認。非石油輸出の15％増を目指し、デジタル経済のグローバルハブとしての地位を固める方針。",
+      "collectedAt": "2026-04-25T15:34:16.445Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシア軍がウクライナ各地に大規模攻撃、過去最大規模の無人機投入",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260425-OYT1T50178/",
+      "publishedAt": "2026-04-25T23:24:00Z",
+      "snippet": "ロシア軍がミサイル47発、無人機619機による大規模攻撃を実施。ドニプロなどで民間施設が標的となり、少なくとも7人が死亡した。ゼレンスキー大統領は防空支援を強く要請。",
+      "collectedAt": "2026-04-25T15:34:16.445Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "economic",
+      "title": "英25/26年度財政赤字、GDP比4.3％に縮小 6年ぶり低水準",
+      "src": "Reuters (via Yahoo)",
+      "url": "https://finance.yahoo.co.jp/news/detail/20260423-reuters",
+      "publishedAt": "2026-04-23T17:24:00Z",
+      "snippet": "英国の2025/26年度の財政赤字は1320億ポンドとなり、対GDP比でパンデミック以降最低を記録。しかし利払い費は過去2番目の高水準で、中東情勢による経済への暗雲も懸念されている。",
+      "collectedAt": "2026-04-25T15:34:16.445Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、輸入関税還付の最高裁判決を批判し企業を脅迫",
+      "src": "Vietnam.vn (CLO)",
+      "url": "https://www.vietnam.vn/ja/ong-trump-de-doa-cac-tap-doan-lon-doi-hoan-thue-nhap-khau/",
+      "publishedAt": "2026-04-25T00:00:00Z",
+      "snippet": "トランプ大統領は、自身の関税政策を違法とした最高裁判決を「ばかげている」と非難。還付を求めるアマゾンやアップルに対し、政府との関係悪化を辞さない強い警告を発した。",
+      "collectedAt": "2026-04-25T15:34:16.445Z"
     }
   ],
-  "updatedAt": "2026-04-25T09:45:04.315Z"
+  "updatedAt": "2026-04-25T15:34:16.445Z"
 }
