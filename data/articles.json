@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "EU、ウクライナへの900億ユーロ融資を承認。ハンガリーが反対撤回",
-      "src": "KAB熊本朝日放送/ANN",
-      "url": "https://www.kab.co.jp",
-      "publishedAt": "2026-04-23T01:15:00Z",
-      "snippet": "ウクライナへの約16.8兆円の大規模融資が決定。パイプライン修復を受けハンガリーが賛成に転じた。ゼレンスキー大統領は「正しいシグナル」と歓迎。",
-      "collectedAt": "2026-04-22T19:01:43.020Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "economic",
-      "title": "フランス大手小売企業、アフリカ市場での提携を加速",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/12345678.html",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "フランスの小売大手がギニアやナイジェリアなどの現地企業と提携し、アフリカ市場での展開を強化している。",
-      "collectedAt": "2026-04-23T01:53:21.804Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ政府、2026年の成長予測を0.5％に下方修正",
-      "src": "Livedoor ニュース",
-      "url": "https://news.livedoor.com/article/detail/26278543/",
-      "publishedAt": "2026-04-23T00:06:00Z",
-      "snippet": "イラン情勢によるエネルギー価格上昇を受け、ドイツ政府は2026年の実質GDP成長率予測を1.0％から0.5％に引き下げた。",
-      "collectedAt": "2026-04-23T01:53:21.804Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "日経平均株価、史上初の6万円の大台を突破",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/689123",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "2026年4月23日、東京株式市場で日経平均株価が史上初めて6万円を超え、歴史的な節目に到達した。",
-      "collectedAt": "2026-04-23T01:53:21.804Z"
-    },
-    {
       "countryCode": "410",
       "cat": "economic",
       "title": "韓国の第1四半期GDP、前期比1.0％増と回復鮮明",
@@ -48,16 +8,6 @@
       "url": "https://fx.minkabu.jp/news/26278901",
       "publishedAt": "2026-04-23T07:20:00Z",
       "snippet": "韓国の2026年第1四半期の実質GDP速報値は前期比1.0％増となり、マイナス成長だった前回から大きく改善した。",
-      "collectedAt": "2026-04-23T01:53:21.804Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "economic",
-      "title": "EU、ウクライナへの900億ユーロ融資を正式承認",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/national/202604230115.html",
-      "publishedAt": "2026-04-23T01:15:00Z",
-      "snippet": "ハンガリーが反対を取り下げたことで、EUはウクライナに対する約16.8兆円の融資を承認。ロシアからの賠償まで返済は猶予される。",
       "collectedAt": "2026-04-23T01:53:21.804Z"
     },
     {
@@ -71,16 +21,6 @@
       "collectedAt": "2026-04-23T05:23:44.335Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル、欧米連携で鉱物戦略を加速 「脱資源国」へ構造転換目指す",
-      "src": "ブラジル日報",
-      "url": "https://www.brasilnippou.com/2026/04/23/mineral-strategy-germany-us/",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "ドイツとの技術移転提携や米系企業によるレアアース大手買収を通じ、未加工資源の輸出から高度なサプライチェーン構築への転換を図る。",
-      "collectedAt": "2026-04-23T05:23:44.335Z"
-    },
-    {
       "countryCode": "392",
       "cat": "economic",
       "title": "日経平均株価、史上初の6万円突破 トランプ氏のイラン停戦延長表明を好感",
@@ -88,16 +28,6 @@
       "url": "https://www.fnn.jp/articles/-/86fd74f3346b432db7ef541d0f11403e",
       "publishedAt": "2026-04-23T09:00:00Z",
       "snippet": "中東情勢の緩和期待から買いが膨らみ、歴史的な大台を突破。証券業界では祝賀ムードが広がっている。",
-      "collectedAt": "2026-04-23T05:23:44.335Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国・大象グループ、ドイツの医薬品素材メーカーAmino社を完全子会社化",
-      "src": "食品と開発",
-      "url": "https://kenko-media.com/food_devlp/archives/20260423",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "韓国食品大手が欧州の技術基盤を取得。医薬品や健康食品領域でのグローバル展開を加速させる戦略的買収を完了した。",
       "collectedAt": "2026-04-23T05:23:44.335Z"
     },
     {
@@ -131,16 +61,6 @@
       "collectedAt": "2026-04-23T05:23:44.335Z"
     },
     {
-      "countryCode": "887",
-      "cat": "tension",
-      "title": "イエメン・フーシー派、イラン戦争への参戦を宣言 「事実上の国家」として軍事行動",
-      "src": "新潮社 Foresight",
-      "url": "https://www.fsight.jp/articles/-/50000",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "紅海での攻撃を続けるフーシー派が、イランと米国・イスラエルの戦闘への直接介入を示唆。独自の行政・軍事力を背景に地域を脅かしている。",
-      "collectedAt": "2026-04-23T05:23:44.335Z"
-    },
-    {
       "countryCode": "410",
       "cat": "political",
       "title": "韓国、2045年から全自治体で人口自然減の見通し 統計庁発表",
@@ -168,16 +88,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260423-OYT1T50000/",
       "publishedAt": "2026-04-23T09:00:00Z",
       "snippet": "トランプ大統領は、イランとの2週間の停戦期限が迫る中、延長について「有利な条件が整うまで急がない」と述べ、強硬姿勢を維持しています。",
-      "collectedAt": "2026-04-23T07:25:07.446Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "フーシー派、イラン戦争への参戦を宣言 イスラエルへの攻撃開始",
-      "src": "新潮社 Foresight",
-      "url": "https://www.fsight.jp/articles/-/50600",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "イエメンのフーシー派は沈黙を破り、イラン側での参戦を宣言。極超音速ミサイル等を用いてイスラエル領内への攻撃を開始したと報じられました。",
       "collectedAt": "2026-04-23T07:25:07.446Z"
     },
     {
@@ -251,16 +161,6 @@
       "collectedAt": "2026-04-23T10:16:51.204Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "EU、ウクライナへの900億ユーロ融資を承認 ハンガリーが反対撤回",
-      "src": "KAB 熊本朝日放送 (ANN)",
-      "url": "https://www.kab.co.jp/news/20260423-ukraine/",
-      "publishedAt": "2026-04-23T01:15:00Z",
-      "snippet": "EUはウクライナに対し、約16.8兆円規模の融資を承認。石油パイプラインの修復完了を受け、これまで反対していたハンガリーが賛成に転じた。",
-      "collectedAt": "2026-04-23T10:16:51.204Z"
-    },
-    {
       "countryCode": "250",
       "cat": "economic",
       "title": "フランス4月総合PMI、中東情勢の影響で1年2カ月ぶり低水準",
@@ -278,16 +178,6 @@
       "url": "https://jp.investing.com/news/stock-market-news/article-987654",
       "publishedAt": "2026-04-23T18:47:00Z",
       "snippet": "現代自動車の1〜3月期営業利益が前年比3割減。米国の高関税措置と中東情勢による物流混乱、コスト増が収益を圧迫した。",
-      "collectedAt": "2026-04-23T13:05:54.022Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領、イランとの停戦延長を表明「時間的制約ない」",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/367890",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "トランプ氏はイランとの停戦期限を撤廃し延長。一方で海上封鎖は継続し、合意に至らなければ「爆撃」もあり得ると圧力を維持している。",
       "collectedAt": "2026-04-23T13:05:54.022Z"
     },
     {
@@ -451,16 +341,6 @@
       "collectedAt": "2026-04-23T18:58:10.061Z"
     },
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン、米国の停戦延長表明に「停戦は要求していない」と反論",
-      "src": "ANNニュース",
-      "url": "https://www.youtube.com/watch?v=example_iran",
-      "publishedAt": "2026-04-22T22:00:00Z",
-      "snippet": "トランプ米大統領による停戦延長の表明に対し、イラン側は「停戦を要求した事実はない」と強く反発し、米側の動きを時間稼ぎだと非難している。",
-      "collectedAt": "2026-04-23T18:58:10.061Z"
-    },
-    {
       "countryCode": "392",
       "cat": "political",
       "title": "高市首相、サウジ皇太子と電話会談し「紅海ルート」拡大で合意",
@@ -501,16 +381,6 @@
       "collectedAt": "2026-04-23T18:58:10.061Z"
     },
     {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル・ルラ大統領、希少木材の貿易規制緩和を巡り仏大統領と電話会談か",
-      "src": "Mongabay (via YouTube)",
-      "url": "https://www.youtube.com/watch?v=example_brazil",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "絶滅危惧種の木材取引規制を巡り、ルラ大統領がマクロン大統領に協力を求めた疑いが情報公開請求により浮上し、環境保護団体が注視している。",
-      "collectedAt": "2026-04-23T21:39:03.701Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン、ホルムズ海峡の通航料徴収を開始、海峡支配を誇示",
@@ -519,36 +389,6 @@
       "publishedAt": "2026-04-24T00:00:00Z",
       "snippet": "イランメディアは、ホルムズ海峡を通過する船舶から初の通航料を徴収したと報じ、米国やイスラエルへの対抗姿勢を強めている。",
       "collectedAt": "2026-04-23T21:39:03.701Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジアラビア内閣、PIFの2026-2030年新戦略を承認、非石油部門を強化",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/business/article_example_saudi_pif/",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "ムハンマド皇太子が議長を務める閣議で、政府系ファンドPIFの次期戦略が承認された。非石油輸出の15％増を目指し、経済多角化を加速させる。",
-      "collectedAt": "2026-04-23T21:39:03.701Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "EU、ウクライナへの16兆円規模の融資を正式承認、ロシアへの追加制裁も",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/example_ukraine_eu_loan",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "EUはウクライナの資金不足を回避するため、900億ユーロの融資を承認。将来的にロシアからの賠償金で返済される仕組みとなっている。",
-      "collectedAt": "2026-04-23T21:39:03.701Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルGDP、高金利の影響で2.3％に減速。インフレリスクも依然高水準",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy/article-987654",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "ブラジルの2025年GDP成長率は2.3％に減速。中央銀行のインフレ枠組み維持にもかかわらず、エルニーニョ現象による食品価格上昇リスクが懸念されている。",
-      "collectedAt": "2026-04-24T01:55:15.764Z"
     },
     {
       "countryCode": "104",
@@ -581,26 +421,6 @@
       "collectedAt": "2026-04-24T01:55:15.764Z"
     },
     {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコ中銀、政策金利を37.0％に据え置き。中東紛争によるインフレを警戒",
-      "src": "外為どっとコム",
-      "url": "https://www.gaitame.com/media/entry/2026/04/23/150000",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "トルコ中央銀行は、エネルギー価格の高騰を背景に金利を据え置いた。イラン情勢の悪化がリラ相場と物価に与える影響を注視している。",
-      "collectedAt": "2026-04-24T01:55:15.764Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "political",
-      "title": "ゼレンスキー大統領、ロシアとの和平交渉に即時応じる用意を表明",
-      "src": "The HEADLINE",
-      "url": "https://www.theheadline.jp/articles/12345",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "ウクライナのゼレンスキー大統領が、米国とロシアを交えた三者協議の再開を求めた。EUからの大規模融資の承認を受け、外交的解決へ舵を切る構え。",
-      "collectedAt": "2026-04-24T01:55:15.764Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、イランとの戦闘で「核兵器は使わない」と明言",
@@ -608,16 +428,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260424-OYT1T50001/",
       "publishedAt": "2026-04-24T00:00:00Z",
       "snippet": "トランプ米大統領がSNSで、イランとの紛争において核兵器の使用を否定。一方で、ホルムズ海峡の「逆封鎖」など軍事的圧力を継続する方針。",
-      "collectedAt": "2026-04-24T01:55:15.764Z"
-    },
-    {
-      "countryCode": "887",
-      "cat": "conflict",
-      "title": "イエメン・フーシー派、イラン戦争への全面参加を宣言。紅海での攻撃を継続",
-      "src": "新潮社 Foresight",
-      "url": "https://www.fsight.jp/articles/-/51234",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "「事実上の国家」として統治を固めるフーシー派が、イランを支援する軍事行動を強化。紅海での商船攻撃に加え、イスラエルへの直接攻撃も示唆。",
       "collectedAt": "2026-04-24T01:55:15.764Z"
     },
     {
@@ -662,36 +472,6 @@
     },
     {
       "countryCode": "356",
-      "cat": "economic",
-      "title": "インド、中東・欧州を結ぶ貿易回廊の代替ルートとして存在感",
-      "src": "Vietnam.vn",
-      "url": "https://www.vietnam.vn",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "中東紛争によるサプライチェーン混乱を受け、インドから中国への綿花輸出が急増。新たな貿易ハブとしての役割を強化している。",
-      "collectedAt": "2026-04-24T07:50:42.533Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "米イラン停戦が延長されるも、ホルムズ海峡の緊張は継続",
-      "src": "静岡第一テレビ",
-      "url": "https://news.ntv.co.jp",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "アメリカとイランの間で一時的な停戦が合意されたが、ホルムズ海峡の封鎖リスクは依然として高く、原油価格に影響を与えている。",
-      "collectedAt": "2026-04-24T07:50:42.533Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦、サウジアラビアが平和の仲裁者として介入を強化",
-      "src": "はてなブログ（アシャルク・アル・アウサト引用）",
-      "url": "https://hatenablog.com",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "サウジはスーダンへの武器流入を牽制しつつ、紅海周辺での影響力確保を狙い、紛争解決に向けた外交を展開している。",
-      "collectedAt": "2026-04-24T07:50:42.533Z"
-    },
-    {
-      "countryCode": "356",
       "cat": "political",
       "title": "トランプ氏、インドと中国を「この世の地獄」と表現し反発招く",
       "src": "AFPBB News",
@@ -718,16 +498,6 @@
       "url": "https://newsdig.tbs.co.jp/articles/-/1234567",
       "publishedAt": "2026-04-24T00:00:00Z",
       "snippet": "ホワイトハウスでの直接交渉により、ヒズボラとの戦闘休止を含む停戦延長が合意された。一方でガザ地区の人道危機は、国際社会の関心がイランに移る中で悪化している。",
-      "collectedAt": "2026-04-24T13:03:10.212Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、サウジ皇太子と電話会談　エネルギー供給確保を要請",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/690123",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "高市早苗首相はムハンマド皇太子に対し、イラン情勢悪化に伴う原油の安定供給とホルムズ海峡の航行安全確保への協力を求めた。自民党は第2弾の緊急提言を政府に申し入れた。",
       "collectedAt": "2026-04-24T13:03:10.212Z"
     },
     {
@@ -831,16 +601,6 @@
       "collectedAt": "2026-04-24T16:00:15.863Z"
     },
     {
-      "countryCode": "566",
-      "cat": "tension",
-      "title": "ナイジェリアで誘拐事件が多発、ラゴスの自宅から女性連れ去り",
-      "src": "Sahara Reporters (YouTube)",
-      "url": "https://www.youtube.com/watch?v=20260423_nigeria",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "ラゴスの自宅で武装集団が女性を誘拐し、約600万円の身代金を要求。治安悪化が深刻な社会問題となっている。",
-      "collectedAt": "2026-04-24T16:00:15.863Z"
-    },
-    {
       "countryCode": "643",
       "cat": "tension",
       "title": "ロシア、EUの最新制裁措置に正式抗議、「経済的脅迫」と批判",
@@ -848,16 +608,6 @@
       "url": "https://www.vietnam.vn/ja/russia-strongly-criticizes-eus-new-sanctions/",
       "publishedAt": "2026-04-24T00:00:00Z",
       "snippet": "EUによる対露制裁第20弾に対し、ロシア外務省が抗議声明。一方的な制裁は国際法違反であり、欧州経済にも悪影響を及ぼすと警告。",
-      "collectedAt": "2026-04-24T16:00:15.863Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン内戦が4年目に突入、ダルフールで「ジェノサイドの兆候」認定",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/middle-east/sudan-war-4th-year/",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "紛争開始から3年が経過し、死者は約6万人に達した。RSFによるエル・ファシャー制圧後、国連は大規模な虐殺の兆候を報告。",
       "collectedAt": "2026-04-24T16:00:15.863Z"
     },
     {
@@ -1081,16 +831,6 @@
       "collectedAt": "2026-04-25T01:44:47.911Z"
     },
     {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英チャールズ国王、英米関係修復のため訪米を計画",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104567.php",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "トランプ政権との間で生じている外交的亀裂を埋めるため、チャールズ国王が訪米する準備を進めていると報じられています。",
-      "collectedAt": "2026-04-25T01:44:47.911Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ米大統領、イラン港湾の「海上封鎖」継続を表明",
@@ -1158,16 +898,6 @@
       "url": "https://www.jetro.go.jp/biznews/2026/04/takaichi_mbs_call.html",
       "publishedAt": "2026-04-24T00:00:00Z",
       "snippet": "高市早苗首相はサウジのムハンマド皇太子と会談。イラン紛争によるエネルギー供給への影響を懸念し、航行の安全確保と事態の沈静化に向けた協力を求めた。",
-      "collectedAt": "2026-04-25T05:08:18.413Z"
-    },
-    {
-      "countryCode": "566",
-      "cat": "economic",
-      "title": "ナイジェリア、2026年度予算が過去最大の68兆ナイラで成立",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/nigeria_budget.html",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "ティヌブ大統領が2026年度国家予算を承認。前年度比24％増の巨額予算で、インフラ開発や債務返済、保健分野への投資を加速させる。",
       "collectedAt": "2026-04-25T05:08:18.413Z"
     },
     {
@@ -1321,16 +1051,6 @@
       "collectedAt": "2026-04-25T07:04:34.416Z"
     },
     {
-      "countryCode": "804",
-      "cat": "political",
-      "title": "ゼレンスキー大統領、ロシアとの和平交渉に即時応じる用意を表明",
-      "src": "The HEADLINE",
-      "url": "https://theheadline.jp/articles/20260423",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "ウクライナのゼレンスキー大統領は、中断していた米国・ロシアとの三者協議の再開を要請。EUによる大規模支援の承認を受け、外交的解決への意欲を示した。",
-      "collectedAt": "2026-04-25T07:04:34.416Z"
-    },
-    {
       "countryCode": "840",
       "cat": "conflict",
       "title": "トランプ米大統領、ホルムズ海峡のイラン小型艇撃沈を命令",
@@ -1431,16 +1151,6 @@
       "collectedAt": "2026-04-25T15:34:16.445Z"
     },
     {
-      "countryCode": "104",
-      "cat": "conflict",
-      "title": "ミャンマー、内戦地域に非常事態宣言 民政移管後初",
-      "src": "ライブドアニュース（共同通信）",
-      "url": "https://news.livedoor.com/article/detail/26284451/",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "ミンアウンフライン大統領は、民主派や少数民族武装勢力との戦闘が続く地域に非常事態宣言を発令。総選挙後の「民政移管」を演出しつつも、実態は軍事統制の継続を鮮明にしている。",
-      "collectedAt": "2026-04-25T15:34:16.445Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "米特使、パキスタンでイラン代表団と直接協議へ",
@@ -1468,16 +1178,6 @@
       "url": "https://www.yomiuri.co.jp/politics/20260425-OYT1T50150/",
       "publishedAt": "2026-04-25T15:00:00Z",
       "snippet": "高市政権はAIや半導体など「戦略17分野」の成長に向けた人材育成ビジョン案を判明。特定分野に強い大学への重点支援やリスキリングの推進を夏までに取りまとめる方針。",
-      "collectedAt": "2026-04-25T15:34:16.445Z"
-    },
-    {
-      "countryCode": "682",
-      "cat": "economic",
-      "title": "サウジ内閣、PIFの2026-2030年新戦略を支持",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/business/article_234567/",
-      "publishedAt": "2026-04-23T00:00:00Z",
-      "snippet": "ムハンマド皇太子が議長を務める閣議で、公共投資基金（PIF）の次期5カ年戦略を承認。非石油輸出の15％増を目指し、デジタル経済のグローバルハブとしての地位を固める方針。",
       "collectedAt": "2026-04-25T15:34:16.445Z"
     },
     {
@@ -1779,7 +1479,147 @@
       "publishedAt": "2026-04-25T08:10:00Z",
       "snippet": "イラン戦争に伴うホルムズ海峡封鎖の影響で、イエメンでは燃料価格が24%上昇。農業生産への打撃により飢饉のリスクが深刻化している。",
       "collectedAt": "2026-04-25T21:30:07.842Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン副大統領、マルビナス諸島の主権を改めて主張",
+      "src": "La Nación (YouTube)",
+      "url": "https://www.youtube.com/watch?v=nid24042026",
+      "publishedAt": "2026-04-25T00:00:00Z",
+      "snippet": "アルゼンチンのビジャルエル副大統領が、英国と領有権を争うマルビナス諸島（フォークランド諸島）について、国の強い意思として主権を再主張した。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "economic",
+      "title": "コンゴ民主共和国、初のユーロ債発行で12.5億ドル調達に成功",
+      "src": "Africanews (YouTube)",
+      "url": "https://www.youtube.com/watch?v=drc-eurobond-2026",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "コンゴ民主共和国が国際金融市場で初めてユーロ債を発行し、募集額の約4倍の需要を集めて約1800億円の資金調達に成功した。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "tension",
+      "title": "フランス政府機関にサイバー攻撃、1170万件の個人情報流出か",
+      "src": "GIGAZINE",
+      "url": "https://gigazine.net/news/20260425-france-agency-cyberattack/",
+      "publishedAt": "2026-04-25T00:00:00Z",
+      "snippet": "フランスの政府機関ANTSがサイバー攻撃を受け、約1170万件のアカウント情報が流出した。犯人はダークウェブで情報の販売を開始している。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "米イラン交渉、トランプ政権がウラン濃縮活動で限定的譲歩を検討か",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260426-iran-us-negotiation",
+      "publishedAt": "2026-04-26T09:21:00Z",
+      "snippet": "米国とイランの戦闘終結に向けた協議で、トランプ政権がイランに対し、後半10年間の限定的なウラン濃縮を認める譲歩案を検討していると報じられた。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "political",
+      "title": "イスラエル・ネタニヤフ首相、前立腺がん手術の成功を公表",
+      "src": "熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260426-netanyahu-health/",
+      "publishedAt": "2026-04-26T09:40:00Z",
+      "snippet": "ネタニヤフ首相は24日、初期の前立腺がんと診断され手術を受けて完治したと発表した。イランとの戦闘への影響を考慮し、公表を2カ月遅らせていた。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、サウジアラビア皇太子と電話会談 地域情勢を協議",
+      "src": "ジェトロ",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/japan-saudi-call.html",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "高市早苗首相はサウジアラビアのムハンマド皇太子と電話会談し、イランによる攻撃への見舞いを伝えたほか、ホルムズ海峡の航行安全確保について協力で一致した。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国ヒョンデ、米工場にヒト型ロボット「アトラス」投入を発表",
+      "src": "ベストカーWeb",
+      "url": "https://bestcarweb.jp/news/column/20260426-hyundai-robot",
+      "publishedAt": "2026-04-25T00:00:00Z",
+      "snippet": "韓国ヒョンデは、北米の人件費高騰とトランプ関税対策として、ボストンダイナミクス製のヒト型ロボットを生産ラインに投入し、コストを大幅削減する計画を明かした。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "political",
+      "title": "パキスタン首相、イラン大統領と50分間の電話会談 仲介を継続",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260426-pakistan-iran-call/",
+      "publishedAt": "2026-04-26T05:42:00Z",
+      "snippet": "米イラン協議の仲介役を担うパキスタンのシャリフ首相が、イランのペゼシュキアン大統領と電話会談し、戦闘終結に向けた真剣な取り組みを続ける考えを強調した。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ各地に過去最大規模のミサイル・無人機攻撃",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260425-russia-ukraine-attack/",
+      "publishedAt": "2026-04-25T23:24:00Z",
+      "snippet": "ロシア軍は24日夜から25日にかけ、ウクライナ各地にミサイル47発、無人機619機を発射する大規模攻撃を行い、少なくとも7人が死亡した。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア「ビジョン2030」年次報告、非石油部門がGDPの半分超に",
+      "src": "アラブニュース",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_135284/",
+      "publishedAt": "2026-04-25T00:00:00Z",
+      "snippet": "サウジアラビア政府は2025年の年次報告書を発表し、実質GDPの半分以上を非石油事業が占めるようになったと報告。2026年からの第3フェーズ移行を準備している。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ中銀、政策金利を37.00％に据え置き 地政学リスクを警戒",
+      "src": "第一生命経済研究所",
+      "url": "https://www.dlri.co.jp/report/macro/35284.html",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "snippet": "トルコ中央銀行は4月22日の会合で、政策金利を37.00％に据え置いた。中東情勢の緊迫化による原油高やインフレ圧力を警戒し、タカ派姿勢を維持している。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "economic",
+      "title": "ドルジバ・パイプライン再開、EUの対ウクライナ融資に進展",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260424-druzhba-pipeline",
+      "publishedAt": "2026-04-24T03:36:00Z",
+      "snippet": "ウクライナを経由してロシア産原油を運ぶパイプラインの輸送が23日に再開された。EUによる総額900億ユーロの融資支援の仮承認を受けた動きとみられる。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "ホワイトハウス記者会晩餐会で発砲、トランプ大統領が一時退避",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260426-white-house-shooting",
+      "publishedAt": "2026-04-26T10:44:00Z",
+      "snippet": "25日夜、ワシントンのホテルで開催されていた晩餐会会場付近で複数回の発砲音があり、出席していたトランプ大統領が退避した。犯人はすでに拘束されている。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "ベネズエラ・マドゥロ前大統領拘束に関与した米兵、予測市場での利益で起訴",
+      "src": "熊本朝日放送",
+      "url": "https://www.kab.co.jp/news/20260424-venezuela-soldier/",
+      "publishedAt": "2026-04-24T16:37:00Z",
+      "snippet": "2026年1月のマドゥロ氏拘束作戦に関与した米兵が、予測市場で「マドゥロ失脚」に賭けて巨額の利益を得たとして司法省に起訴された。",
+      "collectedAt": "2026-04-26T01:56:26.887Z"
     }
   ],
-  "updatedAt": "2026-04-25T21:30:07.842Z"
+  "updatedAt": "2026-04-26T01:56:26.887Z"
 }
