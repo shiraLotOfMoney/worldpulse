@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "760",
-      "cat": "conflict",
-      "title": "シリア国内の米国・イスラエル関連施設にイラン側が攻撃を示唆",
-      "src": "海外出張情報 (読売新聞引用)",
-      "url": "https://www.tokutenryoko.com/news/middle-east-20260424",
-      "publishedAt": "2026-04-24T20:00:00Z",
-      "snippet": "イラン革命防衛隊が、シリアを含む地域内の米国系大学や施設を標的にする可能性を警告。中東全域で緊張が極限に達している。",
-      "collectedAt": "2026-04-24T16:00:15.863Z"
-    },
-    {
       "countryCode": "364",
       "cat": "tension",
       "title": "イラン外相、パキスタンに到着　米国との停戦再協議の可能性",
@@ -58,26 +48,6 @@
       "url": "https://www3.nhk.or.jp/news/html/20260425/iran_pakistan_talks.html",
       "publishedAt": "2026-04-25T06:03:00Z",
       "snippet": "イランのアラグチ外相率いる代表団がイスラマバードに到着。トランプ米政権が派遣した特使らと、紛争終結に向けた停戦合意の締結を目指し協議を行う。",
-      "collectedAt": "2026-04-25T05:08:18.413Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "political",
-      "title": "パキスタン、米・イラン停戦協議の仲介役に イスラマバードで2回目会談",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/iran_pakistan_20260424",
-      "publishedAt": "2026-04-24T20:30:00Z",
-      "snippet": "パキスタンが仲介国となり、米国とイランの代表団がイスラマバードに集結。紛争の恒久的な終結に向けた和平合意の締結が焦点となっている。",
-      "collectedAt": "2026-04-25T05:08:18.413Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス、18歳未満へのタバコ販売を生涯禁止する法案が成立",
-      "src": "チバテレ＋プラス",
-      "url": "https://www.chiba-tv.com/plus/detail/20260424210226",
-      "publishedAt": "2026-04-24T21:02:00Z",
-      "snippet": "イギリス議会で、現在18歳未満の国民に対し生涯にわたってタバコ製品の購入を禁止する画期的な法案が可決された。次世代の健康保護を目指す。",
       "collectedAt": "2026-04-25T05:08:18.413Z"
     },
     {
@@ -1369,7 +1339,27 @@
       "publishedAt": "2026-04-27T10:29:00Z",
       "snippet": "フーシ派が紅海を通過する船舶から通行料を徴収する案を協議中と報じられた。イランによるホルムズ海峡封鎖の動きと連動しており、世界のサプライチェーンへの影響が懸念される。",
       "collectedAt": "2026-04-27T19:06:21.730Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "conflict",
+      "title": "パキスタンがアフガン攻撃、4人死亡とタリバン主張 和平協議に暗雲",
+      "src": "Reuters",
+      "url": "https://newsweekjapan.jp/headlines/world/2026/04/513456.php",
+      "publishedAt": "2026-04-27T17:39:00Z",
+      "snippet": "アフガニスタン東部でパキスタン軍による迫撃砲攻撃が発生し、タリバン暫定政権は4人が死亡したと発表。両国間の緊張が再燃し、和平協議の頓挫が懸念されている。",
+      "collectedAt": "2026-04-27T21:48:41.078Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "米国、ベネズエラ暫定大統領デルシー・ロドリゲスへの制裁を解除",
+      "src": "note (AP News引用)",
+      "url": "https://note.com/dailynews/n/n123456789abc",
+      "publishedAt": "2026-04-27T00:00:00Z",
+      "snippet": "1月の軍事作戦でマドゥロ氏を拘束した米国は、実権を握るロドリゲス氏を正当な統治者として承認。石油輸出の正常化に向けた制裁解除に踏み切った。",
+      "collectedAt": "2026-04-27T21:48:41.078Z"
     }
   ],
-  "updatedAt": "2026-04-27T19:06:21.730Z"
+  "updatedAt": "2026-04-27T21:48:41.078Z"
 }
