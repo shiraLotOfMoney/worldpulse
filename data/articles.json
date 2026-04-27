@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエルとレバノン、停戦を3週間延長。トランプ大統領が仲介",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260424-OYT1T50000/",
-      "publishedAt": "2026-04-24T09:40:00Z",
-      "snippet": "トランプ米大統領の仲介により、イスラエルとレバノンの停戦が3週間延長されることで合意。ホワイトハウスでの首脳会談も計画されている。",
-      "collectedAt": "2026-04-24T01:55:15.764Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、サウジ皇太子と電話会談 ホルムズ海峡の安全確保を要請",
-      "src": "JETRO",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/5d43614c13fce304.html",
-      "publishedAt": "2026-04-24T09:00:00Z",
-      "snippet": "高市早苗首相はサウジアラビアのムハンマド皇太子と会談。イランによる攻撃への見舞いを伝えると同時に、原油供給の安定と航行の安全確保に向けた協力を求めた。",
-      "collectedAt": "2026-04-24T05:28:57.669Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国検察、尹錫悦前大統領に懲役30年を求刑 戒厳令巡る罪で",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104260.php",
-      "publishedAt": "2026-04-24T11:00:00Z",
-      "snippet": "韓国検察は、2024年12月の戒厳令宣布を巡り、内乱予備罪などに問われた尹錫悦（ユン・ソンニョル）前大統領に対し、懲役30年の重刑を求刑した。",
-      "collectedAt": "2026-04-24T05:28:57.669Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン外相、パキスタンで米側と再協議へ、ホルムズ海峡の解放が焦点",
@@ -38,16 +8,6 @@
       "url": "https://www.fnn.jp/articles/-/20260424_01",
       "publishedAt": "2026-04-24T15:37:00Z",
       "snippet": "アラグチ外相がパキスタンを訪問し、米側と2度目の停戦協議を行う見通し。イラン側は停戦期間中の海峡解放を示唆している。",
-      "collectedAt": "2026-04-24T16:00:15.863Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル軍、イラン核施設への攻撃を継続、戦闘長期化の構え",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260424-01/",
-      "publishedAt": "2026-04-24T10:00:00Z",
-      "snippet": "ネタニヤフ首相は軍事作戦の終結時期を設定しない方針を強調。イラン国内の兵器開発拠点などへの空爆を強化している。",
       "collectedAt": "2026-04-24T16:00:15.863Z"
     },
     {
@@ -71,16 +31,6 @@
       "collectedAt": "2026-04-24T21:41:32.731Z"
     },
     {
-      "countryCode": "76",
-      "cat": "political",
-      "title": "ブラジル中央銀行、予測市場を全面禁止　ポリマーケットなど遮断",
-      "src": "CoinPost",
-      "url": "https://coinpost.jp/?p=526000",
-      "publishedAt": "2026-04-24T12:00:00Z",
-      "snippet": "ブラジル政府は国民の貯蓄保護を理由に、政治やスポーツの結果に賭ける予測市場プラットフォーム28件へのアクセスを遮断し、国内での取引を禁止しました。",
-      "collectedAt": "2026-04-24T21:41:32.731Z"
-    },
-    {
       "countryCode": "276",
       "cat": "economic",
       "title": "独IFO業況指数、4月は2020年以来の低水準　イラン情勢が打撃",
@@ -101,16 +51,6 @@
       "collectedAt": "2026-04-24T21:41:32.731Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "ガザの人道危機、イラン紛争の影で深刻化　復興に714億ドル必要と試算",
-      "src": "ARAB NEWS",
-      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
-      "publishedAt": "2026-04-24T12:00:00Z",
-      "snippet": "国連とEUは、ガザ地区の人間開発が77年逆行したと警告。イランとの戦争による検問所閉鎖が、ガザの飢餓リスクをさらに高めています。",
-      "collectedAt": "2026-04-24T21:41:32.731Z"
-    },
-    {
       "countryCode": "410",
       "cat": "political",
       "title": "韓国検察、尹錫悦前大統領に懲役30年を求刑　戒厳令を巡る内乱罪",
@@ -121,16 +61,6 @@
       "collectedAt": "2026-04-24T21:41:32.731Z"
     },
     {
-      "countryCode": "682",
-      "cat": "political",
-      "title": "サウジアラビア皇太子、日本の高市首相と電話会談　地域情勢を協議",
-      "src": "ジェトロ",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/saudi_japan_call.html",
-      "publishedAt": "2026-04-24T10:00:00Z",
-      "snippet": "ムハンマド皇太子は高市早苗首相と会談し、イラン情勢による海上安全保障への影響について意見交換。日本への安定的なエネルギー供給継続を確約しました。",
-      "collectedAt": "2026-04-24T21:41:32.731Z"
-    },
-    {
       "countryCode": "792",
       "cat": "economic",
       "title": "トルコ中央銀行、政策金利を37.00％に据え置き　原油高を警戒",
@@ -138,16 +68,6 @@
       "url": "https://www.dlri.co.jp/report/macro/20260424_turkey.html",
       "publishedAt": "2026-04-24T16:00:00Z",
       "snippet": "トルコ中銀は22日の会合で、中東情勢緊迫化によるインフレ再燃リスクを考慮し、政策金利を2会合連続で37％に据え置くことを決定しました。",
-      "collectedAt": "2026-04-24T21:41:32.731Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "ベネズエラ・マドゥロ前大統領拘束の機密でインサイダー取引、米兵を起訴",
-      "src": "チバテレ＋プラス (ハフポスト日本版)",
-      "url": "https://www.chiba-tv.com/plus/detail/20260424_insider",
-      "publishedAt": "2026-04-24T12:12:00Z",
-      "snippet": "2026年1月のマドゥロ氏拘束作戦に参加した米軍兵士が、予測市場ポリマーケットで大統領失脚に賭けて巨額の利益を得たとして、司法省に起訴されました。",
       "collectedAt": "2026-04-24T21:41:32.731Z"
     },
     {
@@ -189,16 +109,6 @@
       "publishedAt": "2026-04-24T16:53:00Z",
       "snippet": "ゼレンスキー大統領は、ロシアとの捕虜交換により193名のウクライナ軍人が帰還したと発表しました。負傷者も含まれており、帰還作業を継続する意向を示しました。",
       "collectedAt": "2026-04-25T01:44:47.911Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "political",
-      "title": "アフガニスタン、地域情勢の緊張続く中で経済的孤立深まる",
-      "src": "Google Search (Contextual)",
-      "url": null,
-      "publishedAt": "2026-04-24T09:00:00Z",
-      "snippet": "中東での紛争やホルムズ海峡の緊張を受け、アフガニスタンの経済的孤立がさらに進んでいる。近隣諸国との貿易ルートの不安定化が懸念されている。",
-      "collectedAt": "2026-04-25T05:08:18.413Z"
     },
     {
       "countryCode": "276",
@@ -271,16 +181,6 @@
       "collectedAt": "2026-04-25T07:04:34.416Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエルとレバノン、3週間の停戦延長で合意 トランプ氏発表",
-      "src": "KAB熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260424-ceasefire/",
-      "publishedAt": "2026-04-24T11:09:00Z",
-      "snippet": "トランプ米大統領は、イスラエルとレバノンが3週間の停戦延長で合意したと発表。年内の和平実現に向け、両首脳をホワイトハウスに招待する意向を示した。",
-      "collectedAt": "2026-04-25T07:04:34.416Z"
-    },
-    {
       "countryCode": "410",
       "cat": "political",
       "title": "韓国・尹前大統領に懲役30年求刑 平壌への無人機投入巡り",
@@ -321,16 +221,6 @@
       "collectedAt": "2026-04-25T09:45:04.315Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市政権、国家情報局の設置法案を衆院可決",
-      "src": "チャイナネット",
-      "url": "http://japanese.china.org.cn/politics/txt/2026-04/24/content_123456.htm",
-      "publishedAt": "2026-04-24T10:00:00Z",
-      "snippet": "高市早苗政権が推進する情報機関強化の一環として、国家情報局設置法案が可決。戦後初の本格的な対外情報機関創設に向けた動きが加速。",
-      "collectedAt": "2026-04-25T09:45:04.315Z"
-    },
-    {
       "countryCode": "410",
       "cat": "political",
       "title": "韓国・李在明大統領、ベトナム公式訪問を終了",
@@ -351,16 +241,6 @@
       "collectedAt": "2026-04-25T09:45:04.315Z"
     },
     {
-      "countryCode": "760",
-      "cat": "conflict",
-      "title": "シリア政府軍、米軍が撤退したアル・タンフ基地などを掌握",
-      "src": "アラブニュース",
-      "url": "https://www.arabnews.jp/article/syria20260218",
-      "publishedAt": "2026-04-24T09:00:00Z",
-      "snippet": "トランプ政権の撤退方針に伴い、シリア政府軍が戦略的要衝であるアル・タンフ基地を再占領。国家主権の回復を強調している。",
-      "collectedAt": "2026-04-25T09:45:04.315Z"
-    },
-    {
       "countryCode": "840",
       "cat": "political",
       "title": "トランプ大統領、イランとの停戦延長を表明",
@@ -368,16 +248,6 @@
       "url": "https://www.yomiuri.co.jp/world/20260424-OYT1T50002/",
       "publishedAt": "2026-04-24T17:00:00Z",
       "snippet": "トランプ大統領はパキスタンの仲介を受け、イランとの停戦期間を延長。一方で海上封鎖は継続し、イスラマバードでの直接交渉に期待を示した。",
-      "collectedAt": "2026-04-25T09:45:04.315Z"
-    },
-    {
-      "countryCode": "862",
-      "cat": "political",
-      "title": "米軍、ベネズエラのマドゥロ大統領を拘束・移送",
-      "src": "GIGAZINE",
-      "url": "https://gigazine.net/news/20260424-us-soldier-maduro-bet/",
-      "publishedAt": "2026-04-24T12:00:00Z",
-      "snippet": "2026年1月に米軍がベネズエラを攻撃し、マドゥロ大統領を拘束。この作戦情報を利用して予測市場で巨額の利益を得た米兵が起訴された。",
       "collectedAt": "2026-04-25T09:45:04.315Z"
     },
     {
@@ -471,16 +341,6 @@
       "collectedAt": "2026-04-25T18:38:53.652Z"
     },
     {
-      "countryCode": "706",
-      "cat": "tension",
-      "title": "ソマリア、イスラエル船舶のバブ・エル・マンデブ海峡通過を禁止",
-      "src": "Pars Today",
-      "url": "https://parstoday.ir/ja/news/world-i132449",
-      "publishedAt": "2026-04-24T10:00:00Z",
-      "snippet": "イスラエルによるソマリランド承認への対抗措置として、ソマリア政府は紅海の要衝である海峡のイスラエル関連船舶の通航を禁止すると宣言した。",
-      "collectedAt": "2026-04-25T18:38:53.652Z"
-    },
-    {
       "countryCode": "804",
       "cat": "conflict",
       "title": "ウクライナ南部ドニプロに大規模攻撃、死傷者60人超 ゼレンスキー氏非難",
@@ -518,16 +378,6 @@
       "url": "https://nordot.app/1156000000000000000",
       "publishedAt": "2026-04-25T19:30:00Z",
       "snippet": "中国の王毅外相がミャンマーを訪問し、新大統領に就任したミンアウンフライン氏と会談。地域情勢や経済協力について協議した。",
-      "collectedAt": "2026-04-25T21:30:07.842Z"
-    },
-    {
-      "countryCode": "180",
-      "cat": "economic",
-      "title": "コンゴ民主共和国、初のユーロ債発行で12.5億ドルを調達",
-      "src": "Africanews",
-      "url": "https://www.youtube.com/watch?v=DRC_Eurobond_2026",
-      "publishedAt": "2026-04-24T12:00:00Z",
-      "snippet": "コンゴ民主共和国が国際市場で初のユーロ債を発行し、12.5億ドルの調達に成功。募集額の約4倍の需要が集まり、国際社会の信頼を示した。",
       "collectedAt": "2026-04-25T21:30:07.842Z"
     },
     {
@@ -811,16 +661,6 @@
       "collectedAt": "2026-04-26T09:46:01.275Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルが予測市場を全面禁止、ポリマーケットなどへのアクセス遮断",
-      "src": "CoinPost",
-      "url": "https://coinpost.jp/?p=20260424_brazil",
-      "publishedAt": "2026-04-24T09:00:00Z",
-      "snippet": "ブラジル中央銀行が、賭博規制に準拠していないとしてPolymarketを含む28の予測市場プラットフォームを禁止。国民の貯蓄保護を目的とした措置で、国際的な規制強化の流れを反映している。",
-      "collectedAt": "2026-04-26T09:46:01.275Z"
-    },
-    {
       "countryCode": "250",
       "cat": "tension",
       "title": "マクロン大統領、トランプ氏をプーチン氏・習氏と同列視「欧州と対立」",
@@ -858,16 +698,6 @@
       "url": "https://www.jetro.go.jp/biznews/2026/04/saudi_japan",
       "publishedAt": "2026-04-24T16:00:00Z",
       "snippet": "ムハンマド皇太子が高市首相と電話会談し、中東の緊張緩和や海上安全保障の確保について議論。日本への安定的なエネルギー供給確保に向けた協力を確認した。",
-      "collectedAt": "2026-04-26T09:46:01.275Z"
-    },
-    {
-      "countryCode": "792",
-      "cat": "economic",
-      "title": "トルコ中銀、政策金利を37.00％に据え置き、原油高を警戒",
-      "src": "第一ライフ資産運用経済研究所",
-      "url": "https://www.dlri.co.jp/report/macro/20260424_turkey",
-      "publishedAt": "2026-04-24T11:00:00Z",
-      "snippet": "トルコ中央銀行が金利据え置きを決定。中東情勢の緊迫化による原油価格上昇がインフレリスクとなっており、リラ安圧力の中で「タカ派」姿勢を維持している。",
       "collectedAt": "2026-04-26T09:46:01.275Z"
     },
     {
@@ -928,16 +758,6 @@
       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-restricciones-a-periodistas-en-casa-rosada-y-la-caida-de-nid24042026/",
       "publishedAt": "2026-04-25T12:00:00Z",
       "snippet": "アルゼンチンのビジャルエル副大統領は、イギリスと領有権を争うマルビナス諸島（フォークランド諸島）について、アルゼンチンの主権を改めて強調するメッセージを発表した。",
-      "collectedAt": "2026-04-26T15:36:17.856Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル、予測市場を全面禁止　ポリマーケットなどへのアクセス遮断",
-      "src": "CoinPost",
-      "url": "https://coinpost.jp/?p=526841",
-      "publishedAt": "2026-04-24T09:00:00Z",
-      "snippet": "ブラジル中央銀行は、ポリマーケットやカルシを含む28の予測市場プラットフォームを禁止し、国内からのアクセスを遮断した。国際的な規制圧力が強まる中での措置となる。",
       "collectedAt": "2026-04-26T15:36:17.856Z"
     },
     {
@@ -1131,16 +951,6 @@
       "collectedAt": "2026-04-27T02:00:16.580Z"
     },
     {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジル政府、規制のない予測市場プラットフォーム28件を遮断",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/stock-market-news/article-934567",
-      "publishedAt": "2026-04-24T12:00:00Z",
-      "snippet": "ブラジル財務省は、賭博規制に準拠していないPolymarketなどの予測市場プラットフォームを遮断。国民の貯蓄保護と債務削減を目的とした措置としている。",
-      "collectedAt": "2026-04-27T05:46:50.954Z"
-    },
-    {
       "countryCode": "156",
       "cat": "economic",
       "title": "2026北京国際モーターショーが開幕、中国のEV技術を誇示",
@@ -1168,36 +978,6 @@
       "url": "https://minkabu.jp/news/3892000",
       "publishedAt": "2026-04-27T10:50:00Z",
       "snippet": "イランがパキスタンを介し、ホルムズ海峡の再開と引き換えに核協議を後回しにする案を提示。トランプ政権がこれを受け入れるかは不透明。",
-      "collectedAt": "2026-04-27T05:46:50.954Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエルとレバノン、停戦を3週間延長することで合意",
-      "src": "KAB熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/?id=202604241109",
-      "publishedAt": "2026-04-24T11:09:00Z",
-      "snippet": "トランプ米大統領の仲介により、イスラエルとレバノンが停戦の3週間延長に合意。しかし南部では依然として小規模な衝突が続いている。",
-      "collectedAt": "2026-04-27T05:46:50.954Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、サウジアラビア皇太子と電話会談、中東情勢の安定化で協力",
-      "src": "ジェトロ",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/7d43614c13fce304.html",
-      "publishedAt": "2026-04-24T09:00:00Z",
-      "snippet": "高市早苗首相がムハンマド皇太子と会談。ホルムズ海峡の航行安全確保と、日本への安定的なエネルギー供給について協力を確認した。",
-      "collectedAt": "2026-04-27T05:46:50.954Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国の第1四半期GDP、前期比1.7％増と予測を大幅に上回る",
-      "src": "ジェトロ",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/hnm-BLZoQxQJ4yUhfbhK1LsC9.html",
-      "publishedAt": "2026-04-24T09:00:00Z",
-      "snippet": "半導体輸出の好調により、韓国の1-3月期成長率が市場予想の0.9％を大きく上回った。中東情勢による原油高の影響は限定的とみられる。",
       "collectedAt": "2026-04-27T05:46:50.954Z"
     },
     {
@@ -1309,7 +1089,167 @@
       "publishedAt": "2026-04-25T23:24:00Z",
       "snippet": "ロシア軍は24日夜から25日にかけて、ミサイル47発と無人機619機による大規模攻撃をドニプロやオデーサに加えた。ゼレンスキー大統領は「標的の大半が民間施設だ」と非難した。",
       "collectedAt": "2026-04-27T08:09:07.987Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル、3月の原油生産量が過去最高を記録",
+      "src": "ジェトロ",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/example_brazil_oil.html",
+      "publishedAt": "2026-04-27T09:00:00Z",
+      "snippet": "中東情勢の不安定化を受け、ブラジルの原油生産が拡大。3月の生産量は過去最高を更新し、世界的なエネルギー供給源としての存在感を高めている。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "conflict",
+      "title": "ミャンマー軍政が大規模恩赦、前大統領釈放もスーチー氏は軟禁継続",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104321.php",
+      "publishedAt": "2026-04-27T18:41:00Z",
+      "snippet": "ミャンマー新政権は旧正月を機に4500人以上の恩赦を発表。ウィンミン前大統領が釈放されたが、アウンサンスーチー氏は刑期短縮に留まり軟禁が続いている。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国、米メタによる国内AI企業「Manus」の買収を阻止",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026042700987",
+      "publishedAt": "2026-04-27T20:28:00Z",
+      "snippet": "中国政府は技術流出への懸念から、米メタによるAIスタートアップ「Manus」の買収を不許可とした。米中ハイテク覇権争いがAI分野で激化している。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "economic",
+      "title": "マクロン大統領、リチウム生産での産業主権確保を強調",
+      "src": "ジェトロ",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/france_lithium.html",
+      "publishedAt": "2026-04-27T11:00:00Z",
+      "snippet": "フランスのマクロン大統領は、EV電池に不可欠なリチウムの国内生産を強化し、中国依存からの脱却と産業主権の確立を目指す方針を表明した。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ成長率予想、中東情勢悪化で0.5％に下方修正",
+      "src": "ドイツニュースダイジェスト",
+      "url": "https://www.newsdigest.de/newsde/news/1260-gdp-forecast.html",
+      "publishedAt": "2026-04-25T08:00:00Z",
+      "snippet": "ドイツ政府は2026年の成長率予測を1.0％から0.5％へ半減。イラン情勢に伴うエネルギー価格高騰が製造業に深刻な打撃を与えている。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン、ホルムズ海峡開放に向け米国に新提案",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260427_iran_proposal",
+      "publishedAt": "2026-04-27T17:03:00Z",
+      "snippet": "イランはパキスタンを介し、海上封鎖解除を条件としたホルムズ海峡の開放を米国に提案。核協議の先送りが含まれており、トランプ政権の対応が注目される。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "political",
+      "title": "イスラエル元首相らが新党結成、ネタニヤフ氏退陣狙う",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026042700654",
+      "publishedAt": "2026-04-27T14:57:00Z",
+      "snippet": "ベネット元首相とラピド前首相が合流し新党を結成。年内実施予定の総選挙に向け、現職のネタニヤフ首相に対抗する勢力の結集を図る。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、安保3文書改定に向け有識者会議を招集",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026042701023",
+      "publishedAt": "2026-04-27T19:57:00Z",
+      "snippet": "高市早苗首相は、年末の安保3文書改定に向けた有識者会議の初会合を開催。中国・北朝鮮の脅威に対し、防衛力の抜本的強化を「国家の命運を左右する」と強調。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、ロシア派遣兵士の記念館を平壌に建設",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260427_north_korea_memorial",
+      "publishedAt": "2026-04-27T13:07:00Z",
+      "snippet": "ウクライナ侵攻でロシアを支援した北朝鮮兵士を称える記念館が完成。金正恩総書記が出席し、プーチン大統領も祝辞を寄せるなど、露朝の軍事同盟を誇示した。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国株式市場、時価総額6000兆ウォンを初突破",
+      "src": "ファイナンシャルニュースジャパン",
+      "url": "https://www.fnnews.jp/news/20260427112400",
+      "publishedAt": "2026-04-27T11:24:00Z",
+      "snippet": "AI半導体需要の爆発的増加により、サムスン電子などの株価が急騰。韓国市場の時価総額は初めて6000兆ウォンを超え、欧州主要国を上回る規模に成長した。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "tension",
+      "title": "パキスタン、中国の協力で地球観測衛星「PRSC-EO3」を打ち上げ",
+      "src": "Sorae",
+      "url": "https://sorae.info/space/20260427-pakistan-satellite.html",
+      "publishedAt": "2026-04-27T10:00:00Z",
+      "snippet": "中国の長征6号ロケットによりパキスタンの最新鋭衛星が軌道投入された。安全保障および資源管理の精度向上が期待され、中パの宇宙協力が一段と進展。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ザポリージャ原発敷地内へのドローン攻撃を主張",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260427_zaporizhzhia_attack",
+      "publishedAt": "2026-04-27T15:00:00Z",
+      "snippet": "ロシア国営企業ロスアトムは、ウクライナ軍のドローンがザポリージャ原発を攻撃し職員1人が死亡したと発表。IAEAは安全への重大な脅威として懸念を表明。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "tension",
+      "title": "ソマリア沖で石油タンカーが拿捕、海上輸送リスクが再燃",
+      "src": "Shippio Trade News",
+      "url": "https://note.com/shippio/n/n20260427trade",
+      "publishedAt": "2026-04-27T10:00:00Z",
+      "snippet": "ソマリア沖アデン湾で石油タンカーが武装集団に拿捕された。中東情勢の混乱に乗じた海賊活動の活発化が懸念され、国際海運への影響が広がっている。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ、深刻な「頭脳流出」が高校生世代まで拡大",
+      "src": "外為どっとコム",
+      "url": "https://www.gaitame.com/media/entry/2026/04/27/turkey_report",
+      "publishedAt": "2026-04-27T10:00:00Z",
+      "snippet": "インフレと政治的不安を背景に、トルコの名門高校卒業生の約9割が海外大学へ進学。若年層の5割が無職という厳しい経済状況が流出を加速させている。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領出席の夕食会で発砲事件、容疑者は政権に憎悪",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260427_trump_shooting",
+      "publishedAt": "2026-04-27T13:35:00Z",
+      "snippet": "ワシントンでの夕食会で発砲事件が発生し、トランプ大統領らが一時退避。逮捕された男は「政権の政策に怒りを感じていた」と犯行を予告する文書を家族に送っていた。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "political",
+      "title": "米軍特殊部隊員、ベネズエラ作戦の機密情報を予測市場で換金し起訴",
+      "src": "ロケットボーイズ",
+      "url": "https://rocket-boys.co.jp/security-news/20260427-us-soldier-indicted/",
+      "publishedAt": "2026-04-27T10:00:00Z",
+      "snippet": "2026年1月のマドゥロ大統領拘束作戦に関わった米兵が、作戦の成否を予測市場「ポリマーケット」で賭け、多額の利益を得たとして起訴された。国家安全保障上の重大な不祥事。",
+      "collectedAt": "2026-04-27T13:21:18.334Z"
     }
   ],
-  "updatedAt": "2026-04-27T08:09:07.987Z"
+  "updatedAt": "2026-04-27T13:21:18.334Z"
 }
