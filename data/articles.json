@@ -221,16 +221,6 @@
       "collectedAt": "2026-04-25T05:08:18.413Z"
     },
     {
-      "countryCode": "376",
-      "cat": "conflict",
-      "title": "イスラエル、レバノンでの停戦を3週間延長 トランプ氏の要請受け入れ",
-      "src": "テレビ朝日 (羽鳥慎一モーニングショー)",
-      "url": "https://datazoo.jp/n/20260424/morning_show",
-      "publishedAt": "2026-04-24T08:00:00Z",
-      "snippet": "イスラエル政府は、トランプ米大統領の要請に応じ、レバノンにおけるヒズボラとの停戦期間を3週間延長することを決定した。",
-      "collectedAt": "2026-04-25T05:08:18.413Z"
-    },
-    {
       "countryCode": "586",
       "cat": "political",
       "title": "パキスタン、米・イラン停戦協議の仲介役に イスラマバードで2回目会談",
@@ -248,16 +238,6 @@
       "url": "https://www.youtube.com/watch?v=ukraine_russia_20260424",
       "publishedAt": "2026-04-24T15:00:00Z",
       "snippet": "ウクライナ軍によるロシア国内の石油インフラへの縦深打撃が激化。ロシア軍の燃料供給網が不安定化し、前線の作戦遂行に支障が出ている。",
-      "collectedAt": "2026-04-25T05:08:18.413Z"
-    },
-    {
-      "countryCode": "706",
-      "cat": "tension",
-      "title": "ソマリア、イスラエル船舶のバブ・エル・マンデブ海峡通過を禁止",
-      "src": "Pars Today",
-      "url": "https://parstoday.ir/ja/news/world-i132448",
-      "publishedAt": "2026-04-24T07:41:00Z",
-      "snippet": "ソマリア政府は、イスラエルによるソマリランドの国家承認に対抗し、紅海の入口であるバブ・エル・マンデブ海峡のイスラエル船舶通航を禁止した。",
       "collectedAt": "2026-04-25T05:08:18.413Z"
     },
     {
@@ -811,16 +791,6 @@
       "collectedAt": "2026-04-26T05:32:21.420Z"
     },
     {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ氏、イランとの停戦延長を表明 パキスタンの仲介受け",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/world/20260327-OYT1T50021/",
-      "publishedAt": "2026-04-24T08:00:00Z",
-      "snippet": "トランプ大統領はSNSでイランとの停戦延長を表明。一方でベネズエラでの軍事作戦を正当化し、米石油企業によるインフラ再建を主導する構えを見せている。",
-      "collectedAt": "2026-04-26T05:32:21.420Z"
-    },
-    {
       "countryCode": "682",
       "cat": "economic",
       "title": "サウジ「ビジョン2030」年次報告、非石油部門がGDPの過半数に",
@@ -1289,7 +1259,57 @@
       "publishedAt": "2026-04-24T16:37:00Z",
       "snippet": "今年1月のマドゥロ氏拘束作戦を知り得た米特殊部隊員が、予測サイトで「失脚」に賭け約6500万円を得たとして起訴された。トランプ大統領も調査を指示。",
       "collectedAt": "2026-04-27T05:46:50.954Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、ホルムズ海峡の「全面開放」を提示　核問題は後回しに",
+      "src": "KSBニュース",
+      "url": "https://news.ksb.co.jp/ann/article/20260427-iran-proposal",
+      "publishedAt": "2026-04-27T14:03:00Z",
+      "snippet": "米イラン紛争の停戦期限が迫る中、イランはホルムズ海峡の再開と海上封鎖解除を優先し、核問題の協議を先送りする新提案を米国に提示した。トランプ大統領は対応を協議中。",
+      "collectedAt": "2026-04-27T08:09:07.987Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "ガザ地区でイスラエル軍の空爆続く、警察車両への攻撃で13人死亡",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/israel-gaza-strikes-20260425",
+      "publishedAt": "2026-04-25T15:00:00Z",
+      "snippet": "10月の停戦合意にもかかわらず、ガザ地区全域でイスラエル軍の攻撃が継続している。25日の空爆では警察車両や住宅が標的となり、子供を含む民間人が犠牲となった。",
+      "collectedAt": "2026-04-27T08:09:07.987Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国、2026年1〜3月期に1.7％の高成長　半導体輸出が牽引",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/korea-gdp-2026-q1",
+      "publishedAt": "2026-04-27T12:00:00Z",
+      "snippet": "韓国の第1四半期GDPは、半導体輸出が前年同期比2.4倍と激増したことで予測を大幅に上回った。美容目的の「医療観光」客も過去最多の200万人を突破している。",
+      "collectedAt": "2026-04-27T08:09:07.987Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "tension",
+      "title": "パキスタン、米イラン再協議の見送りで厳戒態勢を一部解除",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/pakistan-us-iran-talks-2026",
+      "publishedAt": "2026-04-27T02:13:00Z",
+      "snippet": "イスラマバードで予定されていた米イラン直接協議がトランプ氏の派遣見送りで中止となり、市内の厳戒態勢が解かれた。仲介役としてのパキスタンの外交努力は後退した。",
+      "collectedAt": "2026-04-27T08:09:07.987Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ各地に過去最大級のミサイル攻撃　7人死亡",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260425-ukraine-war-update/",
+      "publishedAt": "2026-04-25T23:24:00Z",
+      "snippet": "ロシア軍は24日夜から25日にかけて、ミサイル47発と無人機619機による大規模攻撃をドニプロやオデーサに加えた。ゼレンスキー大統領は「標的の大半が民間施設だ」と非難した。",
+      "collectedAt": "2026-04-27T08:09:07.987Z"
     }
   ],
-  "updatedAt": "2026-04-27T05:46:50.954Z"
+  "updatedAt": "2026-04-27T08:09:07.987Z"
 }
