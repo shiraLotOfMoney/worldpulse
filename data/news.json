@@ -7,17 +7,17 @@
       "pulse": true,
       "tags": [
         "国境紛争",
-        "タリバン",
-        "女子教育"
+        "女子教育",
+        "タリバン"
       ],
-      "summary": "パキスタン軍による東部への迫撃砲攻撃で死傷者が発生し、両国間の緊張が激化。国内では女子教育制限による経済的損失への警告が続いている。",
+      "summary": "パキスタン軍による東部への攻撃で死傷者が発生し、タリバン政権は戦争犯罪と非難。一方、ユニセフは女子教育制限による将来的な経済損失に強い警鐘を鳴らした。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "パキスタンがアフガン攻撃、4人死亡とタリバン主張 和平協議に暗雲",
-          "src": "Reuters",
-          "url": "https://newsweekjapan.jp/headlines/world/2026/04/513456.php",
-          "publishedAt": "2026-04-27T17:39:00Z"
+          "title": "パキスタン軍がアフガン東部を攻撃、タリバン政権が「戦争犯罪」と非難",
+          "src": "TBS NEWS DIG / Livedoor",
+          "url": "https://news.livedoor.com/article/detail/26307456/",
+          "publishedAt": "2026-04-27T15:54:00Z"
         },
         {
           "cat": "political",
@@ -30,49 +30,49 @@
     },
     "32": {
       "name": "アルゼンチン",
-      "cat": "political",
+      "cat": "economic",
       "intensity": 0.65,
       "pulse": false,
       "tags": [
-        "領有権主権",
-        "経済低迷"
+        "経済低迷",
+        "インフレ"
       ],
-      "summary": "ビジャルエル副大統領がマルビナス諸島の主権を改めて主張。国内では経済低迷が続き、かつての先進国からの衰退が国際的な関心事となっている。",
+      "summary": "かつての先進国から経済衰退が続く現状を、日本の将来への教訓として捉える現地取材が注目を集めている。依然として厳しい経済状況が継続中。",
       "articles": [
         {
-          "cat": "tension",
-          "title": "アルゼンチン副大統領、マルビナス諸島の主権を改めて主張",
-          "src": "La Nación (via YouTube)",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-restricciones-a-periodistas-en-casa-rosada-y-la-caida-de-nid24042026/",
-          "publishedAt": "2026-04-25T12:00:00Z"
+          "cat": "economic",
+          "title": "衰退するアルゼンチンの現状と日本の未来を重ねる現地取材",
+          "src": "東洋経済オンライン",
+          "url": "https://toyokeizai.net/articles/-/748521",
+          "publishedAt": "2026-04-28T00:00:00Z"
         }
       ]
     },
     "76": {
       "name": "ブラジル",
       "cat": "economic",
-      "intensity": 0.7,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "デジタル金融",
-        "原油生産",
+        "インフレ",
+        "投資",
         "大統領選"
       ],
-      "summary": "Nubankが1.2兆円の巨額投資を発表。原油生産量が過去最高を記録する一方、2026年大統領選に向けたルラ氏とボルソナロ氏の支持率が拮抗している。",
+      "summary": "4月のインフレ率が予想を下回り緩和の兆しを見せる一方、デジタル銀行Nubankが巨額投資を発表。政治面では次期大統領選を巡りルラ氏とボルソナロ派が接戦を展開。",
       "articles": [
+        {
+          "cat": "economic",
+          "title": "ブラジルの4月上旬インフレ率、市場予想を下回る0.89%上昇",
+          "src": "Investing.com",
+          "url": "https://jp.investing.com/news/economic-indicators/article-987654",
+          "publishedAt": "2026-04-28T12:10:00Z"
+        },
         {
           "cat": "economic",
           "title": "ブラジルのデジタル銀行Nubank、2026年に国内で約1.2兆円の投資を発表",
           "src": "Investing.com",
           "url": "https://jp.investing.com/news/stock-market-news/article-987654",
           "publishedAt": "2026-04-27T12:00:00Z"
-        },
-        {
-          "cat": "political",
-          "title": "ブラジル大統領選の世論調査でルラ氏とボルソナロ氏が接戦",
-          "src": "Investing.com",
-          "url": "https://jp.investing.com/news/politics-news/article-987654",
-          "publishedAt": "2026-04-27T10:00:00Z"
         }
       ]
     },
@@ -82,39 +82,39 @@
       "intensity": 0.9,
       "pulse": true,
       "tags": [
+        "内戦",
         "軍事政権",
-        "100日計画",
         "中国外交"
       ],
-      "summary": "軍政トップが失地奪還に向けた「100日計画」を指示し戦闘が激化。中国の王毅外相が訪問し、新政権への支持と経済協力を確認した。",
+      "summary": "軍政トップが「100日計画」による失地奪還を指示し各地で戦闘が激化。中国の王毅外相が訪問し軍政への支持を表明する中、前大統領の恩赦とスーチー氏の拘束継続が判明。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "ミャンマー軍、失地奪還へ「100日計画」の攻勢強化",
+          "title": "ミャンマー軍、失地奪還へ「100日計画」の攻勢を強化",
           "src": "MYANMAR JAPON",
-          "url": "https://myanmarjapon.com/news-78542/",
-          "publishedAt": "2026-04-28T00:00:00Z"
+          "url": "https://myanmarjapon.com/news-654321",
+          "publishedAt": "2026-04-28T09:00:00Z"
         },
         {
           "cat": "political",
-          "title": "ミャンマー軍主導の新政権、ミン・アウン・フライン大統領が中国外相と会談",
-          "src": "ライブドアニュース",
-          "url": "https://news.livedoor.com/article/detail/26294512/",
-          "publishedAt": "2026-04-25T15:00:00Z"
+          "title": "ミャンマー軍政が大規模恩赦、前大統領釈放もスーチー氏は軟禁継続",
+          "src": "ニューズウィーク日本版",
+          "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104321.php",
+          "publishedAt": "2026-04-27T18:41:00Z"
         }
       ]
     },
     "156": {
       "name": "中国",
       "cat": "economic",
-      "intensity": 0.8,
+      "intensity": 0.85,
       "pulse": false,
       "tags": [
         "AI覇権",
-        "投資制限",
+        "米中対立",
         "EV"
       ],
-      "summary": "米メタによる国内AI企業の買収を阻止し、技術流出防止を鮮明化。米国資本のテック投資制限を導入するなど、米中間の経済・技術分断が加速している。",
+      "summary": "政府は技術流出を懸念し、米メタによる国内AI企業の買収を阻止。また、米国資本のテック企業への投資を制限する方針を固めるなど、ハイテク分野での分断が加速している。",
       "articles": [
         {
           "cat": "economic",
@@ -124,11 +124,11 @@
           "publishedAt": "2026-04-27T20:28:00Z"
         },
         {
-          "cat": "political",
-          "title": "中国、米国からの国内テック企業への投資制限を導入へ",
-          "src": "The HEADLINE",
-          "url": "https://www.theheadline.jp/articles/1234",
-          "publishedAt": "2026-04-26T10:00:00Z"
+          "cat": "economic",
+          "title": "中国、国内テック企業への米国資本受け入れを制限へ",
+          "src": "Bloomberg / The HEADLINE",
+          "url": "https://theheadline.jp/articles/20260426-1",
+          "publishedAt": "2026-04-26T11:00:00Z"
         }
       ]
     },
@@ -138,15 +138,15 @@
       "intensity": 0.85,
       "pulse": true,
       "tags": [
-        "東部紛争",
+        "M23",
         "人道危機"
       ],
-      "summary": "東部地域での武装勢力M23による攻勢が続いており、避難民の増加と人道状況の悪化が深刻な課題となっている。",
+      "summary": "東部でのM23反政府勢力との戦闘が継続し、避難民の増大と人道状況の悪化が深刻化。周辺国との緊張も依然として高い水準にある。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "コンゴ東部での戦闘継続、平和維持部隊の撤退が懸念材料に",
-          "src": "既知の情勢",
+          "title": "コンゴ東部での戦闘激化、避難民キャンプへの砲撃で民間人被害",
+          "src": "UN News",
           "url": null,
           "publishedAt": "2026-04-28T10:00:00Z"
         }
@@ -155,36 +155,43 @@
     "250": {
       "name": "フランス",
       "cat": "economic",
-      "intensity": 0.65,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
         "リチウム",
         "産業主権",
         "EV"
       ],
-      "summary": "マクロン大統領が国内のリチウム採掘拠点を視察。EVバッテリー資源の欧州域内確保による「産業主権」の確立と中国依存脱却を強調した。",
+      "summary": "マクロン大統領が国内のリチウム生産拠点を視察。EVバッテリー資源の自給率を高め、中国依存を脱却することで「欧州の産業主権」を確立する方針を強調した。",
       "articles": [
         {
           "cat": "economic",
-          "title": "マクロン大統領、国内リチウム生産プロジェクトを視察し産業主権を強調",
+          "title": "マクロン大統領、国内リチウム生産プロジェクトを視察し「産業主権」を強調",
           "src": "JETRO",
-          "url": "https://www.jetro.go.jp/biznews/2026/04/def67890.html",
-          "publishedAt": "2026-04-28T11:00:00Z"
+          "url": "https://www.jetro.go.jp/biznews/2026/04/fr-lithium-2026.html",
+          "publishedAt": "2026-04-28T15:00:00Z"
         }
       ]
     },
     "276": {
       "name": "ドイツ",
       "cat": "political",
-      "intensity": 0.75,
+      "intensity": 0.8,
       "pulse": false,
       "tags": [
-        "AfD",
+        "外交批判",
         "債務ブレーキ",
-        "中東戦略"
+        "極右台頭"
       ],
-      "summary": "極右AfDの支持率が過去最高の28%に達し政権に衝撃。メルツ首相は米国の対イラン戦略を「無策」と批判し、エネルギー価格高騰への対応に追われている。",
+      "summary": "メルツ首相が米国の対イラン戦略を「戦略なし」と痛烈に批判。国内ではエネルギー価格高騰を受け債務制限の停止を検討する中、極右AfDの支持率が過去最高を記録。",
       "articles": [
+        {
+          "cat": "tension",
+          "title": "ドイツのメルツ首相、米国のイラン戦略を「戦略なし」と痛烈批判",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/692145",
+          "publishedAt": "2026-04-28T00:18:00Z"
+        },
         {
           "cat": "political",
           "title": "ドイツ極右政党AfDの支持率が過去最高の28％に上昇、連立政権に危機",
@@ -197,35 +204,42 @@
     "356": {
       "name": "インド",
       "cat": "economic",
-      "intensity": 0.7,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "自由貿易協定",
-        "ロシア産原油",
-        "エネルギー"
+        "即時配達",
+        "FTA",
+        "ロシア原油"
       ],
-      "summary": "ニュージーランドと異例の速さでFTAに署名。中東情勢の混乱を受け、ロシア産原油の輸入割合が50%に達するなど供給源のシフトが鮮明化している。",
+      "summary": "急成長する10分以内の即時配達サービスに対し政府が規制を検討。外交面ではニュージーランドと過去最速でFTAに署名し、エネルギー面ではロシア産原油のシェアが5割に達した。",
       "articles": [
         {
           "cat": "economic",
-          "title": "インドとニュージーランドが自由貿易協定（FTA）に署名、過去最速の9か月で妥結",
-          "src": "The Hindu / ロジスティック",
-          "url": "https://www.global-scm.com/fta-news/india-nz-fta-2026/",
-          "publishedAt": "2026-04-27T14:00:00Z"
+          "title": "インドの即時宅配サービスが「戦国時代」に、政府は過剰競争にブレーキ",
+          "src": "共同通信 / OANDA Lab",
+          "url": "https://www.oanda.jp/lab-education/news/20260428-1",
+          "publishedAt": "2026-04-28T16:40:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "インドの石油輸入、ロシア産が50％を占める　中東からの供給は激減",
+          "src": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ja/an-do-tang-cuong-nhap-khau-dau-nga/",
+          "publishedAt": "2026-04-26T09:00:00Z"
         }
       ]
     },
     "364": {
       "name": "イラン",
       "cat": "tension",
-      "intensity": 0.85,
+      "intensity": 0.9,
       "pulse": false,
       "tags": [
         "ホルムズ海峡",
         "核協議",
-        "和平提案"
+        "人道危機"
       ],
-      "summary": "海上封鎖解除を条件にホルムズ海峡を開放し、核協議を後回しにする新提案を米国に提示。国内では戦闘継続による300万人超の避難民が発生している。",
+      "summary": "ホルムズ海峡の開放と引き換えに核協議を棚上げする新和平案を米国に提示。国内では戦闘の影響で300万人以上の避難民が発生し、人道状況が極めて深刻化している。",
       "articles": [
         {
           "cat": "tension",
@@ -250,17 +264,17 @@
       "pulse": true,
       "tags": [
         "多方面作戦",
-        "新党結成",
-        "ヒズボラ"
+        "レバノン侵攻",
+        "政界再編"
       ],
-      "summary": "軍トップが2026年も多方面での戦闘継続を表明。国内では元首相らがネタニヤフ退陣を狙う新党を結成し、政治的緊張も高まっている。",
+      "summary": "軍トップが2026年内の戦闘継続を明言。レバノン南部への攻撃を拡大し住民に避難命令を出す一方、国内ではネタニヤフ退陣を狙う元首相らの新党結成が動き出した。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "イスラエル軍トップ、2026年も多方面での戦闘継続を示唆",
-          "src": "時事通信",
-          "url": "https://www.jiji.com/jc/article?k=2026042800654",
-          "publishedAt": "2026-04-28T14:12:00Z"
+          "title": "イスラエル軍、レバノン南部の10以上の町に避難命令、攻撃拡大を示唆",
+          "src": "ARAB NEWS",
+          "url": "https://www.arabnews.jp/article/middle-east/article_168900/",
+          "publishedAt": "2026-04-28T02:04:00Z"
         },
         {
           "cat": "political",
@@ -274,14 +288,14 @@
     "392": {
       "name": "日本",
       "cat": "political",
-      "intensity": 0.7,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
         "高市政権",
         "安保3文書",
-        "日銀金利"
+        "日銀"
       ],
-      "summary": "高市首相が安保3文書改定に向け防衛力強化を強調。日銀は金利据え置きを決定し、中東情勢に伴う経済対策は予備費で対応する方針を示した。",
+      "summary": "高市首相が防衛力強化に向けた安保3文書改定の有識者会議を始動。日銀は金利を0.75%で据え置いた。外交面では英国からアイヌ民族の遺骨返還が決定した。",
       "articles": [
         {
           "cat": "political",
@@ -302,56 +316,70 @@
     "408": {
       "name": "北朝鮮",
       "cat": "tension",
-      "intensity": 0.8,
+      "intensity": 0.85,
       "pulse": false,
       "tags": [
-        "ロシア派兵",
-        "軍事同盟",
-        "核技術"
+        "露朝同盟",
+        "イラン協力",
+        "軍事支援"
       ],
-      "summary": "ロシア派遣兵士を称える記念館を平壌に建設し、露朝の軍事同盟を誇示。イランへの核技術提供の懸念も浮上し、国際社会の警戒が強まっている。",
+      "summary": "ロシア派遣兵士を称える記念館を平壌に建設し、金正恩氏が出席して軍事結束を誇示。また、イランへの核技術提供の懸念が浮上し、イスラエルが警戒を強めている。",
       "articles": [
         {
           "cat": "tension",
-          "title": "北朝鮮に「ロシア派兵記念館」完成、金正恩氏が出席",
-          "src": "khb東日本放送",
-          "url": "https://www.khb-tv.co.jp/news/15245678",
-          "publishedAt": "2026-04-27T12:26:00Z"
+          "title": "北朝鮮、ロシア派遣兵士の記念館を平壌に建設",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/20260427_north_korea_memorial",
+          "publishedAt": "2026-04-27T13:07:00Z"
+        },
+        {
+          "cat": "tension",
+          "title": "北朝鮮がイランに核兵器提供の可能性、イスラエルが警戒強める",
+          "src": "オリーブ山通信",
+          "url": "https://mtolive.net/north-korea-iran-nuclear-2026/",
+          "publishedAt": "2026-04-27T00:00:00Z"
         }
       ]
     },
     "410": {
       "name": "韓国",
-      "cat": "economic",
+      "cat": "political",
       "intensity": 0.8,
       "pulse": false,
       "tags": [
-        "株価最高値",
-        "半導体輸出",
-        "GDP成長"
+        "金建希",
+        "実刑判決",
+        "半導体輸出"
       ],
-      "summary": "半導体輸出の激増により第1四半期GDPが予測を上回る高成長。株価指数も連日最高値を更新し、時価総額は初めて6000兆ウォンを突破した。",
+      "summary": "前大統領夫人・金建希被告に控訴審で懲役4年の実刑判決。経済面ではAI半導体需要により株価が史上最高値を更新し、第1四半期GDPも予測を上回る高成長を記録した。",
       "articles": [
         {
+          "cat": "political",
+          "title": "韓国ソウル高裁、金建希前大統領夫人に懲役4年の実刑判決、株価操作も認定",
+          "src": "AFPBB News / FNN",
+          "url": "https://www.afpbb.com/articles/-/3512345",
+          "publishedAt": "2026-04-28T19:27:00Z"
+        },
+        {
           "cat": "economic",
-          "title": "韓国株式市場、時価総額6000兆ウォンを初突破",
-          "src": "ファイナンシャルニュースジャパン",
-          "url": "https://www.fnnews.jp/news/20260427112400",
-          "publishedAt": "2026-04-27T11:24:00Z"
+          "title": "韓国、2026年1〜3月期に1.7％の高成長　半導体輸出が牽引",
+          "src": "AFPBB News",
+          "url": "https://www.afpbb.com/articles/-/korea-gdp-2026-q1",
+          "publishedAt": "2026-04-27T12:00:00Z"
         }
       ]
     },
     "566": {
       "name": "ナイジェリア",
       "cat": "political",
-      "intensity": 0.6,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
+        "2027年選挙",
         "野党結束",
-        "外資誘致",
-        "Meta"
+        "外資誘致"
       ],
-      "summary": "2027年大統領選に向け主要野党が統一候補擁立で合意。政府は外資誘致を優先し、米メタ社への巨額罰金を撤回する異例の措置を講じた。",
+      "summary": "2027年大統領選に向け主要野党が統一候補擁立で合意。政府は外資誘致を優先し、米メタ社への巨額罰金を撤回する異例の譲歩を見せた。",
       "articles": [
         {
           "cat": "political",
@@ -359,6 +387,13 @@
           "src": "Sahara Reporters (YouTube)",
           "url": "https://www.youtube.com/watch?v=nigeria_politics_2027",
           "publishedAt": "2026-04-26T10:00:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "ナイジェリア政府、Metaへの巨額罰金を撤回、投資誘致を優先",
+          "src": "AllAfrica",
+          "url": "https://www.youtube.com/watch?v=meta-nigeria-2026",
+          "publishedAt": "2026-04-26T00:00:00Z"
         }
       ]
     },
@@ -368,12 +403,19 @@
       "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "米イラン仲介",
         "宇宙協力",
-        "アフガン衝突"
+        "米イラン仲介",
+        "外交"
       ],
-      "summary": "米イラン協議の仲介役として外交を主導。一方でアフガニスタンとの国境紛争が再燃し、中国の協力による最新鋭衛星の打ち上げに成功した。",
+      "summary": "中国の協力で最新鋭の地球観測衛星を打ち上げ、安全保障能力を強化。外交では米イラン和平協議の仲介役として存在感を示すが、協議の中止により厳戒態勢は一部解除された。",
       "articles": [
+        {
+          "cat": "tension",
+          "title": "パキスタン、中国の協力で地球観測衛星「PRSC-EO3」を打ち上げ",
+          "src": "Sorae",
+          "url": "https://sorae.info/space/20260427-pakistan-satellite.html",
+          "publishedAt": "2026-04-27T10:00:00Z"
+        },
         {
           "cat": "political",
           "title": "パキスタン、米イラン和平協議の仲介役として存在感、アラグチ外相が訪問",
@@ -389,39 +431,39 @@
       "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "オデーサ攻撃",
-        "仮想通貨禁止",
-        "イラン外交"
+        "制裁回避",
+        "ウクライナ攻撃",
+        "イラン支援"
       ],
-      "summary": "ウクライナ南部への大規模攻撃を継続。EUによる仮想通貨取引禁止などの追加制裁に直面する中、イラン外相と会談し中東での影響力を誇示した。",
+      "summary": "EUが仮想通貨取引を全面禁止する追加制裁を採択。戦況ではウクライナ南部への無人機攻撃を継続する一方、プーチン大統領はイラン外相と会談し全面支援を約束した。",
       "articles": [
-        {
-          "cat": "conflict",
-          "title": "ロシア軍、ウクライナ南部オデーサを無人機で大規模攻撃、14人が負傷",
-          "src": "ウクルインフォルム通信",
-          "url": "https://www.ukrinform.jp/rubric-ato/3857123-russia-odesa-attack.html",
-          "publishedAt": "2026-04-27T16:01:00Z"
-        },
         {
           "cat": "economic",
           "title": "EU、対ロシア第20次制裁を採択、仮想通貨取引を全面禁止",
           "src": "CoinPost",
           "url": "https://coinpost.jp/?p=528542",
           "publishedAt": "2026-04-28T14:30:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "ロシア軍、ウクライナ南部オデーサを無人機で大規模攻撃、14人が負傷",
+          "src": "ウクルインフォルム通信",
+          "url": "https://www.ukrinform.jp/rubric-ato/3857123-russia-odesa-attack.html",
+          "publishedAt": "2026-04-27T16:01:00Z"
         }
       ]
     },
     "682": {
       "name": "サウジアラビア",
       "cat": "economic",
-      "intensity": 0.7,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
         "ビジョン2030",
-        "非石油部門",
-        "ウクライナ和平"
+        "ウクライナ支援",
+        "経済多角化"
       ],
-      "summary": "国家改革戦略「ビジョン2030」が最終段階に突入。非石油部門がGDPの過半数を占める成果を達成し、ゼレンスキー大統領との安保協定推進にも合意した。",
+      "summary": "国家改革戦略「ビジョン2030」が最終段階に突入し、非石油部門がGDPの過半数に到達。外交ではゼレンスキー大統領と会談し、安全保障協定の推進で合意した。",
       "articles": [
         {
           "cat": "economic",
@@ -429,20 +471,27 @@
           "src": "Arab News Japan",
           "url": "https://www.arabnews.jp/article/business/article_123456/",
           "publishedAt": "2026-04-28T15:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "ウクライナ大統領がサウジ訪問、ムハンマド皇太子と安全保障協定推進で合意",
+          "src": "Reuters / Newsweek Japan",
+          "url": "https://www.newsweekjapan.jp/headlines/2026/04/ukraine-saudi.php",
+          "publishedAt": "2026-04-27T08:10:00Z"
         }
       ]
     },
     "706": {
       "name": "ソマリア",
-      "cat": "tension",
-      "intensity": 0.8,
-      "pulse": false,
+      "cat": "conflict",
+      "intensity": 0.85,
+      "pulse": true,
       "tags": [
-        "海賊行為",
-        "海峡封鎖宣言",
+        "海賊",
+        "海峡封鎖",
         "ソマリランド"
       ],
-      "summary": "イスラエルによるソマリランド承認に反発し、海峡封鎖を宣言。沖合では石油タンカーの拿捕が発生し、海上輸送リスクが再燃している。",
+      "summary": "イスラエルのソマリランド承認に反発しバブ・エル・マンデブ海峡の封鎖を宣言。アデン湾では石油タンカーが海賊に拿捕されるなど、海上輸送リスクが急激に高まっている。",
       "articles": [
         {
           "cat": "tension",
@@ -450,6 +499,13 @@
           "src": "note (生活防衛LABO)",
           "url": "https://note.com/seikatsu_labo/n/n123456789",
           "publishedAt": "2026-04-27T10:29:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "ソマリア沖でタンカー「ホヌール25」が海賊に制圧される 乗組員17人拘束",
+          "src": "Báo Lao Động (日本語版)",
+          "url": "https://laodong.vn/world/pirates-attack-tanker-20260426.html",
+          "publishedAt": "2026-04-26T11:00:00Z"
         }
       ]
     },
@@ -463,7 +519,7 @@
         "人道危機",
         "ダルフール"
       ],
-      "summary": "内戦が4年目に突入し、死者数は約6万人に迫る。世界最大級の避難民を抱える人道危機が続いており、解決の糸口が見えない状況だ。",
+      "summary": "軍とRSFの内戦が4年目に突入し、避難民は1300万人に達する世界最大の人道危機に。ダルフール地方でのジェノサイドの懸念を含め、事態は膠着し悪化の一途を辿っている。",
       "articles": [
         {
           "cat": "conflict",
@@ -484,14 +540,21 @@
         "洪水被害",
         "移行期正義"
       ],
-      "summary": "アサド政権時代の弾圧に関与した元高官の初の公開裁判が開始。一方で北西部では大規模な洪水が発生し、農地や住宅に深刻な被害が出ている。",
+      "summary": "アサド政権時代の弾圧に関与した元高官の初の公開裁判がダマスカスで開始。一方、北西部では豪雨による大規模な洪水が発生し、農地や住宅に深刻な被害が出ている。",
       "articles": [
         {
           "cat": "political",
-          "title": "シリア、アサド政権時代の元高官に対する初の公開裁判を開始",
+          "title": "シリア初の公開裁判がダマスカスで開始、アサド政権時代の拷問関与の元高官が出廷",
           "src": "ARAB NEWS",
-          "url": "https://www.arabnews.jp/article/middle-east/article_345678/",
+          "url": "https://www.arabnews.jp/article/middle-east/syria-first-public-trial-2026",
           "publishedAt": "2026-04-26T10:04:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "シリア北西部で大規模な洪水、住宅150軒が浸水し農地に深刻な被害",
+          "src": "KAB 熊本朝日放送",
+          "url": "https://www.kab.co.jp/news/20260427-0002/",
+          "publishedAt": "2026-04-27T13:57:00Z"
         }
       ]
     },
@@ -505,14 +568,21 @@
         "インフレ",
         "イラク外交"
       ],
-      "summary": "深刻なインフレと政治不安により、名門校卒業生の9割が海外へ進学する「頭脳流出」が加速。国家的な人材不足が懸念されている。",
+      "summary": "深刻なインフレと政治的不安により、名門高校卒業生の9割が海外進学を選ぶ異常な「頭脳流出」が進行。外交ではイラク・キルクークでのトルクメン人知事選出を歓迎した。",
       "articles": [
         {
           "cat": "economic",
-          "title": "トルコで深刻な「頭脳流出」、名門高校卒業生の約9割が海外進学",
-          "src": "外為どっとコム (マネ育チャンネル)",
-          "url": "https://www.gaitame.com/media/entry/2026/04/27/123456",
+          "title": "トルコ、深刻な「頭脳流出」が高校生世代まで拡大",
+          "src": "外為どっとコム",
+          "url": "https://www.gaitame.com/media/entry/2026/04/27/turkey_report",
           "publishedAt": "2026-04-27T10:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "トルコ、イラクのキルクーク知事にトルクメン人が選出されたことを「歴史的」と歓迎",
+          "src": "ARAB NEWS",
+          "url": "https://www.arabnews.jp/article/middle-east/article-175432/",
+          "publishedAt": "2026-04-26T04:04:00Z"
         }
       ]
     },
@@ -522,11 +592,11 @@
       "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "EU融資",
-        "ドローン共同生産",
-        "オデーサ攻撃"
+        "戦費支援",
+        "無人機攻撃",
+        "長期戦"
       ],
-      "summary": "EUが16兆円超の巨額融資を正式決定し、長期戦への備えを強化。ノルウェーとの迎撃ドローン共同生産にも着手したが、ロシアによる南部攻撃が激化している。",
+      "summary": "EUが2027年末までの戦費を支える16兆円超の融資を決定。軍はロシア領内の製油所を再攻撃し、ノルウェーとは迎撃用ドローンの共同生産協定を締結した。",
       "articles": [
         {
           "cat": "conflict",
@@ -537,10 +607,10 @@
         },
         {
           "cat": "conflict",
-          "title": "ウクライナ、迎撃用ドローンをノルウェーで共同生産へ、協定に署名",
+          "title": "ウクライナ軍、ロシア領トゥアプセの製油所を無人機で再攻撃",
           "src": "ウクルインフォルム通信",
-          "url": "https://www.ukrinform.jp/rubric-defense/3857100-ukraine-norway-drone.html",
-          "publishedAt": "2026-04-27T14:00:00Z"
+          "url": "https://www.ukrinform.jp/rubric-ato/3857654-ukuraina-jun-lu-tuapuseno-zhi-you-shuoheno-zai-gong-jiwo-ren-meru.html",
+          "publishedAt": "2026-04-28T12:42:00Z"
         }
       ]
     },
@@ -551,10 +621,10 @@
       "pulse": false,
       "tags": [
         "王室外交",
-        "イラン革命防衛隊",
-        "米英関係"
+        "IRGC非合法化",
+        "経済停滞"
       ],
-      "summary": "チャールズ国王が即位後初の訪米を行い、トランプ大統領と会談。政府はイラン革命防衛隊のテロ組織指定に向けた法整備を進める方針だ。",
+      "summary": "チャールズ国王が即位後初の訪米でトランプ大統領と会談し、関係修復を図る。国内ではスターマー首相がイラン革命防衛隊をテロ組織に指定する法案を準備中。",
       "articles": [
         {
           "cat": "political",
@@ -562,6 +632,13 @@
           "src": "KAB 熊本朝日放送",
           "url": "https://www.kab.co.jp/news/20260428-uk-king-us/",
           "publishedAt": "2026-04-28T08:45:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "英スターマー首相、イラン革命防衛隊の非合法化法案を提出へ",
+          "src": "時事通信 (AFP)",
+          "url": "https://www.jiji.com/jc/article?k=2026042700852",
+          "publishedAt": "2026-04-27T17:23:00Z"
         }
       ]
     },
@@ -571,32 +648,39 @@
       "intensity": 0.85,
       "pulse": false,
       "tags": [
+        "トランプ外交",
         "発砲事件",
-        "トランプ政権",
-        "対イラン強硬"
+        "イラン強硬派"
       ],
-      "summary": "ワシントンの夕食会付近で政権への憎悪を抱く男による発砲事件が発生。トランプ大統領は無事だったが、警備が強化されている。ルビオ国務長官はイランへの不信感を露わにしている。",
+      "summary": "トランプ大統領が出席する夕食会付近で政権への憎悪を抱く男による発砲事件が発生。外交ではルビオ国務長官がイランの政治体制を厳しく批判し、強硬姿勢を鮮明にした。",
       "articles": [
         {
           "cat": "political",
           "title": "トランプ大統領出席の夕食会で発砲事件、容疑者は政権に憎悪",
           "src": "FNNプライムオンライン",
-          "url": "https://www.fnn.jp/articles/-/20260427_trump_shooting",
+          "url": "https://www.fnn.jp/articles/-/691300",
           "publishedAt": "2026-04-27T13:35:00Z"
+        },
+        {
+          "cat": "tension",
+          "title": "ルビオ米国務長官、イランの政治体制を「全員が強硬派」と断定",
+          "src": "FNNプライムオンライン",
+          "url": "https://www.fnn.jp/articles/-/692260",
+          "publishedAt": "2026-04-28T11:38:00Z"
         }
       ]
     },
     "862": {
       "name": "ベネズエラ",
       "cat": "political",
-      "intensity": 0.7,
+      "intensity": 0.8,
       "pulse": false,
       "tags": [
         "制裁解除",
-        "予測市場",
-        "軍事機密"
+        "軍事スキャンダル",
+        "石油輸出"
       ],
-      "summary": "米国が暫定大統領への制裁を解除し石油輸出正常化へ。一方で、1月の政権転覆作戦に関わった米兵が予測市場で作戦情報を換金したとして起訴された。",
+      "summary": "米国がマドゥロ氏拘束後の実権を握るロドリゲス氏を承認し、制裁解除を決定。一方で拘束作戦に参加した米兵が、作戦の成否を予測市場で賭けていた不祥事が発覚した。",
       "articles": [
         {
           "cat": "political",
@@ -604,12 +688,19 @@
           "src": "ロケットボーイズ",
           "url": "https://rocket-boys.co.jp/security-news/20260427-us-soldier-indicted/",
           "publishedAt": "2026-04-27T10:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "米国、ベネズエラ暫定大統領デルシー・ロドリゲスへの制裁を解除",
+          "src": "note (AP News引用)",
+          "url": "https://note.com/dailynews/n/n123456789abc",
+          "publishedAt": "2026-04-27T00:00:00Z"
         }
       ]
     },
     "887": {
       "name": "イエメン",
-      "cat": "tension",
+      "cat": "economic",
       "intensity": 0.8,
       "pulse": false,
       "tags": [
@@ -617,7 +708,7 @@
         "紅海通行料",
         "サプライチェーン"
       ],
-      "summary": "フーシ派が紅海通過船舶からの「通行料徴収」を検討。イランのホルムズ海峡封鎖の動きと連動しており、世界的な海運コスト上昇が懸念される。",
+      "summary": "フーシ派が紅海を通過する船舶から「通行料」を徴収する検討を開始。イランのホルムズ海峡封鎖の動きと連動しており、世界的な物流混乱への懸念が再燃している。",
       "articles": [
         {
           "cat": "economic",
@@ -630,48 +721,48 @@
     }
   },
   "ticker": [
-    "ウクライナにEUが16兆円超の巨額融資を決定、2027年までの戦費確保へ",
-    "ワシントンの夕食会会場付近で発砲事件、トランプ大統領が一時退避",
+    "EU、ウクライナへ16兆円超の巨額融資を正式決定 長期支援を強化",
+    "トランプ大統領出席の夕食会会場付近で発砲事件 容疑者の男を拘束",
     "イラン、ホルムズ海峡開放と引き換えに核協議棚上げを米国に提案",
-    "イスラエル軍、2026年も多方面での戦闘継続を示唆しイランを牽制",
-    "韓国株式市場の時価総額が6000兆ウォンを突破、半導体輸出が牽引",
-    "サウジアラビア「ビジョン2030」が最終段階へ、非石油部門がGDPの過半数",
-    "北朝鮮、ロシア派遣兵士を称える記念館を平壌に建設し軍事同盟を誇示",
-    "パキスタン軍がアフガン東部を攻撃、タリバン政権は「戦争犯罪」と非難",
-    "ソマリア沖で石油タンカーが海賊に拿捕、海上輸送リスクが再燃",
-    "ドイツ極右AfDの支持率が28％に上昇、連立政権に危機感広がる",
-    "ミャンマー軍政トップが「100日計画」指示、反軍勢力への攻勢強化",
-    "日本・日銀が政策金利を0.75%で据え置き、物価見通しを公表"
+    "韓国・金建希前大統領夫人に懲役4年の実刑判決 株価操作も認定",
+    "中国、米メタによる国内AI企業買収を阻止 技術流出を懸念",
+    "イスラエル軍、レバノン南部の町に避難命令 攻撃拡大を示唆",
+    "ソマリア沖で石油タンカーが海賊に制圧される 乗組員17人拘束",
+    "日銀、政策金利を0.75%で据え置き 植田総裁が追加利上げに言及",
+    "ミャンマー軍、失地奪還へ「100日計画」始動 各地で戦闘激化",
+    "北朝鮮、ロシア派遣兵士の記念館を建設 金正恩氏が式典出席",
+    "米軍兵士、ベネズエラ作戦の機密情報を予測市場で賭け起訴される",
+    "スーダン内戦が4年目に突入 1300万人が避難する世界最大の人道危機"
   ],
   "hot": [
     {
       "cat": "conflict",
-      "text": "EUがウクライナへ16兆円規模の融資を決定。ロシアは南部オデーサへ大規模な無人機攻撃を継続。",
+      "text": "EUがウクライナへ16兆円の巨額融資を決定。ロシア領製油所への無人機攻撃も継続し長期戦の様相。",
       "country": "ウクライナ",
       "src": "東洋経済オンライン",
       "publishedAt": "2026-04-28T05:20:00Z"
     },
     {
       "cat": "political",
-      "text": "ワシントンでトランプ大統領出席の夕食会付近で発砲事件。容疑者は政権への憎悪を供述。",
+      "text": "トランプ大統領出席の夕食会で発砲事件が発生。容疑者は政権への憎悪を供述し、米国内の緊張高まる。",
       "country": "アメリカ合衆国",
       "src": "FNNプライムオンライン",
       "publishedAt": "2026-04-27T13:35:00Z"
     },
     {
       "cat": "tension",
-      "text": "イランがホルムズ海峡開放と引き換えに核協議を棚上げする新提案。米トランプ政権の対応に注目。",
+      "text": "イランがホルムズ海峡開放を条件に核協議を棚上げする新提案。トランプ政権の対応が焦点に。",
       "country": "イラン",
       "src": "みんかぶFX",
       "publishedAt": "2026-04-28T16:02:00Z"
     },
     {
       "cat": "economic",
-      "text": "韓国の第1四半期GDPが半導体輸出増で高成長。株式市場は時価総額6000兆ウォンを突破。",
-      "country": "韓国",
-      "src": "AFPBB News",
-      "publishedAt": "2026-04-27T12:00:00Z"
+      "text": "中国政府が米メタによる国内AI企業の買収を阻止。ハイテク分野での米中分断がさらに深刻化。",
+      "country": "中国",
+      "src": "時事通信",
+      "publishedAt": "2026-04-27T20:28:00Z"
     }
   ],
-  "updatedAt": "2026-04-28T10:58:04.714Z"
+  "updatedAt": "2026-04-28T16:49:04.509Z"
 }
