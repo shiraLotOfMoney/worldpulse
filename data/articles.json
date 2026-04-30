@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国、米メタによる国内AI企業「Manus」の買収を阻止",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026042700987",
-      "publishedAt": "2026-04-27T20:28:00Z",
-      "snippet": "中国政府は技術流出への懸念から、米メタによるAIスタートアップ「Manus」の買収を不許可とした。米中ハイテク覇権争いがAI分野で激化している。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、安保3文書改定に向け有識者会議を招集",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026042701023",
-      "publishedAt": "2026-04-27T19:57:00Z",
-      "snippet": "高市早苗首相は、年末の安保3文書改定に向けた有識者会議の初会合を開催。中国・北朝鮮の脅威に対し、防衛力の抜本的強化を「国家の命運を左右する」と強調。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
       "countryCode": "376",
       "cat": "political",
       "title": "イスラエル首相経験者2人が新党結成、ネタニヤフ退陣を狙う",
@@ -351,16 +331,6 @@
       "collectedAt": "2026-04-28T16:48:02.945Z"
     },
     {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英国の4月GDPはゼロ成長、選挙を控えたスターマー政権に逆風",
-      "src": "ロイター / Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/uk-gdp-zero.php",
-      "publishedAt": "2026-04-27T20:06:00Z",
-      "snippet": "英国の4月のGDP成長率は前月比横ばいとなった。サービス業は好調だったが、製造業と建設業が低迷。イラン情勢による経済への暗雲が、改善傾向にあった財政赤字にも影を落としている。",
-      "collectedAt": "2026-04-28T16:48:02.945Z"
-    },
-    {
       "countryCode": "156",
       "cat": "political",
       "title": "習近平主席、軍の思想統制を強化し威信回復図る",
@@ -458,16 +428,6 @@
       "url": "https://www.jiji.com/jc/article?k=2026042000456",
       "publishedAt": "2026-04-28T12:00:00Z",
       "snippet": "2027年春の大統領選に向けた世論調査で、30歳のバルデラ氏が30%台後半の支持を獲得。マクロン大統領は3選禁止規定で出馬できず、中道勢力はフィリップ元首相らで対抗する構え。",
-      "collectedAt": "2026-04-29T02:08:11.474Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツの2026年成長率予測を0.6%に下方修正、「欧州の病人」再燃の懸念",
-      "src": "Record China",
-      "url": "https://www.recordchina.co.jp/b123456-s25-c20.html",
-      "publishedAt": "2026-04-27T21:00:00Z",
-      "snippet": "主要経済研究所が共同予測を発表。中東情勢悪化に伴うエネルギー価格高騰が製造業を直撃し、景気回復の勢いが大幅に鈍化。構造的な課題も重なり、経済の長期低迷が危惧されている。",
       "collectedAt": "2026-04-29T02:08:11.474Z"
     },
     {
@@ -1549,7 +1509,107 @@
       "publishedAt": "2026-04-30T11:30:00Z",
       "snippet": "トランプ米大統領は、イランの港湾に出入りする船舶への封鎖措置が効果を上げているとし、イラン側が降参するまで圧力を緩めない姿勢を鮮明にした。",
       "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル、中東情勢悪化で肥料価格の上昇に懸念 ホルムズ海峡封鎖が影響",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/f123456789.html",
+      "publishedAt": "2026-04-30T15:00:00Z",
+      "snippet": "イラン戦争に伴うホルムズ海峡の事実上の封鎖により、中東からの肥料輸入が停滞。農業大国ブラジルのトウモロコシ生産コスト押し上げが危惧されている。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国の製造業活動、4月は拡大維持 イラン戦争に伴う下押し圧力に抗す",
+      "src": "Bloomberg Japan",
+      "url": "https://www.bloomberg.co.jp/news/articles/2026-04-30/PMI_CHINA",
+      "publishedAt": "2026-04-30T10:50:00Z",
+      "snippet": "中東での紛争によるエネルギー価格高騰や物流混乱にもかかわらず、中国の製造業PMIは拡大圏を維持。内需刺激策が一定の効果を奏している。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "インド政府、燃料供給の安定確保策を説明 中東情勢緊迫化を受け",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/india_energy_2026.html",
+      "publishedAt": "2026-04-30T18:00:00Z",
+      "snippet": "中東紛争による供給途絶リスクに対し、インド政府は在庫確保と産業向けエネルギーの優先供給を表明。物品税引き下げによる国内価格の抑制を図る。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン、米国が封鎖を解除すればホルムズ海峡の再開を検討と表明",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
+      "publishedAt": "2026-04-28T01:04:00Z",
+      "snippet": "2月28日に始まった米国・イスラエルとの軍事衝突を受け、イランはホルムズ海峡を封鎖中。パキスタンを通じ、米国の港湾封鎖解除を条件とした停戦案を提示した。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "サウジアラビアは依然として日本の主要石油供給国 3月輸入の52％占める",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/business/article_125678/",
+      "publishedAt": "2026-04-30T21:00:00Z",
+      "snippet": "ホルムズ海峡の緊張が続く中、日本のサウジ産原油への依存度が過去最高水準を維持。高市政権はエネルギー安全保障のため中東諸国との連携を強化している。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国ガス公社、ドラフト1位剥奪の危機 ラ・ゴナ選手の税金紛争が波及",
+      "src": "Star News Korea",
+      "url": "https://www.starnewskorea.com/news/articleView.html?idxno=202604301400",
+      "publishedAt": "2026-04-30T14:00:00Z",
+      "snippet": "KBL（韓国バスケットボール連盟）は、帰化選手ラ・ゴナの所得税負担を巡る理事会議決を履行しない韓国ガス公社に対し、ドラフト指名権剥奪の懲戒を予告した。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "economic",
+      "title": "パキスタン中央銀行、政策金利を11.5％に引き上げ インフレ抑制を優先",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/pakistan_rate_2026.html",
+      "publishedAt": "2026-04-28T14:00:00Z",
+      "snippet": "中東情勢を受けたエネルギー価格高騰によるコストプッシュ型インフレに対応。IMF融資継続の条件である外貨準備高の維持に向け、引き締め姿勢を強めている。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ経済信頼感、9ヶ月ぶりの最低水準に低下 4月統計",
+      "src": "Trading Economics",
+      "url": "https://tradingeconomics.com/turkey/economic-sentiment",
+      "publishedAt": "2026-04-28T16:00:00Z",
+      "snippet": "インフレ高止まりと中東情勢の不透明感から、サービス業や小売業の景況感が悪化。政府はインフレ抑制を最優先課題とし、緊縮財政を維持している。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ軍、ロシア深部ペルミの石油拠点をドローン攻撃 射程1750kmに拡大",
+      "src": "khb東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/15243210",
+      "publishedAt": "2026-04-30T05:57:00Z",
+      "snippet": "国境から1500キロ以上離れたロシア内陸部のインフラを破壊。ゼレンスキー大統領は「武器使用の新たな段階」と述べ、ロシア全土を射程に収める姿勢を鮮明にした。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ米大統領、プーチン氏と電話会談 ウクライナ短期停戦を協議",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/509876.php",
+      "publishedAt": "2026-04-30T10:00:00Z",
+      "snippet": "トランプ大統領はロシアに対し短期停戦を提案。イランとの戦争が泥沼化する中、欧州戦線の負担軽減を図る狙いがあるとみられるが、ウクライナ側は警戒を強めている。",
+      "collectedAt": "2026-04-30T21:51:06.790Z"
     }
   ],
-  "updatedAt": "2026-04-30T19:07:56.095Z"
+  "updatedAt": "2026-04-30T21:51:06.790Z"
 }
