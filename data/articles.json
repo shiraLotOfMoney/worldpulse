@@ -1,56 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イランが「核協議延期」を含む新たな提案を米国に提示、ホルムズ海峡再開を優先",
-      "src": "みんかぶ",
-      "url": "https://minkabu.jp/news/3892000",
-      "publishedAt": "2026-04-27T10:50:00Z",
-      "snippet": "イランがパキスタンを介し、ホルムズ海峡の再開と引き換えに核協議を後回しにする案を提示。トランプ政権がこれを受け入れるかは不透明。",
-      "collectedAt": "2026-04-27T05:46:50.954Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領、イランに対し「話したければ電話してこい」と強気姿勢",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/874226",
-      "publishedAt": "2026-04-27T11:22:00Z",
-      "snippet": "イランとの戦闘終結協議について、トランプ大統領は「アメリカが主導権を握っている」と強調。現時点での代表団派遣を否定し、圧力を継続する構え。",
-      "collectedAt": "2026-04-27T05:46:50.954Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、ホルムズ海峡の「全面開放」を提示　核問題は後回しに",
-      "src": "KSBニュース",
-      "url": "https://news.ksb.co.jp/ann/article/20260427-iran-proposal",
-      "publishedAt": "2026-04-27T14:03:00Z",
-      "snippet": "米イラン紛争の停戦期限が迫る中、イランはホルムズ海峡の再開と海上封鎖解除を優先し、核問題の協議を先送りする新提案を米国に提示した。トランプ大統領は対応を協議中。",
-      "collectedAt": "2026-04-27T08:09:07.987Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国、2026年1〜3月期に1.7％の高成長　半導体輸出が牽引",
-      "src": "AFPBB News",
-      "url": "https://www.afpbb.com/articles/-/korea-gdp-2026-q1",
-      "publishedAt": "2026-04-27T12:00:00Z",
-      "snippet": "韓国の第1四半期GDPは、半導体輸出が前年同期比2.4倍と激増したことで予測を大幅に上回った。美容目的の「医療観光」客も過去最多の200万人を突破している。",
-      "collectedAt": "2026-04-27T08:09:07.987Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "conflict",
-      "title": "ミャンマー軍政が大規模恩赦、前大統領釈放もスーチー氏は軟禁継続",
-      "src": "ニューズウィーク日本版",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104321.php",
-      "publishedAt": "2026-04-27T18:41:00Z",
-      "snippet": "ミャンマー新政権は旧正月を機に4500人以上の恩赦を発表。ウィンミン前大統領が釈放されたが、アウンサンスーチー氏は刑期短縮に留まり軟禁が続いている。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
       "countryCode": "156",
       "cat": "economic",
       "title": "中国、米メタによる国内AI企業「Manus」の買収を阻止",
@@ -58,36 +8,6 @@
       "url": "https://www.jiji.com/jc/article?k=2026042700987",
       "publishedAt": "2026-04-27T20:28:00Z",
       "snippet": "中国政府は技術流出への懸念から、米メタによるAIスタートアップ「Manus」の買収を不許可とした。米中ハイテク覇権争いがAI分野で激化している。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
-      "countryCode": "250",
-      "cat": "economic",
-      "title": "マクロン大統領、リチウム生産での産業主権確保を強調",
-      "src": "ジェトロ",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/france_lithium.html",
-      "publishedAt": "2026-04-27T11:00:00Z",
-      "snippet": "フランスのマクロン大統領は、EV電池に不可欠なリチウムの国内生産を強化し、中国依存からの脱却と産業主権の確立を目指す方針を表明した。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン、ホルムズ海峡開放に向け米国に新提案",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260427_iran_proposal",
-      "publishedAt": "2026-04-27T17:03:00Z",
-      "snippet": "イランはパキスタンを介し、海上封鎖解除を条件としたホルムズ海峡の開放を米国に提案。核協議の先送りが含まれており、トランプ政権の対応が注目される。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
-      "countryCode": "376",
-      "cat": "political",
-      "title": "イスラエル元首相らが新党結成、ネタニヤフ氏退陣狙う",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026042700654",
-      "publishedAt": "2026-04-27T14:57:00Z",
-      "snippet": "ベネット元首相とラピド前首相が合流し新党を結成。年内実施予定の総選挙に向け、現職のネタニヤフ首相に対抗する勢力の結集を図る。",
       "collectedAt": "2026-04-27T13:21:18.334Z"
     },
     {
@@ -101,216 +21,6 @@
       "collectedAt": "2026-04-27T13:21:18.334Z"
     },
     {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮、ロシア派遣兵士の記念館を平壌に建設",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260427_north_korea_memorial",
-      "publishedAt": "2026-04-27T13:07:00Z",
-      "snippet": "ウクライナ侵攻でロシアを支援した北朝鮮兵士を称える記念館が完成。金正恩総書記が出席し、プーチン大統領も祝辞を寄せるなど、露朝の軍事同盟を誇示した。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "economic",
-      "title": "韓国株式市場、時価総額6000兆ウォンを初突破",
-      "src": "ファイナンシャルニュースジャパン",
-      "url": "https://www.fnnews.jp/news/20260427112400",
-      "publishedAt": "2026-04-27T11:24:00Z",
-      "snippet": "AI半導体需要の爆発的増加により、サムスン電子などの株価が急騰。韓国市場の時価総額は初めて6000兆ウォンを超え、欧州主要国を上回る規模に成長した。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、ザポリージャ原発敷地内へのドローン攻撃を主張",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260427_zaporizhzhia_attack",
-      "publishedAt": "2026-04-27T15:00:00Z",
-      "snippet": "ロシア国営企業ロスアトムは、ウクライナ軍のドローンがザポリージャ原発を攻撃し職員1人が死亡したと発表。IAEAは安全への重大な脅威として懸念を表明。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領出席の夕食会で発砲事件、容疑者は政権に憎悪",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/20260427_trump_shooting",
-      "publishedAt": "2026-04-27T13:35:00Z",
-      "snippet": "ワシントンでの夕食会で発砲事件が発生し、トランプ大統領らが一時退避。逮捕された男は「政権の政策に怒りを感じていた」と犯行を予告する文書を家族に送っていた。",
-      "collectedAt": "2026-04-27T13:21:18.334Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン、米に核交渉後回しの新提案 ホルムズ海峡再開を優先か",
-      "src": "KSBニュース (ANN)",
-      "url": "https://news.ksb.co.jp/ann/article/123456",
-      "publishedAt": "2026-04-27T14:03:00Z",
-      "snippet": "イランが米国に対し、核問題を棚上げしてホルムズ海峡の封鎖解除と戦争終結を先行させる3段階の和平案を提示。トランプ大統領は27日に安保幹部と会議を予定しており、緊張緩和に向けた外交努力が続いている。",
-      "collectedAt": "2026-04-27T16:23:18.042Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、2026年度補正予算編成を否定 イラン情勢注視も予備費で対応",
-      "src": "nippon.com (時事通信)",
-      "url": "https://www.nippon.com/ja/news/fjt20260427001/",
-      "publishedAt": "2026-04-27T14:52:00Z",
-      "snippet": "高市早苗首相は参院予算委で、中東情勢緊迫化に伴う経済対策について、現時点での補正予算編成は不要との認識を示した。2026年度予算の予備費1兆円を活用し、燃料供給の安定確保に万全を期す構え。",
-      "collectedAt": "2026-04-27T16:23:18.042Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナとロシア、勝利への道筋見えず 米国主導の和平協議は難航",
-      "src": "ウクルインフォルム通信",
-      "url": "https://www.ukrinform.jp/rubric-polytics/1234567-ukraine-russia-peace-talks.html",
-      "publishedAt": "2026-04-27T15:39:00Z",
-      "snippet": "トランプ政権が6月までの戦闘終結を求める中、ウクライナとロシアの和平交渉は領土問題を巡り膠着。ロシア軍はオデーサへ大規模攻撃を継続しており、戦場での決着を優先する姿勢を崩していない。",
-      "collectedAt": "2026-04-27T16:23:18.042Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英スターマー首相、イラン革命防衛隊の非合法化法案を提出へ",
-      "src": "時事通信 (AFP)",
-      "url": "https://www.jiji.com/jc/article?k=2026042700852",
-      "publishedAt": "2026-04-27T17:23:00Z",
-      "snippet": "イギリスのスターマー首相は、イラン革命防衛隊（IRGC）をテロ組織として非合法化する方針を固めた。エプスタイン疑惑に関連した大使人事問題で支持率が低迷する中、対イラン強硬姿勢を打ち出すことで政権立て直しを図る。",
-      "collectedAt": "2026-04-27T16:23:18.042Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタン軍がアフガン東部を攻撃、タリバン政権が「戦争犯罪」と非難",
-      "src": "Livedoor ニュース (TBS NEWS DIG)",
-      "url": "https://news.livedoor.com/article/detail/26306548/",
-      "publishedAt": "2026-04-27T15:54:00Z",
-      "snippet": "パキスタン軍がアフガニスタン東部クナール州を攻撃し、4人が死亡、学生を含む約70人が負傷した。タリバン暫定政権は「戦争犯罪」と非難したが、パキスタン側は攻撃を否定している。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "76",
-      "cat": "economic",
-      "title": "ブラジルのデジタル銀行Nubank、2026年に国内で約1.2兆円の投資を発表",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/stock-market-news/article-987654",
-      "publishedAt": "2026-04-27T12:00:00Z",
-      "snippet": "デジタル金融大手のNubankが、ブラジル市場へ450億レアル（約1.2兆円）を投資すると発表。AIモデルの開発やインフラ拡大、新サービスの立ち上げに充てられる。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "156",
-      "cat": "economic",
-      "title": "中国政府、米メタによる中国系AI企業「Manus」の買収を阻止",
-      "src": "共同通信 (OANDA Lab)",
-      "url": "https://www.oanda.jp/lab-education/market_news/article/123456",
-      "publishedAt": "2026-04-27T18:53:00Z",
-      "snippet": "中国政府は、米メタによるAI企業Manusの買収を認めないと発表。技術流出を懸念した措置とみられ、当局は創業者の出国も禁じていると報じられている。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インドとニュージーランドが自由貿易協定（FTA）に署名、過去最速の9か月で妥結",
-      "src": "The Hindu / ロジスティック",
-      "url": "https://www.global-scm.com/fta-news/india-nz-fta-2026/",
-      "publishedAt": "2026-04-27T14:00:00Z",
-      "snippet": "インドとニュージーランドはニューデリーでFTAに署名。交渉再開からわずか9か月という異例の速さで、関税撤廃だけでなく投資や人の移動の自由化も盛り込まれた。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "イラン、米国にホルムズ海峡開放を優先する新提案、核問題は後回しに",
-      "src": "読売新聞 / KAB",
-      "url": "https://www.yomiuri.co.jp/world/20260427-OYT1T50123/",
-      "publishedAt": "2026-04-27T14:03:00Z",
-      "snippet": "イランはパキスタンを通じ、ホルムズ海峡の開放と米国の海上封鎖解除を優先し、核問題の協議を後回しにする案を米国に提示。トランプ政権は対応を検討中。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "conflict",
-      "title": "北朝鮮、ロシア派遣兵士の「偉勲記念館」が完成、金正恩氏が式典出席",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260427-0001/",
-      "publishedAt": "2026-04-27T12:26:00Z",
-      "snippet": "平壌でロシア派遣兵士をたたえる記念館の完成式典が開かれ、金正恩総書記が出席。プーチン大統領もメッセージを寄せ、両国の軍事的結束を改めて誇示した。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "ロシア軍、ウクライナ南部オデーサを無人機で大規模攻撃、14人が負傷",
-      "src": "ウクルインフォルム通信",
-      "url": "https://www.ukrinform.jp/rubric-ato/3857123-russia-odesa-attack.html",
-      "publishedAt": "2026-04-27T16:01:00Z",
-      "snippet": "ロシア軍が27日未明、オデーサに対し自爆型無人機による大規模攻撃を実施。住宅やホテル、港湾インフラが損傷し、子供2人を含む14人が負傷した。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "760",
-      "cat": "economic",
-      "title": "シリア北西部で大規模な洪水、住宅150軒が浸水し農地に深刻な被害",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260427-0002/",
-      "publishedAt": "2026-04-27T13:57:00Z",
-      "snippet": "シリア北西部のイドリブ周辺で豪雨による洪水が発生。ダムの水位上昇により堤防が決壊し、広範囲の農地が失われ、住民は船での移動を余儀なくされている。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ウクライナ、迎撃用ドローンをノルウェーで共同生産へ、協定に署名",
-      "src": "ウクルインフォルム通信",
-      "url": "https://www.ukrinform.jp/rubric-defense/3857100-ukraine-norway-drone.html",
-      "publishedAt": "2026-04-27T14:00:00Z",
-      "snippet": "ウクライナとノルウェーは、ウクライナ製迎撃用無人機のノルウェー国内での生産に関する協定を締結。ロシアの空爆に対抗するための防衛協力が一段と強化される。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領出席の夕食会で発砲事件、容疑者は「政権への憎悪」供述",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/691110",
-      "publishedAt": "2026-04-27T13:35:00Z",
-      "snippet": "ワシントンでの夕食会で起きた発砲事件で、逮捕された元教師の男が家族に「政権幹部を標的にする」と予告していたことが判明。トランプ氏は容疑者を「イカれた男」と非難。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタンがアフガン攻撃、4人死亡とタリバン主張 和平協議に暗雲",
-      "src": "Reuters",
-      "url": "https://newsweekjapan.jp/headlines/world/2026/04/513456.php",
-      "publishedAt": "2026-04-27T17:39:00Z",
-      "snippet": "アフガニスタン東部でパキスタン軍による迫撃砲攻撃が発生し、タリバン暫定政権は4人が死亡したと発表。両国間の緊張が再燃し、和平協議の頓挫が懸念されている。",
-      "collectedAt": "2026-04-27T21:48:41.078Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "タリバン暫定政権、パキスタン軍の攻撃を「戦争犯罪」と非難",
-      "src": "TBS NEWS DIG",
-      "url": "https://news.livedoor.com/article/detail/26306500/",
-      "publishedAt": "2026-04-27T15:54:00Z",
-      "snippet": "アフガニスタン東部クナール州でパキスタン軍による攻撃があり、4人が死亡、70人が負傷した。タリバン側は民間人が標的になったとして非難しているが、パキスタン側は攻撃を否定している。",
-      "collectedAt": "2026-04-28T02:06:44.227Z"
-    },
-    {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツ財務省、イラン戦争の影響を受け「債務ブレーキ」停止を検討",
-      "src": "Investing.com",
-      "url": "https://jp.investing.com/news/economy-news/article-935678",
-      "publishedAt": "2026-04-27T13:26:00Z",
-      "snippet": "中東情勢の悪化によるエネルギー価格高騰を受け、ドイツ政府は憲法上の債務制限を一時的に停止し、危機対策の予算を確保する準備を進めている。",
-      "collectedAt": "2026-04-28T02:06:44.227Z"
-    },
-    {
       "countryCode": "376",
       "cat": "political",
       "title": "イスラエル首相経験者2人が新党結成、ネタニヤフ退陣を狙う",
@@ -318,16 +28,6 @@
       "url": "https://www.jiji.com/jc/article?k=2026042800456",
       "publishedAt": "2026-04-28T00:38:00Z",
       "snippet": "イスラエルの元首相2人が、年内の総選挙実施とネタニヤフ首相の退陣を目指して新党を結成した。国内では政権への批判と対イラン情勢への不安が交錯している。",
-      "collectedAt": "2026-04-28T02:06:44.227Z"
-    },
-    {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "ザポリージャ原発にドローン攻撃、職員1人が死亡",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/691345",
-      "publishedAt": "2026-04-27T12:05:00Z",
-      "snippet": "ロシアが占拠するザポリージャ原発でドローン攻撃があり、運転手1人が死亡した。ロシア側はウクライナ軍の攻撃と主張し、IAEAが安全への懸念を表明している。",
       "collectedAt": "2026-04-28T02:06:44.227Z"
     },
     {
@@ -481,16 +181,6 @@
       "collectedAt": "2026-04-28T08:10:46.794Z"
     },
     {
-      "countryCode": "408",
-      "cat": "political",
-      "title": "北朝鮮に「ロシア派兵記念館」完成、金正恩氏が出席",
-      "src": "khb東日本放送",
-      "url": "https://www.khb-tv.co.jp/news/15245678",
-      "publishedAt": "2026-04-27T12:26:00Z",
-      "snippet": "ウクライナ侵攻を続けるロシアに派遣された北朝鮮兵士の功績をたたえる記念館が平壌に完成。金正恩総書記は「血でつづられた朝ロ親善」を強調した。",
-      "collectedAt": "2026-04-28T08:10:46.794Z"
-    },
-    {
       "countryCode": "410",
       "cat": "economic",
       "title": "韓国株が連日史上最高値を更新、テック企業の業績期待で",
@@ -531,16 +221,6 @@
       "collectedAt": "2026-04-28T08:10:46.794Z"
     },
     {
-      "countryCode": "760",
-      "cat": "economic",
-      "title": "シリア北西部で大規模な洪水、住宅や農地に深刻な被害",
-      "src": "KAB 熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260427-syria-flood/",
-      "publishedAt": "2026-04-27T13:57:00Z",
-      "snippet": "シリア北西部のイドリブ周辺で豪雨による洪水が発生。ダムや堤防が決壊し、150軒以上の家屋が浸水、広大な農地が失われた。",
-      "collectedAt": "2026-04-28T08:10:46.794Z"
-    },
-    {
       "countryCode": "826",
       "cat": "political",
       "title": "英チャールズ国王夫妻、国賓として訪米、トランプ氏と会談",
@@ -559,16 +239,6 @@
       "publishedAt": "2026-04-28T11:38:00Z",
       "snippet": "ルビオ長官はインタビューで、イランに穏健派は存在しないと述べ、和平協議の難しさを強調。ホルムズ海峡の通航料徴収も認めない考えを示した。",
       "collectedAt": "2026-04-28T08:10:46.794Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "タリバン暫定政権、パキスタン軍の攻撃を「戦争犯罪」と非難",
-      "src": "Livedoor News (TBS NEWS DIG)",
-      "url": "https://news.livedoor.com/article/detail/26305432/",
-      "publishedAt": "2026-04-27T15:54:00Z",
-      "snippet": "アフガニスタンのタリバン暫定政権は、隣国パキスタンからの攻撃により4人が死亡、70人が負傷したと発表し、これを「戦争犯罪」として強く非難した。",
-      "collectedAt": "2026-04-28T10:57:11.761Z"
     },
     {
       "countryCode": "250",
@@ -591,16 +261,6 @@
       "collectedAt": "2026-04-28T10:57:11.761Z"
     },
     {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "金正恩氏、ロシア国防相らと協議し「ロシアの政策を全面的に後押し」と表明",
-      "src": "Reuters (Newsweek Japan)",
-      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/534567.php",
-      "publishedAt": "2026-04-27T11:44:00Z",
-      "snippet": "金正恩総書記は訪朝したロシア国防相らと会談し、ロシアの主権を守る政策を全面的に支持し、軍事・政治協力を深めることを再確認した。",
-      "collectedAt": "2026-04-28T10:57:11.761Z"
-    },
-    {
       "countryCode": "682",
       "cat": "economic",
       "title": "サウジ「ビジョン2030」が最終段階へ、皇太子が成果を強調",
@@ -619,16 +279,6 @@
       "publishedAt": "2026-04-28T05:20:00Z",
       "snippet": "EUはウクライナに対し900億ユーロの無利子融資を決定した。これによりゼレンスキー政権は2027年末までの戦費を確保し、欧州主導の防衛体制を強化する。",
       "collectedAt": "2026-04-28T10:57:11.761Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタン軍がアフガン東部を攻撃、タリバン政権が「戦争犯罪」と非難",
-      "src": "TBS NEWS DIG / Livedoor",
-      "url": "https://news.livedoor.com/article/detail/26307456/",
-      "publishedAt": "2026-04-27T15:54:00Z",
-      "snippet": "パキスタン軍がアフガニスタン東部クナール州を攻撃し、学生を含む4人が死亡、70人が負傷した。タリバン政権は戦争犯罪だと非難したが、パキスタン側は攻撃を否定している。",
-      "collectedAt": "2026-04-28T16:48:02.945Z"
     },
     {
       "countryCode": "76",
@@ -711,16 +361,6 @@
       "collectedAt": "2026-04-28T16:48:02.945Z"
     },
     {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領、イランの新提案に「話したければ電話しろ」と強気姿勢",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/691300",
-      "publishedAt": "2026-04-27T17:03:00Z",
-      "snippet": "トランプ大統領はイランからの戦闘終結提案に対し、主導権を強調する発言。一方で、米兵がベネズエラ作戦の結末に賭けていた不祥事については「世界がカジノ化した」と持論を展開した。",
-      "collectedAt": "2026-04-28T16:48:02.945Z"
-    },
-    {
       "countryCode": "156",
       "cat": "political",
       "title": "習近平主席、軍の思想統制を強化し威信回復図る",
@@ -791,16 +431,6 @@
       "collectedAt": "2026-04-29T02:08:11.474Z"
     },
     {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー新大統領に前国軍トップのミン・アウン・フライン氏が選出",
-      "src": "ジェトロ",
-      "url": "https://www.jetro.go.jp/biznews/2026/04/abc12345.html",
-      "publishedAt": "2026-04-27T11:00:00Z",
-      "snippet": "連邦議会はミン・アウン・フライン前国軍司令官を大統領に選出。軍事政権から民政移管を装う形だが、各地では依然として国軍と抵抗勢力の激しい衝突が続いている。",
-      "collectedAt": "2026-04-29T02:08:11.474Z"
-    },
-    {
       "countryCode": "156",
       "cat": "economic",
       "title": "中国不動産市場の崩壊止まらず、実質住宅価格が過去20年で最低水準を記録",
@@ -841,16 +471,6 @@
       "collectedAt": "2026-04-29T02:08:11.474Z"
     },
     {
-      "countryCode": "356",
-      "cat": "economic",
-      "title": "インド、2026年に名目GDPで日本を抜き世界第4位へ浮上する見通し",
-      "src": "経団連タイムス",
-      "url": "https://www.keidanren.or.jp/journal/times/2026/0416_01.html",
-      "publishedAt": "2026-04-27T14:00:00Z",
-      "snippet": "高水準の経済成長を維持するインドが、2026年中に日本を抜いて世界4位の経済大国になる公算。モディ政権は3期目で安定しているが、若年層の雇用創出が課題となっている。",
-      "collectedAt": "2026-04-29T02:08:11.474Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン、戦闘終結に向けた改訂案を提示へ パキスタンが仲介継続",
@@ -881,16 +501,6 @@
       "collectedAt": "2026-04-29T02:08:11.474Z"
     },
     {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国・李在明政権、6月の統一地方選に向け「内乱勢力審判」を強調",
-      "src": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026042700567",
-      "publishedAt": "2026-04-27T18:00:00Z",
-      "snippet": "尹錫悦前大統領の罷免後に発足した李在明政権は、初の大型選挙となる地方選で保守派への攻勢を強める。物価高への不満が広がる中、経済対策の実行力が問われている。",
-      "collectedAt": "2026-04-29T02:08:11.474Z"
-    },
-    {
       "countryCode": "586",
       "cat": "political",
       "title": "パキスタン、米イラン仲介とアフガン国境紛争の対応に苦慮",
@@ -898,16 +508,6 @@
       "url": "https://www.ide.go.jp/Japanese/IDE-JETRO/20260408.html",
       "publishedAt": "2026-04-28T14:00:00Z",
       "snippet": "イランと米国の停戦交渉を仲介する一方で、アフガニスタン・タリバン政権との国境衝突が激化。中国の仲介も受けつつ、地域情勢の安定化に向けた多角的な外交を展開している。",
-      "collectedAt": "2026-04-29T02:08:11.474Z"
-    },
-    {
-      "countryCode": "643",
-      "cat": "conflict",
-      "title": "プーチン大統領、ウクライナ侵攻継続を宣言 ルハンスク州「完全掌握」を主張",
-      "src": "SSRI (日本安全保障戦略研究所)",
-      "url": "https://ssri-j.com/report/russia-ukraine-202604/",
-      "publishedAt": "2026-04-27T11:00:00Z",
-      "snippet": "ロシア国防省はルハンスク州の占領完了を発表。プーチン氏は「目標達成まで止まらない」と強硬姿勢を維持。一方、英国防省はロシア軍が深刻な人員不足に直面していると分析。",
       "collectedAt": "2026-04-29T02:08:11.474Z"
     },
     {
@@ -991,16 +591,6 @@
       "collectedAt": "2026-04-29T02:08:11.474Z"
     },
     {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタン軍がアフガン東部を攻撃、タリバン政権が「戦争犯罪」と非難",
-      "src": "TBS NEWS DIG / ライブドアニュース",
-      "url": "https://news.livedoor.com/article/detail/26308000/",
-      "publishedAt": "2026-04-27T15:54:00Z",
-      "snippet": "パキスタン軍によるアフガニスタン東部クナール州への攻撃で4人が死亡、70人が負傷。タリバン側は教育機関も標的になったとして非難している。",
-      "collectedAt": "2026-04-29T08:03:20.711Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジル4月消費者物価指数（IPCA）は0.89％、市場予想を下回る",
@@ -1048,16 +638,6 @@
       "url": "https://www.aljazeera.com/news/2026/4/28/nigeria-attack",
       "publishedAt": "2026-04-28T09:00:00Z",
       "snippet": "アダマワ州の村を武装集団が数時間にわたり襲撃。IS系武装組織が犯行声明を出しており、治安悪化が深刻化している。",
-      "collectedAt": "2026-04-29T08:03:20.711Z"
-    },
-    {
-      "countryCode": "586",
-      "cat": "tension",
-      "title": "パキスタン、米イラン協議の仲介を継続、イスラマバードで実務者会談",
-      "src": "日テレNEWS / note",
-      "url": "https://www.youtube.com/watch?v=example_pak",
-      "publishedAt": "2026-04-27T11:00:00Z",
-      "snippet": "核保有国であるパキスタンが、激化する米イラン紛争の仲介役として存在感を高めている。アラグチ外相がイスラマバードを訪問。",
       "collectedAt": "2026-04-29T08:03:20.711Z"
     },
     {
@@ -1261,16 +841,6 @@
       "collectedAt": "2026-04-29T16:25:05.485Z"
     },
     {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮、ロシア派兵の功績をたたえる記念館が完成 金正恩氏が出席",
-      "src": "熊本朝日放送",
-      "url": "https://www.kab.co.jp/news/20260427-00001234/",
-      "publishedAt": "2026-04-27T12:26:00Z",
-      "snippet": "平壌に「海外軍事作戦戦闘偉勲記念館」が完成。金正恩総書記はロシアへの派兵を「血で綴られた朝ロ親善」と称賛し、軍事協力のさらなる強化を確認した。",
-      "collectedAt": "2026-04-29T16:25:05.485Z"
-    },
-    {
       "countryCode": "586",
       "cat": "tension",
       "title": "パキスタン、米国とイランの和平協議を仲介 トランプ政権に要請",
@@ -1398,16 +968,6 @@
       "url": "https://www.fnn.jp/articles/-/123456",
       "publishedAt": "2026-04-29T00:00:00Z",
       "snippet": "2026年4月29日、昭和100年を記念する式典が開催され、両陛下や三権の長が出席。あわせて記念貨幣の発行も発表された。",
-      "collectedAt": "2026-04-29T19:11:49.730Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "conflict",
-      "title": "北朝鮮、ロシア派兵兵士をたたえる記念館が平壌に完成",
-      "src": "KAB 熊本朝日放送 / FNN",
-      "url": "https://www.kab.co.jp/news/20260427001/",
-      "publishedAt": "2026-04-27T12:26:00Z",
-      "snippet": "ウクライナ戦争への派兵で功績を挙げた兵士を記念する施設が完成。金正恩総書記が出席し、ロシアとの「血の同盟」を強調した。",
       "collectedAt": "2026-04-29T19:11:49.730Z"
     },
     {
@@ -1599,16 +1159,6 @@
       "publishedAt": "2026-04-29T10:00:00Z",
       "snippet": "イラン側の新提案を「不十分」として拒否。核合意がなされるまでホルムズ海峡の封鎖を解かない強硬姿勢を維持している。",
       "collectedAt": "2026-04-29T21:54:39.829Z"
-    },
-    {
-      "countryCode": "4",
-      "cat": "conflict",
-      "title": "パキスタンがアフガン領内を攻撃、4人死亡とタリバン発表",
-      "src": "Newsweek Japan",
-      "url": "https://www.newsweekjapan.jp/stories/world/2026/04/post-104351.php",
-      "publishedAt": "2026-04-27T17:39:00Z",
-      "snippet": "アフガニスタンのタリバン暫定政権は、パキスタン軍がクナール州を迫撃砲などで攻撃し、学生を含む4人が死亡したと発表。パキスタン側は否定しており、両国間の緊張が高まっている。",
-      "collectedAt": "2026-04-30T05:51:32.531Z"
     },
     {
       "countryCode": "76",
@@ -1859,7 +1409,147 @@
       "publishedAt": "2026-04-28T13:49:00Z",
       "snippet": "シムシェキ財務相はサービス輸出の100%免税などを発表。中東情勢の混乱を背景に、イラクや湾岸諸国を結ぶ新たなエネルギー回廊の構築を急いでいる。",
       "collectedAt": "2026-04-30T10:48:19.353Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル中銀、2会合連続で0.25％利下げ　イラン紛争による原油高を注視",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/30/br-centralbank.php",
+      "publishedAt": "2026-04-30T16:41:00Z",
+      "snippet": "ブラジル中央銀行は政策金利を0.25％引き下げたが、中東での軍事衝突に伴うエネルギー価格の上昇が国内インフレに与える影響を警戒している。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "アウンサンスーチー氏を「住居軟禁」に、ミャンマー親軍政権が恩赦で処遇変更",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260430-myanmar",
+      "publishedAt": "2026-04-30T11:00:00Z",
+      "snippet": "ミャンマーの親軍政権は、拘束中のアウンサンスーチー氏を刑務所から指定住居での軟禁に移したと発表。仏教新年に合わせた恩赦の一環とされる。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "習近平総書記、機関誌「求是」で五カ年計画の重要性を強調",
+      "src": "Record China",
+      "url": "https://www.recordchina.co.jp/b932000-s251-c30.html",
+      "publishedAt": "2026-04-30T08:00:00Z",
+      "snippet": "習近平国家主席は党機関誌において、国内外の情勢変化に対応し、現代的な産業体系を構築するための五カ年計画の戦略的優位性を改めて説いた。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツの4月失業者数が300万人を突破、雇用情勢の悪化が鮮明に",
+      "src": "Newsweek Japan",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/04/30/germany-unemployment.php",
+      "publishedAt": "2026-04-30T18:27:00Z",
+      "snippet": "ドイツの4月の失業者数が季節調整後で300万人を超え、中東紛争によるエネルギー価格高騰が製造業に打撃を与えていることが浮き彫りとなった。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イラン核問題で「短期で強力な」攻撃計画を示唆",
+      "src": "熊本朝日放送 (KAB)",
+      "url": "https://www.kab.co.jp/news/20260430-iran-us/",
+      "publishedAt": "2026-04-30T11:58:00Z",
+      "snippet": "トランプ大統領はイランの港湾封鎖により経済が崩壊しつつあると主張。核合意を拒むイランに対し、米軍による短期集中攻撃の可能性を報じられた。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "米・イスラエルとイランの軍事衝突から2カ月、停戦維持も協議は膠着",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/mideast-conflict.html",
+      "publishedAt": "2026-04-28T16:00:00Z",
+      "snippet": "イランとの軍事衝突開始から2カ月が経過。一時的な停戦には合意しているものの、核問題を巡る立場の隔たりから抜本的な解決には至っていない。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市総理、ナフサ不足に対し「年明けまで供給継続」の見込みを表明",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/politics/20260430-takaichi/",
+      "publishedAt": "2026-04-30T17:49:00Z",
+      "snippet": "高市早苗総理は、中東情勢の影響で懸念されるナフサ由来の化学製品供給について、代替ルートの確保により一定の供給を維持できるとの見通しを示した。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "北朝鮮、金正恩体制下の13年間で少なくとも358人を処刑か　韓国団体報告",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260430-northkorea/",
+      "publishedAt": "2026-04-30T09:54:00Z",
+      "snippet": "韓国の人権団体が、金正恩政権下で執行された処刑の実態を公表。韓国エンタメの視聴を理由とした公開処刑が最多であると指摘した。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "ナイジェリア政府、大学ストライキ回避に向け労働組合と緊急協議",
+      "src": "Vanguard News",
+      "url": "https://www.vanguardngr.com/2026/04/strike-notice-fg-meets-unions/",
+      "publishedAt": "2026-04-29T14:00:00Z",
+      "snippet": "ナイジェリア連邦政府は、賃上げを求めてストライキを予告している大学の非教員組合と会談し、教育機関の運営停止を回避するための交渉を行った。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "economic",
+      "title": "ロシア雇用市場、人員削減と人手不足が併存　ITや医師の不足深刻",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/russia-labor.html",
+      "publishedAt": "2026-04-30T15:00:00Z",
+      "snippet": "ロシアでは金融・法務部門で人員削減が進む一方、IT人材や医師などの高度専門職で深刻な人手不足が続いており、労働力の再配分が課題となっている。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジ政府系ファンドPIF、LIVゴルフ撤退と「ザ・ライン」規模縮小を決定",
+      "src": "朝鮮日報 (ChosunBiz)",
+      "url": "https://biz.chosun.com/international/2026/04/30/saudi-pif/",
+      "publishedAt": "2026-04-30T15:39:00Z",
+      "snippet": "サウジアラビアのPIFは、看板事業だったLIVゴルフへの支援打ち切りと、巨大都市計画「ザ・ライン」の規模縮小を発表。国内産業への投資を優先する。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン紛争が4年目に突入、1000万人以上が避難する「世界最悪の人道危機」",
+      "src": "World Vision",
+      "url": "https://www.worldvision.jp/news/shien/20260430-sudan.html",
+      "publishedAt": "2026-04-30T10:00:00Z",
+      "snippet": "スーダンでの紛争は発生から3年が経過し、4年目に突入。人口の3分の1が避難を強いられ、食糧不足と暴力が深刻化している。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "economic",
+      "title": "英中銀ベイリー総裁、中東紛争の長期化が英国経済に深刻な影響と警告",
+      "src": "ライブドアニュース (みんかぶFX)",
+      "url": "https://news.livedoor.com/article/detail/20260430-bailey-boe/",
+      "publishedAt": "2026-04-30T20:48:00Z",
+      "snippet": "イングランド銀行のベイリー総裁は、ホルムズ海峡の封鎖を含む中東情勢の緊迫化が長引くほど、英国のインフレと景気への打撃が深刻になるとの見解を示した。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "economic",
+      "title": "トランプ大統領、海上封鎖で「イラン経済は崩壊しつつある」と成果強調",
+      "src": "熊本朝日放送 (KAB)",
+      "url": "https://www.kab.co.jp/news/20260430-trump-iran/",
+      "publishedAt": "2026-04-30T11:30:00Z",
+      "snippet": "トランプ米大統領は、イランの港湾に出入りする船舶への封鎖措置が効果を上げているとし、イラン側が降参するまで圧力を緩めない姿勢を鮮明にした。",
+      "collectedAt": "2026-04-30T19:07:56.095Z"
     }
   ],
-  "updatedAt": "2026-04-30T10:48:19.353Z"
+  "updatedAt": "2026-04-30T19:07:56.095Z"
 }
