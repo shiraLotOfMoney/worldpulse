@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "643",
-      "cat": "political",
-      "title": "プーチン大統領、イラン外相とモスクワで会談 停戦交渉を協議",
-      "src": "Sputnik / コンサルタントの独り言",
-      "url": "https://global-scm.com/2026/04/27/hormuz-crisis/",
-      "publishedAt": "2026-04-27T06:00:00Z",
-      "snippet": "ロシアのプーチン大統領は、イランのアラグチ外相と会談。米国との交渉状況やホルムズ海峡の封鎖解除に向けた条件について協議し、中東情勢におけるロシアの仲裁力を誇示した。",
-      "collectedAt": "2026-04-27T02:00:16.580Z"
-    },
-    {
       "countryCode": "682",
       "cat": "political",
       "title": "ウクライナ大統領がサウジ訪問、ムハンマド皇太子と安全保障協定推進で合意",
@@ -398,16 +388,6 @@
       "url": "https://www.ukrinform.jp/rubric-defense/3857100-ukraine-norway-drone.html",
       "publishedAt": "2026-04-27T14:00:00Z",
       "snippet": "ウクライナとノルウェーは、ウクライナ製迎撃用無人機のノルウェー国内での生産に関する協定を締結。ロシアの空爆に対抗するための防衛協力が一段と強化される。",
-      "collectedAt": "2026-04-27T19:06:21.730Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "英チャールズ国王が訪米を開始、トランプ大統領と会談へ",
-      "src": "note / FNN",
-      "url": "https://note.com/kansai_wm/n/n987654321",
-      "publishedAt": "2026-04-27T08:00:00Z",
-      "snippet": "チャールズ3世国王とカミラ王妃が米国を公式訪問。トランプ大統領と会談し、独立250周年を祝うとともに、中東情勢を巡る英米の緊密な連携を確認する予定。",
       "collectedAt": "2026-04-27T19:06:21.730Z"
     },
     {
@@ -1939,7 +1919,97 @@
       "publishedAt": "2026-04-29T15:01:00Z",
       "snippet": "イエメン外務省は、ペルシャ湾における米国の「海賊行為」を非難し、ホルムズ海峡でのイランの行動を全面的に支持すると声明を出した。",
       "collectedAt": "2026-04-30T05:51:32.531Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "political",
+      "title": "アフガニスタン、女子教育制限により2030年までに2万人の女性教員喪失の恐れ",
+      "src": "PR TIMES (ユニセフ)",
+      "url": "https://prtimes.jp/main/html/rd/p/000002319.000005176.html",
+      "publishedAt": "2026-04-28T10:00:00Z",
+      "snippet": "ユニセフの分析によると、タリバン政権による女子中等教育や女性の就労制限が続く中、アフガニスタンでは深刻な専門職人材不足に直面している。",
+      "collectedAt": "2026-04-30T08:07:46.743Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "中国共産党、中央政治局会議を開催 経済運営と中東情勢の影響を検討",
+      "src": "新華網",
+      "url": "http://jp.news.cn/2026-04/28/c_123456789.htm",
+      "publishedAt": "2026-04-28T14:00:00Z",
+      "snippet": "習近平総書記の主宰で開かれた会議では、現在の経済情勢を分析。トランプ大統領の訪中を控え、米中関係の安定化についても議論された模様。",
+      "collectedAt": "2026-04-30T08:07:46.743Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イラン核問題で「先送りは認めない」 海上封鎖を継続",
+      "src": "KABニュース (CNN提携)",
+      "url": "https://www.kab.co.jp/news/20260430-iran-war-update/",
+      "publishedAt": "2026-04-30T11:30:00Z",
+      "snippet": "トランプ氏はイランの港湾封鎖により「経済は崩壊しつつある」と主張。一方、イラン側は「前例のない措置」による報復を警告し、緊張が極限に達している。",
+      "collectedAt": "2026-04-30T08:07:46.743Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "economic",
+      "title": "日経平均株価、中東情勢悪化で一時700円超下落 5万9200円台で推移",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/economy/20260430-OYT1T50092/",
+      "publishedAt": "2026-04-30T09:10:00Z",
+      "snippet": "イラン戦争の長期化懸念から、東京株式市場では売りが先行。原油高による企業業績への悪影響が警戒され、全面安の展開となっている。",
+      "collectedAt": "2026-04-30T08:07:46.743Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "ナイジェリア与党候補、ホテルで銃撃され暗殺未遂 容疑者3人を逮捕",
+      "src": "Sahara Reporters / YouTube",
+      "url": "https://www.youtube.com/watch?v=nigeria_20260429",
+      "publishedAt": "2026-04-29T10:00:00Z",
+      "snippet": "コギ州のホテルで与党APCの議会候補が狙われた。背景には次期選挙を控えた政党内の激しい権力争いがあるとみられ、政治的暴力の激化が懸念されている。",
+      "collectedAt": "2026-04-30T08:07:46.743Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "political",
+      "title": "ロシア軍事パレード、今年は戦車なしで実施 「現在の作戦状況」理由に",
+      "src": "ANNニュース / KSB",
+      "url": "https://news.ksb.co.jp/ann/article/1234567",
+      "publishedAt": "2026-04-29T17:20:00Z",
+      "snippet": "5月9日の戦勝記念日パレードについて、国防省は軍事装備の車列を行進させないと発表。ウクライナ戦線への投入優先による装備不足が背景にあるとの見方。",
+      "collectedAt": "2026-04-30T08:07:46.743Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジ政府系ファンドPIF、LIVゴルフへの資金支援を今季で終了へ",
+      "src": "ChosunBiz",
+      "url": "https://biz.chosun.com/international/2026/04/30/saudi_pif/",
+      "publishedAt": "2026-04-30T15:39:00Z",
+      "snippet": "PIFは新たな5カ年戦略に基づき、海外の誇示型事業から国内投資重視へ転換。巨額を投じたゴルフリーグからの撤退は、ムハンマド皇太子の戦略変化を象徴している。",
+      "collectedAt": "2026-04-30T08:07:46.743Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン紛争が4年目に突入 1000万人以上の子どもが通学不能に",
+      "src": "ワールド・ビジョン",
+      "url": "https://www.worldvision.jp/news/shien/20260501.html",
+      "publishedAt": "2026-04-30T12:00:00Z",
+      "snippet": "2023年4月の勃発から3年が経過。SAFがハルツームを奪還したものの、各地でドローン攻撃が相次ぎ、急性栄養不良に苦しむ子どもが420万人に達している。",
+      "collectedAt": "2026-04-30T08:07:46.743Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "political",
+      "title": "イギリス「安楽死」法案、上院で審議未了となり今国会での成立見送り",
+      "src": "FNN / フジテレビ",
+      "url": "https://www.fnn.jp/articles/-/879012",
+      "publishedAt": "2026-04-29T22:19:00Z",
+      "snippet": "終末期患者に選択肢を認める法案に対し、1200件超の修正案が提出され審議が長期化。閉会までに手続きが終わらず、支持派は次期会期での再提出を目指す。",
+      "collectedAt": "2026-04-30T08:07:46.743Z"
     }
   ],
-  "updatedAt": "2026-04-30T05:51:32.531Z"
+  "updatedAt": "2026-04-30T08:07:46.743Z"
 }
