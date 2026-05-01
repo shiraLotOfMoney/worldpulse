@@ -131,16 +131,6 @@
       "collectedAt": "2026-04-28T10:57:11.761Z"
     },
     {
-      "countryCode": "804",
-      "cat": "conflict",
-      "title": "EU、ウクライナへ16兆円超の巨額融資を正式決定",
-      "src": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/8042026",
-      "publishedAt": "2026-04-28T05:20:00Z",
-      "snippet": "EUはウクライナに対し900億ユーロの無利子融資を決定した。これによりゼレンスキー政権は2027年末までの戦費を確保し、欧州主導の防衛体制を強化する。",
-      "collectedAt": "2026-04-28T10:57:11.761Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジルの4月上旬インフレ率、市場予想を下回る0.89%上昇",
@@ -388,16 +378,6 @@
       "url": "https://www.fnn.jp/articles/-/664123",
       "publishedAt": "2026-04-28T19:00:00Z",
       "snippet": "エプスタイン氏との関係が指摘されたマンデルソン前駐米大使の任命責任を巡り、下院は首相への調査見送りを決定。労働党政権は支持率低迷の中、イラン情勢への対応に軸足を戻す構え。",
-      "collectedAt": "2026-04-29T02:08:11.474Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ米大統領、支持率41%に低下 イラン戦争長期化が中間選挙の重荷に",
-      "src": "ロイター (Moomoo)",
-      "url": "https://news.moomoo.com/post/20260425-us-politics/",
-      "publishedAt": "2026-04-28T03:17:00Z",
-      "snippet": "11月の中間選挙を控え、ガソリン価格高騰とイラン紛争の膠着が共和党の足かせに。トランプ氏は支持率テコ入れのため、イランとの早期停戦交渉と減税策の強化を急いでいる。",
       "collectedAt": "2026-04-29T02:08:11.474Z"
     },
     {
@@ -1419,7 +1399,227 @@
       "publishedAt": "2026-04-30T00:00:00Z",
       "snippet": "再選を果たしたトランプ大統領は、イランによるホルムズ海峡封鎖の動きに対し、米軍による海上封鎖を継続すると表明。イランが核開発を完全に放棄するまで、最大限の圧力をかけ続ける強硬姿勢を示した。",
       "collectedAt": "2026-05-01T02:11:45.679Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジル前大統領、刑期の大幅短縮が決定",
+      "src": "足利経済新聞",
+      "url": "https://ashikaga.keizai.biz/gpnews/20260501/",
+      "publishedAt": "2026-05-01T08:00:00Z",
+      "snippet": "ブラジルの司法当局は、収監中の前大統領に対し、刑期を大幅に短縮する決定を下した。政治的影響を懸念する声も上がっている。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "ヤンゴン国際空港で組織的汚職が深刻化、出国に多額の賄賂要求",
+      "src": "MYANMAR JAPON",
+      "url": "https://myanmarjapon.com/news-20260501-airport/",
+      "publishedAt": "2026-05-01T07:00:00Z",
+      "snippet": "ヤンゴン国際空港にて、出国希望者に対し「VIPパス」と称して最高1000万チャットの賄賂を要求する汚職が横行。軍政下の混乱が背景にある。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国政府、省エネ・炭素排出削減の推進に関する新指針を発表",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/04/china-energy-saving.html",
+      "publishedAt": "2026-04-28T10:00:00Z",
+      "snippet": "中国国務院は、包括的なグリーン転換を支援するため、工業分野などでの省エネと炭素排出削減を加速させる新たな意見書を公表した。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "political",
+      "title": "米国、反政府勢力を支援したコンゴ民主共和国前大統領に制裁",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy/congo-sanctions-20260430",
+      "publishedAt": "2026-04-30T18:00:00Z",
+      "snippet": "米国政府は、東部で活動する武装勢力M23を支援したとして、コンゴ民主共和国の前大統領に対し資産凍結などの制裁を科した。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "political",
+      "title": "フランス・リヨンでメーデーに伴う公共交通機関の全面停止",
+      "src": "特典旅行",
+      "url": "https://tokutenryoko.com/news/france-lyon-20260501",
+      "publishedAt": "2026-05-01T06:00:00Z",
+      "snippet": "5月1日のメーデーに合わせ、リヨン市内の地下鉄、トラム、バスが終日運行停止。保守点検作業と労働者の権利主張が重なる恒例の措置。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "tension",
+      "title": "ドイツ、トランプ米大統領による駐留米軍削減の示唆に「備え」",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/20260501-germany-us-troops",
+      "publishedAt": "2026-05-01T05:00:00Z",
+      "snippet": "ドイツ政府は、トランプ米大統領が示唆したドイツ駐留米軍の削減計画に対し、NATO同盟国と緊密に協議しつつ「備えている」と表明した。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "大日本印刷、インド工科大学ハイデラバード校に研究拠点を設置",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/india-dnp-research.html",
+      "publishedAt": "2026-05-01T09:00:00Z",
+      "snippet": "DNPはインド工科大学内に研究開発拠点を開設。EV向け無線給電やメディカル分野での共同研究を進め、グローバル戦略を強化する。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "political",
+      "title": "日イラン首脳が電話会談、中東情勢の沈静化を協議",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260501-iran-japan-call",
+      "publishedAt": "2026-05-01T08:00:00Z",
+      "snippet": "日本の高市総理とイラン首脳が電話会談。米国との緊張が続く中、ホルムズ海峡の安全確保と人道支援について意見を交わした。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市総理、ベトナム・オーストラリア外遊へ出発",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260501-takachi-visit",
+      "publishedAt": "2026-05-01T07:00:00Z",
+      "snippet": "高市総理大臣は1日、経済安全保障やエネルギー協力の強化を目指し、ベトナムとオーストラリアへの公式訪問に出発した。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "political",
+      "title": "北朝鮮、金正恩体制下で少なくとも358人を処刑か",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260430-north-korea-execution",
+      "publishedAt": "2026-04-30T15:00:00Z",
+      "snippet": "韓国の人権団体が報告書を公開。韓流ドラマの流布などを理由とした処刑が2割を占め、市民への恐怖政治が続いている実態が明らかになった。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "尹錫悦前大統領に控訴審で懲役7年の実刑判決",
+      "src": "テレ東BIZ",
+      "url": "https://txbiz.tv-tokyo.co.jp/news/20260429-korea-yoon",
+      "publishedAt": "2026-04-29T14:00:00Z",
+      "snippet": "2024年の非常戒厳を巡る公務執行妨害などの罪に問われた尹錫悦前大統領に対し、ソウル高裁は一審の懲役5年を上回る懲役7年の判決を言い渡した。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "conflict",
+      "title": "ナイジェリア北東部で武装集団が襲撃、少なくとも29人が死亡",
+      "src": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/04/28/nigeria-attack",
+      "publishedAt": "2026-04-28T16:00:00Z",
+      "snippet": "ナイジェリアのアダマワ州で武装集団による襲撃が発生し、住民29人が殺害された。治安当局は犯行グループの追跡を続けている。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍参謀総長、今年に入りウクライナ領土1700平方キロを制圧と主張",
+      "src": "日本安全保障戦略研究所 (SSRI)",
+      "url": "https://ssri-j.com/news/20260501-russia-war",
+      "publishedAt": "2026-05-01T08:00:00Z",
+      "snippet": "ロシアのゲラシモフ参謀総長は、2026年に入ってから80の集落を占領したと発表。東部ドンバス地方での進軍を強調している。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア経済、イラン戦争の影響で第1四半期に1.5%縮小",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy/saudi-gdp-contraction-20260430",
+      "publishedAt": "2026-04-30T18:28:00Z",
+      "snippet": "サウジアラビアの2026年第1四半期GDP速報値は前期比1.5%減。隣接するイランでの紛争による物流混乱とエネルギーコスト上昇が直撃した。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン南部ラバクで無人機攻撃、11人が死亡",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_20260429-sudan/",
+      "publishedAt": "2026-04-29T03:00:00Z",
+      "snippet": "スーダン南部の都市ラバクにて、軍とともに戦う連合軍の車両が無人機攻撃を受け、11人が死亡。内戦は4年目に突入し激化している。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "political",
+      "title": "アサド政権崩壊後のシリア、報道の自由度が世界で最も改善",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-polytics/20260430-syria-press-freedom.html",
+      "publishedAt": "2026-04-30T17:00:00Z",
+      "snippet": "2026年版「報道の自由度ランキング」にて、シリアは順位を36上げ、世界で最も改善した国となった。暫定政府下での変化が注目されている。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ中銀、5月のインフレ報告で利下げ再開時期を模索",
+      "src": "外為どっとコム",
+      "url": "https://www.gaitame.com/media/entry/2026/04/28/turkey-lira",
+      "publishedAt": "2026-04-28T16:00:00Z",
+      "snippet": "トルコ中銀は5月にインフレ報告を予定。物価上昇率の鈍化を見極めつつ、9月以降の利下げ再開に向けたシナリオを検討している。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "political",
+      "title": "ウクライナ大統領、ロシア提案の「短期停戦」について米国に詳細確認へ",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/05/ukraine-ceasefire.php",
+      "publishedAt": "2026-05-01T01:41:00Z",
+      "snippet": "トランプ米大統領がプーチン大統領と電話会談し、短期停戦を提案したことを受け、ゼレンスキー大統領は米国側へ協議内容の確認を行う意向を示した。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "tension",
+      "title": "イギリス、国内のテロ警戒レベルを「深刻」に引き上げ",
+      "src": "ニューズウィーク日本版",
+      "url": "https://www.newsweekjapan.jp/headlines/world/2026/05/uk-terror-alert.php",
+      "publishedAt": "2026-05-01T09:00:00Z",
+      "snippet": "中東情勢の緊迫化を受け、英政府はテロ警戒レベルを上から2番目の「深刻（Severe）」に引き上げた。主要都市での警備が強化されている。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、プーチン大統領と電話会談しウクライナ停戦を提案",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260430-trump-putin-call",
+      "publishedAt": "2026-04-30T06:43:00Z",
+      "snippet": "トランプ大統領は29日、プーチン大統領と会談。「比較的早く解決策が見つかる」と述べ、ウクライナとの一時的な停戦を提案したことを明かした。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "economic",
+      "title": "アメリカン航空、ベネズエラ直行便を7年ぶりに再開",
+      "src": "OANDA FX/CFD Lab",
+      "url": "https://www.oanda.jp/lab-education/news/20260430-venezuela-flight",
+      "publishedAt": "2026-04-30T10:00:00Z",
+      "snippet": "米航空大手アメリカン航空がマイアミ－カラカス線の運航を再開。トランプ政権による関係改善を受けた措置で、経済交流の正常化が進む。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "political",
+      "title": "イエメンでコレラ撲滅プロジェクトが始動、5000人以上に医療提供",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_20260501-yemen-cholera/",
+      "publishedAt": "2026-05-01T02:00:00Z",
+      "snippet": "サウジアラビアの支援を受けたコレラ緊急対応プロジェクトがイエメンで展開。空港や国境に医療チームを配備し、感染拡大の阻止を図る。",
+      "collectedAt": "2026-05-01T06:09:10.323Z"
     }
   ],
-  "updatedAt": "2026-05-01T02:11:45.679Z"
+  "updatedAt": "2026-05-01T06:09:10.323Z"
 }
