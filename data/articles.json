@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国ソウル高裁、金建希前大統領夫人に懲役4年の実刑判決、株価操作も認定",
-      "src": "AFPBB News / FNN",
-      "url": "https://www.afpbb.com/articles/-/3512345",
-      "publishedAt": "2026-04-28T19:27:00Z",
-      "snippet": "尹錫悦前大統領の妻、金建希被告の控訴審で、ソウル高裁は1審を上回る懲役4年を言い渡した。あっせん収賄に加え、新たに知人会社の株価操作に関与した罪を認定した。",
-      "collectedAt": "2026-04-28T16:48:02.945Z"
-    },
-    {
       "countryCode": "364",
       "cat": "conflict",
       "title": "イラン、戦闘終結に向けた改訂案を提示へ パキスタンが仲介継続",
@@ -18,16 +8,6 @@
       "url": "https://www.fnn.jp/articles/-/664567",
       "publishedAt": "2026-04-29T10:38:00Z",
       "snippet": "米国・イスラエルとの交戦開始から5週間。イランはホルムズ海峡開放を優先する新提案をパキスタン経由で提示する見通し。最高指導者モジタバ・ハメネイ師との調整が焦点。",
-      "collectedAt": "2026-04-29T02:08:11.474Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、イラン情勢を巡りトランプ大統領と電話会談 外交的解決を模索",
-      "src": "時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026042800789",
-      "publishedAt": "2026-04-28T21:38:00Z",
-      "snippet": "高市早苗首相はエジプト首脳とも会談し、中東危機の外交解決へ連携を確認。トランプ大統領からの自衛隊派遣要請に対し、国内法と国際法の範囲内での対応を慎重に検討している。",
       "collectedAt": "2026-04-29T02:08:11.474Z"
     },
     {
@@ -298,16 +278,6 @@
       "url": "https://www.fnn.jp/articles/-/123456",
       "publishedAt": "2026-04-29T00:00:00Z",
       "snippet": "2026年4月29日、昭和100年を記念する式典が開催され、両陛下や三権の長が出席。あわせて記念貨幣の発行も発表された。",
-      "collectedAt": "2026-04-29T19:11:49.730Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国の金建希前大統領夫人に懲役4年の実刑判決、控訴審",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/456789",
-      "publishedAt": "2026-04-28T19:27:00Z",
-      "snippet": "ソウル高裁は、収賄や株価操作に関与した罪で尹錫悦前大統領の妻、金建希被告に一審を上回る実刑判決を言い渡した。",
       "collectedAt": "2026-04-29T19:11:49.730Z"
     },
     {
@@ -1619,7 +1589,107 @@
       "publishedAt": "2026-04-30T10:00:00Z",
       "snippet": "両国の関係改善を受け、マイアミ・カラカス間の商業便が再開。トランプ政権による航空便禁止措置の解除に伴う動き。",
       "collectedAt": "2026-05-01T19:00:16.404Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国、アフリカ53カ国からの輸入品を関税ゼロに 影響力拡大狙う",
+      "src": "埼玉新聞（共同通信）",
+      "url": "https://www.saitama-np.co.jp/articles/202605010403",
+      "publishedAt": "2026-05-01T04:03:00Z",
+      "snippet": "中国政府は5月1日、アフリカ53カ国を対象に無関税措置を開始。グローバルサウスでの経済的結びつきを強め、米国の保護主義に対抗する。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "economic",
+      "title": "ドイツ成長率予想、0.5％に半減 イラン情勢が下押し",
+      "src": "ドイツニュースダイジェスト",
+      "url": "https://www.newsdigest.de/newsde/news/latest/12345-2026-04-30.html",
+      "publishedAt": "2026-04-30T08:00:00Z",
+      "snippet": "中東での紛争に伴うエネルギー価格高騰を受け、ドイツ政府は2026年のGDP成長率予測を大幅に下方修正した。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン最高指導者ハメネイ師が死亡 米イスラエル攻撃で体制転換の危機",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/v?p=iran_conflict_2026",
+      "publishedAt": "2026-05-01T22:17:00Z",
+      "snippet": "米軍とイスラエル軍による「壮絶な怒り」作戦でハメネイ師が死亡。次男のモジタバ師が後継に選出されたが、国内の混乱が続いている。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、UAEに最新防空システム配備 対イランで連携強化",
+      "src": "時事通信",
+      "url": "https://www.jiji.com/jc/article?k=2026050100914",
+      "publishedAt": "2026-05-01T19:14:00Z",
+      "snippet": "イランとの紛争を受け、イスラエルはUAEの防空体制を支援。中東地域での対イラン包囲網を強化している。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、ナフサ供給「年明けまで継続可能」 見通し示す",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/politics/20260430-OYT1T50123/",
+      "publishedAt": "2026-04-30T21:00:00Z",
+      "snippet": "高市早苗首相は、中東情勢悪化によるエネルギー供給不安に対し、調達先の多角化により国内供給を維持できるとの見解を述べた。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア南部で4回目の製油所火災 ウクライナのドローン攻撃が影響",
+      "src": "khb東日本放送",
+      "url": "https://www.khb-tv.co.jp/news/12345678",
+      "publishedAt": "2026-05-01T23:59:00Z",
+      "snippet": "ロシア南部のトゥアプセ製油所がウクライナの無人機攻撃を受け炎上。ロシアの石油輸出能力に打撃を与えている。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、2026年第1四半期の成長率2.8％ 非石油部門が牽引",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/business/20260501_saudi_gdp/",
+      "publishedAt": "2026-05-01T10:00:00Z",
+      "snippet": "「ビジョン2030」の下で非石油部門が堅調に推移。地域紛争の中でも経済の多様化が進んでいることを示した。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "political",
+      "title": "国連シリア特使、アサド政権崩壊後の制裁緩和を求める",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/middle-east/20260501_syria_sanctions/",
+      "publishedAt": "2026-05-01T12:00:00Z",
+      "snippet": "シリア情勢の打開に向け、国連特使が国際社会に対し、政治的進展に応じた制裁緩和の検討を促した。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "tension",
+      "title": "イギリス、テロ警戒レベルを「深刻」に引き上げ ロンドン殺傷事件受け",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260430_uk_terror",
+      "publishedAt": "2026-04-30T07:19:00Z",
+      "snippet": "ユダヤ系コミュニティーを狙った殺傷事件を受け、政府はテロ警戒レベルを上から2番目に引き上げ。攻撃の可能性が非常に高いと警告している。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "conflict",
+      "title": "トランプ米大統領、イランとの戦争「終結」を宣言 期限前に電撃合意",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/international/20260501_trump_iran/",
+      "publishedAt": "2026-05-01T10:05:00Z",
+      "snippet": "トランプ政権はイランとの停戦に合意したと発表。ホルムズ海峡の封鎖解除に向けた交渉が次の焦点となる。",
+      "collectedAt": "2026-05-01T21:44:37.626Z"
     }
   ],
-  "updatedAt": "2026-05-01T19:00:16.404Z"
+  "updatedAt": "2026-05-01T21:44:37.626Z"
 }
