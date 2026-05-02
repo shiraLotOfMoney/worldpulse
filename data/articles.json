@@ -11,16 +11,6 @@
       "collectedAt": "2026-04-29T16:25:05.485Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市総理、昭和100年記念式典に出席「日本に希望を生み出す」",
-      "src": "KHB東日本放送",
-      "url": "https://www.khb-tv.co.jp/news/15246810",
-      "publishedAt": "2026-04-29T19:18:00Z",
-      "snippet": "昭和の日、日本武道館で「昭和100年」を祝う政府主催の式典が開催された。高市総理は式典で、困難な国際情勢の中で日本の国力を高める決意を述べた。",
-      "collectedAt": "2026-04-29T16:25:05.485Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジル中銀、政策金利を14.75％に据え置き",
@@ -2319,7 +2309,127 @@
       "publishedAt": "2026-05-02T05:00:00Z",
       "snippet": "11月の中間選挙に向け、トランプ氏は対イラン強硬姿勢と関税政策の成果を強調。共和党内では政権の求心力維持に懸念も出ている。",
       "collectedAt": "2026-05-02T18:45:50.153Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "米国、コンゴ民主共和国のカビラ前大統領に制裁 反政府勢力支援を理由に",
+      "src": "BBC Africa",
+      "url": "https://ameblo.jp/kgg-blog/entry-12850505050.html",
+      "publishedAt": "2026-05-01T09:38:00Z",
+      "snippet": "米国財務省は、反政府勢力M23を支援し国を不安定化させたとして、ジョセフ・カビラ前大統領の資産凍結を発表した。東部イツリ州では暴力が激化し、130万人以上の子どもが教育機会を奪われている。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "グーグル、インドに世界最大級のデータセンターを起工",
+      "src": "ジェトロ / エコノミック・タイムズ",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/ca1f03fcc23709b9.html",
+      "publishedAt": "2026-05-01T10:00:00Z",
+      "snippet": "インド南部アンドラ・プラデシュ州で、グーグルによる150億ドル規模のデータセンター建設が始まった。インドは2026年に名目GDPで日本を抜き、世界第4位の経済大国になる見通しである。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン、米国に新たな停戦修正案を提示もトランプ大統領は拒否",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/694000",
+      "publishedAt": "2026-05-02T18:21:00Z",
+      "snippet": "イランはパキスタンを通じて戦闘終結に向けた新提案を行ったが、トランプ大統領は「核保有阻止の保証がない」として拒否。攻撃再開も選択肢の一つであると警告し、緊張が極限まで高まっている。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "米国、ガザの民軍調整センターを閉鎖へ トランプ案の停滞が背景",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_123456/",
+      "publishedAt": "2026-05-02T01:05:00Z",
+      "snippet": "トランプ政権は、ガザ停戦監視と援助調整を担ってきたイスラエル内の拠点を閉鎖する方針。ガザでは停戦後もイスラエルによる攻撃が散発し、インフラの90%が破壊されたまま人道危機が続いている。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、ベトナム・オーストラリア訪問を開始 サプライチェーン強化へ",
+      "src": "日テレNEWS / TBS NEWS",
+      "url": "https://news.ntv.co.jp/category/politics/c0115fa5dfd441778a3a1b994701006f",
+      "publishedAt": "2026-05-01T15:00:00Z",
+      "snippet": "高市首相は5日間の日程で外遊に出発。中東情勢の緊迫化を踏まえ、エネルギーの安定供給や重要鉱物の確保に向けた連携を確認する。国内では憲法記念日を前に9条改正を巡る議論が活発化している。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナへ409機の無人機攻撃 過去最大規模",
+      "src": "ウクルインフォルム",
+      "url": "https://www.ukrinform.jp/rubric-ato/3850000-war.html",
+      "publishedAt": "2026-05-01T16:28:00Z",
+      "snippet": "ロシア軍は5月1日にシャヘド型などの無人機409機でウクライナ全土を攻撃。一方、ウクライナ側もロシア国内の製油所へドローン攻撃を続けており、戦況は泥沼化している。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "tension",
+      "title": "サウジアラビア、ハッジ2026に向け準備加速 石油施設への脅威も",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/article_234567/",
+      "publishedAt": "2026-05-02T09:05:00Z",
+      "snippet": "2026年の巡礼シーズンに向け、イラクからの巡礼者受け入れを開始。一方で、イランの革命防衛隊がサウジの石油施設への攻撃を示唆しており、当局は警戒を強めている。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "conflict",
+      "title": "ソマリア沖でタンカーが拿捕、イスラエルとソマリランドの接近が背景か",
+      "src": "田中宇の国際ニュース解説 / note",
+      "url": "https://tanakanews.com/260109somalia.htm",
+      "publishedAt": "2026-05-02T08:00:00Z",
+      "snippet": "イエメン沖で拿捕されたタンカーがソマリア方向へ連行された。イスラエルがソマリランドと国交を結んだことで、アフリカの角周辺の地政学的緊張が再燃している。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "JPモルガン、中東紛争を理由にトルコの2026年成長予測を引き下げ",
+      "src": "Investing.com",
+      "url": "https://jp.investing.com/news/economy/article-456789",
+      "publishedAt": "2026-05-01T18:26:00Z",
+      "snippet": "周辺地域での紛争激化を受け、トルコの2026年成長率予測を4.0%から3.4%に下方修正。4月の消費者物価指数（CPI）は前年比31%を超える高水準が予想され、リラ安圧力が強まっている。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ中銀、2026年のGDP成長率見通しを下方修正",
+      "src": "ウクルインフォルム",
+      "url": "https://www.ukrinform.jp/rubric-economy/3850123.html",
+      "publishedAt": "2026-05-01T13:21:00Z",
+      "snippet": "ロシアによる冬季のエネルギーインフラ攻撃と、中東戦争による支援の分散が影響。中銀は2026年の成長率見通しを引き下げ、長期化する戦争への対応を迫られている。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "2026年米中間選挙、野党民主党が支持率で10ポイントリード",
+      "src": "YouTube / エマーソン大学調査",
+      "url": "https://www.youtube.com/watch?v=US_Election_2026",
+      "publishedAt": "2026-04-30T10:00:00Z",
+      "snippet": "11月の中間選挙に向け、物価高への不満からトランプ政権（共和党）への逆風が強まっている。民主党は「新たな適正価格」政策を掲げて支持を拡大。トランプ大統領はベネズエラでの軍事作戦成功を強調し、支持回復を狙う。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "conflict",
+      "title": "イエメン沖でタンカーが再び拿捕、フーシ派と米軍の衝突が激化",
+      "src": "防衛研究所 / SSRI",
+      "url": "https://www.mod.go.jp/nids/publication/commentary/pdf/commentary413.pdf",
+      "publishedAt": "2026-05-02T12:00:00Z",
+      "snippet": "ガザ停戦後に一時沈静化していたフーシ派の攻撃が再開。米軍は報復としてイエメンの石油港を大規模空爆した。暫定政権内部でも分離派との抗争が激化しており、イエメン全土で非常事態が宣言されている。",
+      "collectedAt": "2026-05-02T21:33:13.041Z"
     }
   ],
-  "updatedAt": "2026-05-02T18:45:50.153Z"
+  "updatedAt": "2026-05-02T21:33:13.041Z"
 }
