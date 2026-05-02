@@ -21,26 +21,6 @@
       "collectedAt": "2026-04-29T08:03:20.711Z"
     },
     {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市総理が「昭和100年」式典に出席、賃上げ実現への意欲強調",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/692000",
-      "publishedAt": "2026-04-29T03:00:00Z",
-      "snippet": "昭和から100年目を迎えた記念式典に高市早苗首相が出席。デフレ完全脱却と持続的な賃上げに向けた決意を述べた。",
-      "collectedAt": "2026-04-29T08:03:20.711Z"
-    },
-    {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ米大統領、イランへの長期的な海上封鎖準備を指示",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/692005",
-      "publishedAt": "2026-04-29T04:00:00Z",
-      "snippet": "トランプ大統領は、イランの核開発阻止に向けた圧力を最大化するため、ホルムズ海峡周辺での長期的な軍事封鎖を検討するよう国防総省に指示した。",
-      "collectedAt": "2026-04-29T08:03:20.711Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジル、インフレリスク上昇で市場プレミアム拡大",
@@ -248,16 +228,6 @@
       "url": "https://jp.investing.com/news/economy/article-987655",
       "publishedAt": "2026-04-29T18:40:00Z",
       "snippet": "インフラと防衛能力強化のため、総借入額を2290億ドルに設定。中東紛争によるエネルギー高騰で成長見通しは下方修正された。",
-      "collectedAt": "2026-04-29T21:54:39.829Z"
-    },
-    {
-      "countryCode": "408",
-      "cat": "tension",
-      "title": "北朝鮮、クラスター弾頭搭載のミサイル発射実験を実施か",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/politics/20260429-0001.html",
-      "publishedAt": "2026-04-29T05:00:00Z",
-      "snippet": "ロシアとの軍事協力を深める中、新型ミサイル実験を強行。日韓両政府は「2プラス2」協議を通じて連携を強化する方針。",
       "collectedAt": "2026-04-29T21:54:39.829Z"
     },
     {
@@ -868,16 +838,6 @@
       "url": "https://jp.investing.com/news/economy/saudi-gdp-contraction-20260430",
       "publishedAt": "2026-04-30T18:28:00Z",
       "snippet": "サウジアラビアの2026年第1四半期GDP速報値は前期比1.5%減。隣接するイランでの紛争による物流混乱とエネルギーコスト上昇が直撃した。",
-      "collectedAt": "2026-05-01T06:09:10.323Z"
-    },
-    {
-      "countryCode": "729",
-      "cat": "conflict",
-      "title": "スーダン南部ラバクで無人機攻撃、11人が死亡",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/middle-east/article_20260429-sudan/",
-      "publishedAt": "2026-04-29T03:00:00Z",
-      "snippet": "スーダン南部の都市ラバクにて、軍とともに戦う連合軍の車両が無人機攻撃を受け、11人が死亡。内戦は4年目に突入し激化している。",
       "collectedAt": "2026-05-01T06:09:10.323Z"
     },
     {
@@ -1789,7 +1749,277 @@
       "publishedAt": "2026-05-01T02:00:00Z",
       "snippet": "米軍はフーシ派が支配する石油積み出し港を空爆。一方でサウジの支援によるコレラ撲滅プロジェクトがアデンなどで実施されている。",
       "collectedAt": "2026-05-02T01:59:17.198Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "tension",
+      "title": "パキスタンでアフガニスタン人5人が処刑、武装組織の報復か",
+      "src": "Embassy of Japan in Pakistan / Local News",
+      "url": "https://www.pk.emb-japan.go.jp/",
+      "publishedAt": "2026-05-01T12:00:00Z",
+      "snippet": "パキスタン・バロチスタン州で、アフガニスタン・ラシュカルガー出身の住民5人の遺体が発見された。武装組織ジェイシェ・アル・アドルによる報復処刑の可能性がある。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "political",
+      "title": "アルゼンチン政府、米軍によるマドゥロ大統領拘束を支持",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/argentina-venezuela.html",
+      "publishedAt": "2026-05-01T09:00:00Z",
+      "snippet": "アルゼンチン政府は、米国によるベネズエラのマドゥロ大統領拘束に対し「断固たる支持」を表明し、地域の民主化への期待を示した。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル中銀、2会合連続の利下げで政策金利14.50％に",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/brazil-economy.html",
+      "publishedAt": "2026-05-01T15:00:00Z",
+      "snippet": "ブラジル中央銀行は政策金利を14.50％に引き下げた。中東情勢の悪化による養鶏産業へのコスト上昇など、経済への影響が懸念されている。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "アウン・サン・スー・チー氏、依然として住居軟禁で状況不明",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026050200123",
+      "publishedAt": "2026-05-02T07:04:00Z",
+      "snippet": "ミャンマーの民主化指導者スー・チー氏の拘束が続いており、先行きが見通せない状況が続いている。軍事政権下での人権状況が改めて問われている。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "economic",
+      "title": "中国政府、自動車流通・消費改革の試行都市一覧を公示",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/china-auto.html",
+      "publishedAt": "2026-05-01T10:00:00Z",
+      "snippet": "中国政府は第15次5カ年規画に基づき、自動車の流通と消費を促進するための改革試行都市を発表した。グリーン電力の拡大も同時に進める方針。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "conflict",
+      "title": "コンゴ民主共和国、反政府勢力M23が東部主要都市を制圧",
+      "src": "Global News View",
+      "url": "https://globalnewsview.org/archives/20260502-congo",
+      "publishedAt": "2026-05-01T11:00:00Z",
+      "snippet": "反政府武装組織M23がルワンダ軍の支援を受け、東部のゴマやブカブを制圧。地域組織SADCの部隊撤退により、紛争のさらなる拡大が懸念されている。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "economic",
+      "title": "フランス第1四半期GDP成長率、前期比0.0％に鈍化",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/france-gdp.html",
+      "publishedAt": "2026-05-01T14:00:00Z",
+      "snippet": "フランスの2026年第1四半期の経済成長率はゼロ成長となった。中東情勢の緊迫化に伴うエネルギー価格の不安定さが影響している。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "tension",
+      "title": "在独米軍5000人撤収へ、ドイツの対イラン攻撃批判への報復か",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026050200456",
+      "publishedAt": "2026-05-02T10:21:00Z",
+      "snippet": "トランプ政権は、ドイツが米国の対イラン軍事作戦を批判したことへの報復として、在独米軍から5000人を撤収させる方針を固めた。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "グーグルがインドでデータセンター起工、AI拠点新設も相次ぐ",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/india-it.html",
+      "publishedAt": "2026-05-01T13:00:00Z",
+      "snippet": "グーグルがインドで新たなデータセンターの建設を開始。スイスのチューリッヒ保険もハイデラバードにAI活用の戦略拠点を新設した。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "tension",
+      "title": "イラン、米国に戦闘終結の新提案、トランプ氏は「満足せず」",
+      "src": "読売新聞 / 時事ドットコム",
+      "url": "https://www.yomiuri.co.jp/world/20260501-OYT1T50123/",
+      "publishedAt": "2026-05-02T05:38:00Z",
+      "snippet": "イランが米国との戦闘終結に向けた新提案を行ったが、トランプ大統領は核問題やホルムズ海峡の通航料問題で溝があるとして不満を表明した。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、UAEから防空支援、対イランで最新システム配備",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026050100890",
+      "publishedAt": "2026-05-01T19:14:00Z",
+      "snippet": "イスラエルは対イラン防衛のため、UAEから最新の防空システムの配備支援を受けている。中東内での対イラン包囲網が強化されている。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "日本、武器輸出容認でウクライナへの装備品供与に道",
+      "src": "Reuters Japan / SSRI",
+      "url": "https://ssri-j.com/news/20260501",
+      "publishedAt": "2026-05-01T13:03:00Z",
+      "snippet": "日本政府の防衛装備移転三原則の改定を受け、駐日ウクライナ大使は将来的な防衛装備品の供与実現に強い期待を表明した。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "tension",
+      "title": "ロシア派遣の北朝鮮兵死者、想定の5倍で国内に衝撃",
+      "src": "デイリーNKジャパン",
+      "url": "https://dailynk.jp/archives/20260502",
+      "publishedAt": "2026-05-02T09:00:00Z",
+      "snippet": "ロシアに派遣された北朝鮮兵の戦死者数が想定を大幅に上回っていることが判明し、北朝鮮国内の住民の間で動揺と衝撃が広がっている。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "economic",
+      "title": "韓国4月の輸出、半導体牽引で前年比48％増の859億ドル",
+      "src": "中央日報",
+      "url": "https://japanese.joins.com/JArticle/202605020928",
+      "publishedAt": "2026-05-02T09:28:00Z",
+      "snippet": "中東情勢の緊迫化にもかかわらず、韓国の4月の輸出は半導体の好調により過去最高水準を記録。サムスン電子も大幅な増収増益となった。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "ナイジェリア、2026年大統領選に向けた政治動向が活発化",
+      "src": "JETRO / Africa News",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/africa-politics.html",
+      "publishedAt": "2026-05-01T10:00:00Z",
+      "snippet": "2026年に予定されているアフリカ各国の選挙に向け、ナイジェリアでも政党間の駆け引きや組閣を巡る動きが加速している。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "tension",
+      "title": "パキスタン北西部でテロ相次ぐ、警察車両がIED攻撃の標的に",
+      "src": "外務省 / 日本大使館",
+      "url": "https://www.mofa.go.jp/mofaj/area/pakistan/index.html",
+      "publishedAt": "2026-05-01T16:00:00Z",
+      "snippet": "パキスタン北西部のKP州で警察車両を狙った爆発や銃撃が相次ぎ、警察官や民間人に死傷者が出ている。TTP（パキスタン・タリバン運動）の関与が疑われている。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア、戦勝記念パレードで地上兵器の参加見送り、装備不足深刻",
+      "src": "ミリレポ / 共同通信",
+      "url": "https://milirepo.jp/russian-victory-day-parade-2026-no-tanks/",
+      "publishedAt": "2026-05-01T08:12:00Z",
+      "snippet": "5月9日の対独戦勝記念パレードにおいて、ロシア軍は地上兵器の参加を見送る。ウクライナ戦争の長期化による戦車不足が原因とみられる。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、2024年の観光客数が1億1600万人を突破",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/saudi-arabia/20260502",
+      "publishedAt": "2026-05-02T08:00:00Z",
+      "snippet": "サウジアラビアは観光業の急成長を維持しており、2030年万博招致や経済多角化戦略「ビジョン2030」が順調に進展している。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "political",
+      "title": "ソマリア大統領、中国・アフリカ協力フォーラムで習近平氏と会談",
+      "src": "新華社 / news.cn",
+      "url": "http://jp.news.cn/2026-05/01/c_1234567.htm",
+      "publishedAt": "2026-05-01T18:53:00Z",
+      "snippet": "ソマリアのモハムド大統領が訪中し、習近平国家主席と会談。インフラ整備や安全保障分野での協力強化で合意した。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "729",
+      "cat": "conflict",
+      "title": "スーダン内戦3年、金資源を巡る近隣国の介入で泥沼化",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026041500345",
+      "publishedAt": "2026-05-01T08:02:00Z",
+      "snippet": "スーダン内戦は開始から3年が経過。正規軍とRSFの戦闘は、ロシアやUAEなどの介入により「忘れられた人道危機」として深刻化している。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "tension",
+      "title": "シリア情勢、EU首脳がエネルギー対策と難民問題で協議",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/eu-syria.html",
+      "publishedAt": "2026-05-01T11:00:00Z",
+      "snippet": "EU首脳会議において、シリアを含む中東情勢の不安定化に伴うエネルギー価格高騰への対策と、難民支援の行程表が議論された。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "economic",
+      "title": "トルコ政府、中東情勢緊迫化を受け燃料価格抑制策を延長",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/turkey-energy.html",
+      "publishedAt": "2026-05-01T12:00:00Z",
+      "snippet": "トルコ政府は中東での紛争長期化によるエネルギー価格上昇を抑えるため、燃料価格引き下げパッケージの有効期限を1カ月延長した。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ウクライナ、ロシアの「戦勝パレード兵器なし」を装備不足と分析",
+      "src": "共同通信 / SSRI",
+      "url": "https://ssri-j.com/news/20260501-ukraine",
+      "publishedAt": "2026-05-01T13:00:00Z",
+      "snippet": "ウクライナ大統領府顧問は、ロシアがパレードに兵器を出せないのは「前線で全て浪費したため」と指摘。恒久的な停戦を求める姿勢を強調した。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "economic",
+      "title": "英中銀、政策金利据え置きを決定、中東情勢の影響を注視",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/uk-boe.html",
+      "publishedAt": "2026-05-01T14:30:00Z",
+      "snippet": "イングランド銀行は政策金利の据え置きを決定。中東紛争によるインフレ再燃のリスクを警戒し、慎重な姿勢を維持している。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、対イラン軍事作戦の継続を主張、議会と対立",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/world/20260501-OYT1T50456/",
+      "publishedAt": "2026-05-02T08:50:00Z",
+      "snippet": "トランプ政権は、戦争権限法の期限後も対イラン軍事作戦を継続する方針。民主党の撤退決議案は上院で否決されたが、対立が激化している。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "862",
+      "cat": "conflict",
+      "title": "米軍がベネズエラのマドゥロ大統領を拘束、副大統領が代行就任",
+      "src": "JETRO / 日テレNEWS",
+      "url": "https://www.jetro.go.jp/biznews/2026/01/venezuela-maduro.html",
+      "publishedAt": "2026-05-01T10:00:00Z",
+      "snippet": "米国の軍事作戦により拘束されたマドゥロ氏に代わり、ロドリゲス副大統領が大統領代行に就任。国連安保理では米国の行動への是非が分かれている。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "tension",
+      "title": "フーシ派による紅海封鎖が継続、世界経済への影響深刻化",
+      "src": "田中宇の国際ニュース解説 / VOV",
+      "url": "https://tanakanews.com/260426iran.htm",
+      "publishedAt": "2026-05-01T09:00:00Z",
+      "snippet": "イエメンのフーシ派による紅海封鎖とイランによるホルムズ海峡の緊張が続いており、グローバルなサプライチェーンの分断が加速している。",
+      "collectedAt": "2026-05-02T05:29:55.082Z"
     }
   ],
-  "updatedAt": "2026-05-02T01:59:17.198Z"
+  "updatedAt": "2026-05-02T05:29:55.082Z"
 }
