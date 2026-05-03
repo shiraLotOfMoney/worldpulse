@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "276",
-      "cat": "economic",
-      "title": "ドイツの4月インフレ率は2.9%に加速、イラン紛争によるエネルギー高が影響",
-      "src": "ロイター",
-      "url": "https://jp.reuters.com/economy/germany-inflation-2026-04-29/",
-      "publishedAt": "2026-04-29T22:50:00Z",
-      "snippet": "ドイツの4月の消費者物価指数は前月から微増の2.9%となった。イラン情勢に伴うエネルギー価格の上昇が主因だが、市場予想の3.1%は下回った。",
-      "collectedAt": "2026-04-29T16:25:05.485Z"
-    },
-    {
       "countryCode": "76",
       "cat": "economic",
       "title": "ブラジル中銀、政策金利を14.75％に据え置き",
@@ -129,36 +119,6 @@
       "publishedAt": "2026-04-30T12:00:00Z",
       "snippet": "2023年4月の勃発から3年が経過。SAFがハルツームを奪還したものの、各地でドローン攻撃が相次ぎ、急性栄養不良に苦しむ子どもが420万人に達している。",
       "collectedAt": "2026-04-30T08:07:46.743Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "political",
-      "title": "イギリス「安楽死」法案、上院で審議未了となり今国会での成立見送り",
-      "src": "FNN / フジテレビ",
-      "url": "https://www.fnn.jp/articles/-/879012",
-      "publishedAt": "2026-04-29T22:19:00Z",
-      "snippet": "終末期患者に選択肢を認める法案に対し、1200件超の修正案が提出され審議が長期化。閉会までに手続きが終わらず、支持派は次期会期での再提出を目指す。",
-      "collectedAt": "2026-04-30T08:07:46.743Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "conflict",
-      "title": "イラン、米国・イスラエルとの戦闘継続でホルムズ海峡を事実上封鎖",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp",
-      "publishedAt": "2026-04-30T02:00:00Z",
-      "snippet": "2月末に勃発した米国・イスラエルとの軍事衝突により、イランはホルムズ海峡を封鎖。トランプ米大統領は海峡開放を要求し、さらなる攻撃を示唆している。",
-      "collectedAt": "2026-04-30T10:48:19.353Z"
-    },
-    {
-      "countryCode": "410",
-      "cat": "political",
-      "title": "韓国・尹錫悦前大統領に懲役7年の実刑判決、内乱首謀罪では無期懲役",
-      "src": "読売新聞 / FNN",
-      "url": "https://www.yomiuri.co.jp",
-      "publishedAt": "2026-04-29T21:53:00Z",
-      "snippet": "ソウル高裁は「非常戒厳」を巡る捜査妨害で尹前大統領に懲役7年を宣告。李在明（イ・ジェミョン）新政権下で、旧政権の責任追及が司法の場で進んでいる。",
-      "collectedAt": "2026-04-30T10:48:19.353Z"
     },
     {
       "countryCode": "76",
@@ -371,16 +331,6 @@
       "collectedAt": "2026-05-01T02:11:45.679Z"
     },
     {
-      "countryCode": "840",
-      "cat": "political",
-      "title": "トランプ大統領、イランへの海上封鎖を継続表明 核合意まで妥協せず",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/example_usa",
-      "publishedAt": "2026-04-30T00:00:00Z",
-      "snippet": "再選を果たしたトランプ大統領は、イランによるホルムズ海峡封鎖の動きに対し、米軍による海上封鎖を継続すると表明。イランが核開発を完全に放棄するまで、最大限の圧力をかけ続ける強硬姿勢を示した。",
-      "collectedAt": "2026-05-01T02:11:45.679Z"
-    },
-    {
       "countryCode": "76",
       "cat": "political",
       "title": "ブラジル前大統領、刑期の大幅短縮が決定",
@@ -551,26 +501,6 @@
       "collectedAt": "2026-05-01T06:09:10.323Z"
     },
     {
-      "countryCode": "276",
-      "cat": "political",
-      "title": "島田外務大臣政務官、駐日ドイツ大使主催のレセプションに出席",
-      "src": "外務省",
-      "url": "https://www.mofa.go.jp/mofaj/press/release/20260430_01.html",
-      "publishedAt": "2026-04-30T00:00:00Z",
-      "snippet": "アジア地域のドイツ広報文化担当官研修に伴うレセプションが開催され、日独の文化交流促進について確認された。",
-      "collectedAt": "2026-05-01T10:17:47.515Z"
-    },
-    {
-      "countryCode": "364",
-      "cat": "tension",
-      "title": "高市首相、イラン大統領と電話協議しホルムズ海峡の安全航行を要求",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/politics/20260430-OYT1T50000/",
-      "publishedAt": "2026-04-30T00:00:00Z",
-      "snippet": "高市首相はイランのペゼシュキアン大統領に対し、米イラン衝突後のホルムズ海峡における日本関係船舶の安全確保を強く求めた。",
-      "collectedAt": "2026-05-01T10:17:47.515Z"
-    },
-    {
       "countryCode": "392",
       "cat": "economic",
       "title": "IAEA、福島第一原発のALPS処理水放出に関する追加モニタリング結果を公表",
@@ -588,16 +518,6 @@
       "url": "https://dailynk.jp/archives/160000",
       "publishedAt": "2026-05-01T00:00:00Z",
       "snippet": "中国駐在の北朝鮮領事館が当局による高強度の査察を受け、独自の輸出入活動や職員の思想動向が厳しく調査されている。",
-      "collectedAt": "2026-05-01T10:17:47.515Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "tension",
-      "title": "ロンドン北部でユダヤ系住民2名が刺される事案が発生",
-      "src": "海外安全.jp",
-      "url": "https://kaigaianzen.jp/news/20260430-uk-stabbing/",
-      "publishedAt": "2026-04-30T00:00:00Z",
-      "snippet": "イギリス首都ロンドンでヘイトクライムの可能性がある刺傷事件が発生し、現地当局が警戒を強めている。",
       "collectedAt": "2026-05-01T10:17:47.515Z"
     },
     {
@@ -2429,7 +2349,157 @@
       "publishedAt": "2026-05-02T12:00:00Z",
       "snippet": "ガザ停戦後に一時沈静化していたフーシ派の攻撃が再開。米軍は報復としてイエメンの石油港を大規模空爆した。暫定政権内部でも分離派との抗争が激化しており、イエメン全土で非常事態が宣言されている。",
       "collectedAt": "2026-05-02T21:33:13.041Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "economic",
+      "title": "ブラジル中央銀行、国際決済での仮想通貨利用を禁止",
+      "src": "CoinPost",
+      "url": "https://coinpost.jp/?p=528000",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "ブラジル中銀は規制下の国際決済サービス「eFX」において、ステーブルコインを含む暗号資産の使用を禁止する新ルールを発表した。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "156",
+      "cat": "political",
+      "title": "米中外相が電話会談、5月のトランプ大統領訪中に向け調整",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/693500",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "中国の王毅外相とアメリカのルビオ国務長官が会談し、5月14・15日に予定されているトランプ大統領の訪中に向けた準備を進めた。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "180",
+      "cat": "political",
+      "title": "米財務省、コンゴ民主共和国のカビラ前大統領に制裁発表",
+      "src": "DTM Digest",
+      "url": "https://dtmdigest.org/2026/05/01/us-sanctions-kabila/",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "米国は、東部で活動する武装組織M23などを支援したとして、ジョセフ・カビラ前大統領に対する資産凍結などの制裁を課した。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "tension",
+      "title": "フランス各地でメーデーの大規模デモ、賃上げ要求し数万人が行進",
+      "src": "YouTube (France News)",
+      "url": "https://www.youtube.com/watch?v=france-protests-mayday-2026",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "インフレによる生活苦を背景に、主要労組が主導する大規模な抗議活動がパリなどで発生し、一部で治安部隊との衝突も報告された。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "political",
+      "title": "トランプ米大統領、ドイツ駐留米軍のさらなる削減を示唆",
+      "src": "埼玉新聞",
+      "url": "https://www.saitama-np.co.jp/articles/20260502/us-military-germany",
+      "publishedAt": "2026-05-02T00:00:00Z",
+      "snippet": "トランプ氏は、ドイツのメルツ首相が米国のイラン攻撃を批判したことへの反発として、駐留米軍を5千人以上削減する考えを表明した。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "グーグルがインドで大規模データセンター起工、投資額150億ドル",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/google-india-dc.html",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "インド南部アンドラ・プラデシュ州で、グーグルが米国外では最大規模となるデータセンターの建設を開始した。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、米国に新たな停戦修正案を提示もトランプ氏は拒否",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/693600",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "イランはパキスタンを通じて戦闘終結に向けた新提案を提示したが、トランプ大統領は「満足していない」として拒絶した。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル、ガザ支援船団の航行を阻止し20隻以上を拿捕",
+      "src": "KSBニュース",
+      "url": "https://news.ksb.co.jp/article/15250000",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "ガザ地区へ支援物資を運ぼうとしていた国際船団がイスラエル軍に包囲され、エンジン破壊や拿捕などの措置を受けた。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市総理がベトナム訪問、首脳会談でエネルギー支援に合意",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/693700",
+      "publishedAt": "2026-05-03T00:00:00Z",
+      "snippet": "高市総理大臣はベトナムを訪問し、フン首相との会談で製油所の原油調達支援やサプライチェーン強化について合意した。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "political",
+      "title": "北朝鮮の地方幹部ら、外貨利権をめぐり内部抗争が表面化",
+      "src": "チバテレ＋プラス",
+      "url": "https://www.chiba-tv.com/plus/detail/20260503/north-korea-internal-conflict",
+      "publishedAt": "2026-05-03T00:00:00Z",
+      "snippet": "平安南道の人民委員会において、外貨稼ぎの利権を争う幹部間の対立が激化し、敗北した幹部らが悲惨な運命を辿っている。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "political",
+      "title": "自民・小林政調会長がナイジェリア訪問、エネルギー連携強化へ",
+      "src": "読売新聞",
+      "url": "https://www.yomiuri.co.jp/politics/20260501-OYT1T50100/",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "中東情勢悪化に伴う原油供給不足を懸念し、日本側はアフリカ最大の産油国ナイジェリアとの協力関係強化を図った。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナ全土を400機以上の無人機で攻撃",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-ato/3859000-russia-drone-attack.html",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "ロシア軍は5月1日、計409機の自爆型ドローンを投入。ウクライナ側は388機を撃墜したが、各地で被害が発生している。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "economic",
+      "title": "シリア新政権、アサド崩壊後もロシアの石油に依存継続",
+      "src": "ARAB NEWS",
+      "url": "https://www.arabnews.jp/article/syria-russia-oil-dependency/",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "2024年末のアサド政権崩壊後、シリア新政権は西側への接近を図る一方で、深刻な燃料不足からロシア産原油への依存を強めている。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "political",
+      "title": "ゼレンスキー大統領、ロシアが停戦と引き換えに制裁解除を提案と指摘",
+      "src": "ウクルインフォルム通信",
+      "url": "https://www.ukrinform.jp/rubric-pol/3859100-zelensky-sanctions.html",
+      "publishedAt": "2026-05-01T00:00:00Z",
+      "snippet": "ロシアが自国企業のSWIFT復帰などを条件に一時的な停戦を西側に持ちかける可能性があるとして、警戒を呼びかけた。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イランとの「敵対行為終了」を議会に伝達",
+      "src": "テレビ朝日NEWS (YouTube)",
+      "url": "https://www.youtube.com/watch?v=trump-iran-war-powers",
+      "publishedAt": "2026-05-02T00:00:00Z",
+      "snippet": "戦争権限法に基づく撤収期限を前に、トランプ氏は「停戦により戦闘は終了した」とする書簡を議会に送り、軍事行動の正当性を主張した。",
+      "collectedAt": "2026-05-03T02:03:27.754Z"
     }
   ],
-  "updatedAt": "2026-05-02T21:33:13.041Z"
+  "updatedAt": "2026-05-03T02:03:27.754Z"
 }
