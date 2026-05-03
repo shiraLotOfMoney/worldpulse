@@ -9,8 +9,15 @@
         "テロ",
         "国境紛争"
       ],
-      "summary": "バーミヤンでの外国人観光客銃撃事件やパキスタン軍との大規模な国境衝突が発生。死傷者が続出し、治安情勢が極めて不安定化している。",
+      "summary": "バーミヤンでの外国人観光客銃撃事件やパキスタン軍との大規模な国境衝突が発生。治安悪化と近隣国との緊張が極限に達している。",
       "articles": [
+        {
+          "cat": "conflict",
+          "title": "アフガニスタン・バーミヤンで外国人観光客銃撃事件、スペイン人ら死亡",
+          "src": "note (ロイター引用)",
+          "url": "https://note.com/p_m_p_m/n/n756919999999",
+          "publishedAt": "2026-05-03T01:00:00Z"
+        },
         {
           "cat": "conflict",
           "title": "アフガニスタンとパキスタンが国境地帯で大規模衝突、死者380人超か",
@@ -23,13 +30,13 @@
     "32": {
       "name": "アルゼンチン",
       "cat": "economic",
-      "intensity": 0.65,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "経済改革",
-        "財政均衡"
+        "財政改革",
+        "外交支持"
       ],
-      "summary": "ミレイ政権下で財政黒字維持とインフレ抑制を優先する予算案を提示。経済改革が進む一方、緊縮政策への抗議デモが継続している。",
+      "summary": "ミレイ政権が財政均衡を優先した2026年度予算案を提示。外交面では米軍によるベネズエラ大統領拘束を支持する姿勢を鮮明にした。",
       "articles": [
         {
           "cat": "economic",
@@ -37,19 +44,26 @@
           "src": "Reuters Japan",
           "url": "https://jp.reuters.com/economy/argentina-budget-2026-05-01/",
           "publishedAt": "2026-05-01T13:30:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "アルゼンチン政府、米軍によるマドゥロ大統領拘束を支持",
+          "src": "JETRO",
+          "url": "https://www.jetro.go.jp/biznews/2026/05/argentina-venezuela.html",
+          "publishedAt": "2026-05-01T09:00:00Z"
         }
       ]
     },
     "76": {
       "name": "ブラジル",
-      "cat": "economic",
-      "intensity": 0.7,
+      "cat": "political",
+      "intensity": 0.8,
       "pulse": false,
       "tags": [
-        "仮想通貨規制",
-        "利下げ"
+        "金融規制",
+        "国内政治"
       ],
-      "summary": "中央銀行が国際決済での仮想通貨利用禁止を決定。政策金利は14.50％に引き下げられたが、中東情勢による産業コスト上昇が懸念材料。",
+      "summary": "中銀が国際決済での仮想通貨利用禁止を発表。政治面では議会がルラ大統領の拒否権を覆し、ボルソナロ前大統領の刑期短縮案を可決した。",
       "articles": [
         {
           "cat": "economic",
@@ -57,19 +71,26 @@
           "src": "Iolite",
           "url": "https://iolite.net/news/brazil-central-bank-crypto-ban-2026",
           "publishedAt": "2026-05-03T08:01:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "ブラジル議会、ルラ大統領の拒否権覆しボルソナロ前大統領の刑期短縮法案を可決",
+          "src": "時事通信",
+          "url": "https://www.jiji.com/jc/article?k=2026050100789",
+          "publishedAt": "2026-05-01T12:00:00Z"
         }
       ]
     },
     "104": {
       "name": "ミャンマー",
       "cat": "conflict",
-      "intensity": 0.9,
+      "intensity": 0.85,
       "pulse": true,
       "tags": [
         "空爆",
-        "軍事政権"
+        "スー・チー氏"
       ],
-      "summary": "軍政による空爆が激化し、日本支援の病院も被害。スー・チー氏の住宅軟禁移送が発表されたが、人道状況の悪化と政治的不透明感が続く。",
+      "summary": "軍政による空爆が激化し日本支援の病院も被害。アウン・サン・スー・チー氏の住宅軟禁移送が発表されるも、依然として不透明な状況が続く。",
       "articles": [
         {
           "cat": "conflict",
@@ -77,6 +98,13 @@
           "src": "埼玉新聞",
           "url": "https://www.saitama-np.co.jp/articles/2026050201",
           "publishedAt": "2026-05-02T05:25:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "スー・チー氏を住宅軟禁に移送、ミャンマー軍政が恩赦の一環と発表",
+          "src": "MYANMAR JAPON",
+          "url": "https://myanmarjapon.com/news-20260501-suu-kyi/",
+          "publishedAt": "2026-05-01T08:00:00Z"
         }
       ]
     },
@@ -87,9 +115,9 @@
       "pulse": false,
       "tags": [
         "アフリカ支援",
-        "米中外交"
+        "治安維持"
       ],
-      "summary": "アフリカ全53カ国への無関税措置を開始し、影響力を強化。トランプ米大統領の訪中を控え、外交的な駆け引きが活発化している。",
+      "summary": "アフリカ全53カ国へのゼロ関税措置を開始し経済的影響力を拡大。北京では治安維持のためドローンの販売・飛行が全面的に禁止された。",
       "articles": [
         {
           "cat": "economic",
@@ -97,6 +125,13 @@
           "src": "CRI (中国国際放送)",
           "url": "https://japanese.cri.cn/2026/05/01/ARTIsS8p8p8p8p8p8p8p8p8p260501.shtml",
           "publishedAt": "2026-05-01T15:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "中国・北京でドローン販売を全面的に禁止、治安維持を徹底",
+          "src": "日テレNEWS NNN",
+          "url": "https://news.ntv.co.jp/category/international/a4836f55311b4b63b09238c5643d567d",
+          "publishedAt": "2026-05-01T12:00:00Z"
         }
       ]
     },
@@ -106,37 +141,51 @@
       "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "反政府勢力",
+        "M23",
         "制裁"
       ],
-      "summary": "反政府勢力M23が東部主要都市を制圧し人道危機が深刻化。米国は武装勢力を支援したとしてカビラ前大統領に資産凍結の制裁を発動。",
+      "summary": "反政府勢力M23が東部の要衝ゴマを制圧し人道危機が深刻化。米国は武装勢力を支援したとしてカビラ前大統領への制裁を発動した。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "コンゴ民主共和国、反政府勢力M23が東部主要都市を制圧",
-          "src": "Global News View",
-          "url": "https://globalnewsview.org/archives/20260502-congo",
-          "publishedAt": "2026-05-01T11:00:00Z"
+          "title": "コンゴ民主共和国東部でM23が勢力拡大、主要都市ゴマを占領",
+          "src": "JETRO",
+          "url": "https://www.jetro.go.jp/biznews/2026/05/drc-conflict-update.html",
+          "publishedAt": "2026-05-01T10:00:00Z"
+        },
+        {
+          "cat": "tension",
+          "title": "米国、コンゴ民主共和国のカビラ前大統領に制裁を発表",
+          "src": "DTM Digest",
+          "url": "https://dtmdigest.org/news/20260430-drc-sanctions",
+          "publishedAt": "2026-05-01T08:00:00Z"
         }
       ]
     },
     "250": {
       "name": "フランス",
-      "cat": "political",
-      "intensity": 0.8,
+      "cat": "economic",
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "メーデーデモ",
-        "経済停滞"
+        "EV推進",
+        "抗議デモ"
       ],
-      "summary": "メーデーに合わせた大規模抗議デモが発生。第1四半期GDPがゼロ成長に留まる中、米国の輸入車関税引き上げ表明が産業界を揺るがしている。",
+      "summary": "2030年までのEV比率向上ロードマップを発表。国内ではインフレに対するメーデーの抗議デモが発生し、経済成長はゼロ成長に鈍化。",
       "articles": [
         {
-          "cat": "political",
-          "title": "フランス全土で大規模なメーデー抗議デモ、賃上げ要求し数千人が行進",
-          "src": "YouTube (Breaking News)",
-          "url": "https://www.youtube.com/watch?v=france-mayday-2026",
-          "publishedAt": "2026-05-01T20:00:00Z"
+          "cat": "economic",
+          "title": "フランス政府、脱化石燃料ロードマップ発表。2030年までにEV比率2/3へ",
+          "src": "Sustainable Japan",
+          "url": "https://sustainablejapan.jp/2026/05/03/france-fossil-fuel-roadmap/98765",
+          "publishedAt": "2026-05-03T06:00:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "フランス第1四半期GDP成長率、前期比0.0％に鈍化",
+          "src": "JETRO",
+          "url": "https://www.jetro.go.jp/biznews/2026/05/france-gdp.html",
+          "publishedAt": "2026-05-01T14:00:00Z"
         }
       ]
     },
@@ -149,27 +198,34 @@
         "米軍撤退",
         "NATO"
       ],
-      "summary": "トランプ政権がドイツ駐留米軍5000人の削減を命令。ドイツ側の対イラン政策批判への報復と見られ、安全保障上の緊張が高まっている。",
+      "summary": "トランプ米政権が在独米軍5,000人以上の撤収を命令。ドイツ側の対イラン政策批判への報復とみられ、NATO内の亀裂が深まっている。",
       "articles": [
         {
           "cat": "tension",
-          "title": "米国、ドイツ駐留米軍5000人の撤退を発表 メルツ首相の批判に反発",
-          "src": "埼玉新聞 (共同)",
-          "url": "https://www.saitama-np.co.jp/articles/202605030830",
-          "publishedAt": "2026-05-02T23:30:00Z"
+          "title": "トランプ大統領、ドイツ駐留米軍の大幅削減を示唆",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260503-OYT1T50123/",
+          "publishedAt": "2026-05-03T17:35:00Z"
+        },
+        {
+          "cat": "tension",
+          "title": "ドイツ国防相、米軍5千人削減発表を受け「欧州独自の防衛強化」を表明",
+          "src": "埼玉新聞 (共同通信)",
+          "url": "https://www.saitama-np.co.jp/articles/20260502/1744",
+          "publishedAt": "2026-05-02T17:44:00Z"
         }
       ]
     },
     "356": {
       "name": "インド",
       "cat": "economic",
-      "intensity": 0.7,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
-        "IT投資",
+        "データセンター",
         "原子力"
       ],
-      "summary": "GST収入が過去最高を記録し、グーグルが巨大データセンターを起工。高速増殖原型炉の初臨界成功など、エネルギー自立への動きも加速。",
+      "summary": "グーグルが150億ドル規模のデータセンターを起工。高速増殖原型炉の初臨界成功など、経済成長とエネルギー自立の両面で進展が見られる。",
       "articles": [
         {
           "cat": "economic",
@@ -177,26 +233,40 @@
           "src": "ジェトロ",
           "url": "https://www.jetro.go.jp/biznews/2026/05/india-google-dc.html",
           "publishedAt": "2026-05-01T10:00:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "インドの高速増殖原型炉が初臨界に成功、エネルギー自立へ大きな一歩",
+          "src": "JST",
+          "url": "https://spap.jst.go.jp/india/news/202605/topic01.html",
+          "publishedAt": "2026-05-01T11:00:00Z"
         }
       ]
     },
     "364": {
       "name": "イラン",
-      "cat": "conflict",
-      "intensity": 1,
-      "pulse": true,
+      "cat": "tension",
+      "intensity": 0.9,
+      "pulse": false,
       "tags": [
-        "最高指導者死去",
-        "軍事衝突"
+        "停戦交渉",
+        "米軍対立"
       ],
-      "summary": "最高指導者ハメネイ師の死亡が報じられ、後継体制へ移行。トランプ米大統領はイランの停戦案を拒否し、攻撃再開を示唆する極限の緊張状態。",
+      "summary": "米国に対し戦闘終結に向けた14項目の新提案を行うも、トランプ大統領は拒否。国防総省による「焦土化作戦」の報告など軍事的緊張が続く。",
       "articles": [
         {
+          "cat": "tension",
+          "title": "イラン、アメリカに戦闘終結への新提案14項目を提示",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260503-OYT1T50089/",
+          "publishedAt": "2026-05-03T12:00:00Z"
+        },
+        {
           "cat": "conflict",
-          "title": "イラン最高指導者ハメネイ師が死亡 米イスラエルの攻撃で",
-          "src": "時事ドットコム",
-          "url": "https://www.jiji.com/jc/article?k=2026050200001",
-          "publishedAt": "2026-05-02T05:38:00Z"
+          "title": "トランプ大統領が握る「イラン焦土化」作戦、45分間の極秘報告の内容判明",
+          "src": "中央日報",
+          "url": "https://www.joins.com/article/202605021018",
+          "publishedAt": "2026-05-02T10:18:00Z"
         }
       ]
     },
@@ -206,10 +276,10 @@
       "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "ガザ戦闘再開",
-        "防空連携"
+        "ガザ戦闘",
+        "防空システム"
       ],
-      "summary": "ガザ地区での戦闘再開が協議され、レバノン国境でも攻撃が激化。対イラン包囲網としてUAEへの最新防空システム配備など軍事連携を強化。",
+      "summary": "ガザ地区での戦闘再開を協議。対イラン包囲網強化のため、UAEに最新の防空システムを配備するなど地域的な軍事連携を加速させている。",
       "articles": [
         {
           "cat": "conflict",
@@ -217,6 +287,13 @@
           "src": "KAB 熊本朝日放送",
           "url": "https://www.kab.co.jp/news/national/20260503-1246/",
           "publishedAt": "2026-05-03T12:46:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "イスラエル、対イラン防衛でUAEに最新防空システムを配備",
+          "src": "時事通信",
+          "url": "https://www.jiji.com/jc/article?k=2026050100856",
+          "publishedAt": "2026-05-01T19:14:00Z"
         }
       ]
     },
@@ -226,14 +303,21 @@
       "intensity": 0.65,
       "pulse": false,
       "tags": [
-        "外交",
+        "高市首相",
         "経済安保"
       ],
-      "summary": "高市首相がベトナムとオーストラリアを訪問。エネルギー支援やサプライチェーン強化、クアッドの枠組みでの安全保障連携を確認している。",
+      "summary": "高市首相がベトナムとオーストラリアを訪問。エネルギー支援やサプライチェーン強化を柱とする新たなインド太平洋方針を表明した。",
       "articles": [
         {
           "cat": "political",
-          "title": "高市首相、ベトナム首相と会談 原油調達支援で合意",
+          "title": "高市首相、オーストラリア訪問へ 安保協力を強化",
+          "src": "日テレNEWS",
+          "url": "https://news.ntv.co.jp/category/politics/20260503",
+          "publishedAt": "2026-05-03T05:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "高市総理、ベトナム首相と会談 原油調達支援で合意",
           "src": "時事ドットコム",
           "url": "https://www.jiji.com/jc/article?k=2026050201351",
           "publishedAt": "2026-05-02T13:51:00Z"
@@ -242,21 +326,28 @@
     },
     "408": {
       "name": "北朝鮮",
-      "cat": "tension",
+      "cat": "conflict",
       "intensity": 0.85,
-      "pulse": false,
+      "pulse": true,
       "tags": [
         "ロシア派遣",
-        "内部抗争"
+        "国内格差"
       ],
-      "summary": "ロシア派遣兵の戦死者が急増し国内に衝撃。外貨利権を巡る幹部間の内部抗争や、韓流ドラマ視聴による公開処刑など恐怖統制が続いている。",
+      "summary": "ロシア派遣兵の戦死者が想定を大幅に上回り国内に衝撃。平壌見学ツアーの再開により、地方住民の間で首都との格差への驚きが広がっている。",
       "articles": [
         {
-          "cat": "tension",
-          "title": "ロシア派遣の北朝鮮兵死者、想定の5倍で国内に衝撃",
-          "src": "デイリーNKジャパン",
-          "url": "https://dailynk.jp/archives/20260502",
-          "publishedAt": "2026-05-02T09:00:00Z"
+          "cat": "conflict",
+          "title": "ロシア派遣の北朝鮮兵、戦死者2000人超か、国内に衝撃広がる",
+          "src": "ライブドアニュース",
+          "url": "https://news.livedoor.com/article/detail/20260502-nk-soldiers/",
+          "publishedAt": "2026-05-02T05:47:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "北朝鮮で再開された平壌見学が波紋、地方住民が「別世界」と驚き",
+          "src": "デイリーNKジャパン (Livedoor)",
+          "url": "https://news.livedoor.com/article/detail/26345678/",
+          "publishedAt": "2026-05-03T06:53:00Z"
         }
       ]
     },
@@ -266,37 +357,51 @@
       "intensity": 0.7,
       "pulse": false,
       "tags": [
-        "半導体輸出",
-        "南北関係"
+        "輸出好調",
+        "南北呼称"
       ],
-      "summary": "半導体需要に支えられ4月の輸出が過去最高水準。政府は南北関係の打開に向け、北朝鮮の呼称を「朝鮮」に変更することを検討している。",
+      "summary": "半導体が牽引し4月の輸出が過去最高水準を記録。政府内では南北対話の模索として、北朝鮮の呼称を「朝鮮」に変更する検討が始まっている。",
       "articles": [
         {
           "cat": "economic",
-          "title": "韓国4月の輸出、半導体牽引で前年比48％増の859億ドル",
-          "src": "中央日報",
-          "url": "https://japanese.joins.com/JArticle/202605020928",
-          "publishedAt": "2026-05-02T09:28:00Z"
+          "title": "サムスン電子、半導体好調で第1四半期は大幅な増収増益",
+          "src": "ジェトロ (JETRO)",
+          "url": "https://www.jetro.go.jp/biznews/2026/05/192ed30ca2f0805c.html",
+          "publishedAt": "2026-05-01T15:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "韓国政府、北朝鮮の呼称を「朝鮮」に変更検討 南北対話模索か",
+          "src": "読売新聞",
+          "url": "https://www.yomiuri.co.jp/world/20260501-OYT1T50101/",
+          "publishedAt": "2026-05-01T14:00:00Z"
         }
       ]
     },
     "566": {
       "name": "ナイジェリア",
-      "cat": "political",
+      "cat": "economic",
       "intensity": 0.7,
       "pulse": false,
       "tags": [
         "エネルギー連携",
-        "AU議長"
+        "AU議長国"
       ],
-      "summary": "AU平和安全保障理事会の議長国に就任。日本からは自民・小林政調会長が訪問し、中東情勢を受けたエネルギー調達の多角化で一致した。",
+      "summary": "AU平和安全保障理事会の議長国に就任。中東情勢を受けたエネルギー多角化のため、日本の自民党政調会長と協力強化で一致した。",
       "articles": [
         {
-          "cat": "political",
-          "title": "自民・小林政調会長がナイジェリア訪問、エネルギー多角化で連携一致",
+          "cat": "economic",
+          "title": "自民・小林政調会長がナイジェリア訪問 エネルギー連携強化で一致",
           "src": "読売新聞",
-          "url": "https://www.yomiuri.co.jp/politics/20260501-OYT1T50123/",
-          "publishedAt": "2026-05-01T19:20:00Z"
+          "url": "https://www.yomiuri.co.jp/politics/20260501-OYT1T50244/",
+          "publishedAt": "2026-05-01T21:20:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "ナイジェリア、5月のAU平和安全保障理事会議長国に就任",
+          "src": "Vanguard News",
+          "url": "https://www.vanguardngr.com/2026/05/nigeria-au-psc/",
+          "publishedAt": "2026-05-01T08:00:00Z"
         }
       ]
     },
@@ -306,10 +411,10 @@
       "intensity": 0.8,
       "pulse": false,
       "tags": [
-        "外交仲介",
+        "仲介外交",
         "軍事強化"
       ],
-      "summary": "米イラン間の停戦仲介役を担う一方、中国から新型潜水艦や戦闘機を導入。アフガニスタンとの国境衝突も抱え、複雑な安保環境にある。",
+      "summary": "米イラン間の停戦仲介役として代表団を派遣。軍事面では中国製潜水艦の就役や最新鋭戦闘機の導入提案を受け、南アジアの軍事バランスが変化。",
       "articles": [
         {
           "cat": "political",
@@ -317,6 +422,13 @@
           "src": "JETRO / 時事通信",
           "url": "https://www.jetro.go.jp/biznews/2026/04/56789.html",
           "publishedAt": "2026-05-01T21:30:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "パキスタン、中国製ハンゴル級潜水艦の1番艦を就役、インド洋の均衡変化",
+          "src": "note",
+          "url": "https://note.com/takehiro/n/n20260502-pakistan-sub/",
+          "publishedAt": "2026-05-02T10:00:00Z"
         }
       ]
     },
@@ -329,47 +441,61 @@
         "ドローン攻撃",
         "製油所火災"
       ],
-      "summary": "ウクライナに対し過去最大規模の409機の無人機攻撃を実施。一方で国内の製油所が相次いでドローン攻撃を受け、輸出能力に打撃を被っている。",
+      "summary": "ウクライナに対し1日400機超の無人機攻撃を実施。一方で南部トゥアプセの製油所がドローン攻撃により炎上し、石油輸出能力に打撃を受けている。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "ロシア軍、ウクライナへ409機の無人機攻撃 過去最大規模",
-          "src": "ウクルインフォルム",
-          "url": "https://www.ukrinform.jp/rubric-ato/3850000-war.html",
+          "title": "ロシア軍、1日に409機の無人機でウクライナを攻撃",
+          "src": "Ukrinform Japan",
+          "url": "https://www.ukrinform.jp/rubric-ato/3858967-roshia-jun-ri-zhongniukurainao409-jino-wu-ren-ji-gong-ji.html",
           "publishedAt": "2026-05-01T16:28:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "ロシア南部トゥアプセの製油所で4回目の火災 ウクライナのドローン攻撃か",
+          "src": "KSBニュース",
+          "url": "https://news.ksb.co.jp/ann/article/12345",
+          "publishedAt": "2026-05-01T23:59:00Z"
         }
       ]
     },
     "682": {
       "name": "サウジアラビア",
       "cat": "economic",
-      "intensity": 0.75,
+      "intensity": 0.7,
       "pulse": false,
       "tags": [
         "GDP成長",
-        "石油施設警戒"
+        "ハッジ"
       ],
-      "summary": "非石油部門が牽引しGDPは2.8％成長。ハッジ準備が進む中、イランによる石油施設攻撃の示唆を受け、防衛体制の警戒を強めている。",
+      "summary": "非石油部門が牽引し第1四半期のGDPは2.8%成長。ハッジに向けた準備が進む中、イランによる石油施設への攻撃示唆に対し警戒を強めている。",
       "articles": [
         {
           "cat": "economic",
-          "title": "サウジアラビア第1四半期GDPは2.8%成長、非石油部門が牽引",
+          "title": "サウジアラビア、第1四半期のGDP成長率は2.8％、非石油部門が牽引",
+          "src": "ARAB NEWS Japan",
+          "url": "https://www.arabnews.jp/article/business/article_345678/",
+          "publishedAt": "2026-05-03T10:00:00Z"
+        },
+        {
+          "cat": "tension",
+          "title": "サウジアラビア、ハッジ2026に向け準備加速 石油施設への脅威も",
           "src": "Arab News Japan",
-          "url": "https://www.arabnews.jp/article/saudi-arabia/20260501-gdp",
-          "publishedAt": "2026-05-01T15:00:00Z"
+          "url": "https://www.arabnews.jp/article/saudi-arabia/article_234567/",
+          "publishedAt": "2026-05-02T09:05:00Z"
         }
       ]
     },
     "706": {
       "name": "ソマリア",
       "cat": "conflict",
-      "intensity": 0.9,
+      "intensity": 0.85,
       "pulse": true,
       "tags": [
         "海賊",
-        "テロ対策"
+        "AU理事国"
       ],
-      "summary": "アデン湾で石油タンカーが拿捕され、海賊行為の再燃が懸念。政府軍は過激派組織の重要拠点キスマユを奪還し、治安回復を急いでいる。",
+      "summary": "アデン湾で石油タンカーが拿捕されソマリアへ連行。国内では政府軍が過激派の重要拠点キスマユを奪還し、治安回復への転換点を迎えている。",
       "articles": [
         {
           "cat": "conflict",
@@ -377,6 +503,13 @@
           "src": "Vietnam.vn (日本語版)",
           "url": "https://www.vietnam.vn/ja/tau-cho-dau-bi-cuop-ngoai-khoi-yemen-bi-dieu-huong-ve-somalia/",
           "publishedAt": "2026-05-03T05:00:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "ソマリア暫定政府軍、南部キスマユの反政府勢力拠点を制圧",
+          "src": "AFPBB News",
+          "url": "https://www.afpbb.com/articles/-/20260501-somalia",
+          "publishedAt": "2026-05-01T18:00:00Z"
         }
       ]
     },
@@ -389,14 +522,21 @@
         "内戦",
         "飢餓"
       ],
-      "summary": "紛争開始から4年目に入り、避難民は1300万人を突破。国際社会の関心が薄れる中、世界最大規模の人道危機と飢餓が深刻化している。",
+      "summary": "内戦が4年目に突入し、避難民は1400万人を突破。世界最大規模の人道危機が続く中、国際社会の関心が薄い「忘れられた危機」となっている。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "スーダン紛争が4年目に突入、人道危機は世界最悪レベル",
-          "src": "時事通信",
-          "url": "https://www.jiji.com/jc/article?k=2026050100456",
-          "publishedAt": "2026-05-01T10:00:00Z"
+          "title": "スーダン内戦が4年目に突入、1400万人が避難する「見捨てられた危機」",
+          "src": "ARAB NEWS Japan",
+          "url": "https://www.arabnews.jp/article/middle-east/article_456789/",
+          "publishedAt": "2026-05-02T09:00:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "スーダン内戦3年、金資源を巡る近隣国の介入で泥沼化",
+          "src": "時事ドットコム",
+          "url": "https://www.jiji.com/jc/article?k=2026041500345",
+          "publishedAt": "2026-05-01T08:02:00Z"
         }
       ]
     },
@@ -407,9 +547,9 @@
       "pulse": false,
       "tags": [
         "政権移行",
-        "麻薬掃討"
+        "サウジ訪問"
       ],
-      "summary": "アサド政権崩壊後の新指導者がサウジと会談。戦後再建を協議する一方、ヨルダン軍による麻薬倉庫への空爆が行われるなど不安定な状況。",
+      "summary": "アサド政権崩壊後の移行政府がサウジと経済連携を協議。ヨルダン軍による麻薬拠点空爆など、戦後の治安維持と経済再建が急務となっている。",
       "articles": [
         {
           "cat": "political",
@@ -417,26 +557,40 @@
           "src": "アラブニュース",
           "url": "https://www.arabnews.jp/article/syria/20260503/",
           "publishedAt": "2026-05-03T01:00:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "ヨルダン軍、シリア南部の麻薬・武器倉庫を空爆",
+          "src": "Arab News Japan",
+          "url": "https://www.arabnews.jp/article/middle-east/article_20260503/",
+          "publishedAt": "2026-05-03T02:05:00Z"
         }
       ]
     },
     "792": {
       "name": "トルコ",
       "cat": "economic",
-      "intensity": 0.8,
+      "intensity": 0.75,
       "pulse": false,
       "tags": [
         "インフレ",
-        "成長予測下方修正"
+        "成長下方修正"
       ],
-      "summary": "4月のインフレ率が31％超となる見通し。中東紛争の長期化を受け、JPモルガンが2026年の成長率予測を3.4％に引き下げた。",
+      "summary": "4月のインフレ率が31%超の見通し。中東紛争による経済活動の停滞を受け、JPモルガンが2026年の成長率予測を3.4%に下方修正した。",
       "articles": [
         {
           "cat": "economic",
-          "title": "JPモルガン、トルコの2026年成長率予測を3.4%に下方修正",
+          "title": "JPモルガン、中東紛争を理由にトルコの2026年成長率予測を引き下げ",
           "src": "Investing.com",
-          "url": "https://jp.investing.com/news/economy/article-20260501",
+          "url": "https://jp.investing.com/news/economy/article-678901",
           "publishedAt": "2026-05-01T18:26:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "トルコ、4月のインフレ率は31％超の見通し、中銀の追加利上げ観測強まる",
+          "src": "外為どっとコム",
+          "url": "https://www.gaitame.com/media/entry/2026/05/01/turkey-cpi",
+          "publishedAt": "2026-05-01T18:45:00Z"
         }
       ]
     },
@@ -447,15 +601,22 @@
       "pulse": true,
       "tags": [
         "防空戦",
-        "反撃"
+        "影の船団"
       ],
-      "summary": "ロシアによる過去最大級のドローン攻撃を多く撃墜。ロシア国内の製油所へのドローン反撃も継続し、経済回路の遮断を狙っている。",
+      "summary": "ロシアによる過去最大級の無人機攻撃を防空システムで応戦。ロシアの制裁逃れ「影の船団」への攻撃も実施し、経済回路の遮断を狙っている。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "ロシア軍、5月1日にウクライナへ409機の無人機で大規模攻撃",
+          "title": "ウクライナ、ロシアの「影の船団」船舶2隻を攻撃",
+          "src": "ウクルインフォルム通信",
+          "url": "https://www.ukrinform.jp/rubric-ato/3859000-ukuraina-lu-nobuoroshisuku-gang-jin-haide-roshiano-yingno-chuan-tuanno-chuan-bo-ji-wo-gong-ji.html",
+          "publishedAt": "2026-05-03T11:28:00Z"
+        },
+        {
+          "cat": "conflict",
+          "title": "ロシア軍、5月1日にウクライナを409機の無人機で攻撃、防空戦が激化",
           "src": "ウクルインフォルム",
-          "url": "https://www.ukrinform.jp/rubric-ato/20260501-409-drones.html",
+          "url": "https://www.ukrinform.jp/rubric-ato/20260501-russia-drone-attack.html",
           "publishedAt": "2026-05-01T16:28:00Z"
         }
       ]
@@ -463,33 +624,40 @@
     "826": {
       "name": "イギリス",
       "cat": "tension",
-      "intensity": 0.85,
+      "intensity": 0.8,
       "pulse": false,
       "tags": [
         "テロ警戒",
         "金利据え置き"
       ],
-      "summary": "ロンドンでの殺傷事件を受けテロ警戒レベルを「深刻」に引き上げ。英中銀はインフレ懸念から金利を3.75%で据え置く決定を下した。",
+      "summary": "ロンドンでの殺傷事件を受けテロ警戒レベルを「深刻」に引き上げ。英中銀はインフレ再燃リスクを警戒し、政策金利を3.75%で据え置いた。",
       "articles": [
         {
           "cat": "tension",
-          "title": "イギリス、テロ警戒レベルを「深刻」に引き上げ ロンドン殺傷事件受け",
+          "title": "イギリス、テロ警戒レベルを「深刻」に引き上げ ロンドンでの事件受け",
           "src": "FNNプライムオンライン",
           "url": "https://www.fnn.jp/articles/-/2026050101",
           "publishedAt": "2026-05-01T08:08:00Z"
+        },
+        {
+          "cat": "economic",
+          "title": "英中銀、政策金利を3.75%で据え置き",
+          "src": "YouTube (Trust TV)",
+          "url": "https://www.youtube.com/watch?v=UKNews2026",
+          "publishedAt": "2026-05-02T10:00:00Z"
         }
       ]
     },
     "840": {
-      "name": "アメリカ合衆国",
+      "name": "アメリカ",
       "cat": "tension",
       "intensity": 0.85,
       "pulse": false,
       "tags": [
-        "対イラン強硬",
+        "トランプ外交",
         "貿易摩擦"
       ],
-      "summary": "トランプ大統領がイランの和平案を拒否し強硬姿勢を維持。EU産車両への関税25％発動を示唆するなど、貿易摩擦の再燃も懸念される。",
+      "summary": "トランプ大統領がイランの新提案を拒否。EU産車両への25%関税発動を示唆するなど、強硬な外交・通商政策が国際秩序に波紋を広げている。",
       "articles": [
         {
           "cat": "tension",
@@ -497,19 +665,26 @@
           "src": "FNNプライムオンライン",
           "url": "https://www.fnn.jp/articles/-/693400",
           "publishedAt": "2026-05-02T18:21:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "トランプ大統領「EU産車両に関税25％」来週発動を示唆、貿易摩擦再燃",
+          "src": "中央日報",
+          "url": "https://www.joins.com/article/202605021324",
+          "publishedAt": "2026-05-02T13:24:00Z"
         }
       ]
     },
     "862": {
       "name": "ベネズエラ",
       "cat": "conflict",
-      "intensity": 0.9,
+      "intensity": 0.95,
       "pulse": true,
       "tags": [
-        "政権崩壊",
-        "直行便再開"
+        "マドゥロ拘束",
+        "関係正常化"
       ],
-      "summary": "米軍の軍事作戦によりマドゥロ氏が拘束され、暫定政権が発足。米国との直行便が7年ぶりに再開されるなど、関係正常化に向けた動きが急進。",
+      "summary": "米軍によるマドゥロ大統領拘束を受け、暫定政権下で米国との直行便が7年ぶりに再開。外交・経済関係の急速な修復が進んでいる。",
       "articles": [
         {
           "cat": "conflict",
@@ -517,73 +692,87 @@
           "src": "JETRO / 日テレNEWS",
           "url": "https://www.jetro.go.jp/biznews/2026/01/venezuela-maduro.html",
           "publishedAt": "2026-05-01T10:00:00Z"
+        },
+        {
+          "cat": "political",
+          "title": "米国・ベネズエラ間の直行便が7年ぶりに再開、外交関係回復へ",
+          "src": "TBS NEWS DIG",
+          "url": "https://newsdig.tbs.co.jp/articles/-/20260501-venezuela-flights",
+          "publishedAt": "2026-05-01T07:18:00Z"
         }
       ]
     },
     "887": {
       "name": "イエメン",
       "cat": "conflict",
-      "intensity": 0.95,
+      "intensity": 0.9,
       "pulse": true,
       "tags": [
-        "紅海封鎖",
-        "空爆"
+        "空爆",
+        "紅海封鎖"
       ],
-      "summary": "フーシ派によるタンカー拿捕と米軍による石油港空爆が激化。南部分離派の崩壊やコレラ流行も重なり、複合的な危機に直面している。",
+      "summary": "米軍がフーシ派拠点の石油港を空爆。紅海でのタンカー拿捕も続いており、サプライチェーンの分断と国内のコレラ流行が深刻な課題となっている。",
       "articles": [
         {
           "cat": "conflict",
-          "title": "イエメン沖でタンカーが再び拿捕、フーシ派と米軍の衝突が激化",
-          "src": "防衛研究所 / SSRI",
-          "url": "https://www.mod.go.jp/nids/publication/commentary/pdf/commentary413.pdf",
-          "publishedAt": "2026-05-02T12:00:00Z"
+          "title": "イエメン、米軍がフーシ派拠点の港を空爆 コレラ対策プロジェクトも進行",
+          "src": "SSRI / Arab News Japan",
+          "url": "https://www.arabnews.jp/article/middle-east/yemen/article_445566/",
+          "publishedAt": "2026-05-01T02:00:00Z"
+        },
+        {
+          "cat": "tension",
+          "title": "フーシ派による紅海封鎖が継続、世界経済への影響深刻化",
+          "src": "田中宇の国際ニュース解説 / VOV",
+          "url": "https://tanakanews.com/260426iran.htm",
+          "publishedAt": "2026-05-01T09:00:00Z"
         }
       ]
     }
   },
   "ticker": [
-    "イラン最高指導者ハメネイ師が死亡、米イスラエル軍の攻撃か",
-    "ドイツ駐留米軍5000人の撤退をトランプ政権が命令、NATOに衝撃",
-    "ロシア軍がウクライナへ409機の無人機攻撃、過去最大規模の波状攻撃",
-    "イギリス政府、ロンドン殺傷事件を受けテロ警戒レベルを「深刻」に引き上げ",
-    "ベネズエラのマドゥロ大統領を米軍が拘束、暫定政権へ移行",
-    "アフガニスタンとパキスタンが国境衝突、死者380人超の惨事",
-    "コンゴ民主共和国、反政府勢力M23が東部要衝ゴマを制圧",
-    "スーダン紛争が4年目に突入、避難民1300万人超の世界最悪の人道危機",
-    "中国、アフリカ53カ国への「ゼロ関税」措置を全面的に開始",
-    "ブラジル中央銀行、国際決済での仮想通貨利用を10月から禁止",
-    "高市首相がベトナム訪問、エネルギー安全保障協力で一致",
-    "インドの高速増殖原型炉が初臨界に成功、エネルギー自立へ前進"
+    "米軍がベネズエラのマドゥロ大統領を拘束、暫定政権へ移行",
+    "トランプ大統領、イランの14項目停戦案を「不満足」として拒否",
+    "在独米軍5,000人以上が撤収へ、NATO内の緊張高まる",
+    "ロシア軍がウクライナへ過去最大規模409機のドローン攻撃",
+    "スーダン内戦が4年目に突入、避難民1400万人超の人道危機",
+    "コンゴ民主共和国、反政府勢力M23が東部の要衝ゴマを制圧",
+    "中国、アフリカ全53カ国へのゼロ関税措置を5月1日より開始",
+    "イギリス、テロ警戒レベルを「深刻」に引き上げ、警備強化",
+    "インド、高速増殖原型炉が初臨界に成功、エネルギー自立へ前進",
+    "ブラジル中央銀行、国際決済での仮想通貨利用を全面的に禁止",
+    "アフガニスタン・パキスタン国境で大規模衝突、死者380人超か",
+    "高市首相、ベトナムでサプライチェーン強化の新ドクトリン表明"
   ],
   "hot": [
     {
       "cat": "conflict",
-      "text": "イラン最高指導者ハメネイ師が死亡、トランプ氏は停戦案を拒否し攻撃継続を示唆",
-      "country": "イラン",
-      "src": "時事ドットコム",
-      "publishedAt": "2026-05-02T05:38:00Z"
-    },
-    {
-      "cat": "tension",
-      "text": "トランプ政権がドイツ駐留米軍5000人の削減を命令、対イラン政策批判への報復か",
-      "country": "ドイツ",
-      "src": "埼玉新聞 (共同)",
-      "publishedAt": "2026-05-02T23:30:00Z"
+      "text": "スーダン内戦が4年目に突入、人口の4分の1が避難する世界最悪の人道危機が継続",
+      "country": "スーダン",
+      "src": "ARAB NEWS Japan",
+      "publishedAt": "2026-05-02T09:00:00Z"
     },
     {
       "cat": "political",
-      "text": "米軍がベネズエラのマドゥロ大統領を拘束、副大統領が代行就任し米国との直行便再開",
+      "text": "米軍がベネズエラのマドゥロ大統領を拘束、中南米の地政学バランスが激変",
       "country": "ベネズエラ",
-      "src": "JETRO / 日テレNEWS",
+      "src": "JETRO",
       "publishedAt": "2026-05-01T10:00:00Z"
     },
     {
+      "cat": "tension",
+      "text": "トランプ大統領、イランの停戦提案を拒否し「焦土化作戦」の検討を継続",
+      "country": "イラン",
+      "src": "読売新聞",
+      "publishedAt": "2026-05-03T12:00:00Z"
+    },
+    {
       "cat": "economic",
-      "text": "中国がアフリカ53カ国に対し無関税措置を開始、グローバルサウスでの影響力拡大",
+      "text": "中国がアフリカ全土にゼロ関税措置を適用、第15次5カ年計画の経済外交が始動",
       "country": "中国",
       "src": "CRI (中国国際放送)",
       "publishedAt": "2026-05-01T15:00:00Z"
     }
   ],
-  "updatedAt": "2026-05-03T10:01:02.613Z"
+  "updatedAt": "2026-05-03T12:52:08.190Z"
 }
