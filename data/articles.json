@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "countryCode": "826",
-      "cat": "economic",
-      "title": "英中銀ベイリー総裁、中東紛争の長期化が英国経済に深刻な影響と警告",
-      "src": "ライブドアニュース (みんかぶFX)",
-      "url": "https://news.livedoor.com/article/detail/20260430-bailey-boe/",
-      "publishedAt": "2026-04-30T20:48:00Z",
-      "snippet": "イングランド銀行のベイリー総裁は、ホルムズ海峡の封鎖を含む中東情勢の緊迫化が長引くほど、英国のインフレと景気への打撃が深刻になるとの見解を示した。",
-      "collectedAt": "2026-04-30T19:07:56.095Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "economic",
-      "title": "サウジアラビアは依然として日本の主要石油供給国 3月輸入の52％占める",
-      "src": "Arab News Japan",
-      "url": "https://www.arabnews.jp/article/business/article_125678/",
-      "publishedAt": "2026-04-30T21:00:00Z",
-      "snippet": "ホルムズ海峡の緊張が続く中、日本のサウジ産原油への依存度が過去最高水準を維持。高市政権はエネルギー安全保障のため中東諸国との連携を強化している。",
-      "collectedAt": "2026-04-30T21:51:06.790Z"
-    },
-    {
       "countryCode": "76",
       "cat": "political",
       "title": "ブラジル前大統領、刑期の大幅短縮が決定",
@@ -208,16 +188,6 @@
       "url": "https://www.jiji.com/jc/article?k=2026050100789",
       "publishedAt": "2026-05-01T12:00:00Z",
       "snippet": "連邦議会は、服役中のボルソナロ前大統領の刑期を大幅に短縮する法案を最終可決。10月の大統領選を前にルラ政権にとって大きな政治的打撃となる。",
-      "collectedAt": "2026-05-01T15:49:31.755Z"
-    },
-    {
-      "countryCode": "104",
-      "cat": "political",
-      "title": "ミャンマー軍政、スーチー氏を刑務所から住居軟禁に移送",
-      "src": "時事通信",
-      "url": "https://www.jiji.com/jc/article?k=2026043000123",
-      "publishedAt": "2026-04-30T21:00:00Z",
-      "snippet": "2021年のクーデター以降拘束されていたアウンサンスーチー氏が、恩赦の一環として指定住居での軟禁に切り替えられた。国際社会の批判を和らげる狙い。",
       "collectedAt": "2026-05-01T15:49:31.755Z"
     },
     {
@@ -628,16 +598,6 @@
       "url": "https://www.jiji.com/jc/article?k=2026050100914",
       "publishedAt": "2026-05-01T19:14:00Z",
       "snippet": "イランとの紛争を受け、イスラエルはUAEの防空体制を支援。中東地域での対イラン包囲網を強化している。",
-      "collectedAt": "2026-05-01T21:44:37.626Z"
-    },
-    {
-      "countryCode": "392",
-      "cat": "political",
-      "title": "高市首相、ナフサ供給「年明けまで継続可能」 見通し示す",
-      "src": "読売新聞",
-      "url": "https://www.yomiuri.co.jp/politics/20260430-OYT1T50123/",
-      "publishedAt": "2026-04-30T21:00:00Z",
-      "snippet": "高市早苗首相は、中東情勢悪化によるエネルギー供給不安に対し、調達先の多角化により国内供給を維持できるとの見解を述べた。",
       "collectedAt": "2026-05-01T21:44:37.626Z"
     },
     {
@@ -1538,16 +1498,6 @@
       "url": "https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_052.html",
       "publishedAt": "2026-05-01T10:00:00Z",
       "snippet": "シリア北東部やイラク国境付近でのクルド系武装組織との衝突が散発的に発生。トルコ当局は引き続き高い警戒レベルを維持している。",
-      "collectedAt": "2026-05-02T12:51:37.384Z"
-    },
-    {
-      "countryCode": "826",
-      "cat": "tension",
-      "title": "イギリス、テロ警戒レベルを「深刻」に引き上げ ロンドンでの殺傷事件受け",
-      "src": "FNNプライムオンライン",
-      "url": "https://www.fnn.jp/articles/-/693456",
-      "publishedAt": "2026-04-30T21:00:00Z",
-      "snippet": "ロンドン北部でユダヤ系住民を狙ったとみられる刺傷事件が発生。これを受け、英政府はテロ警戒レベルを5段階中2番目の「深刻」に引き上げた。",
       "collectedAt": "2026-05-02T12:51:37.384Z"
     },
     {
@@ -2739,7 +2689,237 @@
       "publishedAt": "2026-05-02T12:00:00Z",
       "snippet": "トランプ大統領は、イランが提示した戦闘終結に向けた新提案について「私が同意できないことを要求している」と述べ、拒否した。戦争権限法の期限を迎える中、イランへの再攻撃も選択肢から排除しない構えだ。",
       "collectedAt": "2026-05-03T18:45:55.523Z"
+    },
+    {
+      "countryCode": "4",
+      "cat": "tension",
+      "title": "日本、サウジのエネルギー施設攻撃を非難 アフガン情勢も注視",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/japan/article_123456/",
+      "publishedAt": "2026-05-03T10:00:00Z",
+      "snippet": "日本政府はサウジアラビアのエネルギー施設への攻撃を非難し、犠牲者に哀悼の意を表明。アフガニスタンを巡る地域情勢の安定化に向けた協力を確認した。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "32",
+      "cat": "economic",
+      "title": "アルゼンチン、RWAトークン化規制の改善案を提出",
+      "src": "PANews",
+      "url": "https://www.panewslab.com/ja/articledetails/1137.html",
+      "publishedAt": "2026-05-03T09:00:00Z",
+      "snippet": "アルゼンチン国家証券委員会（CNV）は、リスク加重資産（RWA）のトークン化に関する規制改善案を提出。分散型台帳技術を用いた金融商品の範囲拡大を目指す。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "76",
+      "cat": "political",
+      "title": "ブラジルなど進歩派指導者がバルセロナで国際会合を開催",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/meeting_barcelona.html",
+      "publishedAt": "2026-05-01T15:00:00Z",
+      "snippet": "ブラジルやメキシコ、スペインの進歩派指導者がバルセロナに集結。中東情勢の影響や民主主義の防衛について協議を行った。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "104",
+      "cat": "political",
+      "title": "スー・チー氏、自宅軟禁へ移行 新政権が国際社会へアピールか",
+      "src": "ミャンマーニュース",
+      "url": "http://www.myanmar-news.asia/news_abc123",
+      "publishedAt": "2026-05-02T17:30:00Z",
+      "snippet": "ミャンマー軍事政権はアウンサンスーチー氏を刑務所から自宅軟禁へ移行させたと発表。国際的な批判をかわす狙いがあるとみられる。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "250",
+      "cat": "economic",
+      "title": "フランス政府、脱化石燃料ロードマップを発表 2030年にEV比率2/3へ",
+      "src": "Sustainable Japan",
+      "url": "https://sustainablejapan.jp/2026/05/03/france-ev-roadmap/12345",
+      "publishedAt": "2026-05-03T08:00:00Z",
+      "snippet": "フランス政府は脱化石燃料会議を開催し、2030年までに新車販売のEV比率を3分の2に引き上げる野心的なロードマップを公表した。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "276",
+      "cat": "political",
+      "title": "トランプ米大統領、在独米軍の「大幅削減」を表明 欧州に懸念広がる",
+      "src": "時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026050300118",
+      "publishedAt": "2026-05-03T11:18:00Z",
+      "snippet": "トランプ大統領はドイツに駐留する米軍部隊を大幅に削減する方針を固めた。ドイツ国防相は欧州自らの防衛責任を強調している。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "356",
+      "cat": "economic",
+      "title": "グーグル、インド・バイザッグで最大規模のデータセンター起工",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/india_google_dc.html",
+      "publishedAt": "2026-05-01T10:00:00Z",
+      "snippet": "米グーグルはインド南部で150億ドル規模のデータセンター建設を開始。アダニ・グループ等と連携し、アジア最大のAIハブを目指す。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "364",
+      "cat": "conflict",
+      "title": "イラン、米国に14項目の和平提案 交渉期限を30日と設定",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260503_iran_proposal",
+      "publishedAt": "2026-05-03T18:08:00Z",
+      "snippet": "イランは海上封鎖解除や米軍撤退を含む14項目の戦闘終結案を提示。「ボールは米国側にある」として30日以内の解決を迫った。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "376",
+      "cat": "conflict",
+      "title": "イスラエル軍、数日中にガザでの戦争再開を予測 準備進める",
+      "src": "オリーブ山通信",
+      "url": "https://mtolive.net/news_20260501/",
+      "publishedAt": "2026-05-01T09:00:00Z",
+      "snippet": "イスラエル軍は停戦期間の終了に伴い、数日中に戦闘を再開する準備を整えた。米国から大量の武器弾薬が到着したと報じられている。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "392",
+      "cat": "political",
+      "title": "高市首相、ベトナムで新外交方針「FOIP」を表明 経済安保強化へ",
+      "src": "note (MIA)",
+      "url": "https://note.com/mia_news/n/n20260503",
+      "publishedAt": "2026-05-03T18:15:00Z",
+      "snippet": "高市首相はハノイで「自由で開かれたインド太平洋」の深化を表明。中国を念頭にサプライチェーンの強靭化と法の支配を訴えた。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "408",
+      "cat": "political",
+      "title": "北朝鮮、地方住民の平壌見学を再開 内部統制強化の狙いか",
+      "src": "デイリーNKジャパン",
+      "url": "https://news.livedoor.com/article/detail/20260503_nk/",
+      "publishedAt": "2026-05-03T06:53:00Z",
+      "snippet": "北朝鮮当局は中断していた地方住民の平壌招待見学を再開。忠誠心の向上を図る一方、外貨稼ぎを巡る幹部間の利権争いも表面化している。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "410",
+      "cat": "political",
+      "title": "韓国・イラン外相が電話会談 ホルムズ海峡の安全通航を要請",
+      "src": "中央日報",
+      "url": "https://japanese.joins.com/JArticle/202605030850",
+      "publishedAt": "2026-05-03T08:50:00Z",
+      "snippet": "韓国の趙長官はイラン外相と会談し、中東情勢の緊迫化に伴う韓国船舶の安全確保を強く求めた。イラン側は通行料の支払いを要求している。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "566",
+      "cat": "economic",
+      "title": "自民・小林政調会長がナイジェリア訪問 エネルギー連携で一致",
+      "src": "読売新聞",
+      "url": "https://news.livedoor.com/article/detail/20260501_nigeria/",
+      "publishedAt": "2026-05-01T19:23:00Z",
+      "snippet": "自民党の小林鷹之政調会長がアブジャを訪問。中東情勢悪化を受け、石油製品の調達多角化に向けてナイジェリアとの協力強化で合意した。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "586",
+      "cat": "conflict",
+      "title": "パキスタン軍、アフガン首都近郊を空爆 報復の応酬激化",
+      "src": "AFPBB News",
+      "url": "https://www.afpbb.com/articles/-/20260501_pak_afg",
+      "publishedAt": "2026-05-01T14:00:00Z",
+      "snippet": "パキスタンはタリバンとの「全面戦争」を宣言し、アフガニスタン領内を夜間空爆。双方で子どもを含む多数の死傷者が出ている。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "643",
+      "cat": "economic",
+      "title": "ロシア中銀、政策金利を14.5％に引き下げ インフレ上振れリスク警戒",
+      "src": "JETRO",
+      "url": "https://www.jetro.go.jp/biznews/2026/05/russia_rate_cut.html",
+      "publishedAt": "2026-05-01T18:00:00Z",
+      "snippet": "ロシア中央銀行は主要政策金利を15.0％から14.5％へ引き下げた。中東情勢による原油高の影響を注視しつつ、景気の下支えを図る。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "682",
+      "cat": "economic",
+      "title": "サウジアラビア、観光業が世界平均の2倍で急成長 NEOM投資加速",
+      "src": "Arigatrip",
+      "url": "https://arigatrip.net/news/saudi-tourism-2026/",
+      "publishedAt": "2026-05-03T07:00:00Z",
+      "snippet": "「ビジョン2030」の下、サウジアラビアの観光業が驚異的な成長を記録。未来都市NEOMへの大規模投資とビザ緩和が奏功している。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "706",
+      "cat": "tension",
+      "title": "ソマリア海賊が再燃、1週間で3隻の船を拿捕 中東紛争が隙に",
+      "src": "Lao Dong",
+      "url": "https://laodong.vn/world/piracy-somalia-2026-103401",
+      "publishedAt": "2026-05-03T09:14:00Z",
+      "snippet": "ホルムズ海峡の緊張で海軍部隊が分散した隙を突き、ソマリア沖で海賊行為が急増。過去2週間で4件のハイジャックが発生している。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "760",
+      "cat": "political",
+      "title": "シリア暫定政権、イランの影響力排除へ 湾岸諸国との絆深める",
+      "src": "Arab News Japan",
+      "url": "https://www.arabnews.jp/article/middle-east/article_syria_2026/",
+      "publishedAt": "2026-05-03T02:05:00Z",
+      "snippet": "アサド政権崩壊後のシリア暫定政府は、イラン革命防衛隊のネットワーク解体に着手。サウジアラビア等の支援を受け国際社会復帰を目指す。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "792",
+      "cat": "political",
+      "title": "トルコ、15歳未満のSNS利用禁止へ 学校銃乱射事件受け規制強化",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260504_turkey_sns",
+      "publishedAt": "2026-05-03T21:29:00Z",
+      "snippet": "エルドアン大統領はSNSを「下水道」と批判。未成年者の過激化を防ぐため、15歳未満の利用禁止と厳格な年齢確認を義務付ける方針。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "804",
+      "cat": "conflict",
+      "title": "ロシア軍、ウクライナを409機の無人機で攻撃 過去最大規模",
+      "src": "ウクルインフォルム",
+      "url": "https://www.ukrinform.jp/rubric-ato/3888888-russia-drone-attack.html",
+      "publishedAt": "2026-05-01T16:28:00Z",
+      "snippet": "ロシア軍は1日、シャヘド型など計409機の無人機でウクライナ全土を攻撃。ウクライナ側は388機を撃墜したと発表した。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "826",
+      "cat": "tension",
+      "title": "イギリス、テロ警戒レベルを「深刻」に引き上げ ロンドン刺傷事件受け",
+      "src": "TRAICY",
+      "url": "https://www.traicy.com/posts/20260502300000/",
+      "publishedAt": "2026-05-02T21:32:00Z",
+      "snippet": "ロンドンでのユダヤ系住民襲撃事件を受け、英政府はテロ脅威レベルを5段階中2番目の「深刻」に引き上げ。攻撃の可能性が非常に高いと警告。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "840",
+      "cat": "political",
+      "title": "トランプ大統領、イランの新提案を拒否 「代償が不十分」",
+      "src": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/20260503_trump_iran",
+      "publishedAt": "2026-05-03T15:56:00Z",
+      "snippet": "トランプ氏はイランの14項目の和平案に対し「満足していない」と拒絶。不適切な行動があれば攻撃再開も排除しないと強調した。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
+    },
+    {
+      "countryCode": "887",
+      "cat": "tension",
+      "title": "イエメン沖で石油タンカーがハイジャック ソマリア方面へ曳航",
+      "src": "BBC (KGGブログ引用)",
+      "url": "https://ameblo.jp/kgg-blog/entry-12345678.html",
+      "publishedAt": "2026-05-03T06:17:00Z",
+      "snippet": "アデン湾でトーゴ船籍のタンカーが武装集団に襲撃・拿捕された。イラン紛争に伴う海上警備の空白を突いた海賊行為とみられる。",
+      "collectedAt": "2026-05-03T21:34:56.763Z"
     }
   ],
-  "updatedAt": "2026-05-03T18:45:55.523Z"
+  "updatedAt": "2026-05-03T21:34:56.763Z"
 }
